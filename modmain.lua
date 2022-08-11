@@ -1,0 +1,193 @@
+_G = GLOBAL
+STRINGS = _G.STRINGS
+
+modimport("scripts/spanishstrings.lua")
+
+STRINGS.UI.OPTIONS.DEFAULT 	= STRINGS.UI.OPTIONS.DEFAULT_ES
+STRINGS.UI.OPTIONS.DIM 		= STRINGS.UI.OPTIONS.DIM_ES
+STRINGS.UI.OPTIONS.DIMMEST 	= STRINGS.UI.OPTIONS.DIMMEST_ES
+STRINGS.UI.OPTIONS.ENABLED 	= STRINGS.UI.OPTIONS.ENABLED_ES
+STRINGS.UI.OPTIONS.DISABLED = STRINGS.UI.OPTIONS.DISABLED_ES
+
+local translationFile = GetModConfigData("translationFile")
+
+if translationFile == "ES" then
+	LoadPOFile("translationfiles/spanish_es.po", "es")
+elseif translationFile == "MX" then
+	LoadPOFile("translationfiles/spanish_mx.po", "es")
+else
+	LoadPOFile("translationfiles/spanish_so.po", "es")
+end
+
+-- Characters not added to any gender table.
+-- Personajes a los que al parecer no se les asignó ningún género.
+table.insert(_G.CHARACTER_GENDERS.FEMALE, "wilba")
+table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
+
+_G.Set = function(list)
+	local set = {}
+	for _, v in pairs(list) do set[v] = true end
+	return set
+end
+
+local Set = _G.Set
+CHARACTER_GENDERS =
+{
+	MALE = Set(_G.CHARACTER_GENDERS.MALE),
+	FEMALE = Set(_G.CHARACTER_GENDERS.FEMALE),
+	ROBOT = Set(_G.CHARACTER_GENDERS.ROBOT),
+}
+
+GetPlayer = _G.GetPlayer
+dialogueGender = GetModConfigData("dialogueGender")
+
+local function importStrings()
+	local playerPrefab = GetPlayer().prefab
+
+	if dialogueGender == "auto" then
+		if not CHARACTER_GENDERS.MALE[playerPrefab] then
+			if CHARACTER_GENDERS.FEMALE[playerPrefab] then
+				modimport("scripts/femalestrings.lua")
+			else
+				modimport("scripts/robotstrings.lua")
+			end
+		end
+	elseif dialogueGender == "female" then
+		modimport("scripts/femalestrings.lua")
+	elseif dialogueGender == "robot" then
+		modimport("scripts/robotstrings.lua")
+	end
+end
+
+local function setWormwoodFont()
+	local talkingWormwood = GetModConfigData("talkingWormwood")
+
+	if talkingWormwood == "normalFont" and GetPlayer().components.talker then
+		GetPlayer().components.talker.font = TALKINGFONT
+		GetPlayer().components.talker.colour = _G.Vector3(1, 1, 1, 1)
+	end
+end
+
+local function translateWebberStrings()
+	STRINGS.RECIPE_DESC.SPIDEREGGSACK 	= STRINGS.RECIPE_DESC.SPIDEREGGSACK_ES
+	STRINGS.UI.GENDERSTRINGS.ROBOT.ONE 	= STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
+	STRINGS.UI.ENDGAME.BODY2 			= STRINGS.UI.ENDGAME.BODY2_ES
+end
+
+USE_PREFIX = _G.USE_PREFIX
+
+local function enableSUffixes()
+	for _, v in pairs(STRINGS.WET_PREFIX.MALE) do
+		if type(v) == "table" then
+			for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
+		elseif type(v) == "string" then USE_PREFIX[v] = false end
+	end
+
+	for _, v in pairs(STRINGS.WET_PREFIX.FEMALE) do
+		if type(v) == "table" then
+			for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
+		elseif type(v) == "string" then USE_PREFIX[v] = false end
+	end
+end
+
+local function modPostInit(player)
+	enableSUffixes()
+	USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
+	USE_PREFIX[STRINGS.MYSTERIOUS] = false
+	USE_PREFIX[STRINGS.FLOODEDITEM] = false
+
+	USE_PREFIX[STRINGS.WET_PREFIX.RABBITHOLE] = false
+	USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
+	USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
+
+	importStrings()
+
+	if player.prefab == "wormwood" then setWormwoodFont() end
+	if player.prefab == "webber" then translateWebberStrings() end
+end
+
+
+local function modAdventureTeleportato(prefab)
+	if prefab.components.container.widgetbuttoninfo.text then
+		prefab.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
+	end
+end
+
+local function modFishinhole(prefab)
+	if prefab.components.inspectable.nameoverride then
+		prefab.components.inspectable.nameoverride = nil
+	end
+end
+
+local function setNoWetPrefix(prefab)
+	if not prefab.no_wet_prefix then prefab.no_wet_prefix = true end
+end
+
+AddSimPostInit(modPostInit)
+
+AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
+AddPrefabPostInit("fishinhole", modFishinhole)
+
+AddPrefabPostInit("book_birds", setNoWetPrefix)
+AddPrefabPostInit("book_brimstone", setNoWetPrefix)
+AddPrefabPostInit("book_gardening", setNoWetPrefix)
+AddPrefabPostInit("book_meteor", setNoWetPrefix)
+AddPrefabPostInit("book_sleep", setNoWetPrefix)
+AddPrefabPostInit("book_tentacles", setNoWetPrefix)
+AddPrefabPostInit("waxwelljournal", setNoWetPrefix)
+AddPrefabPostInit("buriedtreasure", setNoWetPrefix)
+AddPrefabPostInit("wilbur_unlock", setNoWetPrefix)
+
+AddPrefabPostInit("bunnyman", setNoWetPrefix)
+AddPrefabPostInit("mandrakeman", setNoWetPrefix)
+AddPrefabPostInit("parrot_pirate", setNoWetPrefix)
+AddPrefabPostInit("pigguard", setNoWetPrefix)
+AddPrefabPostInit("pigman", setNoWetPrefix)
+AddPrefabPostInit("pigtrader", setNoWetPrefix) -- Unnecessary
+AddPrefabPostInit("wildbore", setNoWetPrefix)
+AddPrefabPostInit("wildboreguard", setNoWetPrefix)
+
+-- Hamlet city pigs
+AddPrefabPostInit("pigman_beautician", setNoWetPrefix)
+AddPrefabPostInit("pigman_florist", setNoWetPrefix)
+AddPrefabPostInit("pigman_erudite", setNoWetPrefix)
+AddPrefabPostInit("pigman_hatmaker", setNoWetPrefix)
+AddPrefabPostInit("pigman_storeowner", setNoWetPrefix)
+AddPrefabPostInit("pigman_banker", setNoWetPrefix)
+AddPrefabPostInit("pigman_collector", setNoWetPrefix)
+AddPrefabPostInit("pigman_hunter", setNoWetPrefix)
+AddPrefabPostInit("pigman_mayor", setNoWetPrefix)
+AddPrefabPostInit("pigman_mechanic", setNoWetPrefix)
+AddPrefabPostInit("pigman_professor", setNoWetPrefix)
+AddPrefabPostInit("pigman_usher", setNoWetPrefix)
+AddPrefabPostInit("pigman_royalguard", setNoWetPrefix)
+AddPrefabPostInit("pigman_royalguard_2", setNoWetPrefix)
+AddPrefabPostInit("pigman_farmer", setNoWetPrefix)
+AddPrefabPostInit("pigman_miner", setNoWetPrefix)
+AddPrefabPostInit("pigman_queen", setNoWetPrefix)
+AddPrefabPostInit("pigman_beautician_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_florist_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_erudite_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_hatmaker_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_storeowner_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_banker_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_hunter_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_mayor_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_farmer_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_miner_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_collector_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_professor_shopkeep", setNoWetPrefix)
+AddPrefabPostInit("pigman_mechanic_shopkeep", setNoWetPrefix)
+
+modimport("scripts/modwaxwellintro.lua")
+modimport("scripts/entityscript_getdisplayname.lua")
+modimport("scripts/modwidgets/hovertext_onupdate.lua")
+modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
+modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
+
+local IsDLCEnabled = _G.IsDLCEnabled
+local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_DLC) or IsDLCEnabled(_G.PORKLAND_DLC)
+
+if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
+if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/modcomponents/grogginess_onequip.lua") end

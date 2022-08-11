@@ -1,0 +1,223 @@
+STRINGS.WET_PREFIX.MALE =
+{
+	SINGULAR =
+	{
+		FOOD = "remojado",
+		CLOTHING = "empapado",
+		TOOL = "resbaladizo",
+		FUEL = "mojado",
+		GENERIC = "húmedo",
+	},
+	
+	PLURAL =
+	{
+		FOOD = "remojados",
+		CLOTHING = "empapados",
+		TOOL = "resbaladizos",
+		FUEL = "mojados",
+		GENERIC = "húmedos",
+	},
+	
+	WITHERED = "marchito"
+}
+
+STRINGS.WET_PREFIX.FEMALE =
+{
+	SINGULAR =
+	{
+		FOOD = "remojada",
+		CLOTHING = "empapada",
+		TOOL = "resbaladiza",
+		FUEL = "mojada",
+		GENERIC = "húmeda",
+	},
+	
+	PLURAL =
+	{
+		FOOD = "remojadas",
+		CLOTHING = "empapadas",
+		TOOL = "resbaladizas",
+		FUEL = "mojadas",
+		GENERIC = "húmedas",
+	},
+	
+	WITHERED = "marchita"
+}
+
+STRINGS.UI.HUD.MALE =
+{
+	SINGULAR =
+	{
+		STALE = "rancio",
+		SPOILED = "podrido",
+	},
+	
+	PLURAL =
+	{
+		STALE = "rancios",
+		SPOILED = "podridos",
+	},
+	
+	HUNGRY = "hambriento",
+	STARVING = "desnutrido"
+}
+
+STRINGS.UI.HUD.FEMALE =
+{
+	SINGULAR =
+	{
+		STALE = "rancia",
+		SPOILED = "podrida",
+	},
+	
+	PLURAL =
+	{
+		STALE = "rancias",
+		SPOILED = "podridas",
+	},
+	
+	HUNGRY = "hambrienta",
+	STARVING = "desnutrida"
+}
+
+STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES = "Activar"
+
+STRINGS.UI.OPTIONS.DEFAULT_ES = "Por defecto"
+STRINGS.UI.OPTIONS.DIM_ES = "Tenues"
+STRINGS.UI.OPTIONS.DIMMEST_ES = "Muy tenues"
+STRINGS.UI.OPTIONS.ENABLED_ES = "Habilitado"
+STRINGS.UI.OPTIONS.DISABLED_ES = "Deshabilitado"
+
+STRINGS.RECIPE_DESC.SPIDEREGGSACK_ES = "Consigue algo de ayuda de tus amigas."
+STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES = "sus"
+STRINGS.UI.ENDGAME.BODY2_ES = " de escapar?\nQuizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\nLos seres misteriosos que controlan este lugar todavía están al acecho en las sombras y pronto revelarán nuevos desafíos.\n\nHasta entonces,\n- El equipo de Don't Starve -"
+
+-- Intro strings
+STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES_FEMALE = "Oye, amiga, no te ves muy bien."
+STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES_FEMALE = "Oye, amiga."
+
+STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES_ROBOT = "Oye, tú, no te ves muy bien."
+STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES_ROBOT = "Oye, tú."
+
+STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
+
+-- Hamlet fog strings
+STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Este %s se siente pesado...", "Este %s es muy caluroso."},
+		PLURAL = {"Estos %s se sienten pesados...", "Estos %s son muy calurosos."}
+	},
+	
+	FEMALE =
+	{
+		SINGULAR = {"Esta %s se siente pesada...", "Esta %s es muy calurosa."},
+		PLURAL = {"Estas %s se sienten pesadas...", "Estas %s son muy calurosas."}
+	}
+}
+
+STRINGS.CHARACTERS.WHEELER.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Este %s es sofocante.", "¡Este %s está que arde!"},
+		PLURAL = {"Estos %s son sofocantes.", "¡Estos %s están que arden!"}
+	},
+	
+	FEMALE = 
+	{
+		SINGULAR = {"Esta %s es sofocante.", "¡Esta %s está que arde!"},
+		PLURAL = {"Estas %s son sofocantes.", "¡Estas %s están que arden!"}
+	}
+}
+
+STRINGS.CHARACTERS.WENDY.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Este %s pesa más con el calor.", "Este %s es muy caluroso. Me lastra el alma."},
+		PLURAL = {"Estos %s pesan más con el calor.", "Estos %s son muy calurosos. Me lastran el alma."}
+	},
+	
+	FEMALE = 
+	{
+		SINGULAR = {"Esta %s pesa más con el calor.", "Esta %s es muy calurosa. Me lastra el alma."},
+		PLURAL = {"Estas %s pesan más con el calor.", "Estas %s son muy calurosas. Me lastran el alma."}
+	}
+}
+
+STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Ugh. No estamos asando en este %s.", "¡Guau! Este %s nos está dando calor."},
+		PLURAL = {"Ugh. No estamos asando en estos %s.", "¡Guau! Estos %s nos están dando calor."}
+	},
+	
+	FEMALE = 
+	{
+		SINGULAR = {"Ugh. No estamos asando en esta %s.", "¡Guau! Esta %s nos está dando calor."},
+		PLURAL = {"Ugh. No estamos asando en estas %s.", "¡Guau! Estas %s nos están dando calor."}
+	}
+}
+
+STRINGS.CHARACTERS.WALANI.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Ugh. Este %s es taaaan asfixiante.", "Este %s es tan caluroso."},
+		PLURAL = {"Ugh. Estos %s son taaaan asfixiantes.", "Estos %s son tan calurosos."}
+	},
+	
+	FEMALE = 
+	{
+		SINGULAR = {"Ugh. Esta %s es taaaan asfixiante.", "Esta %s es tan calurosa."},
+		PLURAL = {"Ugh. Estas %s son taaaan asfixiantes.", "Estas %s son tan calurosas."}
+	}
+}
+
+STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"%s es agotador.", "%s es muy caliente."},
+		PLURAL = {"%s son agotadores.", "%s son muy calientes."}
+	},
+	
+	FEMALE = 
+	{
+		SINGULAR = {"%s es agotadora.", "%s es muy caliente."},
+		PLURAL = {"%s son agotadoras.", "%s son muy calientes."}
+	}
+}
+
+STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Este %s es insoportable.", "Este %s da demasiado calor."},
+		PLURAL = {"Estos %s son insoportables.", "Estos %s dan demasiado calor."}
+	},
+	
+	FEMALE =
+	{
+		SINGULAR = {"Esta %s es insoportable.", "Esta %s da demasiado calor."},
+		PLURAL = {"Estas %s son insoportables.", "Estas %s dan demasiado calor."}
+	}
+}
+
+STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Este %s realmente me alenta.", "La humedad del aire hace que este %s pese mucho."},
+		PLURAL = {"Estos %s realmente me alentan.", "La humedad del aire hace que estos %s pesen mucho."}
+	},
+	
+	FEMALE =
+	{
+		SINGULAR = {"Esta %s realmente me alenta.", "La humedad del aire hace que esta %s pese mucho."},
+		PLURAL = {"Estas %s realmente me alentan.", "La humedad del aire hace que estas %s pesen mucho."}
+	}
+}
