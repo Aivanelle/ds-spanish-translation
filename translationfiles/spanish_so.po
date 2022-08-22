@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 27250,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 12998,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -64629,7 +64629,7 @@ msgstr "¡La carne más fresca de todas!"
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Even with my long arms, I still can't reach."
-msgstr ""
+msgstr "Incluso con mis largos brazos, no alcanzo."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.BURNING"
@@ -64639,12 +64639,12 @@ msgstr "Oh, ahí van todas mis posesiones."
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CHANGEIN.GENERIC"
 msgid "How could you improve on perfection?"
-msgstr "¿Cómo puedes mejor la perfección?"
+msgstr "¿Cómo podría mejorar la perfección?"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.COOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.COOK.GENERIC"
 msgid "Nothing ever goes as planned."
-msgstr "Nunca nada sale como estaba previsto."
+msgstr "Nunca nada sale como se planea."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.COOK.TOOFAR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.COOK.TOOFAR"
@@ -64654,7 +64654,7 @@ msgstr "Tengo que acercarme."
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.DRAW.NOIMAGE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "My memory isn't good enough to draw from it."
-msgstr ""
+msgstr "Soy incapaz de dibujar de memoria."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.BUSY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.BUSY"
@@ -64664,7 +64664,7 @@ msgstr "Ahora mismo está ocupado."
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.DEAD"
 msgid "The dead have no need of such things."
-msgstr "Los muertos no tienen necesidad de estas cosas."
+msgstr "Los muertos no tienen necesidad de tales cosas."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.SLEEPING"
@@ -64674,12 +64674,12 @@ msgstr "Está totalmente inconsciente."
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.INUSE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.INUSE"
 msgid "Once again the seat of power is stolen from me!"
-msgstr ""
+msgstr "¡Una vez más me han robado el asiento del poder!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "Perhaps I should take a step back."
-msgstr ""
+msgstr "Probablemente debería alejarme."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.REPAIRBOAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.REPAIRBOAT.GENERIC"
@@ -64689,17 +64689,17 @@ msgstr "Ahora no."
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.RUMMAGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.RUMMAGE.GENERIC"
 msgid "Curses."
-msgstr "Maldiciones."
+msgstr "Maldición."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SADDLE.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SADDLE.TARGETINCOMBAT"
 msgid "Perhaps I should take a step back."
-msgstr ""
+msgstr "Probablemente debería alejarme."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.AWAKEBEEFALO"
 msgid "I don't think she'd take kindly to that."
-msgstr "No creo que le vaya a gustar mucho esa idea."
+msgstr "No creo que se lo vaya a tomar bien."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.GENERIC"
@@ -64709,53 +64709,53 @@ msgstr "¿Con qué fin?"
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.NOBITS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.NOBITS"
 msgid "But it's already as smooth as a baby's rear end."
-msgstr "Pero ya es tan suave como el trasero de un bebé."
+msgstr "Pero si ya es tan suave como el trasero de un bebé."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHOP.CANTPAY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHOP.CANTPAY"
 msgid "Hmmph. Overpriced if you ask me."
-msgstr ""
+msgstr "Mmm. Un precio excesivo, en mi opinión."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHOP.GENERIC"
 msgid "Not for sale."
-msgstr ""
+msgstr "No está a la venta."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.STORE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.STORE.GENERIC"
 msgid "It wouldn't fit."
-msgstr "No cabe ahí."
+msgstr "No cabe."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.STORE.NOTALLOWED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.STORE.NOTALLOWED"
 msgid "That can't go in there."
-msgstr "Esto no entra ahí."
+msgstr "Eso no va ahí."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.TEACH.CANTLEARN
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.TEACH.CANTLEARN"
 msgid "There's a lesson to be learned about tampering with secret knowledge."
-msgstr ""
-"Se debe aprender una lección sobre manipular los conocimientos secretos."
+msgstr "Hay que aprender una lección sobre manipular conocimiento secreto."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.TEACH.KNOWN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.TEACH.KNOWN"
 msgid "I am far too advanced for this."
-msgstr "Soy demasiado avanzado para esto."
+msgstr "Estoy demasiado avanzado para eso."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEDOOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEDOOR.GENERIC"
 msgid "It refuses to open for me."
-msgstr ""
+msgstr "Se niega a abrirse para mí."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEDOOR.LOCKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.USEDOOR.LOCKED"
 msgid "I'll get it open somehow."
-msgstr ""
+msgstr "La abriré, de un modo u otro."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.WRAPBUNDLE.EMPTY"
 msgid "I don't know what to wrap."
-msgstr ""
+msgstr "No sé qué envolver."
 
 #. STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.WRITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.WRITE.GENERIC"
@@ -64770,42 +64770,42 @@ msgstr "Eso no ha funcionado."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUCE_ALARMOVER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUCE_ALARMOVER"
 msgid "I am safe once again."
-msgstr ""
+msgstr "Vuelvo a estar a salvo."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUCE_BATS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUCE_BATS"
 msgid "How apropos."
-msgstr ""
+msgstr "Qué oportuno."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUCE_OTHERWORLD_DEED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUCE_OTHERWORLD_DEED"
 msgid "I suppose I could use it as a summer home."
-msgstr ""
+msgstr "Supongo que podría ser mi casa de verano."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUCE_UNDERLEAFCANOPY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUCE_UNDERLEAFCANOPY"
 msgid "It is wretchedly dark beneath the trees."
-msgstr ""
+msgstr "Está miserablemente oscuro debajo de los árboles."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ACCOMPLISHMENT"
 msgid "I need to pass the time somehow."
-msgstr "Tengo que pasar el tiempo de alguna manera."
+msgstr "Tengo que matar el tiempo de alguna manera."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ACCOMPLISHMENT_DONE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ACCOMPLISHMENT_DONE"
 msgid "That kinda makes it all worthwhile."
-msgstr "Esto hace que todo valga la pena."
+msgstr "Eso hace que todo valga la pena."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ADVENTUREFAIL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ADVENTUREFAIL"
 msgid "I of all people should be able to do this."
-msgstr "Yo de entre toda la gente debería ser capaz de hacer esto."
+msgstr "Yo más que nadie debería ser capaz de superar eso."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BEES
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BEES"
 msgid "Killing me won't bring back your honey!"
-msgstr "¡Se me matáis no podré ir a por vuestra miel!"
+msgstr "¡Matarme no les dará más miel!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BOAT_DAMAGED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BOAT_DAMAGED"
@@ -64839,7 +64839,7 @@ msgid ""
 "I think I can fix this!"
 msgstr ""
 "\n"
-"¡Creo que puedo arreglarlo!"
+"¡Creo que puedo arreglar eso"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE"
@@ -64849,7 +64849,7 @@ msgstr "¿Charlie? ¡Soy yo! ¡Maxwell!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE_ATTACK"
 msgid "Ow! Charlie, that hurt!"
-msgstr "¡Ay! ¡Charlie, eso duele!"
+msgstr "¡Auch! ¡Charlie, eso duele!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COLD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COLD"
@@ -64864,7 +64864,7 @@ msgstr "La brújula está completamente rota."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAB_ESCAPE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAB_ESCAPE"
 msgid "Crafty crustacean..."
-msgstr "Astuto crustáceo..."
+msgstr "Crustáceo astuto..."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CRAFTING_FAIL"
@@ -64884,17 +64884,17 @@ msgstr "Oigo venir a uno de ellos."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DEHUMID.1"
 msgid "Ah! That feels better."
-msgstr ""
+msgstr "¡Ah! Mucho mejor."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DUSK"
 msgid "It'll be dark soon. Charlie will be waking up."
-msgstr "Pronto se hará oscuro. Charlie se despertará."
+msgstr "Oscurecerá pronto. Charlie está por despertar."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.GENERIC"
 msgid "(Gulp!)"
-msgstr "(¡Glub!)"
+msgstr "Exquisito."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.INVALID
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.INVALID"
@@ -64904,7 +64904,7 @@ msgstr "No dejaré que eso se acerque a mi boca."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.PAINFUL"
 msgid "Ow! That hurt my mouth!"
-msgstr "¡Ay! ¡Me he hecho daño en la boca!"
+msgstr "¡Auch! ¡Me ha hecho daño!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.SPOILED"
@@ -64914,12 +64914,12 @@ msgstr "Eso estaba podrido."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.STALE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.STALE"
 msgid "That was past its due-date."
-msgstr "Esto ha caducado."
+msgstr "Eso estaba caducado."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.YUCKY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.YUCKY"
 msgid "A civilized man does not eat such things."
-msgstr "Un hombre civilizado no come ese tipo de cosas."
+msgstr "Un hombre civilizado no come tales cosas."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ENTER_DARK"
@@ -64932,9 +64932,10 @@ msgid "The light is back."
 msgstr "La luz ha vuelto."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FAN_OUT
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FAN_OUT"
 msgid "There goes my respite."
-msgstr "Qué respiro."
+msgstr "Ahí va mi respiro."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FREEDOM"
@@ -64944,22 +64945,22 @@ msgstr "¡Libertad, por fin!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GAS_DAMAGE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_GAS_DAMAGE"
 msgid "Hack! Cough! Ack!"
-msgstr ""
+msgstr "¡Cof! ¡Cof! ¡Cof!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER"
 msgid "Ugh. Allergies."
-msgstr ""
+msgstr "Ugh. Alergias."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER_OFF
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ah... I can breathe again."
-msgstr ""
+msgstr "Ah... Puedo respirar de nuevo."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HIGHRESEARCH"
 msgid "My brain swells with power!"
-msgstr "¡Mi cerebro crece con el poder!"
+msgstr "¡Mi cerebro se alimenta de poder!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HOT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HOT"
@@ -64974,7 +64975,7 @@ msgstr "Los sabuesos están cada vez más inquietos."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HOUSE_DOOR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HOUSE_DOOR"
 msgid "Those bureaucratic pigs demand I have a permit first."
-msgstr ""
+msgstr "Esos cerdos burocráticos exigen que tenga antes un permiso."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNGRY"
@@ -64984,19 +64985,20 @@ msgstr "Estoy vacío por dentro."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNT_BEAST_NEARBY"
 msgid "I smell dung and beast sweat."
-msgstr "Huelo el estiércol y el sudor de la bestia."
+msgstr "Puedo oler el sudor de la bestia."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNT_LOST_TRAIL"
 msgid "Drat! It got away."
-msgstr "¡Maldición! Se ha escapado."
+msgstr "¡Diantres! Se ha escapado."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_HUNT_LOST_TRAIL_SPRING"
 msgid "I can't follow it in these conditions!"
-msgstr "¡No puede seguirlo en estas condiciones!"
+msgstr "¡No puedo seguir bajo estas condiciones!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_INSUFFICIENTFERTILIZER
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_INSUFFICIENTFERTILIZER"
 msgid "It perked up just a tiny bit."
 msgstr "Ha crecido solo un poquito."
@@ -65009,12 +65011,12 @@ msgstr "Mis bolsillos están llenos."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_KNOCKEDOUT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_KNOCKEDOUT"
 msgid "Ugh. My head hurts."
-msgstr "Uf. Me duele la cabeza."
+msgstr "Ugh. Me duele la cabeza."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Can't touch this!"
-msgstr "¡No toques esto!"
+msgstr "¡No puedes tocarme!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_LOWRESEARCH"
@@ -65024,7 +65026,7 @@ msgstr "Eso no ha sido muy informativo."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAGIC_FAIL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAGIC_FAIL"
 msgid "Such magic does not belong here."
-msgstr "Esta magia no pertenece aquí."
+msgstr "Tal magia no pertenece aquí."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAPWRAP_LOSECONTROL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAPWRAP_LOSECONTROL"
@@ -65034,12 +65036,12 @@ msgstr "¡Me está consumiendo el abismo!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAPWRAP_RETURN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAPWRAP_RETURN"
 msgid "Thank goodness."
-msgstr "Gracias a Dios."
+msgstr "Gracias al cielo."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAPWRAP_WARN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MAPWRAP_WARN"
 msgid "I want nothing to do with mists and fogs."
-msgstr "No quiero tener que ver nada con nieblas."
+msgstr "No quiero tener nada que ver con la niebla."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MESSAGEBOTTLE.1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MESSAGEBOTTLE.1"
@@ -65054,27 +65056,27 @@ msgstr "Ah. Otra pista a un tesoro perdido."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOSQUITOS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOSQUITOS"
 msgid "What annoying little bugs."
-msgstr "Que bichitos más molestos."
+msgstr "Qué insectos más molestos."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_DOOR_FOUND
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_DOOR_FOUND"
 msgid "You can't hide anything from me."
-msgstr ""
+msgstr "No puedes esconderme nada."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND"
 msgid "That was a waste of my time."
-msgstr ""
+msgstr "Solo he perdido el tiempo."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_FOUND
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_FOUND"
 msgid "There's definitely something..."
-msgstr ""
+msgstr "Definitivamente hay algo..."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_NOREWARD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MYSTERY_NOREWARD"
 msgid "That was disappointing."
-msgstr ""
+msgstr "Qué decepcionante."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NODANGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NODANGERSIESTA"
@@ -65114,12 +65116,12 @@ msgstr "Tengo mucha hambre. No puedo dormir."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NONIGHTSIESTA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NONIGHTSIESTA"
 msgid "It's sleep time, not siesta time."
-msgstr "Es hora de dormir, no hora de la siesta."
+msgstr "Es hora de dormir, no de la siesta."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NONIGHTSIESTA_CAVE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "It's a bit too creepy out for that."
-msgstr "Es un poco espeluznante ahí afuera."
+msgstr "Es un poco peligroso ahí fuera para eso."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSANITY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOSANITY"
@@ -65134,12 +65136,12 @@ msgstr "Quizá no sea la mejor idea."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOTHING_FOUND
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOTHING_FOUND"
 msgid "This magical object isn't picking up anything nearby."
-msgstr ""
+msgstr "Este objeto mágico no detecta nada cerca."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOWARDROBEONFIRE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NOWARDROBEONFIRE"
 msgid "You're kidding right?"
-msgstr "Estás de broma, ¿verdad?"
+msgstr "Bromeas, ¿verdad?"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NO_TRAP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NO_TRAP"
@@ -65149,12 +65151,12 @@ msgstr "Qué raro. Se han olvidado de ponerla."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_OTHER_WORLD_PLANT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_OTHER_WORLD_PLANT"
 msgid "I can't possibly plant this here."
-msgstr "No creo que pueda plantar esto aquí."
+msgstr "No creo que pueda plantar eso aquí."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_OTHER_WORLD_TREASURE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_OTHER_WORLD_TREASURE"
 msgid "I don't believe this treasure is located nearby."
-msgstr "No creo que este tesoro se encuentre cerca."
+msgstr "No creo que dicho tesoro se encuentre cerca."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PECKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PECKED"
@@ -65164,37 +65166,37 @@ msgstr "¡Ten paciencia!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.1"
 msgid "Bah!"
-msgstr ""
+msgstr "¡Bah!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.2"
 msgid "Ew!"
-msgstr ""
+msgstr "¡Repugnante!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.3
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.3"
 msgid "Gah!"
-msgstr ""
+msgstr "¡Gah!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.4
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PICKPOOP.4"
 msgid "Filth!"
-msgstr ""
+msgstr "¡Repulsivo!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PUGALISK_INVULNERABLE.1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PUGALISK_INVULNERABLE.1"
 msgid "That hide is too tough."
-msgstr ""
+msgstr "Su piel es demasiado dura."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PUGALISK_INVULNERABLE.2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PUGALISK_INVULNERABLE.2"
 msgid "That's not going to work."
-msgstr ""
+msgstr "Eso no funcionará."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PUGALISK_INVULNERABLE.3
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_PUGALISK_INVULNERABLE.3"
 msgid "I need to be more strategic."
-msgstr ""
+msgstr "Necesito una estrategia mejor."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_QUAKE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_QUAKE"
@@ -65204,17 +65206,17 @@ msgstr "Ese ruido no puede ser bueno."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_RESEARCH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_RESEARCH"
 msgid "Knowledge is power. And power is... well, power."
-msgstr "El conocimiento es poder. Y el poder es... poder."
+msgstr "El conocimiento es poder. Y el poder es... bueno, poder."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ROOM_STUCK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ROOM_STUCK"
 msgid "I don't want to be trapped forever. Again."
-msgstr ""
+msgstr "No quiero quedar atrapado eternamente. Otra vez."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHARX
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHARX"
 msgid "It seems I'm being pursued."
-msgstr "Parece que me están persiguiendo."
+msgstr "Al parecer me persiguen."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SHELTER"
@@ -65224,32 +65226,33 @@ msgstr "¡Protégeme, árbol miserable!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SNEEZE"
 msgid "ah...CHOOOO!"
-msgstr ""
+msgstr "ah... ¡CHÚÚÚÚ!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SOAKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SOAKED"
 msgid "Wetter than water itself."
-msgstr "Más húmedo que el agua sí misma."
+msgstr "Más húmedo que la misma agua."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SUITUP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SUITUP"
 msgid "I AM SUPERIOR!"
-msgstr ""
+msgstr "¡SOY SUPERIOR!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TAXDAY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TAXDAY"
 msgid "I require compensation for not destroying this town."
-msgstr ""
+msgstr "Exijo una compensación por no destruirlo todo."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_THORNS
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_THORNS"
 msgid "I scratched my arms up doing that."
-msgstr "Me he arañado los brazos haciendo esto."
+msgstr "Me he arañado los brazos haciendo eso."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOOLCORRODED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOOLCORRODED"
 msgid "This place is toxic to tools."
-msgstr ""
+msgstr "Este lugar es tóxico para las herramientas."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOOL_SLIP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOOL_SLIP"
@@ -65259,12 +65262,12 @@ msgstr "Maldición."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID.1"
 msgid "This %s is too much."
-msgstr ""
+msgstr "Esto es demasiado."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID.2
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is hotter than I like."
-msgstr ""
+msgstr "Hace demasiado calor para mi gusto."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TORCH_OUT"
@@ -65284,33 +65287,33 @@ msgstr "¡La red está llena a reventar!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TREASURE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TREASURE"
 msgid "It appears I can follow this to some sort of... treasure."
-msgstr ""
-"Parece que puedo seguir por aquí para llegar a una especie de... tesoro."
+msgstr "Parece que puedo seguir eso hasta algún tipo de... tesoro."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TURFTOOHARD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TURFTOOHARD"
 msgid "It's immovable."
-msgstr ""
+msgstr "Es inamovible."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_UNIMPLEMENTED"
 msgid "Hmm, not quite done."
-msgstr "Hmm, aún no está terminado."
+msgstr "Mmm, aún no está terminado."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_VOLCANO_ERUPT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_VOLCANO_ERUPT"
 msgid "There's no need for such outbursts."
-msgstr "No hace falta este estruendo."
+msgstr "No hay necesidad de tales estruendos."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WAVE_BOOST
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WAVE_BOOST"
 msgid "Truly!"
-msgstr "¡Verdaderamente!"
+msgstr "¡Brillante!"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WET"
 msgid "Water'll ruin a good suit, you know?"
-msgstr "El agua arruinará un buen traje, ¿sabes?"
+msgstr "El agua arruina un buen traje, ¿sabes?"
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WETTER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WETTER"
@@ -65335,7 +65338,7 @@ msgstr "¡He perdido de vista a la ballena!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WORMHOLE"
 msgid "Yech. It's horrible in there."
-msgstr "Ay. Qué horrible es estar ahí."
+msgstr "Puaj. Se ve horrible ahí dentro."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WORMS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WORMS"
@@ -65355,17 +65358,17 @@ msgstr "¡Más vale maña que fuerza!"
 #. STRINGS.CHARACTERS.WAXWELL.BATTLECRY.PREY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.BATTLECRY.PREY"
 msgid "You look tasty!"
-msgstr "¡Pareces sabrosa!"
+msgstr "¡Pareces tener un buen sabor!"
 
 #. STRINGS.CHARACTERS.WAXWELL.BATTLECRY.SPIDER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.BATTLECRY.SPIDER"
 msgid "I'll not be made a fool of again!"
-msgstr "¡No me volverás a dejar en ridículo!"
+msgstr "¡Nadie me volverá a dejar en ridículo!"
 
 #. STRINGS.CHARACTERS.WAXWELL.BATTLECRY.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.BATTLECRY.SPIDER_WARRIOR"
 msgid "You've forced my hand!"
-msgstr "¡Has provocado a mi mano!"
+msgstr "¡Me has obligado a hacerlo!"
 
 #. STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.GENERIC"
@@ -65380,12 +65383,12 @@ msgstr "¡La próxima vez, cerdo!"
 #. STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.PREY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.PREY"
 msgid "You're not worth my time!"
-msgstr "¡No eres digno de mi tiempo!"
+msgstr "¡No vales mi tiempo!"
 
 #. STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.SPIDER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.SPIDER"
 msgid "I won't be made a fool of... next time!"
-msgstr "¡La próxima vez... no me dejarás en ridículo!"
+msgstr "¡Nadie me volverá a dejar en ridículo... otra vez!"
 
 #. STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.COMBAT_QUIT.SPIDER_WARRIOR"
@@ -152656,7 +152659,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LUCY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LUCY"
 msgid "I love Lucy!"
-msgstr "¡Quiero a Lucy!"
+msgstr "¡Amo a Lucy!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LUGGAGECHEST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LUGGAGECHEST"

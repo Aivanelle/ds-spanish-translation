@@ -221,3 +221,18 @@ STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_TOO_HUMID_ES =
 		PLURAL = {"Estas %s realmente me alentan.", "La humedad del aire hace que estas %s pesen mucho."}
 	}
 }
+
+STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Este %s es demasiado.", "Este %s es demasiado cálido para mi gusto."},
+		PLURAL = {"Estos %s son demasiado.", "Estos %s son demasiado cálidos para mi gusto."}
+	},
+	
+	FEMALE =
+	{
+		SINGULAR = {"Esta %s es demasiado.", "Esta %s es demasiado cálida para mi gusto."},
+		PLURAL = {"Estas %s son demasiado.", "Estas %s son demasiado cálidas para mi gusto."}
+	}
+}
