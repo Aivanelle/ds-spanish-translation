@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 13600,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 13700,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -64889,7 +64889,7 @@ msgstr "¡Ah! Mucho mejor."
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DUSK"
 msgid "It'll be dark soon. Charlie will be waking up."
-msgstr "Oscurecerá pronto. Charlie está por despertar."
+msgstr "Pronto oscurecerá. Charlie está por despertar."
 
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_EAT.GENERIC"
@@ -68425,42 +68425,42 @@ msgstr "Parece cansada."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGGLEBUNWICH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGGLEBUNWICH"
 msgid "Has a bit of a kick to it."
-msgstr "Esto sí que es comida rápida."
+msgstr "Eso sí que es comida rápida."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS"
 msgid "Muscular."
-msgstr "Muscular."
+msgstr "Musculares."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS_COOKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS_COOKED"
 msgid "Stringy."
-msgstr "Qué viscosas."
+msgstr "Qué viscosa."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS_POISON
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS_POISON"
 msgid "A delicacy, were it not poisoned."
-msgstr ""
+msgstr "Una delicia, cuando no tienen veneno."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS_POISON_COOKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROGLEGS_POISON_COOKED"
 msgid "Shall I risk it?"
-msgstr ""
+msgstr "¿Debería arriesgarme?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROG_POISON.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROG_POISON.DEAD"
 msgid "Good. Now I don't have to do it."
-msgstr ""
+msgstr "Bien. Ahora no me molestará."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROG_POISON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROG_POISON.GENERIC"
 msgid "Rather handsome for an amphibian."
-msgstr ""
+msgstr "Buen porte para un anfibio."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROG_POISON.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FROG_POISON.SLEEPING"
 msgid "I should strike now while it slumbers."
-msgstr ""
+msgstr "Debería atacar ahora, mientras duerme."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FRUITMEDLEY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FRUITMEDLEY"
@@ -68470,7 +68470,7 @@ msgstr "Estaría delicioso junto con un buen plato de quesos."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GASCLOUD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GASCLOUD"
 msgid "That'll keep those bugs away."
-msgstr ""
+msgstr "Eso mantendrá a los insectos alejados."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GASHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GASHAT"
@@ -68480,22 +68480,23 @@ msgstr "Purifica el hedor."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GASMASKHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GASMASKHAT"
 msgid "This clears the vapors."
-msgstr ""
+msgstr "Me protege de los vapores."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GEARS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GEARS"
 msgid "My pets! What has become of you?"
-msgstr "¡Mis mascotas! ¿Qué ha sido de vosotras?"
+msgstr "¡Mis mascotas! ¿Qué ha sido de ustedes?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GEMSOCKET.GEMS
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GEMSOCKET.GEMS"
 msgid "The fuel needs a focus."
-msgstr "El combustible necesita un foco."
+msgstr "El combustible necesita enfocarse."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GEMSOCKET.VALID
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GEMSOCKET.VALID"
 msgid "This one's ready."
-msgstr "Este está listo."
+msgstr "Ese está listo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOST"
@@ -68510,17 +68511,17 @@ msgstr "Me recuerda a alguien..."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GIANTGRUB
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GIANTGRUB"
 msgid "It's doing all my work for me."
-msgstr ""
+msgstr "Hace todo mi trabajo por mí."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMER"
 msgid "A flying goop factory."
-msgstr "Una fábrica de pegotes voladora."
+msgstr "Una fábrica de baba voladora."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERFLOWER.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERFLOWER.DEAD"
 msgid "Flower power forever."
-msgstr "Flower power para siempre."
+msgstr "Flower power por siempre."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERFLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERFLOWER.GENERIC"
@@ -68530,68 +68531,68 @@ msgstr "Flower power."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERFUEL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERFUEL"
 msgid "Well, that's rank."
-msgstr "Bien, es de categoría."
+msgstr "Bueno, es de calidad."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERWINGS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOMMERWINGS"
 msgid "They're sticky."
-msgstr "Son pegajosas."
+msgstr "Están pegajosas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY.DEAD"
 msgid "Lights out."
-msgstr ""
+msgstr "Luces fuera."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY.GENERIC"
 msgid "Disgusting, but helpful."
-msgstr ""
+msgstr "Asqueroso, pero útil."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY.SLEEPING"
 msgid "That light is rather too lethargic."
-msgstr ""
+msgstr "Una luz bastante letárgica."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY_COCOON
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GLOWFLY_COCOON"
 msgid "Ah, metamorphosis..."
-msgstr ""
+msgstr "Ah, metamorfosis..."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNAT"
 msgid "Horde horrible."
-msgstr ""
+msgstr "Una horrenda horda."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GNATMOUND"
 msgid "Ugh. The horde home."
-msgstr ""
+msgstr "Ugh. El hogar de la horda."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOATMILK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOATMILK"
 msgid "It's charged with nutrients."
-msgstr "Está cargado de nutrientes."
+msgstr "Está cargada de nutrientes."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESARMORHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESARMORHAT"
 msgid ""
 "You're going to need that kind of armor if you can't see where you're going."
-msgstr ""
+msgstr "Cualquiera que no vea necesitaría ese tipo de armadura."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESHEATHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESHEATHAT"
 msgid "What kind of ridiculous person made these?"
-msgstr ""
+msgstr "¿Qué clase de payaso fabricó esas?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESNORMALHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESNORMALHAT"
 msgid "I hardly see the need for these."
-msgstr ""
+msgstr "No veo la necesidad de algo así."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESSHOOTHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOGGLESSHOOTHAT"
 msgid "If they worked, I might consider wearing these."
-msgstr ""
+msgstr "Si funcionan, consideraré usarlas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENAXE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENAXE"
@@ -68606,42 +68607,42 @@ msgstr "Siempre he querido cortar cosas de forma lujosa."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENPICKAXE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENPICKAXE"
 msgid "This must be game logic."
-msgstr "Esto debe ser muy lógico."
+msgstr "Supongo que así funciona la lógica del juego."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENPITCHFORK
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENPITCHFORK"
 msgid "I'm not sure this was a good investment."
-msgstr "No estoy seguro de que esto sea una buena inversión."
+msgstr "No sé si eso haya sido una buena inversión."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENSHOVEL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDENSHOVEL"
 msgid "This shovel is worth a princely sum."
-msgstr "Esta pala vale una magnífica suma."
+msgstr "Tal pala vale una magnífica suma."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDNUGGET"
 msgid "This was important to me once."
-msgstr "Esto fue importante para mí una vez."
+msgstr "Eso fue importante para mí alguna vez."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLDPAN"
 msgid "Must I do everything myself?"
-msgstr ""
+msgstr "¿Es que lo tengo que hacer todo yo?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLD_DUST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOLD_DUST"
 msgid "I suppose any gold is good gold."
-msgstr ""
+msgstr "Supongo que todo oro es buen oro."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOOSE_FEATHER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GOOSE_FEATHER"
 msgid "I could use a pillow filled with these."
-msgstr "No me vendría mal una almohada llena de estas."
+msgstr "No me vendría mal una almohada llena de esas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRABBING_VINE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRABBING_VINE"
 msgid "I know the ropes."
-msgstr ""
+msgstr "Sé cómo funcionas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.BARREN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.BARREN"
@@ -68651,7 +68652,7 @@ msgstr "Necesita estiércol."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.BURNING"
 msgid "Oops."
-msgstr "Uy."
+msgstr "Ups."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.GENERIC"
@@ -68661,57 +68662,57 @@ msgstr "Un manojo."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.PICKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.PICKED"
 msgid "Nothing to harvest."
-msgstr "Nada que cosechar."
+msgstr "Nada para recolectar."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.WITHERED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS.WITHERED"
 msgid "You'd think grass could withstand this heat..."
-msgstr "Uno pensaría que la hierba podría soportar este calor..."
+msgstr "Uno pensaría que la hierba podría soportar el calor..."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.BURNING"
 msgid "Well, there you have it."
-msgstr ""
+msgstr "Bueno, ahí lo tienes."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.GENERIC"
 msgid "Oh, joyous occasion. I've found grass."
-msgstr ""
+msgstr "Oh, qué alegría. He encontrado hierba."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.PICKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I don't require any more grass, thank you."
-msgstr ""
+msgstr "No necesito más hierba, gracias."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_UMBRELLA"
 msgid "It's more \"pretty\" than \"dapper\"."
-msgstr "Es más \"bonita\" que \"pulcra\"."
+msgstr "Es más \"bonita\" que \"elegante\"."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_WATER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GRASS_WATER"
 msgid "It is partially submerged."
-msgstr "Está parcialmente sumergido."
+msgstr "Está parcialmente sumergida."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENAMULET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENAMULET"
 msgid "I swear I don't normally need this."
-msgstr "Juro que normalmente no necesito esto."
+msgstr "Juro que normalmente no necesito eso."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENGEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENGEM"
 msgid "The nightmare fuel will unlock its true potential."
-msgstr "El combustible de pesadilla desbloqueará su verdadero potencial."
+msgstr "El combustible de pesadilla desatará su verdadero potencial."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENSTAFF
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENSTAFF"
 msgid "I must rely on focusing tools in this form."
-msgstr "Tengo que confiar en las herramientas de foco de este tipo."
+msgstr "Debo confiar en ese tipo de herramientas focalizadoras."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_CAP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_CAP"
 msgid "I should eat it."
-msgstr "Debería comérmela."
+msgstr "Debería comérmelo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_CAP_COOKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_CAP_COOKED"
@@ -68726,32 +68727,33 @@ msgstr "Hongo verde."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_MUSHROOM.INGROUND"
 msgid "When do those ones come up?"
-msgstr "¿Cuándo van a crecer?"
+msgstr "¿Cuándo va a salir?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_MUSHROOM.PICKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREEN_MUSHROOM.PICKED"
 msgid "Been there. Done that."
-msgstr "Esto ya lo he hecho yo."
+msgstr "Eso lo hice yo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUACAMOLE
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUACAMOLE"
 msgid "There's a mole in the mix."
-msgstr "Hay una mole en el lote."
+msgstr "Hay un poco de guacamole en mi topo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUANO
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUANO"
 msgid "Disgusting!"
-msgstr "¡Qué asco!"
+msgstr "¡Repulsivo!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUMMY_CAKE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUMMY_CAKE"
 msgid "Cake with the texture of tar."
-msgstr ""
+msgstr "Un pastel de textura alquitranosa."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUNPOWDER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GUNPOWDER"
 msgid "Now this I like."
-msgstr "Esto sí me gusta."
+msgstr "Eso sí que me gusta."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAIL_ICE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAIL_ICE"
@@ -68761,12 +68763,12 @@ msgstr "Ligeramente frío."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALBERD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALBERD"
 msgid "A blade as sharp as my wit."
-msgstr ""
+msgstr "Una hoja tan afilada como mi ingenio."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMBAT"
 msgid "An undignified weapon for a less refined time."
-msgstr "Un arma indigna de una época menos refinada."
+msgstr "Un arma indecente para épocas menos sofisticadas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMMER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMMER"
@@ -68776,32 +68778,32 @@ msgstr "Sienta bien deshacer el trabajo de otros."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANGING_VINE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HANGING_VINE"
 msgid "I know the ropes."
-msgstr ""
+msgstr "Sé cómo funcionas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HARDSHELL_TACOS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HARDSHELL_TACOS"
 msgid "At least the shells are fresh."
-msgstr ""
+msgstr "Al menos los caparazones están frescos."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HARPOON
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HARPOON"
 msgid "How barbaric."
-msgstr ""
+msgstr "Qué brusco."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT"
 msgid "The dapperest of them all."
-msgstr "La más pulcra de todas."
+msgstr "La más elegante de todas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEALINGSALVE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEALINGSALVE"
 msgid "Just a bit of venom and some dirty old ash."
-msgstr "Solo un poco de veneno y unas viejas cenizas."
+msgstr "Solo algo de veneno y unas viejas cenizas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.COLD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.COLD"
 msgid "Pleasantly cool."
-msgstr "Agradablemente fresca."
+msgstr "Agradablemente fría."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.FROZEN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.FROZEN"
@@ -68811,7 +68813,7 @@ msgstr "Está demasiado fría para sostenerla."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.GENERIC"
 msgid "A pocketful of stone and temperature."
-msgstr "Un montón de piedra y temperatura."
+msgstr "Un conjunto de piedra y temperatura."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.HOT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.HOT"
@@ -68826,52 +68828,52 @@ msgstr "Confortablemente tibia."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.BURNING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.BURNING"
 msgid "I never tire of watching destruction."
-msgstr ""
+msgstr "Nunca me canso de contemplar la destrucción."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.BURNT"
 msgid "A shame."
-msgstr ""
+msgstr "Una pena."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.GENERIC"
 msgid "Simple."
-msgstr ""
+msgstr "Simple."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.SHAVEABLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE.SHAVEABLE"
 msgid "No one thought to trim this hedge?"
-msgstr ""
+msgstr "¿A nadie se le ha ocurrido podarlo?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE_BLOCK_ITEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE_BLOCK_ITEM"
 msgid "It's no good carrying this around everywhere."
-msgstr ""
+msgstr "No sirve de nada llevar eso de un lado para otro."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE_CONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE_CONE_ITEM"
 msgid "Why isn't this in the ground?"
-msgstr ""
+msgstr "¿Y eso por qué no está en el suelo?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE_LAYERED_ITEM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEDGE_LAYERED_ITEM"
 msgid "Adds a touch of class to a garden."
-msgstr ""
+msgstr "Añade un toque de clase al jardín."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HIPPOPOTAMOOSE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HIPPOPOTAMOOSE"
 msgid "A dull sluggish beast."
-msgstr ""
+msgstr "Una bestia lenta y tonta."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HIPPO_ANTLER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HIPPO_ANTLER"
 msgid "Well, it'd make a good hat rack."
-msgstr ""
+msgstr "Bueno, sería un gran perchero."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOGUSPORKUSATOR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOGUSPORKUSATOR"
 msgid "Scientifically proving pigs can fly."
-msgstr ""
+msgstr "Probando científicamente que los cerdos vuelan."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOME
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOME"
@@ -68881,7 +68883,7 @@ msgstr "No hay otro lugar como este."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOMESIGN.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOMESIGN.BURNT"
 msgid "Somehow, it says even less now."
-msgstr "De alguna manera, dice incluso menos ahora."
+msgstr "De alguna manera, ahora dice incluso menos."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOMESIGN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOMESIGN.GENERIC"
@@ -68906,7 +68908,7 @@ msgstr "Tierno."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HONEYNUGGETS
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HONEYNUGGETS"
 msgid "These look childish, but they're delicious."
-msgstr "Parecen infantiles, pero son deliciosas."
+msgstr "Parecen infantiles, pero son deliciosos."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HORN
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HORN"
