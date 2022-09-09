@@ -125,6 +125,7 @@ end
 
 AddSimPostInit(modPostInit)
 
+-- Prefabs that mostly contains proper nouns to hide their wet suffix
 AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
 AddPrefabPostInit("fishinhole", modFishinhole)
 
@@ -143,7 +144,7 @@ AddPrefabPostInit("mandrakeman", setNoWetPrefix)
 AddPrefabPostInit("parrot_pirate", setNoWetPrefix)
 AddPrefabPostInit("pigguard", setNoWetPrefix)
 AddPrefabPostInit("pigman", setNoWetPrefix)
-AddPrefabPostInit("pigtrader", setNoWetPrefix) -- Unnecessary
+AddPrefabPostInit("pigtrader", setNoWetPrefix) -- Unnecessary, I think
 AddPrefabPostInit("wildbore", setNoWetPrefix)
 AddPrefabPostInit("wildboreguard", setNoWetPrefix)
 
@@ -179,6 +180,31 @@ AddPrefabPostInit("pigman_miner_shopkeep", setNoWetPrefix)
 AddPrefabPostInit("pigman_collector_shopkeep", setNoWetPrefix)
 AddPrefabPostInit("pigman_professor_shopkeep", setNoWetPrefix)
 AddPrefabPostInit("pigman_mechanic_shopkeep", setNoWetPrefix)
+
+AddPrefabPostInit("chester", setNoWetPrefix)
+AddPrefabPostInit("ro_bin", setNoWetPrefix)
+AddPrefabPostInit("packim", setNoWetPrefix)
+AddPrefabPostInit("roc", setNoWetPrefix)
+AddPrefabPostInit("roc_head", setNoWetPrefix)
+AddPrefabPostInit("roc_leg", setNoWetPrefix)
+AddPrefabPostInit("roc_tail", setNoWetPrefix)
+
+-- Hamlet city buildings
+AddPrefabPostInit("pig_shop_deli", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_general", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_hoofspa", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_produce", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_florist", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_antiquities", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_academy", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_arcane", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_weapons", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_hatshop", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_bank", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_tinker", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_cityhall", setNoWetPrefix)
+AddPrefabPostInit("pig_shop_cityhall_player", setNoWetPrefix)
+AddPrefabPostInit("pig_palace", setNoWetPrefix)
 
 modimport("scripts/modwaxwellintro.lua")
 modimport("scripts/entityscript_getdisplayname.lua")
