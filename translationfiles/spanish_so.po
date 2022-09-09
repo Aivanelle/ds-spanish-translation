@@ -200828,7 +200828,7 @@ msgstr "Arcanería \"Cerdus\""
 #. STRINGS.NAMES.PIG_SHOP_BANK
 msgctxt "STRINGS.NAMES.PIG_SHOP_BANK"
 msgid "Swinesbury Mineral Exchange"
-msgstr "Metalistería \"C&P\""
+msgstr "Banco de Cerdópolis"
 
 #. STRINGS.NAMES.PIG_SHOP_CITYHALL
 msgctxt "STRINGS.NAMES.PIG_SHOP_CITYHALL"
