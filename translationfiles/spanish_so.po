@@ -90265,7 +90265,7 @@ msgstr "Una muerte con sabor."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LUCY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LUCY"
 msgid "Hello... 'Lucy'. I'd like you to meet my sister."
-msgstr "Hola...\"Lucy\". Me gustaría que conocieras a mi hermana."
+msgstr "Hola... \"Lucy\". Me gustaría que conocieras a mi hermana."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.LUGGAGECHEST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.LUGGAGECHEST"
@@ -188965,7 +188965,7 @@ msgid ""
 msgstr ""
 "° Es apuesto, pero frágil. \n"
 "° Puede fragmentar su mente. \n"
-"° Familiarizado con la noche."
+"° Familiarizado con las sombras."
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.webber
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.webber"
@@ -189248,47 +189248,47 @@ msgstr "WX-78"
 #. STRINGS.CHARACTER_QUOTES.hidden
 msgctxt "STRINGS.CHARACTER_QUOTES.hidden"
 msgid "\"Don't look at me. I'm not ready yet.\""
-msgstr "\"No me mires. Aún no estoy preparado.\""
+msgstr "\"No me mires. Aún no estoy preparado\"."
 
 #. STRINGS.CHARACTER_QUOTES.wagstaff
 msgctxt "STRINGS.CHARACTER_QUOTES.wagstaff"
 msgid "\"Eureka! My destiny awaits!\""
-msgstr "\"¡Eureka! ¡Mi destino me espera!\""
+msgstr "\"¡Eureka! ¡Mi destino me espera!\"."
 
 #. STRINGS.CHARACTER_QUOTES.walani
 msgctxt "STRINGS.CHARACTER_QUOTES.walani"
 msgid "\"Forgive me if I don't get up. I don't want to.\""
-msgstr "\"Perdóname si no me levanto, es que no quiero.\""
+msgstr "\"Perdóname si no me levanto, es que no quiero\"."
 
 #. STRINGS.CHARACTER_QUOTES.warbucks
 msgctxt "STRINGS.CHARACTER_QUOTES.warbucks"
 msgid "\"I say Ol' chap! This will be a game to remember!\""
-msgstr "\"¡Amigo! ¡Este será un juego para recordar!\""
+msgstr "\"¡Amigo! ¡Este será un juego para recordar!\"."
 
 #. STRINGS.CHARACTER_QUOTES.warly
 msgctxt "STRINGS.CHARACTER_QUOTES.warly"
 msgid "\"Nothing worthwhile is ever done on an empty stomach!\""
-msgstr "\"¡Nada que valga la pena se hace con el estómago vacío!\""
+msgstr "\"¡Nada que valga la pena se hace con el estómago vacío!\"."
 
 #. STRINGS.CHARACTER_QUOTES.wathgrithr
 msgctxt "STRINGS.CHARACTER_QUOTES.wathgrithr"
 msgid "\"A test of my incredible acting!\""
-msgstr "\"¡Una prueba de mi increíble actuación!\""
+msgstr "\"¡Una prueba de mi increíble actuación!\"."
 
 #. STRINGS.CHARACTER_QUOTES.waxwell
 msgctxt "STRINGS.CHARACTER_QUOTES.waxwell"
 msgid "\"Freedom!\""
-msgstr "\"¡Libertad!\""
+msgstr "\"¡Libertad!\"."
 
 #. STRINGS.CHARACTER_QUOTES.webber
 msgctxt "STRINGS.CHARACTER_QUOTES.webber"
 msgid "\"We can overcome anything!\""
-msgstr "\"¡Podemos superar cualquier cosa!\""
+msgstr "\"¡Podemos superar cualquier cosa!\"."
 
 #. STRINGS.CHARACTER_QUOTES.wendy
 msgctxt "STRINGS.CHARACTER_QUOTES.wendy"
 msgid "\"Abigail? Come back! I'm not done playing with you.\""
-msgstr "\"¿Abigail? ¡Regresa! No he terminado de jugar contigo.\""
+msgstr "\"¿Abigail? ¡Regresa! No he terminado de jugar contigo\"."
 
 #. STRINGS.CHARACTER_QUOTES.wes
 msgctxt "STRINGS.CHARACTER_QUOTES.wes"
@@ -189298,52 +189298,52 @@ msgstr "..."
 #. STRINGS.CHARACTER_QUOTES.wheeler
 msgctxt "STRINGS.CHARACTER_QUOTES.wheeler"
 msgid "\"The whole world's mine to explore!\""
-msgstr "\"¡Tengo el mundo entero para explorar!\""
+msgstr "\"¡Tengo el mundo entero para explorar!\"."
 
 #. STRINGS.CHARACTER_QUOTES.wickerbottom
 msgctxt "STRINGS.CHARACTER_QUOTES.wickerbottom"
 msgid "\"Shhhh! No talking!\""
-msgstr "\"¡Shhhh! ¡Silencio!\""
+msgstr "\"¡Shhhh! ¡Silencio!\"."
 
 #. STRINGS.CHARACTER_QUOTES.wilba
 msgctxt "STRINGS.CHARACTER_QUOTES.wilba"
 msgid "\"MAKE KINGDOM PROUD!\""
-msgstr "\"¡ORGULLO Y GLORIA PARA EL REINO!\""
+msgstr "\"¡ORGULLO Y GLORIA PARA EL REINO!\"."
 
 #. STRINGS.CHARACTER_QUOTES.wilbur
 msgctxt "STRINGS.CHARACTER_QUOTES.wilbur"
 msgid "\"Ooo ooa oah ah!\""
-msgstr "\"¡Uhhh, uhh, ahh, ah!\""
+msgstr "\"¡Uhhh, uhh, ahh, ah!\"."
 
 #. STRINGS.CHARACTER_QUOTES.willow
 msgctxt "STRINGS.CHARACTER_QUOTES.willow"
 msgid "\"Things are so much prettier when they burn.\""
-msgstr "\"Todo es mucho más bonito cuando está en llamas.\""
+msgstr "\"Todo es mucho más bonito cuando está en llamas\"."
 
 #. STRINGS.CHARACTER_QUOTES.wilson
 msgctxt "STRINGS.CHARACTER_QUOTES.wilson"
 msgid "\"I will conquer it all with the power of my MIND!\""
-msgstr "\"¡Lo conquistaré todo con el poder de mi MENTE!\""
+msgstr "\"¡Lo conquistaré todo con el poder de mi MENTE!\"."
 
 #. STRINGS.CHARACTER_QUOTES.wolfgang
 msgctxt "STRINGS.CHARACTER_QUOTES.wolfgang"
 msgid "\"I am mighty! No one is mightier!\""
-msgstr "\"¡Soy fuerte! ¡Nadie es más fuerte que yo!\""
+msgstr "\"¡Soy fuerte! ¡Nadie es más fuerte que yo!\"."
 
 #. STRINGS.CHARACTER_QUOTES.woodie
 msgctxt "STRINGS.CHARACTER_QUOTES.woodie"
 msgid "\"That's a nice lookin' tree, eh?\""
-msgstr "\"Qué árbol tan bonito, ¿eh?\""
+msgstr "\"Qué árbol tan bonito, ¿eh?\"."
 
 #. STRINGS.CHARACTER_QUOTES.woodlegs
 msgctxt "STRINGS.CHARACTER_QUOTES.woodlegs"
 msgid "\"Don't ye mind th'scurvy. Yarr-harr-harr!\""
-msgstr "\"No te preocupes por el escorbuto. ¡Arr, arr, arrrr!\""
+msgstr "\"No te preocupes por el escorbuto. ¡Arr, arr, arrrr!\"."
 
 #. STRINGS.CHARACTER_QUOTES.wormwood
 msgctxt "STRINGS.CHARACTER_QUOTES.wormwood"
 msgid "\"Hello. Friend?\""
-msgstr "\"Hola. ¿Amigo?\""
+msgstr "\"Hola. ¿Amigo?\"."
 
 #. STRINGS.CHARACTER_QUOTES.wx78
 msgctxt "STRINGS.CHARACTER_QUOTES.wx78"
@@ -194463,7 +194463,7 @@ msgstr ""
 #. STRINGS.EPITAPHS.24
 msgctxt "STRINGS.EPITAPHS.24"
 msgid "An engraving of their last words: \"Hey, watch this.\""
-msgstr "Sus últimas palabras grabadas: \"Hey, miren esto\"."
+msgstr "Sus últimas palabras grabadas: \"Ey, miren esto\"."
 
 #. STRINGS.EPITAPHS.25
 msgctxt "STRINGS.EPITAPHS.25"
@@ -194503,7 +194503,7 @@ msgstr "Sus últimas palabras grabadas: \"Uh, bueno, adiós\"."
 #. STRINGS.EPITAPHS.31
 msgctxt "STRINGS.EPITAPHS.31"
 msgid "It reads \"Right behind you...\" and \"Made you look!\""
-msgstr "Dice: \"Detrás tuya...\" y \"¡Mira eso!\"."
+msgstr "Dice: \"Detrás tuya...\" y \"¡Te hice voltear!\"."
 
 #. STRINGS.EPITAPHS.32
 msgctxt "STRINGS.EPITAPHS.32"
@@ -194643,7 +194643,7 @@ msgstr "\"Y no vuelvas\"."
 #. STRINGS.EPITAPHS.6
 msgctxt "STRINGS.EPITAPHS.6"
 msgid "\"Milk. Eggs. Bacon.\""
-msgstr "\"Leche. Huevos. tocino.\""
+msgstr "\"Leche. Huevos. tocino\"."
 
 #. STRINGS.EPITAPHS.7
 msgctxt "STRINGS.EPITAPHS.7"
@@ -194653,7 +194653,7 @@ msgstr "¿Eh? ¡Ese es mi nombre!"
 #. STRINGS.EPITAPHS.8
 msgctxt "STRINGS.EPITAPHS.8"
 msgid "It reads \"You're standing on my face.\" Oops."
-msgstr "Dice: \"Estás encima de mi cara\". Uy."
+msgstr "Dice: \"Estás encima de mi cara\". Ups."
 
 #. STRINGS.EPITAPHS.9
 msgctxt "STRINGS.EPITAPHS.9"
@@ -200824,7 +200824,7 @@ msgctxt "STRINGS.NAMES.PIG_SHOP_ARCANE"
 msgid ""
 "The Flying Pig \n"
 "Arcane Shop"
-msgstr "Arcanería \"Cerdus\""
+msgstr "Arcanería Cerdus"
 
 #. STRINGS.NAMES.PIG_SHOP_BANK
 msgctxt "STRINGS.NAMES.PIG_SHOP_BANK"
@@ -200844,40 +200844,40 @@ msgstr "Mi ayuntamiento"
 #. STRINGS.NAMES.PIG_SHOP_DELI
 msgctxt "STRINGS.NAMES.PIG_SHOP_DELI"
 msgid "The Sterling Trough Deli"
-msgstr "Restaurante \"Sintocino\""
+msgstr "Restaurante Sintocino"
 
 #. STRINGS.NAMES.PIG_SHOP_FLORIST
 msgctxt "STRINGS.NAMES.PIG_SHOP_FLORIST"
 msgid ""
 "Miss Sow's\n"
 "Floral Arrangements"
-msgstr "Florería \"Cerñorita Flor\""
+msgstr "Florería Cerñorita Flor"
 
 #. STRINGS.NAMES.PIG_SHOP_GENERAL
 msgctxt "STRINGS.NAMES.PIG_SHOP_GENERAL"
 msgid ""
 "Pigg and Pigglet's\n"
 "General Store"
-msgstr "Tienda general \"Cerdiño\""
+msgstr "Tienda general Cerdiño"
 
 #. STRINGS.NAMES.PIG_SHOP_HATSHOP
 msgctxt "STRINGS.NAMES.PIG_SHOP_HATSHOP"
 msgid ""
 "The Sow's Ear \n"
 "Hat Shop"
-msgstr "Sombrerería \"Porkus\""
+msgstr "Sombrerería Porkus"
 
 #. STRINGS.NAMES.PIG_SHOP_HOOFSPA
 msgctxt "STRINGS.NAMES.PIG_SHOP_HOOFSPA"
 msgid ""
 "Curly Tails\n"
 "Mud Spa"
-msgstr "Spa \"Colas Rizadas\""
+msgstr "Spa Colas Rizadas"
 
 #. STRINGS.NAMES.PIG_SHOP_PRODUCE
 msgctxt "STRINGS.NAMES.PIG_SHOP_PRODUCE"
 msgid "Swinesbury Fine Grocer's"
-msgstr "Alimentos \"Estier&Col\""
+msgstr "Alimentos Estier&Col"
 
 #. STRINGS.NAMES.PIG_SHOP_TINKER
 msgctxt "STRINGS.NAMES.PIG_SHOP_TINKER"
@@ -200889,7 +200889,7 @@ msgctxt "STRINGS.NAMES.PIG_SHOP_WEAPONS"
 msgid ""
 "The Boar's Tusk \n"
 "Weapon Shop"
-msgstr "Armería \"Cerdo Pacífico\""
+msgstr "Armería Cerdo Pacífico"
 
 #. STRINGS.NAMES.PIKO
 msgctxt "STRINGS.NAMES.PIKO"
