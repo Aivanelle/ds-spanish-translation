@@ -4339,7 +4339,7 @@ msgstr "Huele a lágrimas de beefalo."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHAT"
 msgid "Protects your skin, but squashes your meticulous coiffure."
-msgstr "Protege la piel, pero aplasta el peinado minucioso."
+msgstr "Protege la piel pero aplasta el peinado minucioso."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHIVE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHIVE"
@@ -4785,7 +4785,7 @@ msgstr "¡Qué buitre más raro!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.GENERIC"
 msgid "Sharp but delicious."
-msgstr "Puntiagudo, pero es delicioso."
+msgstr "Puntiagudo pero delicioso."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.PICKED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.PICKED"
@@ -183376,7 +183376,7 @@ msgstr "UNA ROCA. ESTAMOS SALVADOS."
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LAWNORNAMENT.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LAWNORNAMENT.BURNING"
 msgid "RADIANT YET STILL REDUNDANT"
-msgstr "RADIANTE, PERO REDUNDANTE"
+msgstr "RADIANTE PERO REDUNDANTE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LAWNORNAMENT.BURNT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LAWNORNAMENT.BURNT"
@@ -184525,7 +184525,7 @@ msgstr "HE DESTRUIDO ALGO BONITO. JA."
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PETALS_EVIL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PETALS_EVIL"
 msgid "IT WASN'T BEAUTIFUL, BUT I STILL DESTROYED IT. HA."
-msgstr "NO ERA BONITA, PERO LA HE DESTRUIDO. JA."
+msgstr "NO ERA BONITA Y AÚN ASÍ LA DESTRUÍ. JA."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PHEROMONESTONE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PHEROMONESTONE"
@@ -187591,7 +187591,7 @@ msgstr "HÁBLAME, MÁQUINA"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_SW_CRANK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_SW_CRANK"
 msgid "PRIMITIVE, BUT EFFECTIVE"
-msgstr "PRIMITIVA, PERO EFICAZ"
+msgstr "PRIMITIVA PERO EFICAZ"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_SW_POTATO
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TELEPORTATO_SW_POTATO"
@@ -188963,7 +188963,7 @@ msgid ""
 "*Can split his mind into pieces \n"
 "*On a first-name basis with the night"
 msgstr ""
-"° Es apuesto, pero frágil. \n"
+"° Es elegante pero delicado. \n"
 "° Puede fragmentar su mente. \n"
 "° Familiarizado con las sombras."
 
@@ -195738,7 +195738,7 @@ msgstr "A menos que te acerques demasiado. Entonces..."
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16"
 msgid "Well, there's a reason I stay so dapper."
-msgstr "Bueno, hay una razón por la que sigo siendo tan pulcro."
+msgstr "Bueno, hay una razón por la que conservo mi elegancia."
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17"
@@ -205735,7 +205735,7 @@ msgstr "Un sólido arrecife confeccionado."
 #. STRINGS.RECIPE_DESC.ARMORMARBLE
 msgctxt "STRINGS.RECIPE_DESC.ARMORMARBLE"
 msgid "It's heavy, but it will protect you."
-msgstr "Es pesada, pero te protegerá."
+msgstr "Es pesada pero te protegerá."
 
 #. STRINGS.RECIPE_DESC.ARMOROBSIDIAN
 msgctxt "STRINGS.RECIPE_DESC.ARMOROBSIDIAN"
@@ -205785,7 +205785,7 @@ msgstr "Fuerte y robusta."
 #. STRINGS.RECIPE_DESC.ARMOR_SANITY
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_SANITY"
 msgid "Protects your body, but not your mind."
-msgstr "Protege tu cuerpo, pero no tu mente."
+msgstr "Protege tu cuerpo pero no tu mente."
 
 #. STRINGS.RECIPE_DESC.ARMOR_SNAKESKIN
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_SNAKESKIN"
@@ -207785,7 +207785,7 @@ msgstr "Frío."
 #. STRINGS.RECIPE_DESC.SHELVES_GLASS
 msgctxt "STRINGS.RECIPE_DESC.SHELVES_GLASS"
 msgid "Breakable yet practical."
-msgstr "Rompible, pero práctica."
+msgstr "Rompible pero práctica."
 
 #. STRINGS.RECIPE_DESC.SHELVES_HATTREE
 msgctxt "STRINGS.RECIPE_DESC.SHELVES_HATTREE"
@@ -207815,7 +207815,7 @@ msgstr "Úsala para alcanzar el estante más alto."
 #. STRINGS.RECIPE_DESC.SHELVES_MARBLE
 msgctxt "STRINGS.RECIPE_DESC.SHELVES_MARBLE"
 msgid "Classic, yet avant-garde."
-msgstr "Clásica, pero vanguardista."
+msgstr "Clásica pero vanguardista."
 
 #. STRINGS.RECIPE_DESC.SHELVES_METAL
 msgctxt "STRINGS.RECIPE_DESC.SHELVES_METAL"
@@ -207970,7 +207970,7 @@ msgstr "¡Cowabunga, amigos!"
 #. STRINGS.RECIPE_DESC.SWEATERVEST
 msgctxt "STRINGS.RECIPE_DESC.SWEATERVEST"
 msgid "Rugged, yet stylish."
-msgstr "Tosco, pero elegante."
+msgstr "Tosco pero elegante."
 
 #. STRINGS.RECIPE_DESC.SWINGING_LIGHT1
 msgctxt "STRINGS.RECIPE_DESC.SWINGING_LIGHT1"
@@ -208150,7 +208150,7 @@ msgstr "Lujosamente suave, lujosamente tropical."
 #. STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER
 msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER"
 msgid "Warm, but not that warm."
-msgstr "Caliente, pero no tanto."
+msgstr "Caliente pero no tanto."
 
 #. STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
 msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_WINTER"
@@ -208270,7 +208270,7 @@ msgstr "El cofre de Davy Jones."
 #. STRINGS.RECIPE_DESC.WATERMELONHAT
 msgctxt "STRINGS.RECIPE_DESC.WATERMELONHAT"
 msgid "Refreshing, but sticky."
-msgstr "Refrescante, pero pegajosa."
+msgstr "Refrescante pero pegajosa."
 
 #. STRINGS.RECIPE_DESC.WATHGRITHRHAT
 msgctxt "STRINGS.RECIPE_DESC.WATHGRITHRHAT"
