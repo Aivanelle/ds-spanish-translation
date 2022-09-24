@@ -236,3 +236,18 @@ STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID_ES =
 		PLURAL = {"Estas %s son demasiado.", "Estas %s son demasiado cálidas para mi gusto."}
 	}
 }
+
+STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID_ES =
+{
+	MALE =
+	{
+		SINGULAR = {"Este %s está destruyendo mi moral.", "Este %s arde como el sol."},
+		PLURAL = {"Estos %s están destruyendo mi moral.", "Estos %s arden como el sol."}
+	},
+	
+	FEMALE =
+	{
+		SINGULAR = {"Esta %s está destruyendo mi moral.", "Esta %s arde como el sol."},
+		PLURAL = {"Estas %s están destruyendo mi moral.", "Estas %s arden como el sol."}
+	}
+}
