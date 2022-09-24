@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 14800,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 10980,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -54551,12 +54551,12 @@ msgstr "¡Fresco! Eh... tal vez demasiado fresco."
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BUILD.MOUNTED"
 msgid "I must first dismount from my mighty steed."
-msgstr ""
+msgstr "Primero debo bajarme de mi poderoso corcel."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Gasp! My furs!"
-msgstr "¡Glub! ¡Mis pieles!"
+msgstr "¡Ah! ¡Mis pieles!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CHANGEIN.GENERIC"
@@ -54566,17 +54566,17 @@ msgstr "Ahí es donde guardo mis pieles favoritas."
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.COOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.COOK.GENERIC"
 msgid "Alas! Bested by cookware!"
-msgstr "¡Ay! ¡Derrotado por utensilios de cocina!"
+msgstr "¡Imposible! ¡Derrotada por utensilios de cocina!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.COOK.TOOFAR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.COOK.TOOFAR"
 msgid "I must close the gap between us!"
-msgstr "¡Debo cerrar la brecha entre nosotros!"
+msgstr "¡Debo reducir la brecha entre nosotros!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.DRAW.NOIMAGE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "The muses will not visit me if I do not place an item first."
-msgstr ""
+msgstr "Las musas no me visitarán si no coloco un objeto primero."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.BUSY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.BUSY"
@@ -54596,17 +54596,17 @@ msgstr "Un sueño tan dulce...Igual más tarde."
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.INUSE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.INUSE"
 msgid "I'll need to be faster than that in battle!"
-msgstr ""
+msgstr "¡Tengo que ser más rápida en la batalla!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I'll only ride it if it's the victor."
-msgstr ""
+msgstr "Solo me montaré si es el vencedor."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.REPAIRBOAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.REPAIRBOAT.GENERIC"
 msgid "My vessel is renewed!"
-msgstr "¡Mi nave está como nueva!"
+msgstr "¡Mi navío está como nuevo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.RUMMAGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.RUMMAGE.GENERIC"
@@ -54616,7 +54616,7 @@ msgstr "¡Si yo no puedo hacerlo, no se puede hacer!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SADDLE.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SADDLE.TARGETINCOMBAT"
 msgid "I'll only ride it if it's the victor."
-msgstr ""
+msgstr "Solo me montaré si es el vencedor."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHAVE.AWAKEBEEFALO"
@@ -54626,7 +54626,7 @@ msgstr "Lo esquilaré cuando duerma."
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHAVE.GENERIC"
 msgid "Unshaveworthy."
-msgstr "No merece la pena afeitar."
+msgstr "No es digno de ser afeitado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHAVE.NOBITS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHAVE.NOBITS"
@@ -54636,17 +54636,17 @@ msgstr "¡Pero no hay nada que recortar!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHOP.CANTPAY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHOP.CANTPAY"
 msgid "I vow to win more treasures and return!"
-msgstr ""
+msgstr "¡Juro conseguir más tesoros y regresar!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SHOP.GENERIC"
 msgid "It has been kept from me!"
-msgstr ""
+msgstr "¡Me lo han negado hasta ahora!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.STORE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.STORE.GENERIC"
 msgid "It is already brimming with goods."
-msgstr "Ya está lleno de bienes."
+msgstr "Ya está lleno de mercancía."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.STORE.NOTALLOWED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.STORE.NOTALLOWED"
@@ -54666,47 +54666,47 @@ msgstr "Ya poseo ese conocimiento."
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEDOOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEDOOR.GENERIC"
 msgid "It cannot be opened!"
-msgstr ""
+msgstr "¡No se puede abrir!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEDOOR.LOCKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEDOOR.LOCKED"
 msgid "I will unlock it. This I vow!"
-msgstr ""
+msgstr "Lo desbloquearé. ¡Lo juro!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.WRAPBUNDLE.EMPTY"
 msgid "I cannot wrap that which does not exist!"
-msgstr ""
+msgstr "¡No puedo envolver aquello que no existe!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.WRITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.WRITE.GENERIC"
 msgid "I fear I cannot!"
-msgstr "¡No tengo miedo!"
+msgstr "¡Me temo que no puedo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL_GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL_GENERIC"
 msgid "If I can't do it, it can't be done."
-msgstr "¡Si yo no puedo hacerlo, no se puede hacer!"
+msgstr "Si yo no puedo hacerlo, no se puede hacer."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_ALARMOVER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_ALARMOVER"
 msgid "The battle is over."
-msgstr ""
+msgstr "La batalla ha terminado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_BATS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_BATS"
 msgid "Flying beasts! To arms!"
-msgstr ""
+msgstr "¡Bestias voladoras! ¡A las armas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_OTHERWORLD_DEED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_OTHERWORLD_DEED"
 msgid "A home in another land."
-msgstr ""
+msgstr "Una morada de otras tierras."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_UNDERLEAFCANOPY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUCE_UNDERLEAFCANOPY"
 msgid "The trees have consumed the sun!"
-msgstr ""
+msgstr "¡Los árboles han engullido al sol!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ACCOMPLISHMENT"
@@ -54726,7 +54726,7 @@ msgstr "De vuelta al otro mundo. ¡La victoria será mía!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BEES
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BEES"
 msgid "Back, wee speared creatures!"
-msgstr "¡Atrás, pequeñas criaturas con lanza!"
+msgstr "¡Atrás, criaturas con lanzas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_DAMAGED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_DAMAGED"
@@ -54736,17 +54736,17 @@ msgstr "¡Mi navío está herido!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_SINKING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_SINKING"
 msgid "The sea pulls me toward Hel!"
-msgstr "¡El mar me lleva al infierno!"
+msgstr "¡Los mares me arrastran al infierno!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_SINKING_IMMINENT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_SINKING_IMMINENT"
 msgid "These black depths will soon claim me!"
-msgstr "¡Estas negras profundidades me reclamarán pronto!"
+msgstr "¡Las negras profundidades me reclamarán pronto!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOOMERANG"
 msgid "Urg! I must master the curved weapon."
-msgstr "¡Agh! Tengo que dominar el arma curva."
+msgstr "¡Argh! Debo dominar el arma curvada."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT"
@@ -54760,7 +54760,7 @@ msgid ""
 "I can repair this."
 msgstr ""
 "\n"
-"Puedo reparar esto."
+"Puedo reparar eso."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CHARLIE"
@@ -54790,22 +54790,22 @@ msgstr "Me faltan las provisiones necesarias."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DAMP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DAMP"
 msgid "Slick for battle."
-msgstr "Mancha para la batalla."
+msgstr "Escurridiza para la batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEERCLOPS"
 msgid "A worthy foe approaches!"
-msgstr "¡Se acerca un enemigo digno!"
+msgstr "¡Se acerca un digno enemigo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEHUMID.1"
 msgid "The haze has lifted."
-msgstr ""
+msgstr "La humedad desaparece."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DUSK"
 msgid "The sun is setting. Darkness waits nearby."
-msgstr "Se está poniendo el sol. La oscuridad espera cerca."
+msgstr "El sol se pone. La oscuridad acecha cerca."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.GENERIC"
@@ -54815,17 +54815,17 @@ msgstr "¡La carne hace que mi corazón cante!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.INVALID
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.INVALID"
 msgid "That is not food fit for a warrior!"
-msgstr "¡No es comida apropiada para una guerrera!"
+msgstr "¡No es comida digna de una guerrera!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.PAINFUL"
 msgid "Ohh, I don't feel well."
-msgstr "Ah, no me siento bien."
+msgstr "Oh, no me siento bien."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.SPOILED"
 msgid "Ugh. Fresh would be better."
-msgstr "Agh. Fresca estaría mejor."
+msgstr "Ugh. Algo fresco estaría mejor."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.STALE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.STALE"
@@ -54835,7 +54835,7 @@ msgstr "Era una bestia rancia."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.YUCKY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.YUCKY"
 msgid "That food is not fit for a warrior!"
-msgstr "¡Esta comida no es apropiada para una guerrera!"
+msgstr "¡Esa comida no es digna de una guerrera!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_DARK"
@@ -54845,12 +54845,12 @@ msgstr "Y cae el telón."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_LIGHT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_LIGHT"
 msgid "I step into the light!"
-msgstr "¡Entro en la luz!"
+msgstr "¡Que enciendan los focos!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FAN_OUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FAN_OUT"
 msgid "I've lost another fan!"
-msgstr "¡Se acabó el aire!"
+msgstr "¡No me puedo quedar sin aire!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FREEDOM"
@@ -54860,17 +54860,17 @@ msgstr "¡Libertad! ¡La saga continúa!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GAS_DAMAGE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_GAS_DAMAGE"
 msgid "Ack! Kaff! Can't...breathe!"
-msgstr ""
+msgstr "¡Agh! ¡Cof! ¡No puedo... respirar!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER"
 msgid "Mine nostrils chafe with itchiness!"
-msgstr ""
+msgstr "¡Me pican los orificios nasales!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER_OFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HAYFEVER_OFF"
 msgid "The smoke has cleared!"
-msgstr ""
+msgstr "¡La adversidad ha desaparecido!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HIGHRESEARCH"
@@ -54880,7 +54880,7 @@ msgstr "Soy una artesana excelente."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HOT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HOT"
 msgid "The hot sun tires me."
-msgstr "El sol me cansa."
+msgstr "El sol me debilita."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HOUNDS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HOUNDS"
@@ -54890,7 +54890,7 @@ msgstr "Las bestias se acercan..."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HOUSE_DOOR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HOUSE_DOOR"
 msgid "A lack of permit prevents me from my destiny!"
-msgstr ""
+msgstr "¡La falta de permisos me alejan de mi destino!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNGRY"
@@ -54910,12 +54910,12 @@ msgstr "He perdido la pista."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNT_LOST_TRAIL_SPRING"
 msgid "It's too muddy for trailing."
-msgstr "Está demasiado embarrado para caminar."
+msgstr "Ahora es imposible de rastrear."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_INSUFFICIENTFERTILIZER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_INSUFFICIENTFERTILIZER"
 msgid "More droppings for you?"
-msgstr "¿Quieres más excrementos?"
+msgstr "¿Más excrementos para usted?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_INV_FULL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_INV_FULL"
@@ -54925,12 +54925,12 @@ msgstr "¡Estoy llevando todo lo que puedo!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KNOCKEDOUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_KNOCKEDOUT"
 msgid "Ugh, my head."
-msgstr "Ay, mi cabeza."
+msgstr "Ugh, mi cabeza."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "I rode in on a bolt lightning."
-msgstr "He montado sobre un rayo."
+msgstr "Yo he cabalgado los mismísimos rayos."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LOWRESEARCH"
@@ -54965,27 +54965,27 @@ msgstr "¡Este día me sonríe!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOSQUITOS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOSQUITOS"
 msgid "Away, tiny demons!"
-msgstr "¡Largo, demonios diminutos!"
+msgstr "¡Largo, diminutos demonios!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_DOOR_FOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_DOOR_FOUND"
 msgid "The door has been revealed!!"
-msgstr ""
+msgstr "¡¡La puerta ha sido revelada!!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND"
 msgid "My time has been wasted!"
-msgstr ""
+msgstr "¡He desperdiciado mi tiempo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_FOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_FOUND"
 msgid "I have discovered something!"
-msgstr ""
+msgstr "¡He descubierto algo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_NOREWARD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MYSTERY_NOREWARD"
 msgid "I am unaccustomed to disappointment!!"
-msgstr ""
+msgstr "¡¡No tengo por costumbre lidiar con la decepción!!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NODANGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NODANGERSIESTA"
@@ -54995,7 +54995,7 @@ msgstr "¡La batalla va a comenzar, no habrá descanso!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NODANGERSLEEP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NODANGERSLEEP"
 msgid "It's not safe to sleep. Use the spear!"
-msgstr "No es seguro para dormir. ¡Usa la lanza!"
+msgstr "No es seguro para dormir. ¡Hora de combatir!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NODAYSLEEP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NODAYSLEEP"
@@ -55010,17 +55010,17 @@ msgstr "Todavía no descansaré."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOHUNGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOHUNGERSIESTA"
 msgid "I'd like a meat snack first."
-msgstr "Preferiría comer primero un aperitivo de carne."
+msgstr "Preferiría algo de carne primero."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOHUNGERSLEEP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOHUNGERSLEEP"
 msgid "I'll starve overnight! Feast first."
-msgstr "¡Tendré hambre durante la noche! El banquete primero."
+msgstr "¡Tendré hambre durante la noche! Un banquete primero."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NONIGHTSIESTA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NONIGHTSIESTA"
 msgid "No napping in the moonlight."
-msgstr "No se puede dormir la siesta bajo la luna."
+msgstr "Las siestas no se realizan bajo la luna."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NONIGHTSIESTA_CAVE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NONIGHTSIESTA_CAVE"
@@ -55035,22 +55035,22 @@ msgstr "No dormiré en las llamas."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOTHING_FOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NOTHING_FOUND"
 msgid "This territory does not contain that which I seek."
-msgstr ""
+msgstr "Este territorio no ofrece lo que busco."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NO_TRAP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_NO_TRAP"
 msgid "Thankfully, I am light of foot."
-msgstr "Afortunadamente, soy ligera de pies."
+msgstr "Afortunadamente, soy de pies ligeros."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_OTHER_WORLD_PLANT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_OTHER_WORLD_PLANT"
 msgid "Such a plant could never thrive in this realm!"
-msgstr "¡Esta planta nunca florecerá en este reino!"
+msgstr "¡Dicha planta nunca florecerá en este reino!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_OTHER_WORLD_TREASURE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_OTHER_WORLD_TREASURE"
 msgid "This map describes another land."
-msgstr "Este mapa describe otra tierra."
+msgstr "Un mapa que describe otra tierra."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PECKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PECKED"
@@ -55060,32 +55060,32 @@ msgstr "¡Largo, bestia con pico!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.1"
 msgid "Alas!"
-msgstr ""
+msgstr "¡Ah!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.2"
 msgid "Alack!"
-msgstr ""
+msgstr "¡Qué asco!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.3
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PICKPOOP.3"
 msgid "It disturbs mine soul!"
-msgstr ""
+msgstr "¡Corrompe mi alma!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PUGALISK_INVULNERABLE.1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PUGALISK_INVULNERABLE.1"
 msgid "It is nigh on invulnerable!"
-msgstr ""
+msgstr "¡Es prácticamente invulnerable!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PUGALISK_INVULNERABLE.2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PUGALISK_INVULNERABLE.2"
 msgid "Its hide is unyielding!"
-msgstr ""
+msgstr "¡Su piel es inquebrantable!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PUGALISK_INVULNERABLE.3
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_PUGALISK_INVULNERABLE.3"
 msgid "I shall beat you yet!"
-msgstr ""
+msgstr "¡Aún así te venceré!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_QUAKE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_QUAKE"
@@ -55100,12 +55100,12 @@ msgstr "El poder del conocimiento es magnífico."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ROOM_STUCK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ROOM_STUCK"
 msgid "I shall not trap myself within these walls!"
-msgstr ""
+msgstr "¡No pienso dejar que estos muros me atrapen!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SHARX
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SHARX"
 msgid "Foes from the froth!"
-msgstr "¡Enemigos salidos de la espuma!"
+msgstr "¡Enemigos de los mares!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SHELTER"
@@ -55115,22 +55115,22 @@ msgstr "¡Ajá! ¡Un refugio!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SNEEZE"
 msgid "aaAAAH...cho!"
-msgstr ""
+msgstr "¡aaAAAh... chú!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SOAKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SOAKED"
 msgid "I'm nearly drowned!"
-msgstr "¡Casi estoy ahogada!"
+msgstr "¡Me ahogo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SUITUP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SUITUP"
 msgid "For Valhalla!"
-msgstr ""
+msgstr "¡Por el Valhalla!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TAXDAY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TAXDAY"
 msgid "The hour of tax collection is at hand!"
-msgstr ""
+msgstr "¡Es momento de recaudar impuestos!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_THORNS"
@@ -55140,27 +55140,27 @@ msgstr "¡Agh, me he pinchado!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOOLCORRODED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOOLCORRODED"
 msgid "Unseen forces have conquered my tool!"
-msgstr ""
+msgstr "¡Fuerzas desconocidas han conquistado mi herramienta!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOOL_SLIP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOOL_SLIP"
 msgid "Slippery devil!"
-msgstr "¡Diablo resbaladizo!"
+msgstr "¡Maldición resbaladiza!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID.1"
 msgid "This %s is crushing my spirit."
-msgstr ""
+msgstr "Esto está destruyendo mi moral."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID.2
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s burns like Sol."
-msgstr ""
+msgstr "Estoy que ardo como el sol."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TORCH_OUT"
 msgid "My light is quenched!"
-msgstr "¡Mi luz se apaga!"
+msgstr "¡Mi luz se ha extinguido!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TRAP_WENT_OFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TRAP_WENT_OFF"
@@ -55170,7 +55170,7 @@ msgstr "Eso no era parte del plan."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TRAWL_FULL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TRAWL_FULL"
 msgid "My net has been filled with a marvelous bounty."
-msgstr "Mi red se ha llenado de maravillosos botines."
+msgstr "Mi red se ha llenado de maravillosas mercancías."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TREASURE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TREASURE"
@@ -55180,7 +55180,7 @@ msgstr "¡El mapa habla de un tesoro!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TURFTOOHARD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TURFTOOHARD"
 msgid "Ugh! As stubborn as a dwarf!"
-msgstr ""
+msgstr "¡Ugh! ¡Tan terco como un enano!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_UNIMPLEMENTED"
@@ -55190,12 +55190,12 @@ msgstr "No es de este mundo."
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_VOLCANO_ERUPT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_VOLCANO_ERUPT"
 msgid "Is Ragnarok upon me?!"
-msgstr "¿¡Me está atacando Ragnarok!?"
+msgstr "¿¡Estoy presenciando el Ragnarök!?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WAVE_BOOST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WAVE_BOOST"
 msgid "Carry me forth!"
-msgstr "¡Llévame hacia delante!"
+msgstr "¡Hacia el horizonte!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WET"
@@ -55223,6 +55223,7 @@ msgid "I cannot read these rough waters..."
 msgstr "No puedo leer estas aguas agitadas..."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WORMHOLE
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_WORMHOLE"
 msgid "That was a sloppy adventure."
 msgstr "Ha sido una aventura descuidada."
@@ -55230,17 +55231,17 @@ msgstr "Ha sido una aventura descuidada."
 #. STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.GENERIC"
 msgid "Valhalla awaits!"
-msgstr "¡Valhalla te espera!"
+msgstr "¡El Valhalla te espera!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.PIG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.PIG"
 msgid "I'm having pig tonight!"
-msgstr "¡Voy a tener cerdo esta noche!"
+msgstr "¡Comeré cerdo esta noche!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.PREY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.PREY"
 msgid "Die bravely, feeble foe!"
-msgstr "¡Muere con valor, enemigo endeble!"
+msgstr "¡Muere con valor, endeble enemigo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.SPIDER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.BATTLECRY.SPIDER"
@@ -55255,7 +55256,7 @@ msgstr "¡Prepárate para ser asesinada!"
 #. STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.GENERIC"
 msgid "Odin will have you yet!"
-msgstr "¡Odin te vencerá!"
+msgstr "¡Odín te vencerá!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.PIG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.PIG"
@@ -55270,7 +55271,7 @@ msgstr "¡Te dejaré marchar esta vez!"
 #. STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.SPIDER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.SPIDER"
 msgid "Leggy coward."
-msgstr "Cobarde, no huyas."
+msgstr "Cobarde."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.SPIDER_WARRIOR"
