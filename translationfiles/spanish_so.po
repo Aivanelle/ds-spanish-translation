@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 11180,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 11280,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -54840,12 +54840,12 @@ msgstr "¡Esa comida no es digna de una guerrera!"
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_DARK"
 msgid "And the curtain falls."
-msgstr "Y cae el telón."
+msgstr "Y se cierra el telón."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_LIGHT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_LIGHT"
 msgid "I step into the light!"
-msgstr "¡Que enciendan los focos!"
+msgstr "¡Se abre el telón!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FAN_OUT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FAN_OUT"
@@ -56286,7 +56286,7 @@ msgstr "Necesitaba un corte de pelo."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUSH_VINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUSH_VINE.GENERIC"
 msgid "This bush has helm head."
-msgstr "Este arbusto está despeinado."
+msgstr "Ese arbusto está despeinado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUTTER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUTTER"
@@ -56301,7 +56301,7 @@ msgstr "Es más o menos bonita."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUTTERFLY.HELD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUTTERFLY.HELD"
 msgid "Caught!"
-msgstr "¡Atrapada!"
+msgstr "¡Te tengo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUTTERFLYMUFFIN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUTTERFLYMUFFIN"
@@ -56316,7 +56316,7 @@ msgstr "Un bonito recuerdo."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUZZARD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUZZARD"
 msgid "You and I, we meat feast together."
-msgstr "Tú y yo, juntos formamos un festín."
+msgstr "Tú y yo, juntos nos damos un festín."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CACTUS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CACTUS.GENERIC"
@@ -56331,7 +56331,7 @@ msgstr "Regresará."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CACTUS_FLOWER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CACTUS_FLOWER"
 msgid "Beauty from brawn."
-msgstr "Maña con belleza."
+msgstr "La belleza de la brutalidad."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CACTUS_MEAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CACTUS_MEAT"
@@ -56346,12 +56346,12 @@ msgstr "Carne de planta-espada asada."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CALIFORNIAROLL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CALIFORNIAROLL"
 msgid "That's just a morsel of fish food."
-msgstr "Es solo un bocado de pescado cocido."
+msgstr "Son solo bocados de pescado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.EMBERS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.EMBERS"
 msgid "The fire's nearly dead."
-msgstr "Este fuego está casi muerto."
+msgstr "Ese fuego está casi muerto."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAMPFIRE.GENERIC"
@@ -56381,7 +56381,7 @@ msgstr "Y la luz se apaga."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CANDLEHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CANDLEHAT"
 msgid "My hands are now free to pillage ruins!"
-msgstr ""
+msgstr "¡Mis manos ahora podrán saquear ruinas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CANE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CANE"
@@ -56401,7 +56401,7 @@ msgstr "Sería mejor con cuernos."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARGOBOAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARGOBOAT"
 msgid "A boat fit for a long journey."
-msgstr "Un barco apropiado para un largo viaje."
+msgstr "Un navío apropiado para un largo viaje."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT"
@@ -56411,7 +56411,7 @@ msgstr "¿Dónde está la proteína?"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT_COOKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT_COOKED"
 msgid "Sad cooked carrots."
-msgstr "Pobres zanahorias cocidas."
+msgstr "Unas tristes zanahorias cocidas."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT_PLANTED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT_PLANTED"
@@ -56421,22 +56421,22 @@ msgstr "Una pequeña raíz vegetal."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARROT_SEEDS"
 msgid "Tiny nature bits."
-msgstr "Pedacitos pequeños de la naturaleza."
+msgstr "Pequeños trozos de naturaleza."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOON"
 msgid "Oh! Cute meat with fur."
-msgstr "¡Ah! Bonita carne con piel."
+msgstr "¡Oh! Bonita carne con piel."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOONDEN.EMPTY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOONDEN.EMPTY"
 msgid "She fought bravely. Alas, she is gone."
-msgstr "Luchó con valentía. Pero ay, se fue."
+msgstr "Luchó con valentía. Una lástima que se haya ido."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOONDEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOONDEN.GENERIC"
 msgid "Cute meat lives there."
-msgstr "Aquí vive carne bonita."
+msgstr "Ahí vive carne bonita."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOONHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CATCOONHAT"
@@ -56446,17 +56446,17 @@ msgstr "¡Un gorro peludo! Te bendigo, carne bonita."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_BANANA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_BANANA"
 msgid "Monkey food."
-msgstr "Comida de mono."
+msgstr "Comida para monos."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_BANANA_COOKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_BANANA_COOKED"
 msgid "Warmed monkey food."
-msgstr "Carne de mono caliente."
+msgstr "Comida para monos caliente."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_BANANA_TREE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_BANANA_TREE"
 msgid "A flimsy monkey tree."
-msgstr "Un árbol endeble para monos."
+msgstr "Un endeble árbol para monos."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE.GENERIC"
@@ -56466,22 +56466,22 @@ msgstr "¿Qué tesoros yacen debajo?"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE.OPEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE.OPEN"
 msgid "To the underworld!"
-msgstr "¡A los infiernos!"
+msgstr "¡Directo a Helheim!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_EXIT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_EXIT"
 msgid "Back to the open skies!"
-msgstr "¡Vuelta al cielo abierto!"
+msgstr "¡De vuelta al cielo abierto!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_EXIT_ROC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_EXIT_ROC"
 msgid "I will conquer this stone."
-msgstr ""
+msgstr "Conquistaré esa piedra."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_FERN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_FERN"
 msgid "Foliage from the dark ages."
-msgstr "Follaje de la Edad Media."
+msgstr "Follaje de épocas oscuras."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVIAR"
@@ -56491,12 +56491,13 @@ msgstr "Hubiera preferido el pescado."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CEVICHE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CEVICHE"
 msgid "Fancy for my taste, but it'll do."
-msgstr "Demasiado elaborado para mi gusto, pero valdrá."
+msgstr "Muy elaborado para mi gusto, pero servirá."
 
+# Logi o Loge, gigante de la mitología escandinava, deidad y personificación del fuego.
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHARCOAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHARCOAL"
 msgid "Loot from Loge the demigod."
-msgstr "Botín de Loge, el semidiós."
+msgstr "Reglo de Loge, el semidiós."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSJUNK1
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSJUNK1"
@@ -56531,17 +56532,17 @@ msgstr "El globo ocular está cansado."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHICKEN.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHICKEN.DEAD"
 msgid "It has met a death worthy of its life."
-msgstr ""
+msgstr "Ha tenido una muerte digna de su vida."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHICKEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHICKEN.GENERIC"
 msgid "Walking meat."
-msgstr ""
+msgstr "Carne andante."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHICKEN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHICKEN.SLEEPING"
 msgid "I wish you foul dreams, fowl bird."
-msgstr ""
+msgstr "Da alas a tus sueños, pajarraco."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHIMINEA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHIMINEA"
@@ -56551,42 +56552,42 @@ msgstr "¿Qué tipo de fuego se esconde en un agujero?"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHITIN"
 msgid "The feeble armor of the bug."
-msgstr ""
+msgstr "La frágil armadura de un insecto."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CIRCLINGSEAGULL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CIRCLINGSEAGULL"
 msgid "Sky filth!"
-msgstr "¡Las ratas del aire!"
+msgstr "¡Ratas aéreas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_HAMMER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_HAMMER"
 msgid "The Mjolnir of the city."
-msgstr ""
+msgstr "El Mjölnir de la ciudad."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.GENERIC"
 msgid "It shines bright this night."
-msgstr ""
+msgstr "Brilla con fuerza esta noche."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.ON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CITY_LAMP.ON"
 msgid "Nary a glimmer."
-msgstr ""
+msgstr "Apenas ofrece un resplandor."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLAWPALMTREE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLAWPALMTREE"
 msgid "The hand of a giant?"
-msgstr ""
+msgstr "¿Las garras de un jotun?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLAWPALMTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLAWPALMTREE_SAPLING"
 msgid "May it grow as tall as Thor."
-msgstr ""
+msgstr "Que crezca tanto como Thor."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLIPPINGS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLIPPINGS"
 msgid "Debris from hard work."
-msgstr ""
+msgstr "Despojos del duro trabajo."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLOTHSAIL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CLOTHSAIL"
@@ -56601,7 +56602,7 @@ msgstr "¡El fruto arrojará pronto su fuego!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONADE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONADE.GENERIC"
 msgid "This is no ordinary nut!"
-msgstr "¡Este fruto no es ordinario!"
+msgstr "¡No es un fruto ordinario!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT.GENERIC"
@@ -56611,12 +56612,12 @@ msgstr "El más duro de los frutos."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT.PLANTED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT.PLANTED"
 msgid "The hard fruit gave way to a flimsy tree."
-msgstr "El fruto duro ha dado paso a un árbol enclenque."
+msgstr "El más duro de los frutos resultó ser un árbol endeble."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT_COOKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT_COOKED"
 msgid "I shall feast on this large nut."
-msgstr "Me daré un festín con este fruto grande."
+msgstr "Ese gran fruto sería un gran festín."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT_HALVED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COCONUT_HALVED"
@@ -56631,12 +56632,12 @@ msgstr "Amargo y energizante."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBEANS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBEANS"
 msgid "I take mine black."
-msgstr "A mí me gusta el café solo."
+msgstr "A mí me gusta el café negro."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBEANS_COOKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBEANS_COOKED"
 msgid "It smells energizing."
-msgstr "Huele vigorizante."
+msgstr "Huelen vigorizante."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBOT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBOT"
@@ -56651,7 +56652,7 @@ msgstr "¿Fuiste capaz al menos de luchar?"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBUSH.GENERIC"
 msgid "It bears strange volcano fruits."
-msgstr "Tiene extrañas frutas de volcán."
+msgstr "Produce extraños frutos volcánicos."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBUSH.PICKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COFFEEBUSH.PICKED"
@@ -56666,7 +56667,7 @@ msgstr "¡Arbusto debilucho!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLDFIRE.EMBERS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLDFIRE.EMBERS"
 msgid "The fire's nearly dead."
-msgstr "Este fuego está casi muerto."
+msgstr "Ese fuego está casi muerto."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLDFIRE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COLDFIRE.GENERIC"
@@ -56756,7 +56757,7 @@ msgstr "Sur."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.SE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.SE"
 msgid "Southeast."
-msgstr "Sureste."
+msgstr "Sudeste."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.SW
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.SW"
@@ -56771,7 +56772,7 @@ msgstr "Oeste."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CONSTRUCTION_PERMIT"
 msgid "Another room is mine for the taking!"
-msgstr ""
+msgstr "¡Ya puedo conquistar otra habitación!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKEDMANDRAKE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKEDMANDRAKE"
@@ -56786,12 +56787,12 @@ msgstr "¡Carneee!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKEDMONSTERMEAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKEDMONSTERMEAT"
 msgid "Monster beast steak."
-msgstr "Filete de monstruo."
+msgstr "Filete de bestia monstruosa."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKEDSMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKEDSMALLMEAT"
 msgid "Yum, yum, meat snacks."
-msgstr "Ñam, ñam, aperitivos de carne."
+msgstr "Ñam, ñam, un aperitivo de carne."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKPOT.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKPOT.BURNT"
