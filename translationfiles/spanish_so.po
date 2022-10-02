@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 11280,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 11400,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -56817,12 +56817,12 @@ msgstr "¿Qué tenemos aquí?"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKPOT.EMPTY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COOKPOT.EMPTY"
 msgid "Nothing in there."
-msgstr "No hay nada ahí."
+msgstr "No tiene nada dentro."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COONTAIL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COONTAIL"
 msgid "It is the tail of cute meat."
-msgstr "Es la cola de una bonita carne."
+msgstr "Es la cola de carne bonita."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORAL"
@@ -56842,7 +56842,7 @@ msgstr "Un lugar duro y quebradizo. Me gusta."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORAL_BRAIN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORAL_BRAIN"
 msgid "If I eat of it will I gain its knowledge?"
-msgstr "Si me lo como, ¿adquiriré su sabiduría?"
+msgstr "Si me la como, ¿adquiriré su sabiduría?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORAL_BRAIN_ROCK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORAL_BRAIN_ROCK"
@@ -56852,22 +56852,22 @@ msgstr "¡Una roca mística de agua omnisciente!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORK"
 msgid "A material with many uses!"
-msgstr ""
+msgstr "¡Un material con muchos usos!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORKBOAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORKBOAT"
 msgid "More like a stage prop than a viking vessel."
-msgstr ""
+msgstr "Más que un navío vikingo parece utilería teatral."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORKCHEST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORKCHEST"
 msgid "It holds my stuff!"
-msgstr ""
+msgstr "¡Guarda mis cosas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORK_BAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORK_BAT"
 msgid "A weapon of much lightness."
-msgstr ""
+msgstr "Un arma de gran ligereza."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORMORANT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORMORANT"
@@ -56887,7 +56887,7 @@ msgstr "Las palomitas de maíz huelen bien."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORN_SEEDS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORN_SEEDS"
 msgid "Tiny nature bits."
-msgstr "Pedacitos pequeños de la naturaleza."
+msgstr "Pequeños trozos de naturaleza."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRAB.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRAB.GENERIC"
@@ -56902,17 +56902,17 @@ msgstr "¡Desentiérrate, cobarde!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRABHOLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRABHOLE"
 msgid "Does shame drive them to this hole?"
-msgstr "¿Le has conducido la vergüenza a este agujero?"
+msgstr "¿La vergüenza les lleva a ese agujero?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRATE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CRATE"
 msgid "Yield your secrets, box!"
-msgstr "¡Enseña tus secretos, caja!"
+msgstr "¡Desvela tus secretos, caja!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CROCODOG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CROCODOG"
 msgid "Finally, a worthy foe!"
-msgstr "¡Al fin un enemigo digno!"
+msgstr "¡Por fin, un digno oponente!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CROW.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CROW.GENERIC"
@@ -56927,7 +56927,7 @@ msgstr "Juntos de nuevo."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CURTAIN_DOOR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CURTAIN_DOOR"
 msgid "Henceforth to another room!"
-msgstr ""
+msgstr "¡De aquí a otra estancia!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTGRASS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTGRASS"
@@ -56942,17 +56942,17 @@ msgstr "Oh, gran espada de muerte marina. Te blandiré con honor."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTLICHEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTLICHEN"
 msgid "I picked it. But I won't eat it."
-msgstr "Lo he cogido. Pero no me lo comeré."
+msgstr "No me comeré eso."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTNETTLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTNETTLE"
 msgid "Its smell has vanquish mine sinuses."
-msgstr ""
+msgstr "Su olor ha triunfado sobre mis senos nasales."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTREEDS"
 msgid "I cleaned all the bugs out! Then I ate them."
-msgstr "¡He quitado todos los bichos! Y luego me los he comido."
+msgstr "¡Les limpié todos los insectos! Y luego me los comí."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTSTONE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTSTONE"
@@ -56967,7 +56967,7 @@ msgstr "Un plato muy potente."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEAD_SWORDFISH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEAD_SWORDFISH"
 msgid "Onward to Valhalla, brave fish."
-msgstr "Hacia Valhalla, pez valiente."
+msgstr "Hacia el Valhalla, pez valiente."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECIDUOUSTREE.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECIDUOUSTREE.BURNING"
@@ -56992,402 +56992,402 @@ msgstr "¡Futura leña!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECIDUOUSTREE.POISON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECIDUOUSTREE.POISON"
 msgid "I've got to work a bit harder for this firewood."
-msgstr "Tengo que trabajar un poco más con esta leña."
+msgstr "Esa leña va a costar un poco más."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_ANTIQUITIES_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_ANTIQUITIES_BEEFALO"
 msgid "A lesson to all who tangle with me!"
-msgstr ""
+msgstr "¡Una lección para todos los que se metan conmigo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_ANTIQUITIES_WALLFISH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_ANTIQUITIES_WALLFISH"
 msgid "A mighty fish which hath been conquered."
-msgstr ""
+msgstr "Un poderoso pez que ha sido conquistado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CAVE_BAT_BURROW
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CAVE_BAT_BURROW"
 msgid "Flying foes dwell within!"
-msgstr ""
+msgstr "¡Dentro moran enemigos voladores!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CAVE_BEAM_ROOM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CAVE_BEAM_ROOM"
 msgid "A worthy beam."
-msgstr ""
+msgstr "Una columna digna."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_BENCH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_BENCH"
 msgid "A place to lay down after a hard day's battle."
-msgstr ""
+msgstr "Un lugar donde descansar tras un duro día de batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_CLASSIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_CLASSIC"
 msgid "A place to rest after a hard day's battle."
-msgstr ""
+msgstr "Un lugar donde descansar tras un duro día de batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_CORNER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_CORNER"
 msgid "A place to rest after a hard day's battle."
-msgstr ""
+msgstr "Un lugar donde descansar tras un duro día de batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_FOOTREST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_FOOTREST"
 msgid "A place to put up my feet."
-msgstr ""
+msgstr "Un sitio para poner los pies en alto."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_HORNED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_HORNED"
 msgid "A place to rest after a hard day's battle."
-msgstr ""
+msgstr "Un lugar donde descansar tras un duro día de batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_LOUNGE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_LOUNGE"
 msgid "A place to put up my feet."
-msgstr ""
+msgstr "Un sitio para poner los pies en alto."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_MASSAGER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_MASSAGER"
 msgid "I question its intentions!"
-msgstr ""
+msgstr "¡Dudo de sus intenciones!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_OTTOMAN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_OTTOMAN"
 msgid "A place to put up my feet."
-msgstr ""
+msgstr "Un sitio para poner los pies en alto."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_ROCKING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_ROCKING"
 msgid "A place to rest after a hard day's battle."
-msgstr ""
+msgstr "Un lugar donde descansar tras un duro día de batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_STUFFED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAIR_STUFFED"
 msgid "A place to rest after a hard day's battle."
-msgstr ""
+msgstr "Un lugar donde descansar tras un duro día de batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAISE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_CHAISE"
 msgid "A place to rest after a hard day's battle."
-msgstr ""
+msgstr "Un lugar donde descansar tras un duro día de batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_2EMBROIDERED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_2EMBROIDERED"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_2FRINGES
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_2FRINGES"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_2UPTURNS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_2UPTURNS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_ADJUSTABLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_ADJUSTABLE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_BELLSHADE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_BELLSHADE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_CANDELABRA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_CANDELABRA"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_CERAMIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_CERAMIC"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_CRYSTALS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_CRYSTALS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_DOWNBRIDGE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_DOWNBRIDGE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_EDISON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_EDISON"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_ELIZABETHAN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_ELIZABETHAN"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_FRINGE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_FRINGE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_GLASS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_GLASS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_GOTHIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_GOTHIC"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_HOOFSPA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_HOOFSPA"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_ORB
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_ORB"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_RIGHTANGLES
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_RIGHTANGLES"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_SPOOL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_SPOOL"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_STAINGLASS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_STAINGLASS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_UPTURN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_LAMP_UPTURN"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_MARBLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_MARBLE"
 msgid "A beam worthy of the Halls of Valhalla."
-msgstr ""
+msgstr "Una columna digna de las salas del Valhalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_MARBLE_CORNERBEAM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_MARBLE_CORNERBEAM"
 msgid "A beam worthy of the Halls of Valhalla!"
-msgstr ""
+msgstr "Una columna digna de las salas del Valhalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_MILLINERY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_MILLINERY"
 msgid "It doth hold up a roof."
-msgstr ""
+msgstr "Sirve para sostener el techo."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_BASIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_BASIC"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_BIRDCAGE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_BIRDCAGE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_BONSAI
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_BONSAI"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_DISHGARDEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_DISHGARDEN"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_DRACEANA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_DRACEANA"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_FANCY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_FANCY"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_FERN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_FERN"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_FERNSTAND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_FERNSTAND"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_MARBLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_MARBLE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_ORCHID
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_ORCHID"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PALM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PALM"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PHILODENDRON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PHILODENDRON"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PITCHERS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PITCHERS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PLANTPET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_PLANTPET"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_TERRARIUM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_TERRARIUM"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_TRAPS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_TRAPS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREE
 msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREE"
 msgid "A tree worthy of a festive season!"
-msgstr ""
+msgstr "¡Un árbol digno de unas buenas fiestas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREEOFSADNESS
 msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE."
 "DECO_PLANTHOLDER_WINTERFEASTTREEOFSADNESS"
 msgid "Has the look of one that has been vanquished."
-msgstr ""
+msgstr "Tiene la pinta de alguien aquejado por la derrota."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_WIP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_WIP"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_ZZ
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_PLANTHOLDER_ZZ"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_ROUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_ROUND"
 msgid "A beam worthy of the Halls of Valhalla."
-msgstr ""
+msgstr "Una columna digna de las salas del Valhalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_BEAM_ROOM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_BEAM_ROOM"
 msgid "A worthy beam."
-msgstr ""
+msgstr "Una pilar digno."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE"
 msgid "It will keep the roof atop mine head."
-msgstr ""
+msgstr "Impedirá que el techo caiga sobre mi cabeza."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_ENDSWELL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_ENDSWELL"
 msgid "A well that springs cursed things."
-msgstr ""
+msgstr "Un pozo que hace brotar cosas malditas."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_FOUNTAIN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_RUINS_FOUNTAIN"
 msgid "May Odin favor me today!"
-msgstr ""
+msgstr "¡Que Odin me bendiga!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_BANKER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_BANKER"
 msgid "I could cleave this in twain!"
-msgstr ""
+msgstr "¡Podría partirlo en dos!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_CHESS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_CHESS"
 msgid "I care not for games!"
-msgstr ""
+msgstr "¡No me importan los juegos!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_CRATE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_CRATE"
 msgid "I shall consume meat off this!"
-msgstr ""
+msgstr "¡Consumiré carne sobre ella!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_DIY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_DIY"
 msgid "I need not the instructions to build this."
-msgstr ""
+msgstr "No necesito instrucciones para fabricarla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_RAW
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_RAW"
 msgid "A table without frivolous trappings."
-msgstr ""
+msgstr "Una mesa sin adornos frívolos."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_ROUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_TABLE_ROUND"
 msgid "A surface for consuming my meat!"
-msgstr ""
+msgstr "¡Una superficie para consumir mi carne!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_AXE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_AXE"
 msgid "'Tis not a spear!"
-msgstr ""
+msgstr "¡Eso no es una lanza!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_BLACK_CAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_BLACK_CAT"
 msgid "Cats are fine hunters."
-msgstr ""
+msgstr "Los gatos son buenos cazadores."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_CAPE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_CAPE"
 msgid "Tis not mine cape."
-msgstr ""
+msgstr "Esa no es mi capa."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_EMBROIDERY_HOOP
 msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_EMBROIDERY_HOOP"
 msgid "A tapestry worthy of Valhalla."
-msgstr ""
+msgstr "Un tejido digno del Valhalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_FULLLENGTH_MIRROR
 msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_FULLLENGTH_MIRROR"
 msgid "What a mighty visage!"
-msgstr ""
+msgstr "¡Qué rostro tan imponente!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_GEARS_ART
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_GEARS_ART"
 msgid "'Tis metalwork."
-msgstr ""
+msgstr "Artificios metálicos."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_HUNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_HUNT"
 msgid "A display worthy of mine wall."
-msgstr ""
+msgstr "Una exhibición digna de mi pared."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_MOSAIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_MOSAIC"
 msgid "A pattern worthy of a shield."
-msgstr ""
+msgstr "Un diseño digno de un escudo."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_NO_SMOKING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DECO_WALLORNAMENT_NO_SMOKING"
