@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 11600,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 11730,33641,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -58396,42 +58396,42 @@ msgstr "Engullida en un sueño."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOWFLY_COCOON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOWFLY_COCOON"
 msgid "It has armored itself for sleep."
-msgstr ""
+msgstr "Se ha blindado para dormir."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNAT"
 msgid "Infest not me, bugs!"
-msgstr ""
+msgstr "¡No me infesten, insectos!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GNATMOUND"
 msgid "The Valhalla of bugs."
-msgstr ""
+msgstr "El Valhalla de los insectos."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOATMILK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOATMILK"
 msgid "This is powerful milk."
-msgstr "Esto es leche poderosa."
+msgstr "Eso es leche poderosa."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESARMORHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESARMORHAT"
 msgid "A helm of bleary sight."
-msgstr ""
+msgstr "Un casco de visión borrosa."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESHEATHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESHEATHAT"
 msgid "One of Loki's tricks."
-msgstr ""
+msgstr "Uno de los trucos de Loki."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESNORMALHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESNORMALHAT"
 msgid "It mocks me with its pointlessness!"
-msgstr ""
+msgstr "¡Se burla de mí con su inutilidad!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESSHOOTHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOGGLESSHOOTHAT"
 msgid "It is of no use to me."
-msgstr ""
+msgstr "No me sirve de nada."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENAXE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENAXE"
@@ -58446,7 +58446,7 @@ msgstr "Te blandiré con orgullo."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENPICKAXE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENPICKAXE"
 msgid "Gold for gold."
-msgstr "Oro para el oro."
+msgstr "De oro, para el oro."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENPITCHFORK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENPITCHFORK"
@@ -58456,32 +58456,32 @@ msgstr "¿Por qué he hecho una horca tan lujosa?"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENSHOVEL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDENSHOVEL"
 msgid "Digging like a king!"
-msgstr "¡Excavando como un rey!"
+msgstr "¡Excavando como una reina!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDNUGGET"
 msgid "I am pleased with this gold piece."
-msgstr "Estoy contenta con esta pepita de oro."
+msgstr "Las pepitas de oro me ponen contenta."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLDPAN"
 msgid "It will vanquish the pieces of tiny gold!"
-msgstr ""
+msgstr "¡Recolectará las pequeñas piezas de oro!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLD_DUST
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOLD_DUST"
 msgid "Golden dust."
-msgstr ""
+msgstr "Polvo de oro."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOOSE_FEATHER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GOOSE_FEATHER"
 msgid "A shieldmaiden deserves a soft bed of dunn."
-msgstr "Una escudera merece una suave cama de plumas."
+msgstr "Una skjaldmö merece una suave cama de plumas."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRABBING_VINE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRABBING_VINE"
 msgid "Ropes hang from the heavens!"
-msgstr ""
+msgstr "¡Cuelgan cuerdas del cielo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.BARREN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.BARREN"
@@ -58491,12 +58491,12 @@ msgstr "Se ha quedado sin vida."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.BURNING"
 msgid "Loge looks upon you!"
-msgstr "¡Loge te mira!"
+msgstr "¡Loge te está llamando!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.GENERIC"
 msgid "That could be useful."
-msgstr "Esto podría ser útil."
+msgstr "Eso podría ser útil."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.PICKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.PICKED"
@@ -58506,47 +58506,47 @@ msgstr "Ha caído ante mi poder."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.WITHERED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS.WITHERED"
 msgid "The heat has defeated this plant."
-msgstr "El calor ha derrotado a esta planta."
+msgstr "El calor ha derrotado a esa planta."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.BURNING"
 msgid "It burns!"
-msgstr ""
+msgstr "¡Arde!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.GENERIC"
 msgid "Surely it is the grass of Jotunheim!"
-msgstr ""
+msgstr "¡Definitivamente es hierba de Jötunheim!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.PICKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_TALL.PICKED"
 msgid "I have defeated it!"
-msgstr ""
+msgstr "¡La he derrotado!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_UMBRELLA"
 msgid "I dislike flowers, but I dislike wet armor more."
-msgstr "No me gustan las flores, pero menos me gustan las armaduras mojadas."
+msgstr "No me gustan las flores. Tampoco las armaduras mojadas."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_WATER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GRASS_WATER"
 msgid "Grass I can pick from my longship!"
-msgstr "¡Hierba que puedo coger desde mi drakar!"
+msgstr "¡Hierba que puedo recolectar desde mi drakkar!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREENAMULET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREENAMULET"
 msgid "Enhanced emerald crafting skills!"
-msgstr "¡Habilidades de fabricación de esmeraldas mejoradas!"
+msgstr "¡He mejorado mis artesanías con esmeraldas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREENGEM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREENGEM"
 msgid "An emerald stone."
-msgstr "Una piedra de esmeralda."
+msgstr "Una piedra esmeralda."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREENSTAFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREENSTAFF"
 msgid "Twirly green power."
-msgstr "Energía verde que gira."
+msgstr "Poder verde retorcido."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREEN_CAP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GREEN_CAP"
@@ -58581,12 +58581,12 @@ msgstr "¡Ñam, cremoso!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GUANO
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GUANO"
 msgid "Hmm, dark wing turds."
-msgstr "Hmm, porquería de alas oscuras."
+msgstr "Mmm, porquería de alas oscuras."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GUMMY_CAKE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GUMMY_CAKE"
 msgid "Meat cake! Prepare to be eaten!"
-msgstr ""
+msgstr "¡Pastel de carne! ¡Hora de ser comido!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GUNPOWDER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GUNPOWDER"
@@ -58601,12 +58601,12 @@ msgstr "¡El cielo está lanzando hielo!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALBERD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALBERD"
 msgid "Tis no spear, yet is still valorous!"
-msgstr ""
+msgstr "¡No es una lanza, pero tiene su valor!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMBAT"
 msgid "A weapon fit for the great dining halls!"
-msgstr "¡Un arma para los grandes comedores!"
+msgstr "¡Un arma propia de un gran banquete!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMMER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAMMER"
@@ -58616,17 +58616,17 @@ msgstr "Más apto para el trabajo que la batalla."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANGING_VINE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HANGING_VINE"
 msgid "Ropes hang from the heavens!"
-msgstr ""
+msgstr "¡Cuelgan cuerdas del cielo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HARDSHELL_TACOS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HARDSHELL_TACOS"
 msgid "Its crunchy shell delights me not!!!"
-msgstr ""
+msgstr "¡¡Su crujiente caparazón no me deleita!!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HARPOON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HARPOON"
 msgid "I shalt bring the hunt to the seas!"
-msgstr ""
+msgstr "¡Cazaré en el mar, si hace falta!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HAWAIIANSHIRT"
@@ -58644,9 +58644,10 @@ msgid "The stone has taken on cold!"
 msgstr "¡La piedra se ha puesto fría!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEATROCK.FROZEN
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEATROCK.FROZEN"
 msgid "Cold teeth bite at me!"
-msgstr "¡Los dientes fríos me muerden!"
+msgstr "¡Quiero calor ya!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEATROCK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEATROCK.GENERIC"
@@ -58666,57 +58667,57 @@ msgstr "¡La piedra se ha puesto caliente!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.BURNING"
 msgid "Aflame!"
-msgstr ""
+msgstr "¡En llamas!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.BURNT"
 msgid "Burnt away."
-msgstr ""
+msgstr "Quemado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.GENERIC"
 msgid "This wall cannot hold me!"
-msgstr ""
+msgstr "¡Tal muro no me detendrá!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.SHAVEABLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE.SHAVEABLE"
 msgid "Hedge, prepare to be shaved!"
-msgstr ""
+msgstr "¡Seto prepárate para ser afeitado!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE_BLOCK_ITEM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE_BLOCK_ITEM"
 msgid "Fortification worthy of a warrior."
-msgstr ""
+msgstr "Una fortificación digna de un guerrero."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE_CONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE_CONE_ITEM"
 msgid "I vow to find a place for it."
-msgstr ""
+msgstr "Juro que le encontraré un lugar."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE_LAYERED_ITEM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEDGE_LAYERED_ITEM"
 msgid "Overly decorative fortification."
-msgstr ""
+msgstr "Una fortificación excesivamente decorativa."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HIPPOPOTAMOOSE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HIPPOPOTAMOOSE"
 msgid "A Jotunn beast!"
-msgstr ""
+msgstr "¡Una bestia jotun!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HIPPO_ANTLER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HIPPO_ANTLER"
 msgid "A symbol of conquest!"
-msgstr ""
+msgstr "¡Un símbolo de conquista!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOGUSPORKUSATOR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOGUSPORKUSATOR"
 msgid "What wisdom dos this pig hide?"
-msgstr ""
+msgstr "¿Qué sabiduría esconde semejante cerdo?"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOME
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOME"
 msgid "Someone must dwell here."
-msgstr "Alguien debe de vivir aquí."
+msgstr "Alguien debe de vivir ahí."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOMESIGN.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOMESIGN.BURNT"
@@ -58731,7 +58732,7 @@ msgstr "Una señal bien colocada."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOMESIGN.UNWRITTEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOMESIGN.UNWRITTEN"
 msgid "I shall write a tale of triumph!"
-msgstr "¡Escribiré un relato de triunfo!"
+msgstr "¡Escribiré una historia triunfal!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HONEY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HONEY"
@@ -58751,18 +58752,19 @@ msgstr "¡Un festín abundante!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HONEYNUGGETS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HONEYNUGGETS"
 msgid "A meaty, nuggety feast!"
-msgstr "¡Un festín en pepitas!"
+msgstr "¡Un festín de nuggets!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HORN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HORN"
 msgid "How I long for battle."
-msgstr "Qué ganas tengo de una batalla."
+msgstr "Cómo anhelo la batalla."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOTCHILI
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOTCHILI"
 msgid "A test of my willpower."
 msgstr "Una prueba de mi fuerza de voluntad."
 
+# Fenrir, gigantesco lobo monstruoso de la mitología nórdica.
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOUND"
 msgid "Fenrir's spawn!"
@@ -58781,7 +58783,7 @@ msgstr "¡Arde con pasión eterna!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOUNDMOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOUNDMOUND"
 msgid "These hounds are truly warriors."
-msgstr "Estos perros son realmente guerreros."
+msgstr "Esos sabuesos son realmente guerreros."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOUNDSTOOTH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HOUNDSTOOTH"
@@ -58801,12 +58803,12 @@ msgstr "¡El invierno habita dentro!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICECREAM
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICECREAM"
 msgid "It hurts my teeth."
-msgstr "Me duelen los dientes."
+msgstr "Lastima mis dientes."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEDTEA
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEDTEA"
 msgid "It contains no the meat!"
-msgstr ""
+msgstr "¡No contiene carne!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEHAT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEHAT"
@@ -58816,12 +58818,12 @@ msgstr "Un trozo de frío."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEHOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEHOUND"
 msgid "Teeth of frost!"
-msgstr "¡Dientes de las heladas!"
+msgstr "¡Dientes de escarcha!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEMAKER.HIGH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEMAKER.HIGH"
 msgid "The machine is fired up!"
-msgstr "¡La máquina echa humo!"
+msgstr "¡La máquina está al máximo!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEMAKER.LOW
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICEMAKER.LOW"
@@ -58851,188 +58853,188 @@ msgstr "La mochila de la bestia."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICESTAFF
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ICESTAFF"
 msgid "A gift from Ullr!"
-msgstr "¡Un regalo de Ullr!"
+msgstr "¡Un regalo de Ull!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INFUSED_IRON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INFUSED_IRON"
 msgid "It glows with a warrior's spirit."
-msgstr ""
+msgstr "Resplandece con el espíritu de los guerreros."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INSANITYROCK.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INSANITYROCK.ACTIVE"
 msgid "Woah!"
-msgstr "¡Ahhh!"
+msgstr "¡Guau!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INSANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INSANITYROCK.INACTIVE"
 msgid "I suspect nothing of this rock."
-msgstr "No sospecho nada de esta roca."
+msgstr "No sospecho nada de esa roca."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_CHECK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_CHECK"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_GARDENSTONE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_GARDENSTONE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_GEOMETRICTILES
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_GEOMETRICTILES"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_HERRINGBONE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_HERRINGBONE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_HEXAGON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_HEXAGON"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_HOOF_CURVY
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_HOOF_CURVY"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_MARBLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_MARBLE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_OCTAGON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_OCTAGON"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_PLAID_TILE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_PLAID_TILE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_SHAG_CARPET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_SHAG_CARPET"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_SHEET_METAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_SHEET_METAL"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_TRANSITIONAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_TRANSITIONAL"
 msgid "Barely worthy of my warrior feet."
-msgstr ""
+msgstr "No merece tocar mis pies guerreros."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_WOOD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_WOOD"
 msgid "Adequate."
-msgstr ""
+msgstr "Adecuado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_WOODPANELS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_FLOOR_WOODPANELS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_CHECKERED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_CHECKERED"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_CIRCLES
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_CIRCLES"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_FLORAL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_FLORAL"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_FULLWALL_MOULDING
 msgctxt ""
 "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_FULLWALL_MOULDING"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_HARLEQUIN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_HARLEQUIN"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_MARBLE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_MARBLE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_MAYORSOFFICE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_MAYORSOFFICE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_PEAGAWK
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_PEAGAWK"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_PLAIN_DS
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_PLAIN_DS"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_PLAIN_ROG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_PLAIN_ROG"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_ROPE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_ROPE"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_SUNFLOWER
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_SUNFLOWER"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_UPHOLSTERED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_UPHOLSTERED"
 msgid "I care not for such frilly things."
-msgstr ""
+msgstr "Esas fruslerías no me importan."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_WOOD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INTERIOR_WALL_WOOD"
 msgid "Adequate."
-msgstr ""
+msgstr "Adecuado."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INVENTORYGRAVE
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INVENTORYGRAVE"
 msgid "I will see thee in Valhalla!"
-msgstr "¡Te veré en Valhalla!"
+msgstr "¡Te veré en el Valhalla!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INVENTORYMOUND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.INVENTORYMOUND"
 msgid "I will see thee in Valhalla!"
-msgstr "¡Te veré en Valhalla!"
+msgstr "¡Te veré en el Valhalla!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON"
 msgid "Material for metalwork."
-msgstr ""
+msgstr "Material metalúrgico."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRONWIND
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRONWIND"
 msgid "This contraption runs on Odin's steeds!"
-msgstr "¡Este artilugio funciona en corceles de Odín!"
+msgstr "¡Dicho artilugio funciona en los corceles de Odín!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON_DOOR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.IRON_DOOR"
 msgid "Leads not to Valhalla, but to another room."
-msgstr ""
+msgstr "No conduce al Valhalla, sino a otra estancia."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JAMMYPRESERVES
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JAMMYPRESERVES"
@@ -59042,7 +59044,7 @@ msgstr "Pegajoso y asqueroso."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JELLYBUG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JELLYBUG"
 msgid "Four legged but it is not food."
-msgstr ""
+msgstr "Tienen cuatro patas, pero no son comida."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JELLYBUG_COOKED
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JELLYBUG_COOKED"
