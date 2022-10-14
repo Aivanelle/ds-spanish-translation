@@ -18,7 +18,8 @@ STRINGS.WET_PREFIX.MALE =
 		GENERIC = "húmedos",
 	},
 	
-	WITHERED = "marchito"
+	WITHERED = "marchito",
+    BLUEPRINT = "Planos húmedos"
 }
 
 STRINGS.WET_PREFIX.FEMALE =
