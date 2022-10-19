@@ -69,9 +69,9 @@ local function setWormwoodFont()
 end
 
 local function translateWebberStrings()
-	STRINGS.RECIPE_DESC.SPIDEREGGSACK 	= STRINGS.RECIPE_DESC.SPIDEREGGSACK_ES
-	STRINGS.UI.GENDERSTRINGS.ROBOT.ONE 	= STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
-	STRINGS.UI.ENDGAME.BODY2 			= STRINGS.UI.ENDGAME.BODY2_ES
+	STRINGS.RECIPE_DESC.SPIDEREGGSACK = STRINGS.RECIPE_DESC.SPIDEREGGSACK_ES
+	STRINGS.UI.GENDERSTRINGS.ROBOT.ONE = STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
+	STRINGS.UI.ENDGAME.BODY2 = STRINGS.UI.ENDGAME.BODY2_ES
 end
 
 USE_PREFIX = _G.USE_PREFIX
@@ -125,10 +125,10 @@ end
 
 AddSimPostInit(modPostInit)
 
--- Prefabs that mostly contains proper nouns to hide their wet suffix
 AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
 AddPrefabPostInit("fishinhole", modFishinhole)
 
+-- Prefabs that mostly contains proper nouns to hide their wet suffix
 AddPrefabPostInit("book_birds", setNoWetPrefix)
 AddPrefabPostInit("book_brimstone", setNoWetPrefix)
 AddPrefabPostInit("book_gardening", setNoWetPrefix)
@@ -217,3 +217,4 @@ local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_D
 
 if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
 if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/modcomponents/grogginess_onequip.lua") end
+
