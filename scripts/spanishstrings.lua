@@ -8,7 +8,7 @@ STRINGS.WET_PREFIX.MALE =
 		FUEL = "mojado",
 		GENERIC = "húmedo",
 	},
-	
+
 	PLURAL =
 	{
 		FOOD = "remojados",
@@ -16,10 +16,11 @@ STRINGS.WET_PREFIX.MALE =
 		TOOL = "resbaladizos",
 		FUEL = "mojados",
 		GENERIC = "húmedos",
+
+        BLUEPRINT = "Planos húmedos"
 	},
-	
+
 	WITHERED = "marchito",
-    BLUEPRINT = "Planos húmedos"
 }
 
 STRINGS.WET_PREFIX.FEMALE =
@@ -32,7 +33,7 @@ STRINGS.WET_PREFIX.FEMALE =
 		FUEL = "mojada",
 		GENERIC = "húmeda",
 	},
-	
+
 	PLURAL =
 	{
 		FOOD = "remojadas",
@@ -41,7 +42,7 @@ STRINGS.WET_PREFIX.FEMALE =
 		FUEL = "mojadas",
 		GENERIC = "húmedas",
 	},
-	
+
 	WITHERED = "marchita"
 }
 
@@ -52,13 +53,13 @@ STRINGS.UI.HUD.MALE =
 		STALE = "rancio",
 		SPOILED = "podrido",
 	},
-	
+
 	PLURAL =
 	{
 		STALE = "rancios",
 		SPOILED = "podridos",
 	},
-	
+
 	HUNGRY = "hambriento",
 	STARVING = "desnutrido"
 }
@@ -70,13 +71,13 @@ STRINGS.UI.HUD.FEMALE =
 		STALE = "rancia",
 		SPOILED = "podrida",
 	},
-	
+
 	PLURAL =
 	{
 		STALE = "rancias",
 		SPOILED = "podridas",
 	},
-	
+
 	HUNGRY = "hambrienta",
 	STARVING = "desnutrida"
 }
@@ -110,7 +111,7 @@ STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Este %s se siente pesado...", "Este %s es muy caluroso."},
 		PLURAL = {"Estos %s se sienten pesados...", "Estos %s son muy calurosos."}
 	},
-	
+
 	FEMALE =
 	{
 		SINGULAR = {"Esta %s se siente pesada...", "Esta %s es muy calurosa."},
@@ -125,7 +126,7 @@ STRINGS.CHARACTERS.WHEELER.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Este %s es sofocante.", "¡Este %s está que arde!"},
 		PLURAL = {"Estos %s son sofocantes.", "¡Estos %s están que arden!"}
 	},
-	
+
 	FEMALE = 
 	{
 		SINGULAR = {"Esta %s es sofocante.", "¡Esta %s está que arde!"},
@@ -140,7 +141,7 @@ STRINGS.CHARACTERS.WENDY.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Este %s pesa más con el calor.", "Este %s es muy caluroso. Me lastra el alma."},
 		PLURAL = {"Estos %s pesan más con el calor.", "Estos %s son muy calurosos. Me lastran el alma."}
 	},
-	
+
 	FEMALE = 
 	{
 		SINGULAR = {"Esta %s pesa más con el calor.", "Esta %s es muy calurosa. Me lastra el alma."},
@@ -155,7 +156,7 @@ STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Ugh. No estamos asando en este %s.", "¡Guau! Este %s nos está dando calor."},
 		PLURAL = {"Ugh. No estamos asando en estos %s.", "¡Guau! Estos %s nos están dando calor."}
 	},
-	
+
 	FEMALE = 
 	{
 		SINGULAR = {"Ugh. No estamos asando en esta %s.", "¡Guau! Esta %s nos está dando calor."},
@@ -170,7 +171,7 @@ STRINGS.CHARACTERS.WALANI.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Ugh. Este %s es taaaan asfixiante.", "Este %s es tan caluroso."},
 		PLURAL = {"Ugh. Estos %s son taaaan asfixiantes.", "Estos %s son tan calurosos."}
 	},
-	
+
 	FEMALE = 
 	{
 		SINGULAR = {"Ugh. Esta %s es taaaan asfixiante.", "Esta %s es tan calurosa."},
@@ -185,7 +186,7 @@ STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"%s es agotador.", "%s es muy caliente."},
 		PLURAL = {"%s son agotadores.", "%s son muy calientes."}
 	},
-	
+
 	FEMALE = 
 	{
 		SINGULAR = {"%s es agotadora.", "%s es muy caliente."},
@@ -200,7 +201,7 @@ STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Este %s es insoportable.", "Este %s da demasiado calor."},
 		PLURAL = {"Estos %s son insoportables.", "Estos %s dan demasiado calor."}
 	},
-	
+
 	FEMALE =
 	{
 		SINGULAR = {"Esta %s es insoportable.", "Esta %s da demasiado calor."},
@@ -215,7 +216,7 @@ STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Este %s realmente me alenta.", "La humedad del aire hace que este %s pese mucho."},
 		PLURAL = {"Estos %s realmente me alentan.", "La humedad del aire hace que estos %s pesen mucho."}
 	},
-	
+
 	FEMALE =
 	{
 		SINGULAR = {"Esta %s realmente me alenta.", "La humedad del aire hace que esta %s pese mucho."},
@@ -230,7 +231,7 @@ STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Este %s es demasiado.", "Este %s es demasiado cálido para mi gusto."},
 		PLURAL = {"Estos %s son demasiado.", "Estos %s son demasiado cálidos para mi gusto."}
 	},
-	
+
 	FEMALE =
 	{
 		SINGULAR = {"Esta %s es demasiado.", "Esta %s es demasiado cálida para mi gusto."},
@@ -245,7 +246,7 @@ STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Este %s está destruyendo mi moral.", "Este %s arde como el sol."},
 		PLURAL = {"Estos %s están destruyendo mi moral.", "Estos %s arden como el sol."}
 	},
-	
+
 	FEMALE =
 	{
 		SINGULAR = {"Esta %s está destruyendo mi moral.", "Esta %s arde como el sol."},

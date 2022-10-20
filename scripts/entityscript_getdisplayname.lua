@@ -103,13 +103,13 @@ if oldGetDisplayName and anyDLCEnabled then
             if self.components.edible and GetPlayer() and GetPlayer().components.eater then
                 -- Special case for wet goop if it's wet.
                 if self.prefab == "wetgoop" then return name:gsub(" ", " " .. STRINGS.WET_PREFIX.WETGOOP .. " ") end
-                
+
                 local wetFoodPrefix = Prefix.getWetFoodPrefix(prefab)
                 if self.prefab == "batwing" and name:find("?") then return name:gsub("?", " " .. wetFoodPrefix .. "?") end
-                
+
                 if GetPlayer().components.eater:CanEat(self) then return ConstructAdjectivedName(self, name, wetFoodPrefix) end
             end
-            
+
             if self.components.equippable and (self.components.equippable.equipslot == "head" or self.components.equippable.equipslot == "body") then
                 local wetClothingPrefix = Prefix.getWetClothingPrefix(prefab)
                 return ConstructAdjectivedName(self, name, wetClothingPrefix)
@@ -125,8 +125,8 @@ if oldGetDisplayName and anyDLCEnabled then
                 local wetFuelPrefix = Prefix.getWetFuelPrefix(prefab)
                 return ConstructAdjectivedName(self, name, wetFuelPrefix)
             else
-                if self.recipetouse then return name:gsub("Planos", STRINGS.WET_PREFIX.MALE.BLUEPRINT) end
-                
+                if self.recipetouse then return name:gsub("Planos", STRINGS.WET_PREFIX.MALE.PLURAL.BLUEPRINT) end
+
                 -- To manage sunken Hamlet relics.
                 if self.components.sinkable and self.components.sinkable.sunken then
                     return ConstructAdjectivedName(self, name, STRINGS.WET_PREFIX.MALE.SINGULAR.GENERIC)
