@@ -36,18 +36,18 @@ function MorgueScreen:RefreshControls()
 	for k, v in pairs(self.list_widgets) do
 		v.root:Kill()
 	end
-	
+
 	self.list_widgets = {}
     local font_size = 35
-	
+
     if JapaneseOnPS4() then font_size = 35 * 0.75 end
-	
+
     local portrate_scale = 0.45
     local spacing = 52
-            
+
 	for k = 1, controls_per_screen do
 		local idx = self.control_offset + k		
-		
+
 		if self.mogue[idx] then
 			local death = self.mogue[idx]
 			local group = self.obits_rows:AddChild(Widget("control"))
@@ -65,7 +65,7 @@ function MorgueScreen:RefreshControls()
             DECEASED.portraitbg:SetScale(portrate_scale, portrate_scale, 1)
             DECEASED.portraitbg:SetClickable(false)   
             DECEASED.base = DECEASED:AddChild(Widget("base"))
-            
+
             DECEASED.portrait = DECEASED.base:AddChild(Image())
             DECEASED.portrait:SetClickable(false) 
 
@@ -73,16 +73,16 @@ function MorgueScreen:RefreshControls()
             if character == "maxwell" then character = "waxwell" end
 
             local atlas = (table.contains(MODCHARACTERLIST, character) and "images/saveslot_portraits/" .. character .. ".xml") or "images/saveslot_portraits.xml"
-			
+
             if not table.contains(GetActiveCharacterList(), character) then
                 character = "random" -- Use a question mark if the character isn't currently active
             end
-			
+
             DECEASED.portrait:SetTexture(atlas, character .. ".tex")
             DECEASED.portrait:SetScale(portrate_scale, portrate_scale, 1)
 
             local killed_by = death["killed_by"]:lower()
-			
+
             if killed_by == "nil" then
                 if character == "waxwell" then
                     killed_by = "charlie"
@@ -98,10 +98,10 @@ function MorgueScreen:RefreshControls()
                     killed_by = "moose2"
                 end
             end
-			
+
             killed_by = STRINGS.NAMES[string.upper(killed_by)] or STRINGS.NAMES.SHENANIGANS
 			local CAUSE = nil
-			
+
 			if killed_by:len() > 25 then
 				CAUSE = group:AddChild(Text(TITLEFONT, 30))
 			else
@@ -118,7 +118,7 @@ function MorgueScreen:RefreshControls()
             MODE:SetPosition(column_offsets.MODE, 0, 0)
             MODE:SetRegionSize(400, 70)
             MODE:SetString(STRINGS.UI.MORGUESCREEN.LEVELTYPE[Levels.GetTypeForLevelID(death["world"])])
-	    
+
 			if k <= controls_per_screen then
 				group:SetPosition(0, (controls_per_screen - 1) * spacing * .5 - (k - 1) * spacing - 10, 0)
 			else

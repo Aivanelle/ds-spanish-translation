@@ -4,16 +4,16 @@ local require = _G.require
 local function setHumidString(prefab)
 	local playerPrefab = GetPlayer().prefab
 	local player = nil
-	
+
 	if playerPrefab ~= "wilson" and STRINGS.CHARACTERS[playerPrefab:upper()] and STRINGS.CHARACTERS[playerPrefab:upper()].ANNOUNCE_TOO_HUMID_ES then
 		player = GetPlayer().prefab:upper()
 	else
 		player = "GENERIC"
 	end
-	
+
 	local CHARACTER = STRINGS.CHARACTERS[player]
 	local PREFABS = require("sortedprefabs")
-	
+
 	if PREFABS.MALE.SINGULAR.CLOTHING[prefab] then
 		STRINGS.CHARACTERS[player].ANNOUNCE_TOO_HUMID[1] = CHARACTER.ANNOUNCE_TOO_HUMID_ES.MALE.SINGULAR[1]
 		STRINGS.CHARACTERS[player].ANNOUNCE_TOO_HUMID[2] = CHARACTER.ANNOUNCE_TOO_HUMID_ES.MALE.SINGULAR[2]
