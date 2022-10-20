@@ -103,16 +103,4 @@ return {
 		
 		return wetGenericPrefix
 	end,
-	
-	--[[getWetLivingBeingPrefix = function(name)
-		local wetLivingBeingPrefix = nil
-		
-		if PREFABS.MALE.NAME[name] then
-			wetLivingBeingPrefix = STRINGS.WET_PREFIX.MALE.SINGULAR.GENERIC
-		elseif PREFABS.FEMALE.NAME[name] then
-			wetLivingBeingPrefix = STRINGS.WET_PREFIX.FEMALE.SINGULAR.GENERIC
-		end
-		
-		return wetLivingBeingPrefix
-	end]]
 }
