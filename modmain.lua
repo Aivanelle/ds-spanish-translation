@@ -20,7 +20,6 @@ else
 end
 
 -- Characters not added to any gender table.
--- Personajes a los que al parecer no se les asignó ningún género.
 table.insert(_G.CHARACTER_GENDERS.FEMALE, "wilba")
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
