@@ -253,3 +253,18 @@ STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID_ES =
 		PLURAL = {"Estas %s están destruyendo mi moral.", "Estas %s arden como el sol."}
 	}
 }
+
+STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID_ES =
+{
+    MALE =
+    {
+        SINGULAR = {"Wolfgang odia llevar este %s con tanto calor.", "Este %s es muy sofocante."},
+        PLURAL = {"Wolfgang odia llevar estos %s con tanto calor.", "Estos %s son muy sofocantes."}
+    },
+    
+    FEMALE =
+    {
+        SINGULAR = {"Wolfgang odia llevar esta %s con tanto calor.", "Esta %s es muy sofocante."},
+        PLURAL = {"Wolfgang odia llevar estas %s con tanto calor.", "Estas %s son muy sofocantes."}
+    }
+}
