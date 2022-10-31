@@ -258,13 +258,13 @@ STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID_ES =
 {
     MALE =
     {
-        SINGULAR = {"Wolfgang odia llevar este %s con tanto calor.", "Este %s es muy sofocante."},
-        PLURAL = {"Wolfgang odia llevar estos %s con tanto calor.", "Estos %s son muy sofocantes."}
+        SINGULAR = {"Wolfgang odiar llevar este %s con tanto calor.", "Este %s ser muy sofocante."},
+        PLURAL = {"Wolfgang odiar llevar estos %s con tanto calor.", "Estos %s ser muy sofocantes."}
     },
     
     FEMALE =
     {
-        SINGULAR = {"Wolfgang odia llevar esta %s con tanto calor.", "Esta %s es muy sofocante."},
-        PLURAL = {"Wolfgang odia llevar estas %s con tanto calor.", "Estas %s son muy sofocantes."}
+        SINGULAR = {"Wolfgang odiar llevar esta %s con tanto calor.", "Esta %s ser muy sofocante."},
+        PLURAL = {"Wolfgang odiar llevar estas %s con tanto calor.", "Estas %s ser muy sofocantes."}
     }
 }

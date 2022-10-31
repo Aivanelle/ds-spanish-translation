@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 27530,-1,-1,-1,-1,-1,-1,-1,-1,12398\n"
+"X-Poedit-Bookmarks: 27530,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -137318,73 +137318,72 @@ msgstr "¡Ughhh!"
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Hair-cow is too tall. I can't reach."
-msgstr "La vaca con pelo es demasiado alta. No alcanzo."
+msgstr "La vaca con pelo ser muy alta. No alcanzo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "Wolfgang's weekday undergarments burning? Wolfgang is sad."
-msgstr "¿La ropa de vestir de Wolfgang está ardiendo? Wolfgang está triste."
+msgstr "¿La ropa de Wolfgang arder? Wolfgang estar triste."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.GENERIC"
 msgid "Clothes only good for ripping with strong muscles!"
-msgstr "¡La ropa solo sirve para desgarrarla con músculos fuertes!"
+msgstr "¡La ropa solo servir para desgarrar con músculos fuertes!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.COOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.COOK.GENERIC"
 msgid "Wolfgang not in cooking mood."
-msgstr "A Wolfgang no le apetece cocinar."
+msgstr "Wolfgang no querer cocinar."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.COOK.TOOFAR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.COOK.TOOFAR"
 msgid "Is pot very small, or just far away?"
-msgstr "¿La olla es muy pequeña o está muy lejos?"
+msgstr "¿La olla ser muy pequeña o estar muy lejos?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.DRAW.NOIMAGE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "Wolfgang no good at drawing pictures from head."
-msgstr "A Wolfgang no se le da bien dibujar de memoria."
+msgstr "Wolfgang no ser bueno dibujando de memoria."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.BUSY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.BUSY"
 msgid "The Mighty Wolfgang will try again soon!"
-msgstr "¡El poderoso Wolfgang lo volverá a intentarlo pronto!"
+msgstr "¡El poderoso Wolfgang volverá a intentar pronto!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.DEAD"
 msgid "You know is dead, yes?"
-msgstr "Sabes que está muerto, ¿no?"
+msgstr "Saber que estar muerto, ¿no?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.SLEEPING"
 msgid "Is sleeping now!"
-msgstr "¡Está durmiendo ahora!"
+msgstr "¡Estar durmiendo ahora!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.INUSE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.INUSE"
 msgid "Hair-cow is occupied by another."
-msgstr "La vaca peluda está ocupada por alguien."
+msgstr "La vaca peluda estar ocupada por alguien."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "I cannot ride it now! Hair-cow is proving itself in battle!"
-msgstr "¡Ahora no! ¡La vaca con pelo está librando una batalla!"
+msgstr "¡Ahora no! ¡La vaca con pelo estar librando una batalla!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.REPAIRBOAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.REPAIRBOAT.GENERIC"
 msgid "Small boat has no damages to repair! Wolfgang could punch it?"
-msgstr ""
-"¡El pequeño bote no tiene defectos! ¿Tal vez Wolfgang podría golpearlo?"
+msgstr "¡El pequeño bote no tiene defectos! ¿Wolfgang podría golpearlo?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.RUMMAGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.RUMMAGE.GENERIC"
 msgid "Maybe Wolfgang do later."
-msgstr "Tal vez Wolfgang lo haga después."
+msgstr "Tal vez Wolfgang haga después."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SADDLE.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SADDLE.TARGETINCOMBAT"
 msgid "I cannot ride it now! Hair-cow is proving itself in battle!"
-msgstr "¡Ahora no! ¡La vaca con pelo está librando una batalla!"
+msgstr "¡Ahora no! ¡La vaca con pelo estar librando una batalla!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHAVE.AWAKEBEEFALO"
@@ -137394,22 +137393,22 @@ msgstr "Esperaré hasta que no mire."
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHAVE.GENERIC"
 msgid "That cannot be shaved."
-msgstr "Eso no se puede afeitar."
+msgstr "Eso no poder afeitarse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHAVE.NOBITS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHAVE.NOBITS"
 msgid "I cannot shave when there are no hairs."
-msgstr "No puedo afeitar algo que no tiene pelos."
+msgstr "No puedo afeitar cuando no haber pelos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHOP.CANTPAY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHOP.CANTPAY"
 msgid "Wolfgang is too poor."
-msgstr "Wolfgang es demasiado pobre."
+msgstr "Wolfgang ser demasiado pobre."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.SHOP.GENERIC"
 msgid "Is not for sale."
-msgstr "No está a la venta."
+msgstr "No estar a la venta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.STORE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.STORE.GENERIC"
@@ -137434,7 +137433,7 @@ msgstr "¡Wolfgang ya sabe eso!"
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEDOOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEDOOR.GENERIC"
 msgid "Open for Wolfgang!"
-msgstr "¡Ábrete para Wolfgang!"
+msgstr "¡Abrirse para Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEDOOR.LOCKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.USEDOOR.LOCKED"
@@ -137449,12 +137448,12 @@ msgstr "¡Wolfgang no tiene cositas para envolver!"
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.WRITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.WRITE.GENERIC"
 msgid "Wolfgang not good with tiny letters."
-msgstr "Wolfgang no es bueno con las letritas."
+msgstr "Wolfgang no ser bueno con las letritas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL_GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL_GENERIC"
 msgid "I am not mighty enough to do that."
-msgstr "No soy lo bastante fuerte para hacer eso."
+msgstr "No ser lo bastante fuerte para hacer eso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_ALARMOVER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_ALARMOVER"
@@ -137464,17 +137463,17 @@ msgstr "¡Nada puede herir al poderoso Wolfgang!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_BATS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_BATS"
 msgid "Bats not get Wolfgang!"
-msgstr "¡Los murciélagos no detendrán a Wolfgang!"
+msgstr "¡Los murciélagos no detener a Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_OTHERWORLD_DEED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_OTHERWORLD_DEED"
 msgid "Wolfgang don't know where this is."
-msgstr "Wolfgang no sabe dónde está eso."
+msgstr "Wolfgang no saber dónde estar eso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_UNDERLEAFCANOPY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUCE_UNDERLEAFCANOPY"
 msgid "Wolfgang does not like tree dark!"
-msgstr "¡Wolfgang detesta la oscuridad bajo los árboles!"
+msgstr "¡Wolfgang detestar la oscuridad bajo los árboles!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ACCOMPLISHMENT"
@@ -137494,12 +137493,12 @@ msgstr "¡La próxima vez seré más fuerte!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BEES
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BEES"
 msgid "Bees! Nasty stinging bug men!"
-msgstr "¡Abejas! ¡Repugnantes insectos que pican!"
+msgstr "¡Abejas! ¡Repugnantes insectos picahombres!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BOAT_DAMAGED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BOAT_DAMAGED"
 msgid "Ship is weak! Needs fixingtimes."
-msgstr "¡El bote se debilita! Necesita reparaciones."
+msgstr "¡El bote ser débil! Necesita reparaciones."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BOAT_SINKING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BOAT_SINKING"
@@ -137514,12 +137513,12 @@ msgstr "¡Wolfgang enfrentará la muerte!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BOOMERANG"
 msgid "Ow! Why did you hurt me, throwy stick?"
-msgstr "¡Ow! ¿Por qué me haces daño, palo arrojadizo?"
+msgstr "¡Ow! ¿Por qué hacerme daño, palo arrojadizo?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BURNT"
 msgid "Burny is not fair!"
-msgstr "¡El fuego no es justo!"
+msgstr "¡Fuego no ser justo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CANFIX"
@@ -137543,17 +137542,17 @@ msgstr "¡Ow! ¡Me ha dado!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COLD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COLD"
 msgid "Brrrrrrr! Is frosty!"
-msgstr "¡Brrrrrrr! ¡Hace mucho frío!"
+msgstr "¡Brrrrrrr! ¡Hacer mucho frío!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COMPASS_OUT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_COMPASS_OUT"
 msgid "Little needle broke off!"
-msgstr "¡La pequeña aguja se ha roto!"
+msgstr "¡La pequeña aguja haberse roto!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAB_ESCAPE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAB_ESCAPE"
 msgid "Crabbit has fled. I do not blame it."
-msgstr "El congrejo ha huido. No lo culpo."
+msgstr "El congrejo haber huido. No lo culpo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CRAFTING_FAIL"
@@ -137568,12 +137567,12 @@ msgstr "Hora del agua."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DEERCLOPS"
 msgid "Sound like big strong man coming."
-msgstr "Suena como si viniera un hombre fuerte y grande."
+msgstr "Suena como si hombre fuerte y grande viniera."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DEHUMID.1"
 msgid "Ha! Wolfgang beat the heat!"
-msgstr "¡Ja! ¡Wolfgang ha vencido el calor!"
+msgstr "¡Ja! ¡Wolfgang vencer al calor!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DUSK"
@@ -137583,12 +137582,12 @@ msgstr "La hora del terror se aproxima."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.GENERIC"
 msgid "Good food make Wolfgang strong!"
-msgstr "¡La buena comida hace fuerte a Wolfgang!"
+msgstr "¡La buena comida hacer fuerte a Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.INVALID
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.INVALID"
 msgid "Hahah! That's not food!"
-msgstr "¡Jajaja! ¡Eso no es comida!"
+msgstr "¡Jajaja! ¡Eso no ser comida!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.PAINFUL"
@@ -137608,7 +137607,7 @@ msgstr "Sabe raro."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.YUCKY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.YUCKY"
 msgid "Stomach is not strong enough for that."
-msgstr "Mi estómago no es lo suficientemente poderoso."
+msgstr "Mi estómago no ser lo suficientemente poderoso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ENTER_DARK"
@@ -137621,7 +137620,6 @@ msgid "I can see again!"
 msgstr "¡Puedo ver de nuevo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FAN_OUT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FAN_OUT"
 msgid "Tiny fan is broken!"
 msgstr "¡Se ha roto!"
@@ -137639,19 +137637,20 @@ msgstr "¡Agh! ¡Cof! ¡Cof!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER"
 msgid "Allergies strong like Wolfgang!"
-msgstr "¡Alergias fuertes como Wolfgang!"
+msgstr "¡Alergias ser fuertes como Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER_OFF
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ha! Wolfgang beat allergies!"
-msgstr "¡Ja! ¡Wolfgang venció a las alergias!"
+msgstr "¡Ja! ¡Wolfgang vencer a las alergias!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HIGHRESEARCH"
 msgid "Is maybe too much information."
-msgstr "Tal vez sea demasiada información."
+msgstr "Tal vez ser demasiada información."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HOT
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HOT"
 msgid "Hah, is sticky and hot!"
 msgstr "¡Ja, pegajoso y caliente!"
@@ -137659,22 +137658,22 @@ msgstr "¡Ja, pegajoso y caliente!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HOUNDS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HOUNDS"
 msgid "I hear puppies!"
-msgstr "¡Escucho cachorritos!"
+msgstr "¡Oigo cachorritos!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HOUSE_DOOR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HOUSE_DOOR"
 msgid "Wolfgang will get mightiest permit first!"
-msgstr "¡Wolfgang debe conseguir el más poderoso de los permisos!"
+msgstr "¡Wolfgang deber conseguir el más poderoso de los permisos!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNGRY"
 msgid "My mighty belly is empty!"
-msgstr "¡Mi poderoso estómago está vacío!"
+msgstr "¡Mi poderoso estómago estar vacío!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNT_BEAST_NEARBY"
 msgid "Animal is close!"
-msgstr "¡El animal está cerca!"
+msgstr "¡El animal estar cerca!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNT_LOST_TRAIL"
@@ -137684,37 +137683,37 @@ msgstr "Ningún animal por aquí."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNT_LOST_TRAIL_SPRING"
 msgid "Animal tracks is mud now."
-msgstr "Las huellas ahora son lodo."
+msgstr "Las huellas ahora ser lodo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_INSUFFICIENTFERTILIZER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_INSUFFICIENTFERTILIZER"
 msgid "Is not enough poop."
-msgstr "No tiene suficiente estiércol."
+msgstr "No tener suficiente estiércol."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_INV_FULL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_INV_FULL"
 msgid "My mighty arms can carry no more."
-msgstr "Mis poderosos brazos no pueden más."
+msgstr "Mis fuertes brazos no pueden más."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KNOCKEDOUT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KNOCKEDOUT"
 msgid "Ugh, I must have hit head."
-msgstr "Ugh, debo haberme golpeado la cabeza."
+msgstr "Ugh, debo haber golpeado mi cabeza."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Lightning is weak compared to Wolfgang clothes!"
-msgstr "¡El relámpago es débil comparado con la ropa de Wolfgang!"
+msgstr "¡El relámpago ser débil comparado con la ropa de Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LOWRESEARCH"
 msgid "Is tiny information."
-msgstr "Es muy poca información."
+msgstr "Ser muy poca información."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MAGIC_FAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MAGIC_FAIL"
 msgid "Is not making the magics now. Why?"
-msgstr "Ahora no hace magia. ¿Por qué?"
+msgstr "Ahora no hacer magia. ¿Por qué?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MAPWRAP_LOSECONTROL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MAPWRAP_LOSECONTROL"
@@ -137729,12 +137728,12 @@ msgstr "¡No se puede detener a Wolfgang!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MAPWRAP_WARN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MAPWRAP_WARN"
 msgid "Is getting scary!"
-msgstr "¡Esto cada vez da más miedo!"
+msgstr "¡Esto cada vez dar más miedo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MESSAGEBOTTLE.1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MESSAGEBOTTLE.1"
 msgid "Eh... Wolfgang can not read."
-msgstr "Eh... Wolfgang no sabe leer."
+msgstr "Eh... Wolfgang no saber leer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MIGHTYTONORMAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MIGHTYTONORMAL"
@@ -137744,22 +137743,22 @@ msgstr "¡Necesito llenar mi poderoso estómago otra vez!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MORETREASURE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MORETREASURE"
 msgid "Wolfgang find more shinies!"
-msgstr "¡Wolfgang ha encontrado más tesoros!"
+msgstr "¡Wolfgang encontrar más cositas brillantes!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MOSQUITOS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MOSQUITOS"
 msgid "Wolfgang need blood, get away sucking bugs!"
-msgstr "Wolfgang necesita su sangre. ¡Largo, chupasangres!"
+msgstr "Wolfgang necesitar sangre. ¡Largo, chupasangres!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_DOOR_FOUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_DOOR_FOUND"
 msgid "Is door."
-msgstr "Una puerta."
+msgstr "Ser puerta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND"
 msgid "Is no door."
-msgstr "No es una puerta."
+msgstr "No ser puerta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_FOUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_FOUND"
@@ -137769,47 +137768,47 @@ msgstr "Wolfgang encontró algo."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_NOREWARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MYSTERY_NOREWARD"
 msgid "Is nothing."
-msgstr "No hay nada."
+msgstr "Ser nada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODANGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODANGERSIESTA"
 msgid "Wolfgang prefer fight to nap."
-msgstr "Wolfgang prefiere luchar a una siesta."
+msgstr "Wolfgang preferir luchar a una siesta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODANGERSLEEP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODANGERSLEEP"
 msgid "Wolfgang prefer fight to sleep."
-msgstr "Wolfgang prefiere luchar a dormir."
+msgstr "Wolfgang preferir luchar a dormir."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP"
 msgid "Is too bright for sleep."
-msgstr "Hay demasiada luz para dormir."
+msgstr "Haber demasiada luz para dormir."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP_CAVE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP_CAVE"
 msgid "Is creepy in cave."
-msgstr "Da miedo en una cueva."
+msgstr "Dar miedo en una cueva."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOHUNGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOHUNGERSIESTA"
 msgid "Wolfgang take siesta after eating time."
-msgstr "La siesta de Wolfgang va después de comer."
+msgstr "La siesta de Wolfgang ir después de comer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOHUNGERSLEEP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOHUNGERSLEEP"
 msgid "Wolfgang say never sleep with empty stomach."
-msgstr "Wolfgang dice que nunca duerme con el estómago vacío."
+msgstr "Wolfgang decir que nunca dormir con el estómago vacío."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NONIGHTSIESTA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NONIGHTSIESTA"
 msgid "Wolfgang have principles against siesta at night."
-msgstr "Wolfgang tiene principios contra dormir la siesta de noche."
+msgstr "Wolfgang tener principios contra las siestas de noche."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NONIGHTSIESTA_CAVE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NONIGHTSIESTA_CAVE"
 msgid "Wolfgang is tense. Too tense to relax."
-msgstr "Wolfgang está tenso. Muy tenso para relajarse."
+msgstr "Wolfgang estar tenso. Muy tenso para relajarse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NORMALTOMIGHTY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NORMALTOMIGHTY"
@@ -137819,12 +137818,12 @@ msgstr "¡SOY MUY FUERTE!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NORMALTOWIMPY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NORMALTOWIMPY"
 msgid "I am not feeling so good."
-msgstr "No me siento muy bien."
+msgstr "No sentirme muy bien."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOSLEEPONFIRE"
 msgid "Is too hot for sleeping."
-msgstr "Demasiado calor para dormir."
+msgstr "Hacer demasiado calor para dormir."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOTHING_FOUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NOTHING_FOUND"
@@ -137834,17 +137833,17 @@ msgstr "No hay nada aquí."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NO_TRAP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NO_TRAP"
 msgid "Easy like lift weights."
-msgstr "Tan fácil como levantar pesas."
+msgstr "Fácil como levantar pesas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_OTHER_WORLD_PLANT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_OTHER_WORLD_PLANT"
 msgid "Not mighty enough to grow here! Unlike Wolfgang!"
-msgstr "¡No es tan poderosa para crecer aquí! ¡No como Wolfgang!"
+msgstr "¡No ser tan fuerte como para crecer aquí! ¡No como Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_OTHER_WORLD_TREASURE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_OTHER_WORLD_TREASURE"
 msgid "Treasure does not look close by."
-msgstr "No parece que haya un tesoro cerca."
+msgstr "No parece haber un tesoro cerca."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PECKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PECKED"
@@ -137864,12 +137863,12 @@ msgstr "¡Inaceptable!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.3
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PICKPOOP.3"
 msgid "Wolfgang is disgusted!"
-msgstr "¡Wolfgang está asqueado!"
+msgstr "¡Wolfgang estar asqueado!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PUGALISK_INVULNERABLE.1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PUGALISK_INVULNERABLE.1"
 msgid "Why Wolfgang not hurting you?!"
-msgstr "¿¡Por qué Wolfgang no te hace daño!?"
+msgstr "¿¡Por qué Wolfgang no hacerte daño!?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PUGALISK_INVULNERABLE.2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_PUGALISK_INVULNERABLE.2"
@@ -137884,17 +137883,17 @@ msgstr "Wolfgang necesitar luchar con inteligencia..."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_QUAKE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_QUAKE"
 msgid "Ground is shake. Wolfgang hate shaking ground."
-msgstr "La tierra tiembla. Wolfgang odia que tiemble la tierra."
+msgstr "La tierra temblar. Wolfgang odiar tierra temblando."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_RESEARCH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_RESEARCH"
 msgid "Is lot of information."
-msgstr "Es mucha información."
+msgstr "Ser mucha información."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ROOM_STUCK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ROOM_STUCK"
 msgid "No. Sometimes smashing lead to Wolfgang's downfall."
-msgstr "No. Aplastar a veces lleva a la ruina a Wolfgang."
+msgstr "No. Aplastar a veces llevar a la ruina a Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SHARX
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SHARX"
@@ -137904,22 +137903,22 @@ msgstr "¡Wolfgang ha hecho nuevos amigos!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SHELTER"
 msgid "Wolfgang hide under tree."
-msgstr "Wolfgang se oculta bajo el árbol."
+msgstr "Wolfgang ocultarse bajo el árbol."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SNEEZE"
 msgid "Achoo! Excuse Wolfgang."
-msgstr "¡Achú! Disculpa a Wolfgang."
+msgstr "¡Achú! Disculpar a Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SOAKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SOAKED"
 msgid "Wolfgang is maybe now made of water."
-msgstr "Wolfgang quizás ahora esté hecho de agua."
+msgstr "Wolfgang quizás ahora estar hecho de agua."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SUITUP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SUITUP"
 msgid "WOLFGANG IS MIGHTY!"
-msgstr "¡WOLFGANG ES SUPERFUERTE!"
+msgstr "¡WOLFGANG SER SUPERFUERTE!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TAXDAY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TAXDAY"
@@ -137929,27 +137928,27 @@ msgstr "Hora de que los cerditos le paguen a Wolfgang."
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_THORNS"
 msgid "Pointy is not fair!"
-msgstr "¡Lo puntiagudo no es justo!"
+msgstr "¡Lo puntiagudo no ser justo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOOLCORRODED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOOLCORRODED"
 msgid "Wolfgang need better tools."
-msgstr "Wolfgang necesita mejores herramientas."
+msgstr "Wolfgang necesitar mejores herramientas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOOL_SLIP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOOL_SLIP"
 msgid "Is too slippery for holding!"
-msgstr "¡Se resbala de mis manos!"
+msgstr "¡Ser muy resbaladizo para mis manos!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID.1"
 msgid "Wolfgang don't like %s in this heat."
-msgstr "Wolfgang odia llevar esto con tanto calor."
+msgstr "Wolfgang odiar llevar esto con tanto calor."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID.2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID.2"
 msgid "Is too muggy."
-msgstr "Esto es muy sofocante."
+msgstr "Esto ser muy sofocante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT"
@@ -137964,22 +137963,23 @@ msgstr "¡Ey! ¡No sorprendas a Wolfgang!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TRAWL_FULL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TRAWL_FULL"
 msgid "Net is fat with treasures!"
-msgstr "¡La red está repleta de tesoros!"
+msgstr "¡La red estar repleta de tesoros!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TREASURE
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TREASURE"
 msgid "Wolfgang sees presents!"
-msgstr "¡Wolfgang ve ofrendas!"
+msgstr "¡Wolfgang ve regalos!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TURFTOOHARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TURFTOOHARD"
 msgid "Ugh! UGH! Wolfgang let you be for now."
-msgstr "¡Agh! ¡AGH! De momento, Wolfgang te dejará en paz."
+msgstr "¡Agh! ¡AGH! De momento, Wolfgang dejarte en paz."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_UNIMPLEMENTED"
 msgid "Is not ready."
-msgstr "No está listo."
+msgstr "No estar listo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_VOLCANO_ERUPT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_VOLCANO_ERUPT"
@@ -137989,17 +137989,17 @@ msgstr "¡Jaja! ¡Hora de luchar contra la MONTAÑA!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WAVE_BOOST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WAVE_BOOST"
 msgid "I am mighty!"
-msgstr "¡Soy fuerte!"
+msgstr "¡Soy muy fuerte!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WET"
 msgid "Wolfgang does not like bath time."
-msgstr "A Wolfgang no le gusta la hora del baño."
+msgstr "A Wolfgang no gustar la hora del baño."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WETTER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WETTER"
 msgid "It is like sitting in pond."
-msgstr "Siento que me bañé en un estanque."
+msgstr "Wolgang sentirse como un estanque."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WHALE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WHALE_HUNT_BEAST_NEARBY"
@@ -138009,7 +138009,7 @@ msgstr "¡Wolfgang te encontrará, pez grande!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WHALE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WHALE_HUNT_LOST_TRAIL"
 msgid "Argh! Big fishie outsmart Wolfgang!"
-msgstr "¡Argh! ¡El pez grande ha burlado a Wolfgang!"
+msgstr "¡Argh! ¡El pez grande escapar de Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WHALE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WHALE_HUNT_LOST_TRAIL_SPRING"
@@ -138019,17 +138019,17 @@ msgstr "¡Wolfgang no pudo seguir al pez grande!"
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WIMPYTONORMAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WIMPYTONORMAL"
 msgid "Wolfgang is better."
-msgstr "Wolfgang ha mejorado."
+msgstr "Wolfgang haber mejorado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WORMHOLE"
 msgid "It makes me feel alive!"
-msgstr "¡Esto me hace sentir vivo!"
+msgstr "¡Esto hacerme sentir vivo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WORMS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WORMS"
 msgid "Earth is tremble beneath Wolfgang's mighty feet!"
-msgstr "¡La tierra tiembla bajo los poderosos pies de Wolfgang!"
+msgstr "¡La tierra temblar bajo los poderosos pies de Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.BATTLECRY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.BATTLECRY.GENERIC"
@@ -138059,7 +138059,7 @@ msgstr "¡Sigo siendo más fuerte, espantoso insecto!"
 #. STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.GENERIC"
 msgid "Ha! I win!"
-msgstr "¡Ja! ¡He ganado!"
+msgstr "¡Ja! ¡Yo ganar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.PIG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.PIG"
@@ -138069,7 +138069,7 @@ msgstr "Te perdono, hombre cerdo."
 #. STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.PREY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.PREY"
 msgid "You keep running!"
-msgstr "¡Sigue corriendo!"
+msgstr "¡Tú seguir corriendo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.SPIDER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.COMBAT_QUIT.SPIDER"
@@ -138084,12 +138084,12 @@ msgstr "Sabe que yo soy más fuerte."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.BURNING"
 msgid "Is burning!"
-msgstr "¡Está ardiendo!"
+msgstr "¡Estar ardiendo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.GENERIC"
 msgid "Is growing tree bits."
-msgstr "Crecen pedazos de árbol."
+msgstr "Crece pedazos de árbol."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.PICKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.PICKED"
@@ -138099,12 +138099,12 @@ msgstr "El poderoso Wolfgang ya recogió eso."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.WITHERED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.1.WITHERED"
 msgid "Is puny and weak."
-msgstr "Enclenque y débil."
+msgstr "Ser enclenque y débil."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.GENERIC"
 msgid "Is pretty."
-msgstr "Es bonita."
+msgstr "Ser bonita."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_GROUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_GROUND"
@@ -138114,7 +138114,7 @@ msgstr "¿Quiere pelear?"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET"
 msgid "Wolfgang is feeling a little squeamish."
-msgstr "Wolfgang se siente un poco aprensivo."
+msgstr "Wolfgang estar sintiéndose un poco aprensivo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LONG"
@@ -138124,12 +138124,12 @@ msgstr "Delicada."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.MEDIUM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.MEDIUM"
 msgid "Little flower gives Wolfgang the... \"heebie jeebies\"."
-msgstr "La florecita le pone a Wolfgang los... \"pelos de punta\"."
+msgstr "La florecita poner a Wolfgang los... \"pelos de punta\"."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.SOON
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.SOON"
 msgid "I do not like it."
-msgstr "No me gusta."
+msgstr "No gustarme nada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACCOMPLISHMENT_SHRINE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACCOMPLISHMENT_SHRINE"
@@ -138144,22 +138144,22 @@ msgstr "¡Podría aplastar a ese árbol-semilla con mis manos!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACORN.PLANTED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACORN.PLANTED"
 msgid "It will be tree soon."
-msgstr "Pronto será un árbol."
+msgstr "Pronto ser un árbol."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACORN_COOKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACORN_COOKED"
 msgid "Wolfgang cook tree out of nut."
-msgstr "Wolfgang le cocinó el árbol a la nuez."
+msgstr "Wolfgang cocinar el árbol a la nuez."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP.DEAD"
 msgid "Is not working."
-msgstr "Ya no se mueve."
+msgstr "Ya no moverse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP.GENERIC"
 msgid "Do not eat Wolfgang!"
-msgstr "¡Wolfgang no es comida!"
+msgstr "¡No comer a Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADULT_FLYTRAP.SLEEPING"
@@ -138169,87 +138169,87 @@ msgstr "Hora de dormir de la planta."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Is mouth door! Say \"Ahhhhh!\""
-msgstr "¡Es una puerta de boca! ¡Di \"ahhhh\"!"
+msgstr "¡Ser una puerta de boca! ¡Di \"ahhhh\"!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AERODYNAMICHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AERODYNAMICHAT"
 msgid "Keeps mighty legs free to run!"
-msgstr "¡Permite a mis poderosas piernas correr libremente!"
+msgstr "¡Permite a mis fuertes piernas correr libremente!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALLOY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALLOY"
 msgid "Fire make it strong like Wolfgang."
-msgstr "El fuego lo hizo tan fuerte como Wolfgang."
+msgstr "El fuego hacerlo tan fuerte como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE"
 msgid "Wolfgang eat everything."
-msgstr "Wolfgang come de todo."
+msgstr "Wolfgang comer de todo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE_COOKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE_COOKED"
 msgid "It make Wolfgang big and strong."
-msgstr "Eso hace a Wolfgang grande y fuerte."
+msgstr "Eso hacer a Wolfgang grande y fuerte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE_PLANTED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE_PLANTED"
 msgid "Wolfgang pick it."
-msgstr "Wolfgang lo recogerá."
+msgstr "Wolfgang recoger eso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ALOE_SEEDS"
 msgid "Is for planting."
-msgstr "Para plantarse."
+msgstr "Ser para plantarse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET"
 msgid "Is very pretty."
-msgstr "Es muy bonito."
+msgstr "Ser muy bonito."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.BROKEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.BROKEN"
 msgid "Is broken altar."
-msgstr "Es un altar roto."
+msgstr "Ser un altar roto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.WORKING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.WORKING"
 msgid "Is nasty, creepy altar."
-msgstr "Un altar desagradable y espeluznante."
+msgstr "Ser un altar desagradable y espeluznante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN"
 msgid "Is broken altar."
-msgstr "Es un altar roto."
+msgstr "Ser un altar roto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_HERALD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_HERALD"
 msgid "Wolfgang just let him be."
-msgstr "Wolfgang solo lo dejará en paz."
+msgstr "Wolfgang solo dejarlo en paz."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_HULK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_HULK"
 msgid "Big robot not too big for Wolfgang to smash!"
-msgstr "¡Robot grande, pero aún así Wolfgang lo aplastará!"
+msgstr "¡Robot grande, pero aún así Wolfgang aplastar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_REMNANT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_REMNANT"
 msgid "Is piece of scary man."
-msgstr "Trozos del hombre aterrador."
+msgstr "Ser trozos del hombre aterrador."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOTS_ASSEMBLY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOTS_ASSEMBLY"
 msgid "Is missing pieces. Wolfgang will help!"
-msgstr "Faltan piezas. ¡Wolfgang ayudará!"
+msgstr "Faltar piezas. ¡Wolfgang ayudará!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_CLAW
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_CLAW"
 msgid "Is sleepy little robot."
-msgstr "Pequeño robot adormilado."
+msgstr "Ser pequeño robot adormilado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_HEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_HEAD"
 msgid "Is big head. Wolfgang head is bigger!"
-msgstr "Una cabeza grande. ¡La de Wolfgang lo es más!"
+msgstr "Ser una cabeza grande. ¡La de Wolfgang serlo más!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_LEG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_LEG"
@@ -138259,7 +138259,7 @@ msgstr "Tiene que trabajar esas piernas."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_RIBS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ROBOT_RIBS"
 msgid "Wolfgang can eat ribs?"
-msgstr "¿Puede Wolfgang comer costillas?"
+msgstr "¿Wolfgang poder comer costillas?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_STATUE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_STATUE"
@@ -138269,7 +138269,7 @@ msgstr "Fea, fea, fea."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANIMAL_TRACK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANIMAL_TRACK"
 msgid "Animal went this way."
-msgstr "El animal se fue por ahí."
+msgstr "El animal irse por ahí."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTCHEST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTCHEST"
@@ -138279,12 +138279,12 @@ msgstr "¡Cosas dulces para Wolfgang!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTCOMBHOME
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTCOMBHOME"
 msgid "Is looking like Bug Man home."
-msgstr "Parece la casa del hombre insecto."
+msgstr "Parecer la casa del hombre insecto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTHILL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTHILL"
 msgid "Is big bug man pile."
-msgstr "EL montón del hombre insecto."
+msgstr "Ser el montón del hombre insecto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTIVENOM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTIVENOM"
@@ -138299,7 +138299,7 @@ msgstr "Wolfgang cantará como el gran pajarito."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN.DEAD"
 msgid "Bug Man is dead."
-msgstr "Hombre insecto muerto."
+msgstr "Hombre insecto estar muerto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN.GENERIC"
@@ -138314,22 +138314,22 @@ msgstr "¡Buenas noches, hombre insecto!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN_WARRIOR"
 msgid "Wolfgang smash mighty Bug Man!"
-msgstr "¡Wolfgang aplastará al poderoso hombre insecto!"
+msgstr "¡Wolfgang aplastar al poderoso hombre insecto!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN_WARRIOR_EGG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN_WARRIOR_EGG"
 msgid "Is baby soldier bug."
-msgstr "Insecto soldado bebé."
+msgstr "Ser un insecto soldado bebé."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMASKHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMASKHAT"
 msgid "Make Wolfgang look like Bug Man."
-msgstr "Hace ver a Wolfgang como hombre insecto."
+msgstr "Hacer ver a Wolfgang como hombre insecto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTQUEEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTQUEEN"
 msgid "Is big strong bug woman."
-msgstr "Mujer insecto grande y fuerte."
+msgstr "Mujer insecto ser grande y fuerte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTQUEEN_CHAMBERS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTQUEEN_CHAMBERS"
@@ -138339,22 +138339,22 @@ msgstr "Bonito lugar para insectos."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTQUEEN_THRONE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTQUEEN_THRONE"
 msgid "Stuff hiding in there."
-msgstr "Hay cosas ahí escondidas."
+msgstr "Ahí haber cosas escondidas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTSUIT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTSUIT"
 msgid "Wolfgang just want to fit in."
-msgstr "Wolfgang solo quiere ser uno más."
+msgstr "Wolfgang solo querer ser uno más."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANT_CAVE_LANTERN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANT_CAVE_LANTERN"
 msgid "It sticky and keep dark away."
-msgstr "Es pegajosa y aleja la oscuridad."
+msgstr "Ser pegajosa y alejar la oscuridad."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.APORKALYPSE_CLOCK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.APORKALYPSE_CLOCK"
 msgid "Is clock of scary things."
-msgstr "El reloj de las cosas aterradoras."
+msgstr "Ser el reloj de las cosas aterradoras."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORCACTUS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORCACTUS"
@@ -138369,12 +138369,12 @@ msgstr "Wolfgang no necesita protección."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORGRASS"
 msgid "Is prickly."
-msgstr "Pincha."
+msgstr "Espinoso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORLIMESTONE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORLIMESTONE"
 msgid "This mighty armor will protect me!"
-msgstr "¡Esta poderosa armadura me protegerá!"
+msgstr "¡La poderosa armadura me protegerá!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORMARBLE"
@@ -138384,7 +138384,7 @@ msgstr "Ato rocas a los músculos."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOROBSIDIAN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOROBSIDIAN"
 msgid "Is cheap trick, but Wolfgang like!"
-msgstr "¡Es un truco barato, pero a Wolfgang le gusta!"
+msgstr "¡Un truco barato, pero a Wolfgang le gusta!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORRUINS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORRUINS"
@@ -138394,7 +138394,7 @@ msgstr "¿Protegerme? ¡No lo necesito!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSEASHELL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSEASHELL"
 msgid "Try your dirty tricks now, poison creatures."
-msgstr "Intentad vuestros sucios trucos ahora, criaturas venenosas."
+msgstr "Intenten sus sucios trucos ahora, criaturas venenosas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSLURPER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSLURPER"
@@ -138404,12 +138404,12 @@ msgstr "¡Se mueve con mis poderosos músculos!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSNURTLESHELL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORSNURTLESHELL"
 msgid "Is sticky inside."
-msgstr "Está pegajosa por dentro."
+msgstr "Es pegajoso por dentro."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORVORTEXCLOAK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORVORTEXCLOAK"
 msgid "Scary cloak! Wolfgang wear it anyway."
-msgstr ""
+msgstr "¡Un manto aterrador! Wolfgang lo vestirá aún así."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORWOOD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORWOOD"
@@ -138424,7 +138424,7 @@ msgstr "¡El océano no se enfrentará a Wolfgang ahora!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_METALPLATE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_METALPLATE"
 msgid "No one beat Wolfgang now!"
-msgstr ""
+msgstr "¡Nadie vencerá a Wolfgang ahora!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_SANITY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_SANITY"
@@ -138434,37 +138434,38 @@ msgstr "¡Es como llevar un trapo aterrador!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_SNAKESKIN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_SNAKESKIN"
 msgid "Is made to show my mighty muscles."
-msgstr "Está hecha para que luzca mis poderosos músculos."
+msgstr "Está hecha para que luzca mis fuertes músculos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_WEEVOLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_WEEVOLE"
 msgid "Wolfgang win!"
-msgstr ""
+msgstr "¡Wolfgang gana!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_WINDBREAKER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_WINDBREAKER"
 msgid "Wolfgang master of breaking wind!"
-msgstr "¡Wolfgang es un poderoso cazador!"
+msgstr "¡Wolfgang es un maestro cazador!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOUREDBOAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOUREDBOAT"
 msgid "You are mighty, just like me."
-msgstr "Eres poderoso, como yo."
+msgstr "Eres fuerte, como yo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.GENERIC"
 msgid "Is skeleton of fire."
-msgstr "Es un esqueleto de fuego."
+msgstr "El esqueleto del fuego."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_EYE_BONE
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_EYE_BONE"
 msgid "Is burned pieces of eyebone from I teleport!"
-msgstr "¡Son piezas quemadas del hueso con ojo con el que me teletransporto!"
+msgstr "¡Cenizas quemadas del ojo con hueso que llevaba!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER"
 msgid "Is burned pieces of flower from I teleport!"
-msgstr "¡Son piezas quemadas de la flor con la que me teletransporto!"
+msgstr "¡Cenizas quemadas de la flor que llevaba!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_THINGIE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_THINGIE"
