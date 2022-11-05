@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 27800,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 27900,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -139711,102 +139711,102 @@ msgstr "¡Estar casi listo!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.DONE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.DONE"
 msgid "Is time to eat!"
-msgstr "¡Es hora de comer!"
+msgstr "¡Ser hora de comer!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.EMPTY"
 msgid "Empty pot make Wolfgang think hungry thoughts."
-msgstr "Una olla vacía hace que Wolfgang tenga pensamientos hambrientos."
+msgstr "Una olla vacía hacer a Wolfgang pensar en comida."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COONTAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COONTAIL"
 msgid "Wiggly cat part!"
-msgstr "¡Parte del gato ondulada!"
+msgstr "¡Parte rizada de gato!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL"
 msgid "Is very pretty! Will it crush?"
-msgstr "¡Es muy bonita! ¿La aplasto?"
+msgstr "¡Ser muy bonito! ¿Wolfgang aplastar?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORALLARVE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORALLARVE"
 msgid "Is small and harmless."
-msgstr "Es pequeña e inofensiva."
+msgstr "Ser pequeña e inofensiva."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORALREEF
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORALREEF"
 msgid "Is so fragile!"
-msgstr "¡Es tan frágil!"
+msgstr "¡Ser tan frágil!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL_BRAIN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL_BRAIN"
 msgid "Heh heh. It squish under Wolfgang's touch."
-msgstr "Je, je. Se aplasta al tacto de Wolfgang."
+msgstr "Jeje. Aplastarse al tacto de Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL_BRAIN_ROCK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORAL_BRAIN_ROCK"
 msgid "Wolfgang's brain will punch this brain."
-msgstr "El cerebro de Wolfgang golpeará a este cerebro."
+msgstr "El cerebro de Wolfgang golpear a ese cerebro."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORK"
 msgid "Is from funny tree."
-msgstr ""
+msgstr "Ser de árbol gracioso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORKBOAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORKBOAT"
 msgid "Is weakling."
-msgstr ""
+msgstr "Ser enclenque."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORKCHEST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORKCHEST"
 msgid "Is for keeping little doggies out."
-msgstr ""
+msgstr "Ser para mantener perritos lejos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORK_BAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORK_BAT"
 msgid "Wolfgang hardly feel this at all."
-msgstr ""
+msgstr "Wolfgang apenas sentirlo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORMORANT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORMORANT"
 msgid "Bird smells like fish eggs."
-msgstr "Los pájaros huelen a huevos de pescado."
+msgstr "Pájaros oler a huevos de pescado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN"
 msgid "Is corn. What expect?"
-msgstr "Es maíz. ¿Qué esperabas?"
+msgstr "Ser maíz. ¿Qué esperabas?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_COOKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_COOKED"
 msgid "Pop pop pop! Ha ha, funny corn."
-msgstr "¡Pop, pop, pop! Ja, ja, que gracioso es el maíz."
+msgstr "¡Pop, pop, pop! Jaja, el maíz ser muy gracioso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_SEEDS"
 msgid "Is seeds for grow corn."
-msgstr "Son semillas para cultivar maíz."
+msgstr "Ser semillas para cultivar maíz."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRAB.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRAB.GENERIC"
 msgid "If I punch it, it will be food."
-msgstr "Si lo golpeo, será comida."
+msgstr "Si lo golpeo, volverse comida."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRAB.HIDDEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRAB.HIDDEN"
 msgid "Dun be shellfish."
-msgstr "Asoma las patitas."
+msgstr "Wolfgang querer ver esas patitas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRABHOLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRABHOLE"
 msgid "Crabbit is coward."
-msgstr "El congrejo es cobarde."
+msgstr "El congrejo ser cobarde."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRATE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CRATE"
 msgid "I could smash."
-msgstr "Podría aplastarlo."
+msgstr "Podría aplastar."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CROCODOG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CROCODOG"
@@ -139816,17 +139816,17 @@ msgstr "¡Un perrito sin pelo!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CROW.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CROW.GENERIC"
 msgid "I do not like birds. Too fragile."
-msgstr "No me gustan los pájaros. Demasiado frágiles."
+msgstr "A Wolfgang no gustar pájaros. Ser frágiles."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CROW.HELD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CROW.HELD"
 msgid "He is squawky."
-msgstr "Está graznando."
+msgstr "Estar graznando."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CURTAIN_DOOR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CURTAIN_DOOR"
 msgid "Is not mighty door. "
-msgstr ""
+msgstr "No ser puerta poderosa."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTGRASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTGRASS"
@@ -139836,52 +139836,52 @@ msgstr "He hecho un montón de hierba."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTLASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTLASS"
 msgid "Wolfgang is ready for battle!"
-msgstr "¡Wolfgang está listo para la batalla!"
+msgstr "¡Wolfgang estar listo para la batalla!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTLICHEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTLICHEN"
 msgid "Tastes terrible."
-msgstr "Sabe fatal."
+msgstr "Saber fatal."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTNETTLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTNETTLE"
 msgid "Is good for clearing nose."
-msgstr ""
+msgstr "Ser buena para despejar nariz."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTREEDS"
 msgid "I made a clump of reeds."
-msgstr "He hecho un manojo de juncos."
+msgstr "Wolfgang hacer manojo de juncos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTSTONE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTSTONE"
 msgid "I crush rock to make brick!"
-msgstr "¡Machaco rocas para hacer ladrillos!"
+msgstr "¡Aplastar rocas para hacer ladrillos!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEADLYFEAST"
 msgid "Look like evil food."
-msgstr "Parece comida malvada."
+msgstr "Parecer comida malvada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEAD_SWORDFISH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEAD_SWORDFISH"
 msgid "It was a good fight."
-msgstr "Ha sido una buena pelea."
+msgstr "Haber sido una buena pelea."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.BURNING"
 msgid "I broke it."
-msgstr "Lo he roto."
+msgstr "Estar rompiéndose."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.BURNT"
 msgid "Is small and broken now."
-msgstr "Es pequeño y está roto ahora."
+msgstr "Ser pequeño y estar roto ahora."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.CHOPPED"
 msgid "Ha! I win!"
-msgstr "¡Ja! ¡He ganado!"
+msgstr "¡Ja! ¡Yo ganar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.GENERIC"
@@ -139891,324 +139891,324 @@ msgstr "¡Hola, árbol!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.POISON
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECIDUOUSTREE.POISON"
 msgid "Is big angry tree."
-msgstr "Es un árbol grande y enfadado."
+msgstr "Ser un árbol grande y enfadado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_ANTIQUITIES_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_ANTIQUITIES_BEEFALO"
 msgid "Wolfgang win!"
-msgstr ""
+msgstr "¡Wolfgang ganar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_ANTIQUITIES_WALLFISH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_ANTIQUITIES_WALLFISH"
 msgid "Is fish Wolfgang not eat."
-msgstr ""
+msgstr "Ser pez que Wolfgang no comer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CAVE_BAT_BURROW
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CAVE_BAT_BURROW"
 msgid "Is smelly like flappy bad guys."
-msgstr ""
+msgstr "Apestar como tipos malos aleteantes."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CAVE_BEAM_ROOM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CAVE_BEAM_ROOM"
 msgid "Is strong like Wolfgang."
-msgstr ""
+msgstr "Ser fuerte como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_BENCH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_BENCH"
 msgid "Chair big like Wolfgang."
-msgstr ""
+msgstr "Silla grande como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_CLASSIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_CLASSIC"
 msgid "Is for sitting."
-msgstr ""
+msgstr "Ser para sentarse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_CORNER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_CORNER"
 msgid "Is for sitting."
-msgstr ""
+msgstr "Ser para sentarse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_FOOTREST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_FOOTREST"
 msgid "Wolfgang put big foots on."
-msgstr ""
+msgstr "Wolfgang poner pies grandes encima."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_HORNED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_HORNED"
 msgid "Is for sitting."
-msgstr ""
+msgstr "Ser para sentarse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_LOUNGE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_LOUNGE"
 msgid "Chair big like Wolfgang."
-msgstr ""
+msgstr "Silla grande como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_MASSAGER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_MASSAGER"
 msgid "Is for... sitting?"
-msgstr ""
+msgstr "¿Ser para... sentarse?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_OTTOMAN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_OTTOMAN"
 msgid "Wolfgang put big foots on."
-msgstr ""
+msgstr "Wolfgang poner pies grandes encima."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_ROCKING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_ROCKING"
 msgid "Is for rocking."
-msgstr ""
+msgstr "Ser para mecerse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_STUFFED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAIR_STUFFED"
 msgid "Wolfgang deserve relax."
-msgstr ""
+msgstr "Wolfgang merecer relajarse."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAISE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_CHAISE"
 msgid "Is big like Wolfgang."
-msgstr ""
+msgstr "Silla grande como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_2EMBROIDERED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_2EMBROIDERED"
 msgid "Is fancy lights."
-msgstr ""
+msgstr "Ser luces sofisticadas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_2FRINGES
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_2FRINGES"
 msgid "Is fancy lights."
-msgstr ""
+msgstr "Ser luces sofisticadas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_2UPTURNS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_2UPTURNS"
 msgid "Is fancy lights."
-msgstr ""
+msgstr "Ser luces sofisticadas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_ADJUSTABLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_ADJUSTABLE"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_BELLSHADE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_BELLSHADE"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_CANDELABRA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_CANDELABRA"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_CERAMIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_CERAMIC"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_CRYSTALS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_CRYSTALS"
 msgid "Is shiny light."
-msgstr ""
+msgstr "Ser luz brillante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_DOWNBRIDGE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_DOWNBRIDGE"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_EDISON
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_EDISON"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_ELIZABETHAN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_ELIZABETHAN"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_FRINGE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_FRINGE"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_GLASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_GLASS"
 msgid "Is shiny light."
-msgstr ""
+msgstr "Ser luz brillante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_GOTHIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_GOTHIC"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_HOOFSPA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_HOOFSPA"
 msgid "Is fancy light of pig foots."
-msgstr ""
+msgstr "Ser luz sofisticada de pies de cerdo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_ORB
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_ORB"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_RIGHTANGLES
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_RIGHTANGLES"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_SPOOL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_SPOOL"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_STAINGLASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_STAINGLASS"
 msgid "Is shiny light."
-msgstr ""
+msgstr "Ser luz brillante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_UPTURN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_LAMP_UPTURN"
 msgid "Is fancy light."
-msgstr ""
+msgstr "Ser luz sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_MARBLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_MARBLE"
 msgid "Is having lamps. Wolfgang love lamps."
-msgstr ""
+msgstr "Tener lámparas. Wolfgang amar lámparas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_MARBLE_CORNERBEAM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_MARBLE_CORNERBEAM"
 msgid "Wolfgang is stronger."
-msgstr ""
+msgstr "Wolfgang ser más fuerte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_MILLINERY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_MILLINERY"
 msgid "Wolfgang is stronger."
-msgstr ""
+msgstr "Wolfgang ser más fuerte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_BASIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_BASIC"
 msgid "Is pretty plant."
-msgstr ""
+msgstr "Ser planta bonita."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_BIRDCAGE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_BIRDCAGE"
 msgid "Is plant in sky."
-msgstr ""
+msgstr "Ser planta en el cielo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_BONSAI
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_BONSAI"
 msgid "Is tiny tree."
-msgstr ""
+msgstr "Ser pequeño árbol."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_DISHGARDEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_DISHGARDEN"
 msgid "Is dish of no eating."
-msgstr ""
+msgstr "Ser plato de no comer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_DRACEANA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_DRACEANA"
 msgid "Is fancy plant."
-msgstr ""
+msgstr "Ser planta sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_FANCY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_FANCY"
 msgid "Is fancy plant."
-msgstr ""
+msgstr "Ser planta sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_FERN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_FERN"
 msgid "Is leafy plant."
-msgstr ""
+msgstr "Ser planta con muchas hojas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_FERNSTAND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_FERNSTAND"
 msgid "Is leafy plant."
-msgstr ""
+msgstr "Ser planta con muchas hojas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_MARBLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_MARBLE"
 msgid "Is fancy plant."
-msgstr ""
+msgstr "Ser planta sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_ORCHID
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_ORCHID"
 msgid "Is pretty plant."
-msgstr ""
+msgstr "Ser planta bonita."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PALM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PALM"
 msgid "Is plant."
-msgstr ""
+msgstr "Ser planta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PHILODENDRON
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PHILODENDRON"
 msgid "Is pretty plant."
-msgstr ""
+msgstr "Ser planta bonita."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PITCHERS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PITCHERS"
 msgid "Is plant."
-msgstr ""
+msgstr "Ser planta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PLANTPET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_PLANTPET"
 msgid "Is Wolfgang having to feed it?"
-msgstr ""
+msgstr "¿Tener Wolfgang que alimentarla?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_TERRARIUM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_TERRARIUM"
 msgid "Is plant jail."
-msgstr ""
+msgstr "Ser cárcel de planta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_TRAPS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_TRAPS"
 msgid "Is chomp plant."
-msgstr ""
+msgstr "Ser plantas mordelonas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREE"
 msgid "Is mighty!"
-msgstr ""
+msgstr "¡Ser poderoso!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREEOFSADNESS
 msgctxt ""
 "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE."
 "DECO_PLANTHOLDER_WINTERFEASTTREEOFSADNESS"
 msgid "Is not mighty."
-msgstr ""
+msgstr "No ser poderoso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_WIP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_WIP"
 msgid "Is bush."
-msgstr ""
+msgstr "Ser arbusto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA"
 msgid "Is hanging fancy plant."
-msgstr ""
+msgstr "Ser sofisticada planta colgante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_ZZ
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_PLANTHOLDER_ZZ"
 msgid "Is fancy plant."
-msgstr ""
+msgstr "Ser planta sofisticada."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_ROUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_ROUND"
 msgid "Wolfgang is stronger."
-msgstr ""
+msgstr "Wolfgang ser más fuerte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_BEAM_ROOM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_BEAM_ROOM"
 msgid "Is strong like Wolfgang."
-msgstr ""
+msgstr "Ser fuerte como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE"
 msgid "Is strong like Wolfgang."
-msgstr ""
+msgstr "Ser fuerte como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_ENDSWELL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_ENDSWELL"
 msgid "Spooky water not frighten Wolfgang."
-msgstr ""
+msgstr "Agua aterradora no asustar a Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_FOUNTAIN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DECO_RUINS_FOUNTAIN"
