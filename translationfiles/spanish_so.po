@@ -194400,7 +194400,7 @@ msgstr "Soltar todo"
 #. STRINGS.EPITAPHS.1
 msgctxt "STRINGS.EPITAPHS.1"
 msgid "It says \"Come on in.\""
-msgstr "Dice: \"Entra\"."
+msgstr "Dice \"Entra\"."
 
 #. STRINGS.EPITAPHS.10
 msgctxt "STRINGS.EPITAPHS.10"
@@ -194460,17 +194460,17 @@ msgstr "\"Aquí yace un chico\"."
 #. STRINGS.EPITAPHS.20
 msgctxt "STRINGS.EPITAPHS.20"
 msgid "It says \"Finally, some peace and quiet.\""
-msgstr "Dice: \"Por fin algo de paz y tranquilidad\"."
+msgstr "Dice \"Por fin algo de paz y tranquilidad\"."
 
 #. STRINGS.EPITAPHS.21
 msgctxt "STRINGS.EPITAPHS.21"
 msgid "It says \"Mind your own business.\""
-msgstr "Dice: \"Ocúpate de tus asuntos\"."
+msgstr "Dice \"Ocúpate de tus asuntos\"."
 
 #. STRINGS.EPITAPHS.22
 msgctxt "STRINGS.EPITAPHS.22"
 msgid "It says \"Help, get me out!\" and \"Nah, just kidding,\" beneath."
-msgstr "Dice: \"¡Auxilio, sáquenme de aquí!\" y \"Ja, es broma\" debajo."
+msgstr "Dice \"¡Auxilio, sáquenme de aquí!\" y \"Ja, es broma\" debajo."
 
 #. STRINGS.EPITAPHS.23
 msgctxt "STRINGS.EPITAPHS.23"
@@ -194522,7 +194522,7 @@ msgstr "Sus últimas palabras grabadas: \"Uh, bueno, adiós\"."
 #. STRINGS.EPITAPHS.31
 msgctxt "STRINGS.EPITAPHS.31"
 msgid "It reads \"Right behind you...\" and \"Made you look!\""
-msgstr "Dice: \"Detrás tuya...\" y \"¡Te hice voltear!\"."
+msgstr "Dice \"Detrás tuya...\" y \"¡Te hice voltear!\"."
 
 #. STRINGS.EPITAPHS.32
 msgctxt "STRINGS.EPITAPHS.32"
@@ -194537,32 +194537,32 @@ msgstr "Su epitafio se ha agrietado."
 #. STRINGS.EPITAPHS.34
 msgctxt "STRINGS.EPITAPHS.34"
 msgid "It says \"Did I make it into the history books?\""
-msgstr "Dice: \"¿Salgo en los libros de historia?\"."
+msgstr "Dice \"¿Salgo en los libros de historia?\"."
 
 #. STRINGS.EPITAPHS.35
 msgctxt "STRINGS.EPITAPHS.35"
 msgid "It says \"I'm taking a nap. In the dirt.\""
-msgstr "Dice: \"Me estoy echando una siesta. Bajo tierra\"."
+msgstr "Dice \"Me estoy echando una siesta. Bajo tierra\"."
 
 #. STRINGS.EPITAPHS.36
 msgctxt "STRINGS.EPITAPHS.36"
 msgid "It says \"These are just the pieces we could find.\""
-msgstr "Dice: \"Estos son los trozos que hemos podido encontrar\"."
+msgstr "Dice \"Estos son los trozos que hemos podido encontrar\"."
 
 #. STRINGS.EPITAPHS.37
 msgctxt "STRINGS.EPITAPHS.37"
 msgid "It says \"See you on the other side.\""
-msgstr "Dice: \"Nos vemos en el otro lado\"."
+msgstr "Dice \"Nos vemos en el otro lado\"."
 
 #. STRINGS.EPITAPHS.38
 msgctxt "STRINGS.EPITAPHS.38"
 msgid "It says \"Catch you later.\""
-msgstr "Dice: \"Hasta luego\"."
+msgstr "Dice \"Hasta luego\"."
 
 #. STRINGS.EPITAPHS.39
 msgctxt "STRINGS.EPITAPHS.39"
 msgid "It says \"Don't make fun. You'll be here too one day.\""
-msgstr "Dice: \"No te rías. Tú también estarás aquí algún día\"."
+msgstr "Dice \"No te rías. Tú también estarás aquí algún día\"."
 
 #. STRINGS.EPITAPHS.4
 msgctxt "STRINGS.EPITAPHS.4"
@@ -194572,7 +194572,7 @@ msgstr "\"Aquí yace alguien\"."
 #. STRINGS.EPITAPHS.40
 msgctxt "STRINGS.EPITAPHS.40"
 msgid "It says \"On to the next adventure.\""
-msgstr "Dice: \"Hacia la próxima aventura\"."
+msgstr "Dice \"Hacia la próxima aventura\"."
 
 #. STRINGS.EPITAPHS.41
 msgctxt "STRINGS.EPITAPHS.41"
@@ -194587,32 +194587,32 @@ msgstr "\"Aquí es donde guardo mis cosas\"."
 #. STRINGS.EPITAPHS.43
 msgctxt "STRINGS.EPITAPHS.43"
 msgid "It says \"I'm just pretending.\""
-msgstr "Dice: \"Solo estoy fingiendo\"."
+msgstr "Dice \"Solo estoy fingiendo\"."
 
 #. STRINGS.EPITAPHS.44
 msgctxt "STRINGS.EPITAPHS.44"
 msgid "It reads \"Is the coast clear yet?\""
-msgstr "Dice: \"¿Hay moros en la costa?\"."
+msgstr "Dice \"¿Hay moros en la costa?\"."
 
 #. STRINGS.EPITAPHS.45
 msgctxt "STRINGS.EPITAPHS.45"
 msgid "It says \"Lost and Found\"."
-msgstr "Dice: \"Objetos perdidos\"."
+msgstr "Dice \"Objetos perdidos\"."
 
 #. STRINGS.EPITAPHS.46
 msgctxt "STRINGS.EPITAPHS.46"
 msgid "It says \"I hope I turned the oven off.\""
-msgstr "Dice: \"Espero que haya apagado el horno\"."
+msgstr "Dice \"Espero que haya apagado el horno\"."
 
 #. STRINGS.EPITAPHS.47
 msgctxt "STRINGS.EPITAPHS.47"
 msgid "It says \"Right where I belong.\""
-msgstr "Dice: \"Justo donde pertenezco\"."
+msgstr "Dice \"Justo donde pertenezco\"."
 
 #. STRINGS.EPITAPHS.48
 msgctxt "STRINGS.EPITAPHS.48"
 msgid "It says \"I guess this is my life now.\""
-msgstr "Dice: \"Supongo que ahora esta es mi vida\"."
+msgstr "Dice \"Supongo que ahora esta es mi vida\"."
 
 #. STRINGS.EPITAPHS.49
 msgctxt "STRINGS.EPITAPHS.49"
@@ -194632,27 +194632,27 @@ msgstr "\"Cuidado\". ¿Cuidado con qué?"
 #. STRINGS.EPITAPHS.51
 msgctxt "STRINGS.EPITAPHS.51"
 msgid "It's covered in a peaceful moss."
-msgstr "Está cubierto de un musgo pacífico."
+msgstr "Está cubierto de un musgo sereno."
 
 #. STRINGS.EPITAPHS.52
 msgctxt "STRINGS.EPITAPHS.52"
 msgid "It reads \"I've made a grave error.\" Hm."
-msgstr "Dice: \"He enterrado todas mis esperanzas\". Mmm."
+msgstr "Dice \"He enterrado todas mis esperanzas\". Mmm."
 
 #. STRINGS.EPITAPHS.53
 msgctxt "STRINGS.EPITAPHS.53"
 msgid "It reads \"I can dig it.\" Oh."
-msgstr "Dice: \"He llegado hasta el fondo del asunto\". Oh."
+msgstr "Dice \"He llegado hasta el fondo del asunto\". Oh."
 
 #. STRINGS.EPITAPHS.54
 msgctxt "STRINGS.EPITAPHS.54"
 msgid "It reads \"Care to join me?\""
-msgstr "Dice: \"¿Te gustaría unirte a mí?\"."
+msgstr "Dice \"¿Te gustaría unirte a mí?\"."
 
 #. STRINGS.EPITAPHS.55
 msgctxt "STRINGS.EPITAPHS.55"
 msgid "It reads \"Don't worry, it's cozy.\" That's nice."
-msgstr "Dice: \"No te preocupes, se está a gusto\". Qué bien."
+msgstr "Dice \"No te preocupes, se está a gusto\". Qué bien."
 
 #. STRINGS.EPITAPHS.56
 msgctxt "STRINGS.EPITAPHS.56"
@@ -194662,7 +194662,7 @@ msgstr "\"Y no vuelvas\"."
 #. STRINGS.EPITAPHS.6
 msgctxt "STRINGS.EPITAPHS.6"
 msgid "\"Milk. Eggs. Bacon.\""
-msgstr "\"Leche. Huevos. tocino\"."
+msgstr "\"Leche. Huevos. Tocino\"."
 
 #. STRINGS.EPITAPHS.7
 msgctxt "STRINGS.EPITAPHS.7"
@@ -194672,7 +194672,7 @@ msgstr "¿Eh? ¡Ese es mi nombre!"
 #. STRINGS.EPITAPHS.8
 msgctxt "STRINGS.EPITAPHS.8"
 msgid "It reads \"You're standing on my face.\" Oops."
-msgstr "Dice: \"Estás encima de mi cara\". Ups."
+msgstr "Dice \"Estás encima de mi cara\". Ups."
 
 #. STRINGS.EPITAPHS.9
 msgctxt "STRINGS.EPITAPHS.9"
