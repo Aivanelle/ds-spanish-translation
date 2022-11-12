@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 28500,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 28600,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -143220,107 +143220,107 @@ msgstr "Estar descansado."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PARROT_PIRATE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PARROT_PIRATE"
 msgid "It could maybe be friend?"
-msgstr "¿Tal vez podría ser mi amigo?"
+msgstr "¿Tal vez poder ser mi amigo?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEACOCK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEACOCK"
 msgid "Bird is showing off."
-msgstr "El pájaro está presumiendo."
+msgstr "El pájaro estar presumiendo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.DEAD"
 msgid "Is blink-blink no more."
-msgstr ""
+msgstr "Ya no parpadear."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.GENERIC"
 msgid "Funny blink-blink bird!"
-msgstr ""
+msgstr "¡Gracioso pájaro que parpadea!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK.SLEEPING"
 msgid "Is sleep, but eyes still blink-blink."
-msgstr ""
+msgstr "Estar durmiendo, pero ojos aún parpadear."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWKFEATHER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWKFEATHER"
 msgid "Is blink-blink bird feather."
-msgstr ""
+msgstr "Ser pluma de pájaro que parpadea."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWKFEATHERHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWKFEATHERHAT"
 msgid "Sometimes Wolfgang fancy."
-msgstr ""
+msgstr "A veces Wolfgang sofisticado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWKFEATHER_PRISM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWKFEATHER_PRISM"
 msgid "Is fancy blink-blink bird feather."
-msgstr ""
+msgstr "Ser sofisticada pluma de pájaro que parpadea."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK_BUSH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEAGAWK_BUSH"
 msgid "Is just bush."
-msgstr ""
+msgstr "Ser solo arbusto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEDESTAL_KEY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEDESTAL_KEY"
 msgid "Is key."
-msgstr ""
+msgstr "Ser llave."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEEKHEN.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEEKHEN.DEAD"
 msgid "Is dead now."
-msgstr ""
+msgstr "Estar muerta ahora."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEEKHEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEEKHEN.GENERIC"
 msgid "Is little nice bird."
-msgstr ""
+msgstr "Ser bonito pajarito."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEEKHEN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEEKHEN.SLEEPING"
 msgid "Is pretty sleep."
-msgstr ""
+msgstr "Estar muy dormida."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEG_LEG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEG_LEG"
 msgid "Is best battle trophy!"
-msgstr "¡El mejor trofeo de batalla!"
+msgstr "¡Ser el mejor trofeo de batalla!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PENGUIN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PENGUIN"
 msgid "Funny walking birds!"
-msgstr "¡Caminan muy graciosos esos pájaros!"
+msgstr "¡Graciosos pájaros caminantes!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PERD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PERD"
 msgid "Dumb bird is take all berries!"
-msgstr "¡El pájaro tonto se está comiendo todas las bayas!"
+msgstr "¡Pájaro tonto estarse comiendo las bayas!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEROGIES
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEROGIES"
 msgid "Wolfgang love pierogi!"
-msgstr "¡A Wolfgang le encantan los pierogis!"
+msgstr "¡A Wolfgang gustarle los pierogi!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PETALS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PETALS"
 msgid "These smell nice."
-msgstr "Huelen bien."
+msgstr "Oler bien."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PETALS_EVIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PETALS_EVIL"
 msgid "They make my brain hurt."
-msgstr "Hacen que me duela el cerebro."
+msgstr "Hacer que mi cerebro duela."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PHEROMONESTONE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PHEROMONESTONE"
 msgid "Is smell like bug."
-msgstr ""
+msgstr "Oler a insecto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PHLEGM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PHLEGM"
 msgid "Aha ha ha! Boogers! Oh ho ho!"
-msgstr ""
+msgstr "¡Jaja! ¡Mocos!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PICKAXE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PICKAXE"
@@ -143330,37 +143330,37 @@ msgstr "¡Pica, pica!"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGBANDIT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGBANDIT"
 msgid "Leave Wolfgang money alone!"
-msgstr ""
+msgstr "¡Dejar dinero de Wolfgang en paz!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGCROWNHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGCROWNHAT"
 msgid "Little crown for mighty head."
-msgstr ""
+msgstr "Pequeña corona para poderosa cabeza."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGEON.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGEON.DEAD"
 msgid "Is dead."
-msgstr ""
+msgstr "Estar muerta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGEON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGEON.GENERIC"
 msgid "Is little grey bird."
-msgstr ""
+msgstr "Ser pajarito gris."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGEON.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGEON.SLEEPING"
 msgid "Is asleep."
-msgstr ""
+msgstr "Estar dormida."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGHOST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGHOST"
 msgid "Agghhh!"
-msgstr ""
+msgstr "¡Agghhh!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGUARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGUARD"
 msgid "Is bad piggie!"
-msgstr "¡Es un cerdito malo!"
+msgstr "¡Ser un cerdito malo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGYBACK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGYBACK"
@@ -143368,9 +143368,10 @@ msgid "Smelly bag!"
 msgstr "¡Bolsa maloliente!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHEAD.BURNT
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHEAD.BURNT"
 msgid "Why no face?"
-msgstr "¿Por qué no tiene cara?"
+msgstr "¿Por qué no tener cara?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHEAD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHEAD.GENERIC"
@@ -143380,247 +143381,248 @@ msgstr "¿Por qué esa cara larga?"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.BURNT"
 msgid "Pig home is gone."
-msgstr "La casa del cerdo se ha quemado."
+msgstr "Casa de cerdo ser cenizas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.FULL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.FULL"
 msgid "Hey! Come out here, pig man!"
-msgstr "¡Oye! ¡Ven aquí, hombre cerdo!"
+msgstr "¡Ey! ¡Venir aquí, hombre cerdo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.GENERIC"
 msgid "The door is too small for me."
-msgstr "La puerta es demasiado pequeña para mí."
+msgstr "La puerta ser demasiado pequeña para mí."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.LIGHTSOUT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.LIGHTSOUT"
 msgid "Where did he go?"
-msgstr "¿Adónde ha ido?"
+msgstr "¿A dónde haber ido?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_CITY.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_CITY.BURNING"
 msgid "Wolfgang not start fire!"
-msgstr ""
+msgstr "¡Wolfgang no haber sido!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_CITY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_CITY.GENERIC"
 msgid "Little pig! Little pig! Let Wolfgang come in!"
-msgstr ""
+msgstr "¡Cerdito! ¡Cerdito! ¡Dejar entrar a Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_FARM.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_FARM.BURNING"
 msgid "Is fire!"
-msgstr ""
+msgstr "¡Ser fuego!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_FARM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_FARM.GENERIC"
 msgid "House for little farmy pigs."
-msgstr ""
+msgstr "Casa para cerditos granjeros."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_MINE.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_MINE.BURNING"
 msgid "Hope mustache pig not inside."
-msgstr ""
+msgstr "Ojalá cerdo mostacho no estar dentro."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_MINE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE_MINE.GENERIC"
 msgid "Mining mustache pig is live there."
-msgstr ""
+msgstr "Cerdo mostacho minero vivir ahí."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGKING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGKING"
 msgid "Ha! Is good people!"
-msgstr "¡Ja! ¡Es una buena persona!"
+msgstr "¡Ja! ¡Ser una buena persona!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.DEAD"
 msgid "No! The pig is dead!"
-msgstr "¡No! ¡El cerdo está muerto!"
+msgstr "¡No! ¡El cerdo estar muerto!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.FOLLOWER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.FOLLOWER"
 msgid "Is friend now!"
-msgstr "¡Ahora es mi amigo!"
+msgstr "¡Ahora ser mi amigo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.GENERIC"
 msgid "Hello pig. How are you?"
-msgstr "Hola, cerdo. ¿Cómo estás?"
+msgstr "Hola, cerdo. ¿Cómo estar?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.GUARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.GUARD"
 msgid "Does he even lift?"
-msgstr "¿También da paseos de marcha?"
+msgstr "¿También hacer pesas?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.WEREPIG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN.WEREPIG"
 msgid "Angry piggie!"
-msgstr "¡Un cerdito enfadado!"
+msgstr "¡Cerdito enfadado!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BANKER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BANKER.GENERIC"
 msgid "Is like Wolfgang's piggie bank!"
-msgstr ""
+msgstr "¡Ser como cerdito ahorrador de Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BANKER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BANKER.SLEEPING"
 msgid "Piggie banker sleeping."
-msgstr ""
+msgstr "Cerdito ahorrador dormir."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BEAUTICIAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BEAUTICIAN.GENERIC"
 msgid "Little pig make Wolfgang better?"
-msgstr ""
+msgstr "¿Cerdita hacer mejor a Wolfgang?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BEAUTICIAN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_BEAUTICIAN.SLEEPING"
 msgid "Aww. Piggie is sleeping."
-msgstr ""
+msgstr "Aw. Cerdita dormir."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_COLLECTOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_COLLECTOR.GENERIC"
 msgid "Is selling weird stuff."
-msgstr ""
+msgstr "Estar vendiendo cosas raras."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_COLLECTOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_COLLECTOR.SLEEPING"
 msgid "Is weird sleeping."
-msgstr ""
+msgstr "Raro estar durmiendo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ERUDITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ERUDITE.GENERIC"
 msgid "You have magic stuff?"
-msgstr ""
+msgstr "¿Tú tener cosas mágicas?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ERUDITE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ERUDITE.SLEEPING"
 msgid "Is sleeping."
-msgstr ""
+msgstr "Estar durmiendo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FARMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FARMER.GENERIC"
 msgid "Pig is good little farmer."
-msgstr ""
+msgstr "Cerdo ser buen granjerito."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FARMER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FARMER.SLEEPING"
 msgid "Farmer is earn good sleep."
-msgstr ""
+msgstr "Granjero merecer buen sueño."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FLORIST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FLORIST.GENERIC"
 msgid "Little pig is run garden shop."
-msgstr ""
+msgstr "Cerdita ser dueña de tienda de jardín."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FLORIST.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_FLORIST.SLEEPING"
 msgid "Sleep piggie. Sleep."
-msgstr ""
+msgstr "Dormir, cerdita. Dormir."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HATMAKER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HATMAKER.GENERIC"
 msgid "Wolfgang is creeped out."
-msgstr ""
+msgstr "Wolfgang estar asustado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HATMAKER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HATMAKER.SLEEPING"
 msgid "Is a still creepy."
-msgstr ""
+msgstr "Ser todavía aterradora."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HUNTER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HUNTER.GENERIC"
 msgid "Weapons make Wolfgang mightier."
-msgstr ""
+msgstr "Armas hacer Wolfgang más fuerte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HUNTER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_HUNTER.SLEEPING"
 msgid "Is leaving himself open to attack."
-msgstr ""
+msgstr "Dejarse indefenso para atacar."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MAYOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MAYOR.GENERIC"
 msgid "Wolfgang think this important man."
-msgstr ""
+msgstr "Wolfgang creer que ese ser hombre importante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MAYOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MAYOR.SLEEPING"
 msgid "Important man need sleep, too."
-msgstr ""
+msgstr "Hombre importante necesitar dormir."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MECHANIC.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MECHANIC.GENERIC"
 msgid "Little piggie fix things."
-msgstr ""
+msgstr "Cerdito arreglar cosas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MECHANIC.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MECHANIC.SLEEPING"
 msgid "Sleep well little piggie."
-msgstr ""
+msgstr "Dormir bien, pequeño cerdito."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MINER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MINER.GENERIC"
 msgid "Wolfgang like your mustache!"
-msgstr ""
+msgstr "¡A Wolfgang gustar tu mostacho!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MINER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_MINER.SLEEPING"
 msgid "Miner Piggie dreaming of mustache."
-msgstr ""
+msgstr "Cerdito minero soñar con mostachos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_PROFESSOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_PROFESSOR.GENERIC"
 msgid "Is old piggy."
-msgstr ""
+msgstr "Ser cerdito viejo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_PROFESSOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_PROFESSOR.SLEEPING"
 msgid "Is just sleeping."
-msgstr ""
+msgstr "Estar durmiendo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_QUEEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_QUEEN"
 msgid "Wolfgang should curtsy?"
-msgstr ""
+msgstr "¿Deber Wolfgang hacer reverencia?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD.GENERIC"
 msgid "Is strong, but is not as strong as Wolfgang."
-msgstr ""
+msgstr "Ser fuerte, pero no ser tanto como Wolfgang."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD.SLEEPING"
 msgid "Wolfgang would never sleep on job."
-msgstr ""
+msgstr "Wolfgang nunca dormir en el trabajo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD_2.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD_2.GENERIC"
 msgid "Wolfgang does not need guarding."
-msgstr ""
+msgstr "Wolfgang no necesitar guardias."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD_2.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_ROYALGUARD_2.SLEEPING"
 msgid "Wolfgang sleep better."
-msgstr ""
+msgstr "Wolfgang dormir mejor."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_STOREOWNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_STOREOWNER.GENERIC"
 msgid "Wolfgang can sell him stuff."
-msgstr ""
+msgstr "Wolfgang poder venderle cosas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_STOREOWNER.SLEEPING
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_STOREOWNER.SLEEPING"
 msgid "Wolfgang cannot buy from sleeping pig."
-msgstr ""
+msgstr "Wolfgang no poder comprar a cerdita durmiente."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_USHER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_USHER.GENERIC"
 msgid "Hello, old piggie."
-msgstr ""
+msgstr "Hola, viejo cerdito."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_USHER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGMAN_USHER.SLEEPING"
 msgid "Shh... Is sleeping."
-msgstr ""
+msgstr "Shh... Estar durmiendo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSKIN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSKIN"
@@ -143640,82 +143642,82 @@ msgstr "¿Cómo se hace el fuego?"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_COIN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_COIN"
 msgid "Wolfgang is rich man now."
-msgstr ""
+msgstr "Wolfgang ser hombre rico ahora."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER.BURNING"
 msgid "Big tower is fire!"
-msgstr ""
+msgstr "¡Torre grande arder!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER.GENERIC"
 msgid "Is big tall tower."
-msgstr ""
+msgstr "Ser torre grande y alta."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER_PALACE.BURNING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER_PALACE.BURNING"
 msgid "Put it out! Put it out!"
-msgstr ""
+msgstr "¡Apagar! ¡Apagar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER_PALACE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_GUARD_TOWER_PALACE.GENERIC"
 msgid "Can see Wolfgang house from there?"
-msgstr ""
+msgstr "¿Poder verse casa de Wolfgang desde ahí?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_LATIN_1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_LATIN_1"
 msgid "Wolfgang can no read it."
-msgstr ""
+msgstr "Wolfgang no poder leer eso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_PALACE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_PALACE"
 msgid "Is fancy place."
-msgstr ""
+msgstr "Ser sitio elegante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ARTICHOKE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ARTICHOKE"
 msgid "Is odd statue."
-msgstr ""
+msgstr "Ser estatua rara."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_CREEPING_VINES
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_CREEPING_VINES"
 msgid "Wolfgang no liking vines."
-msgstr ""
+msgstr "Wolfgang no gustar enredaderas."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_DART_STATUE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_DART_STATUE"
 msgid "Wolfgang suspicious..."
-msgstr ""
+msgstr "Wolfgang sospechar..."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_DART_TRAP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_DART_TRAP"
 msgid "Is gonna spit at Wolfgang?"
-msgstr ""
+msgstr "¿Eso escupir a Wolfgang?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE.GENERIC"
 msgid "Where is going to?"
-msgstr ""
+msgstr "¿A dónde ir eso?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE.LOCKED"
 msgid "Nothing keep out mighty Wolfgang!"
-msgstr ""
+msgstr "¡Nada detener al poderoso Wolfgang!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE2"
 msgid "Is dark inside."
-msgstr ""
+msgstr "Estar oscuro dentro."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE3
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE3"
 msgid "Where is going to?"
-msgstr ""
+msgstr "¿A dónde ir eso?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE4
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE4"
 msgid "Is scary dark in there."
-msgstr ""
+msgstr "Estar oscuro y dar miedo ahí."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE5
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_RUINS_ENTRANCE5"
