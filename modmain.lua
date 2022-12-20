@@ -118,6 +118,13 @@ local function modFishinhole(prefab)
 	end
 end
 
+local function modEpitaphs(prefab)
+    if GetPlayer().prefab == "wolfgang" then
+        local wolfgangEpitaphs = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
+        prefab.components.inspectable:SetDescription(wolfgangEpitaphs[math.random(#wolfgangEpitaphs)])
+    end
+end
+
 local function setNoWetPrefix(prefab)
 	if not prefab.no_wet_prefix then prefab.no_wet_prefix = true end
 end
@@ -126,6 +133,8 @@ AddSimPostInit(modPostInit)
 
 AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
 AddPrefabPostInit("fishinhole", modFishinhole)
+AddPrefabPostInit("inventorygrave", modEpitaphs)
+AddPrefabPostInit("gravestone", modEpitaphs)
 
 -- Prefabs that mostly contains proper nouns to hide their wet suffix
 AddPrefabPostInit("book_birds", setNoWetPrefix)
@@ -216,4 +225,3 @@ local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_D
 
 if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
 if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/modcomponents/grogginess_onequip.lua") end
-

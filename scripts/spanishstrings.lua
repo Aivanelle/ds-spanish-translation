@@ -103,6 +103,31 @@ STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES_ROBOT = "Oye, tú."
 
 STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
 
+STRINGS.CHARACTERS.WOLFGANG.EPITAPHS =
+{
+    "La lápida estar en blanco.",
+    "¿Eh? ¡Ese ser el nombre de Wolfgang!",
+    "Solo haber una \"W\" grabada.",
+    "Wolfgang no saber leer muy bien.",
+    "Palabras ser difíciles para Wolfgang.",
+    "Leer ser para hombrecitos enclenques.",
+    "¿Quién escribir esas palabras?",
+    "Wolfgang querer escribir algo también.",
+    "Wolfgang no querer leer ahora mismo.",
+    "¡Palabras de Wolfgang ser más fuertes!",
+    "Palabras grabadas decir \"Oh, oh\".",
+    "¿Wolfgang también escribir palabras en lápida?",
+    "El epitafio estar agrietado.",
+    "¡Wolfgang ser recordado como el poderoso Wolfgang!",
+    "¿Wolfgang también morir algún día?",
+    "¡Wolfgang querer aplastar palabras!",
+    "Wolgang no saber leer.",
+    "¡Músculos de Wolfgang nunca morir!",
+    "Por eso Wolfgang siempre ser cuidadoso.",
+    "Estar cubierta de bonito musgo.",
+    "Músculos de Wolfgang nunca ser enterrados."
+}
+
 -- Hamlet fog strings
 STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOO_HUMID_ES =
 {
@@ -252,4 +277,19 @@ STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID_ES =
 		SINGULAR = {"Esta %s está destruyendo mi moral.", "Esta %s arde como el sol."},
 		PLURAL = {"Estas %s están destruyendo mi moral.", "Estas %s arden como el sol."}
 	}
+}
+
+STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID_ES =
+{
+    MALE =
+    {
+        SINGULAR = {"Wolfgang odiar llevar este %s con tanto calor.", "Este %s ser muy sofocante."},
+        PLURAL = {"Wolfgang odiar llevar estos %s con tanto calor.", "Estos %s ser muy sofocantes."}
+    },
+    
+    FEMALE =
+    {
+        SINGULAR = {"Wolfgang odiar llevar esta %s con tanto calor.", "Esta %s ser muy sofocante."},
+        PLURAL = {"Wolfgang odiar llevar estas %s con tanto calor.", "Estas %s ser muy sofocantes."}
+    }
 }
