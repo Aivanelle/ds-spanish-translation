@@ -144656,10 +144656,9 @@ msgid "Hat not just for head."
 msgstr "Sombrero no solo para cabeza."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESEARCHLAB5
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESEARCHLAB5"
 msgid "Wolfgang will learn many splishy splashy things!"
-msgstr "¡Wolfgang aprender cosas del mar!"
+msgstr "¡Wolfgang aprender cosas de mar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESURRECTIONSTATUE.BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESURRECTIONSTATUE.BURNT"
@@ -189350,7 +189349,7 @@ msgstr "\"¡Lo conquistaré todo con el poder de mi MENTE!\"."
 #. STRINGS.CHARACTER_QUOTES.wolfgang
 msgctxt "STRINGS.CHARACTER_QUOTES.wolfgang"
 msgid "\"I am mighty! No one is mightier!\""
-msgstr "\"¡Soy fuerte! ¡Nadie es más fuerte que yo!\"."
+msgstr "\"¡Soy fuerte! ¡Nadie ser más fuerte que yo!\"."
 
 #. STRINGS.CHARACTER_QUOTES.woodie
 msgctxt "STRINGS.CHARACTER_QUOTES.woodie"
