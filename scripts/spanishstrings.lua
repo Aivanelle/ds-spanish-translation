@@ -105,9 +105,9 @@ STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
 
 STRINGS.CHARACTERS.WOLFGANG.EPITAPHS =
 {
-    "La lápida estar en blanco.",
-    "¿Eh? ¡Ese ser el nombre de Wolfgang!",
-    "Solo haber una \"W\" grabada.",
+    "Lápida estar en blanco.",
+    "¿Eh? ¡Ese ser nombre de Wolfgang!",
+    "Solo haber \"W\" grabada.",
     "Wolfgang no saber leer muy bien.",
     "Palabras ser difíciles para Wolfgang.",
     "Leer ser para hombrecitos enclenques.",
@@ -117,8 +117,8 @@ STRINGS.CHARACTERS.WOLFGANG.EPITAPHS =
     "¡Palabras de Wolfgang ser más fuertes!",
     "Palabras grabadas decir \"Oh, oh\".",
     "¿Wolfgang también escribir palabras en lápida?",
-    "El epitafio estar agrietado.",
-    "¡Wolfgang ser recordado como el poderoso Wolfgang!",
+    "Epitafio estar agrietado.",
+    "¡Wolfgang ser recordado como El Poderoso Wolfgang!",
     "¿Wolfgang también morir algún día?",
     "¡Wolfgang querer aplastar palabras!",
     "Wolgang no saber leer.",
@@ -286,10 +286,25 @@ STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID_ES =
         SINGULAR = {"Wolfgang odiar llevar este %s con tanto calor.", "Este %s ser muy sofocante."},
         PLURAL = {"Wolfgang odiar llevar estos %s con tanto calor.", "Estos %s ser muy sofocantes."}
     },
-    
+
     FEMALE =
     {
         SINGULAR = {"Wolfgang odiar llevar esta %s con tanto calor.", "Esta %s ser muy sofocante."},
         PLURAL = {"Wolfgang odiar llevar estas %s con tanto calor.", "Estas %s ser muy sofocantes."}
+    }
+}
+
+STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOO_HUMID_ES =
+{
+    MALE =
+    {
+        SINGULAR = {"La cosa está que arde con este %s.", "¡Fiu! Este %s es muy caluroso, ¿eh?"},
+        PLURAL = {"La cosa está que arde con estos %s.", "¡Fiu! Estos %s son muy calurosos, ¿eh?"}
+    },
+
+    FEMALE =
+    {
+        SINGULAR = {"La cosa está que arde con esta %s.", "¡Fiu! Esta %s es muy calurosa, ¿eh?"},
+        PLURAL = {"La cosa está que arde con estas %s.", "¡Fiu! Estas %s son muy calurosas, ¿eh?"}
     }
 }
