@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 30250,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 30350,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -152001,12 +152001,12 @@ msgstr "¡Solo después de haber talado lo suficiente!"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEDTEA
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEDTEA"
 msgid "Nice and refreshing."
-msgstr ""
+msgstr "Refrescante, me gusta."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEHAT"
 msgid "I could chop it if I had to."
-msgstr "Podría talarlo si tuviera que hacerlo."
+msgstr "Podría darle unan bonita forma."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEHOUND
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEHOUND"
@@ -152041,7 +152041,7 @@ msgstr "Dejará de funcionar en cualquier momento."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEPACK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICEPACK"
 msgid "Good for long hikes."
-msgstr "Bueno para largas caminatas."
+msgstr "Buena para largas caminatas."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICESTAFF
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ICESTAFF"
@@ -152051,7 +152051,7 @@ msgstr "Me recuerda a casa."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INFUSED_IRON
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INFUSED_IRON"
 msgid "I still prefer wood."
-msgstr ""
+msgstr "Sigo prefiriendo la madera."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INSANITYROCK.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INSANITYROCK.ACTIVE"
@@ -152059,6 +152059,7 @@ msgid "Where did it go?!"
 msgstr "¿¡A dónde se ha ido!?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INSANITYROCK.INACTIVE
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INSANITYROCK.INACTIVE"
 msgid "I don't know how to move that."
 msgstr "No sé cómo mover eso."
@@ -152066,182 +152067,184 @@ msgstr "No sé cómo mover eso."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_CHECK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_CHECK"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_GARDENSTONE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_GARDENSTONE"
 msgid "Looks like somebody's patio."
-msgstr ""
+msgstr "Parece el patio de alguien."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_GEOMETRICTILES
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_GEOMETRICTILES"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_HERRINGBONE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_HERRINGBONE"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_HEXAGON
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_HEXAGON"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_HOOF_CURVY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_HOOF_CURVY"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_MARBLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_MARBLE"
 msgid "Just some fancy flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo elegante, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_OCTAGON
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_OCTAGON"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_PLAID_TILE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_PLAID_TILE"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_SHAG_CARPET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_SHAG_CARPET"
 msgid "Oh, that's nice."
-msgstr ""
+msgstr "Oh, muy bonita."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_SHEET_METAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_SHEET_METAL"
 msgid "Just some flooring, eh."
-msgstr ""
+msgstr "Solo algo de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_TRANSITIONAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_TRANSITIONAL"
 msgid "Needs some work."
-msgstr ""
+msgstr "Necesita ser trabajado."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_WOOD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_WOOD"
 msgid "I like this one."
-msgstr ""
+msgstr "Ese me gusta."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_WOODPANELS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_FLOOR_WOODPANELS"
 msgid "I like this one."
-msgstr ""
+msgstr "Ese me gusta."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_CHECKERED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_CHECKERED"
 msgid "It's a wall. Pretty standard."
-msgstr ""
+msgstr "Es una pared. Bastante estándar."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_CIRCLES
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_CIRCLES"
 msgid "It's a wall. Pretty standard."
-msgstr ""
+msgstr "Es una pared. Bastante estándar."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_FLORAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_FLORAL"
 msgid "Little too frilly for me."
-msgstr ""
+msgstr "Bastante adornado para mí."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_FULLWALL_MOULDING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_FULLWALL_MOULDING"
 msgid "Nice moulding."
-msgstr ""
+msgstr "Buenas molduras."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_HARLEQUIN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_HARLEQUIN"
 msgid "It's a wall. Pretty standard."
-msgstr ""
+msgstr "Es una pared. Bastante estándar."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_MARBLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_MARBLE"
 msgid "Little too fancy for me."
-msgstr ""
+msgstr "Muy refinado para mí."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_MAYORSOFFICE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_MAYORSOFFICE"
 msgid "It's a wall. Pretty standard."
-msgstr ""
+msgstr "Es una pared. Bastante estándar."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_PEAGAWK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_PEAGAWK"
 msgid "Reminds me too much of birds."
-msgstr ""
+msgstr "Me recuerda demasiado a los pájaros."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_PLAIN_DS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_PLAIN_DS"
 msgid "It's a wall. Pretty standard."
-msgstr ""
+msgstr "Es una pared. Bastante estándar."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_PLAIN_ROG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_PLAIN_ROG"
 msgid "It's a wall. Pretty standard."
-msgstr ""
+msgstr "Es una pared. Bastante estándar."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_ROPE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_ROPE"
 msgid "Nice knot work."
-msgstr ""
+msgstr "Buen trabajo de anudado."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_SUNFLOWER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_SUNFLOWER"
 msgid "You like this wall, Lucy?"
-msgstr ""
+msgstr "¿Te gusta esa pared, Lucy?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_UPHOLSTERED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_UPHOLSTERED"
 msgid "Nice enough."
-msgstr ""
+msgstr "Muy bonito."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_WOOD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INTERIOR_WALL_WOOD"
 msgid "I like this one."
-msgstr ""
+msgstr "Ese me gusta."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INVENTORYGRAVE
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INVENTORYGRAVE"
 msgid "Someone was here. Not anymore."
-msgstr "Alguien ha estado aquí. Ya no está."
+msgstr "Alguien estuvo aquí."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.INVENTORYMOUND
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.INVENTORYMOUND"
 msgid "Someone was here. Not anymore."
-msgstr "Alguien ha estado aquí. Ya no está."
+msgstr "Alguien estuvo aquí."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON"
 msgid "Can't chop this too well."
-msgstr ""
+msgstr "No es para talarse."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRONWIND
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRONWIND"
 msgid "Looks speedy."
-msgstr "Parece muy rápida."
+msgstr "Para ir muy rápido."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON_DOOR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.IRON_DOOR"
 msgid "Nice ironwork."
-msgstr ""
+msgstr "Buen forjado."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JAMMYPRESERVES
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JAMMYPRESERVES"
 msgid "Now to find peanut butter."
-msgstr "Ahora a encontrar mantequilla de cacahuete."
+msgstr "Ahora a encontrar mantequilla de maní."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYBUG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYBUG"
 msgid "That's a funny little guy."
-msgstr ""
+msgstr "Es un ser gracioso."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYBUG_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYBUG_COOKED"
 msgid "It's no Maple Baked Beans."
-msgstr ""
+msgstr "No son frijoles con jarabe de arce."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYFISH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYFISH"
@@ -152269,9 +152272,10 @@ msgid "Jerky! The food of my people."
 msgstr "¡Cecina! La comida de mi pueblo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYOPOP
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JELLYOPOP"
 msgid "I guess this is a dessert island, eh?"
-msgstr "Supongo que esto es una isla desierta, ¿eh?"
+msgstr "No son tan comunes por aquí, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREE.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREE.BURNING"
@@ -152286,12 +152290,12 @@ msgstr "Qué desperdicio."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREE.CHOPPED"
 msgid "Those were good times."
-msgstr "Qué tiempos aquellos."
+msgstr "Fueron buenos tiempos."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREE.GENERIC"
 msgid "The tree's call fills my ears!"
-msgstr "¡La llamada del árbol llena mis oídos!"
+msgstr "¡Puedo escuchar su llamado!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREESEED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.JUNGLETREESEED.GENERIC"
@@ -152306,12 +152310,12 @@ msgstr "Ahora a esperar."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KABOBS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KABOBS"
 msgid "The stick really adds to the flavour."
-msgstr "El palo realmente da más sabor."
+msgstr "Los palitos realmente le dan más sabor."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KEY_TO_CITY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KEY_TO_CITY"
 msgid "Need lots of trees in our city."
-msgstr ""
+msgstr "Quiero muchos árboles en nuestra ciudad."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KILLERBEE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KILLERBEE.GENERIC"
@@ -152326,22 +152330,22 @@ msgstr "No está muy contenta con su situación."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KINGFISHER.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KINGFISHER.DEAD"
 msgid "Poor little guy."
-msgstr ""
+msgstr "Pobre amiguito."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KINGFISHER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KINGFISHER.GENERIC"
 msgid "Looks shifty."
-msgstr ""
+msgstr "Parece sospechoso."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KINGFISHER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KINGFISHER.SLEEPING"
 msgid "Hope he stays that way."
-msgstr ""
+msgstr "Espero que se quede así."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KNIGHT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KNIGHT"
 msgid "Maxwell's own mounted police."
-msgstr "La policía montada de Maxwell."
+msgstr "La policía personal de Maxwell."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KNIGHTBOAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KNIGHTBOAT"
@@ -152356,12 +152360,12 @@ msgstr "No parece estar en su mejor forma."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KOALEFANT_SUMMER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KOALEFANT_SUMMER"
 msgid "He looks tasty."
-msgstr "Parece delicioso."
+msgstr "Se ve delicioso."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KOALEFANT_WINTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KOALEFANT_WINTER"
 msgid "They get tastier in the winter."
-msgstr "Son más sabrosos en invierno."
+msgstr "Saben mejor en invierno."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAKEN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAKEN"
@@ -152386,7 +152390,7 @@ msgstr "¡Atrás, idiota!"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAMPUS_SACK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAMPUS_SACK"
 msgid "I feel bad taking someone else's sack."
-msgstr "Me siento mal llevándome la mochila de otra persona."
+msgstr "Me siento mal tomando el saco de alguien más."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LANTERN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LANTERN"
@@ -152421,17 +152425,17 @@ msgstr "¡Mira qué feliz está!"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.GENERIC"
 msgid "That's my lil critter."
-msgstr "Qué bichito."
+msgstr "Es mi bichito."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.HUNGRY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.HUNGRY"
 msgid "Poor gal's getting hungry."
-msgstr "Pobrecito, está hambriento."
+msgstr "Pobrecita, está hambrienta."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.STARVING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.STARVING"
 msgid "Skinnier than a blue heron's legs."
-msgstr "Está más delgado que las patas de una garza azul."
+msgstr "Está más delgada que la pierna de una garza azul."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_TOOTH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_TOOTH"
@@ -152451,12 +152455,12 @@ msgstr "Mis árboles están seguros ahora."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVASPIT.HOT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVASPIT.HOT"
 msgid "Aaaah! Tree killer!"
-msgstr "¡Aaaah! ¡Asesino de árboles!"
+msgstr "¡Aah! ¡Asesino de árboles!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVA_POND
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVA_POND"
 msgid "I wouldn't get too close to that, eh?"
-msgstr "Será mejor que no me acerque demasiado, ¿eh?"
+msgstr "Será mejor no acercarse demasiado, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVA_POND_ROCK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVA_POND_ROCK"
