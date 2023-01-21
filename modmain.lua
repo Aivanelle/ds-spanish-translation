@@ -10,6 +10,13 @@ for i = 1, 3 do
     STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES[i]
 end
 
+local IsDLCEnabled = _G.IsDLCEnabled
+
+if IsDLCEnabled(_G.CAPY_DLC) then
+    STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
+end
+---------------------------------------------------------------
+
 STRINGS.UI.OPTIONS.DEFAULT = STRINGS.UI.OPTIONS.DEFAULT_ES
 STRINGS.UI.OPTIONS.DIM = STRINGS.UI.OPTIONS.DIM_ES
 STRINGS.UI.OPTIONS.DIMMEST = STRINGS.UI.OPTIONS.DIMMEST_ES
@@ -227,7 +234,6 @@ modimport("scripts/modwidgets/hovertext_onupdate.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
 modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
 
-local IsDLCEnabled = _G.IsDLCEnabled
 local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_DLC) or IsDLCEnabled(_G.PORKLAND_DLC)
 
 if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
