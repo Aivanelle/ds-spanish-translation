@@ -229,6 +229,7 @@ AddPrefabPostInit("pig_shop_cityhall_player", setNoWetPrefix)
 AddPrefabPostInit("pig_palace", setNoWetPrefix)
 
 modimport("scripts/modwaxwellintro.lua")
+modimport("scripts/constructadjectivedname.lua")
 modimport("scripts/entityscript_getdisplayname.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
