@@ -3,6 +3,13 @@ STRINGS = _G.STRINGS
 
 modimport("scripts/spanishstrings.lua")
 
+-- Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in the po file do nothing.
+-- Translated strings in po files have been deleted just to not have to make any change twice, here in the lua files and there in the po files.
+for i = 1, 3 do
+    STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES[i]
+    STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES[i]
+end
+
 STRINGS.UI.OPTIONS.DEFAULT = STRINGS.UI.OPTIONS.DEFAULT_ES
 STRINGS.UI.OPTIONS.DIM = STRINGS.UI.OPTIONS.DIM_ES
 STRINGS.UI.OPTIONS.DIMMEST = STRINGS.UI.OPTIONS.DIMMEST_ES
