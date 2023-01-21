@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 31250,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 31350,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -157022,7 +157022,7 @@ msgstr "Está roto."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_19
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_19"
 msgid "Who knows what this does?"
-msgstr "¿Quién sabe lo que hace esto?"
+msgstr "¿Quién sabe lo que hace eso?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_2
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_2"
@@ -157037,7 +157037,7 @@ msgstr "Demasiado sofisticado para mi gusto."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_21
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_21"
 msgid "That boat seems a little on the small side."
-msgstr "Este barco parece un poco pequeñito."
+msgstr "Ese bote parece un poco pequeñito."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_22
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_22"
@@ -157047,7 +157047,7 @@ msgstr "No parece muy útil."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_23
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_23"
 msgid "I got no idea what that is."
-msgstr "No tengo idea de lo que es esto."
+msgstr "No tengo idea de lo que es eso."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_3
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_3"
@@ -157060,9 +157060,10 @@ msgid "Don't ask me."
 msgstr "No me preguntes."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_5
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_5"
 msgid "It needs a robot arm, eh?"
-msgstr "Necesito un brazo de robot, ¿eh?"
+msgstr "Necesita un brazo robot, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_6
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_6"
@@ -157072,32 +157073,33 @@ msgstr "Ya no sirven de mucho, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_7
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_7"
 msgid "I could play this for hours!"
-msgstr "¡Podría estar jugando durante horas!"
+msgstr "¡Podría jugar durante horas!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_8
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_8"
 msgid "If I find a tub, I'm all set."
-msgstr "Si encuentro una bañera, ya no necesito más."
+msgstr "Necesito una bañera y estaré listo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_9
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_9"
 msgid "I just sew my clothing shut around me when I put it on."
-msgstr "Acabo de coser bien mi ropa cuando me la puse."
+msgstr "Yo solo coso mi ropa cuando me la pongo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_GIFTSHOP_1
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_GIFTSHOP_1"
 msgid "That's nice."
-msgstr ""
+msgstr "Muy bonito."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_GIFTSHOP_3
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_GIFTSHOP_3"
 msgid "It's no Vancouver."
-msgstr ""
+msgstr "No es de Vancouver."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_GIFTSHOP_4
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_GIFTSHOP_4"
 msgid "Pretty silly."
-msgstr ""
+msgstr "Qué tontería."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TROPICALBOUILLABAISSE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TROPICALBOUILLABAISSE"
@@ -157112,7 +157114,7 @@ msgstr "¡No estoy acostumbrado al calor en este lugar!"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TROPICAL_FISH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TROPICAL_FISH"
 msgid "Are you ready to become fish'n'chips?"
-msgstr "¿Estás listo para acabar en un plato con patatas fritas?"
+msgstr "¿Listo para terminar servido con patatas fritas?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNKVEST_SUMMER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNKVEST_SUMMER"
@@ -157122,17 +157124,17 @@ msgstr "Bonito y fresco."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNKVEST_WINTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNKVEST_WINTER"
 msgid "This could stand up to the winters back home, eh?"
-msgstr "Con esto podría soportar los inviernos en casa, ¿eh?"
+msgstr "Con eso podría soportar los inviernos en casa, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNK_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNK_COOKED"
 msgid "I think it boiled off all of the nose cheese."
-msgstr "Creo que se ha evaporado todo el queso de la nariz."
+msgstr "Espero haber evaporado todo el moco."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNK_SUMMER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNK_SUMMER"
 msgid "It's pretty thin."
-msgstr "Es muy fina."
+msgstr "Es muy delgado."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNK_WINTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNK_WINTER"
@@ -157142,32 +157144,32 @@ msgstr "Grueso y peludo."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUSTY_SHOOTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUSTY_SHOOTER"
 msgid "Not really my thing."
-msgstr ""
+msgstr "No es muy para mí."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBERTREE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBERTREE"
 msgid "I can't use you for these trees, Lucy."
-msgstr ""
+msgstr "Esos árboles no son dignos de ti, Lucy."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_BLOOM_CROP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_BLOOM_CROP"
 msgid "Well it's ripe now."
-msgstr ""
+msgstr "Bueno, ahora está maduro."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_BLOOM_CROP_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_BLOOM_CROP_COOKED"
 msgid "Well that's fancy."
-msgstr ""
+msgstr "Vaya, qué elegancia."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_CROP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_CROP"
 msgid "Better not eat it until it's ripe."
-msgstr ""
+msgstr "Mejor no comerlo hasta que madure."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_CROP_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUBER_CROP_COOKED"
 msgid "Nothing fancy, just some tubers."
-msgstr ""
+msgstr "Nada sofisticado, solo un tubérculo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUMBLEWEED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TUMBLEWEED"
@@ -157202,7 +157204,7 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_BEARD_HAIR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_BEARD_HAIR"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_CARPETFLOOR"
@@ -157222,7 +157224,7 @@ msgstr "Parece como uno de esas letrinas de las ciudades."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_COBBLEROAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_COBBLEROAD"
 msgid "Just some road, eh?"
-msgstr ""
+msgstr "Un poco de camino, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DECIDUOUS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DECIDUOUS"
@@ -157232,12 +157234,12 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DEEPRAINFOREST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DEEPRAINFOREST"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DEEPRAINFOREST_NOCANOPY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DEEPRAINFOREST_NOCANOPY"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DESERTDIRT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DESERTDIRT"
@@ -157252,12 +157254,12 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DRAGONFLY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_DRAGONFLY"
 msgid "Fire doesn't quite take here, eh?"
-msgstr "El fuego aquí no vale de mucho, ¿eh?"
+msgstr "El fuego no le hace mucho, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FIELDS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FIELDS"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FOREST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FOREST"
@@ -157267,7 +157269,7 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FOUNDATION
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FOUNDATION"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FUNGUS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FUNGUS"
@@ -157287,7 +157289,7 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_GASJUNGLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_GASJUNGLE"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_GRASS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_GRASS"
@@ -157302,7 +157304,7 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_LAWN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_LAWN"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_MAGMAFIELD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_MAGMAFIELD"
@@ -157322,7 +157324,7 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_MOSS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_MOSS"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_MUD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_MUD"
@@ -157332,22 +157334,22 @@ msgstr "Al menos no hay que limpiarlo."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_PAINTED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_PAINTED"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_PIGRUINS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_PIGRUINS"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_PLAINS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_PLAINS"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_RAINFOREST"
 msgid "Just some ground, eh?"
-msgstr ""
+msgstr "Un poco de suelo, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_ROAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_ROAD"
@@ -157372,7 +157374,7 @@ msgstr "Un poco de suelo, ¿eh?"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SINKHOLE"
 msgid "I found this underground."
-msgstr "He encontrado esto bajo tierra."
+msgstr "He encontrado eso bajo tierra."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SNAKESKINFLOOR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_SNAKESKINFLOOR"
@@ -157407,32 +157409,32 @@ msgstr "¡El suelo perfecto para un rey!"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURKEYDINNER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURKEYDINNER"
 msgid "Turkey day is here again!"
-msgstr "¡Otra vez el día del pavo!"
+msgstr "¡Ya es Día de Acción de Gracias!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TWIGS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TWIGS"
 msgid "I should build a tiny axe to chop these."
-msgstr "Debería construir un hacha diminuta para talar estas."
+msgstr "Debería fabricar un hacha diminuta para esas."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TWISTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TWISTER"
 msgid "Mother Nature's throwing a tantrum!"
-msgstr "¡A la madre naturaleza le ha dado un berrinche!"
+msgstr "¡La madre naturaleza está enojada!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TWISTER_SEAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TWISTER_SEAL"
 msgid "Cute little fella."
-msgstr "Qué criatura tan mona."
+msgstr "Qué criatura tan linda."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.UMBRELLA"
 msgid "This will keep my beard dry, eh?"
-msgstr "Esto mantendrá mi barba seca, ¿eh?"
+msgstr "Eso mantendrá mi barba seca, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.UNAGI
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.UNAGI"
 msgid "It'll fill ya up."
-msgstr "Esto me llenará."
+msgstr "Eso me llenará."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.UNIMPLEMENTED"
@@ -157442,27 +157444,27 @@ msgstr "No parece seguro."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBAT.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBAT.DEAD"
 msgid "It's a goner."
-msgstr ""
+msgstr "Se ha ido."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBAT.GENERIC"
 msgid "You're a bit batty, eh?"
-msgstr ""
+msgstr "Eres un poco bastante irritante, ¿eh?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBAT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBAT.SLEEPING"
 msgid "Let sleeping bats lie, I say."
-msgstr ""
+msgstr "Yo digo que lo dejemos tranquilo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBATCAVE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIREBATCAVE"
 msgid "Don't look none too inviting."
-msgstr ""
+msgstr "No se ve muy tentador."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIRE_BAT_WING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VAMPIRE_BAT_WING"
 msgid "Gross!"
-msgstr ""
+msgstr "¡Asqueroso!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VENOMGLAND
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VENOMGLAND"
@@ -157472,17 +157474,17 @@ msgstr "Huele bastante raro."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VENUS_STALK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VENUS_STALK"
 msgid "I got it from that big leafy hoser."
-msgstr ""
+msgstr "Lo conseguí de esa gran idiota frondosa."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VINE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VINE"
 msgid "Sigh. Not a tree."
-msgstr "Ay. No hay ni un árbol."
+msgstr "Oh. No es un árbol."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO"
 msgid "That's a doozy!"
-msgstr "¡Sobrecogedor!"
+msgstr "¡Eso es increíble!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANOSTAFF
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANOSTAFF"
@@ -157490,9 +157492,10 @@ msgid "The power of the volcano is in my hand."
 msgstr "El poder del volcán está en mi mano."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_ALTAR.GENERIC
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_ALTAR.GENERIC"
 msgid "Nothing to do aboot that."
-msgstr "Nada que ver con esto."
+msgstr "No hay nada que hacer."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_ALTAR.OPEN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_ALTAR.OPEN"
@@ -157507,12 +157510,12 @@ msgstr "Totalmente roto."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_ALTAR_TOWER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_ALTAR_TOWER"
 msgid "That's a creepy-lookin' hunk of rock, that."
-msgstr "Es un trozo de roca bastante espeluznante, eh."
+msgstr "Es un trozo de roca bastante espeluznante."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_EXIT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_EXIT"
 msgid "Time to scoot."
-msgstr "Hora de salir pitando."
+msgstr "Hora de largarse."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_SHRUB
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.VOLCANO_SHRUB"
