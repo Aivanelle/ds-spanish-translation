@@ -211553,7 +211553,7 @@ msgstr "Sobrescribir"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1"
 msgid "The standard Don't Starve experience"
-msgstr "La experiencia estándar de Don't Starve"
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10"
@@ -211563,12 +211563,12 @@ msgstr "La experiencia estándar de Don't Starve 10"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2"
 msgid "A quicker start in a harsher world."
-msgstr "Un inicio más rápido en un mundo más duro."
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3"
 msgid "A dark twist on the standard Don't Starve experience."
-msgstr "Un toque oscuro a la experiencia estándar de Don't Starve."
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4"
@@ -211603,17 +211603,17 @@ msgstr "La experiencia estándar de Don't Starve 9"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.1
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.1"
 msgid "Default"
-msgstr "Predeterminado"
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.2
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.2"
 msgid "Default Plus"
-msgstr "Predeterminado +"
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.3
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.3"
 msgid "Lights Out"
-msgstr "Luces fuera"
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.4
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.4"
