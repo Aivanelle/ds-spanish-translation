@@ -96,6 +96,11 @@ STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES =
     "Un toque oscuro a la experiencia estándar de Don't Starve."
 }
 
+STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES =
+{
+    "¿Un paraíso tropical?"
+}
+
 STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES = "Activar"
 
 STRINGS.UI.OPTIONS.DEFAULT_ES = "Por defecto"
