@@ -82,6 +82,20 @@ STRINGS.UI.HUD.FEMALE =
 	STARVING = "desnutrida"
 }
 
+STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES =
+{
+    "Predeterminado",
+    "Predeterminado +",
+    "Luces fuera"
+}
+
+STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES =
+{
+    "La experiencia estándar de Don't Starve.",
+    "Un inicio más rápido en un mundo más duro.",
+    "Un toque oscuro a la experiencia estándar de Don't Starve."
+}
+
 STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES = "Activar"
 
 STRINGS.UI.OPTIONS.DEFAULT_ES = "Por defecto"
