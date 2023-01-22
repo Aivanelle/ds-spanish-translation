@@ -194794,7 +194794,7 @@ msgstr "Creo que estaremos bien."
 #. STRINGS.LUCY.beaver_down_washigh.3
 msgctxt "STRINGS.LUCY.beaver_down_washigh.3"
 msgid "You're looking much better now."
-msgstr "Ahora tienes mucho mejor aspecto."
+msgstr "Ya te ves mucho mejor."
 
 #. STRINGS.LUCY.beaver_down_washigh.4
 msgctxt "STRINGS.LUCY.beaver_down_washigh.4"
@@ -194804,7 +194804,7 @@ msgstr "Ha pasado. Por ahora."
 #. STRINGS.LUCY.beaver_down_washigh.5
 msgctxt "STRINGS.LUCY.beaver_down_washigh.5"
 msgid "It's back in the lodge. Phew!"
-msgstr "Ha vuelto a irse. ¡Fiu!"
+msgstr "Ya ha pasado. ¡Fiu!"
 
 #. STRINGS.LUCY.beaver_up_early.1
 msgctxt "STRINGS.LUCY.beaver_up_early.1"
@@ -194914,7 +194914,7 @@ msgstr "¡Woodie! ¡Tala algunos árboles!"
 #. STRINGS.LUCY.equipped.6
 msgctxt "STRINGS.LUCY.equipped.6"
 msgid "All work and no play makes me want to chop some trees."
-msgstr "Trabajar y no jugar me hace querer talar algunos árboles."
+msgstr "Tanto trabajar y poco relajarse me hace querer talar árboles."
 
 #. STRINGS.LUCY.equipped.7
 msgctxt "STRINGS.LUCY.equipped.7"
@@ -194984,7 +194984,7 @@ msgstr "¡Sááááquenmeee de aquííí!"
 #. STRINGS.LUCY.in_container.7
 msgctxt "STRINGS.LUCY.in_container.7"
 msgid "I'm claustrophobic!"
-msgstr "¡Tengo claustrofobia!"
+msgstr "¡Soy claustrofóbica!"
 
 #. STRINGS.LUCY.in_container.8
 msgctxt "STRINGS.LUCY.in_container.8"
@@ -195049,7 +195049,7 @@ msgstr "¡Otra vez! ¡Talemos otro!"
 #. STRINGS.LUCY.on_chopped.19
 msgctxt "STRINGS.LUCY.on_chopped.19"
 msgid "Nice swing!"
-msgstr "¡Buen movimiento!"
+msgstr "¡Buena técnica!"
 
 #. STRINGS.LUCY.on_chopped.2
 msgctxt "STRINGS.LUCY.on_chopped.2"
@@ -195104,7 +195104,7 @@ msgstr "Volverás, ¿verdad?"
 #. STRINGS.LUCY.on_dropped.10
 msgctxt "STRINGS.LUCY.on_dropped.10"
 msgid "Who chucks a talking axe?!"
-msgstr "¿¡Quién deja un hacha que habla!?"
+msgstr "¿¡Quién deja a un hacha que habla!?"
 
 #. STRINGS.LUCY.on_dropped.11
 msgctxt "STRINGS.LUCY.on_dropped.11"
@@ -195174,7 +195174,7 @@ msgstr "¡Ey! ¡Nunca te tiraría!"
 #. STRINGS.LUCY.on_dropped.8
 msgctxt "STRINGS.LUCY.on_dropped.8"
 msgid "Why would you throw me away?"
-msgstr "¿Por qué quieres tirarme?"
+msgstr "¿Por qué me has tirado?"
 
 #. STRINGS.LUCY.on_dropped.9
 msgctxt "STRINGS.LUCY.on_dropped.9"
@@ -195234,7 +195234,7 @@ msgstr "¡Me estoy ensuciando!"
 #. STRINGS.LUCY.on_ground.6
 msgctxt "STRINGS.LUCY.on_ground.6"
 msgid "There's monsters around you know!"
-msgstr "¡Hay monstruos alrededor!"
+msgstr "¡Hay monstruos por aquí cerca!"
 
 #. STRINGS.LUCY.on_ground.7
 msgctxt "STRINGS.LUCY.on_ground.7"
@@ -195259,7 +195259,7 @@ msgstr "¡Has vuelto!"
 #. STRINGS.LUCY.on_pickedup.10
 msgctxt "STRINGS.LUCY.on_pickedup.10"
 msgid "Never do that again! My little heart can't take it."
-msgstr "¡No vuelvas a hacerlo! Mi corazón no puede soportarlo."
+msgstr "¡No vuelvas a hacerlo! Mi corazoncito no puede soportarlo."
 
 #. STRINGS.LUCY.on_pickedup.11
 msgctxt "STRINGS.LUCY.on_pickedup.11"
@@ -195339,7 +195339,7 @@ msgstr "¡Déjame!"
 #. STRINGS.LUCY.other_owner.15
 msgctxt "STRINGS.LUCY.other_owner.15"
 msgid "Help! I'm being kidnapped."
-msgstr "¡Ayuda! Me están secuestrando."
+msgstr "¡Ayuda! ¡Me secuestran!"
 
 #. STRINGS.LUCY.other_owner.16
 msgctxt "STRINGS.LUCY.other_owner.16"
@@ -195389,7 +195389,7 @@ msgstr "¡Suéltame! ¡Apestas!"
 #. STRINGS.LUCY.other_owner.9
 msgctxt "STRINGS.LUCY.other_owner.9"
 msgid "Did I say you could take me?"
-msgstr "¿Te he dicho que puedas llevarme?"
+msgstr "¿Te he dicho que puedes llevarme?"
 
 #. STRINGS.LUCY.transform_beaver.1
 msgctxt "STRINGS.LUCY.transform_beaver.1"
@@ -195449,12 +195449,12 @@ msgstr "¡Has vuelto!"
 #. STRINGS.LUCY.transform_woodie.10
 msgctxt "STRINGS.LUCY.transform_woodie.10"
 msgid "You look much better."
-msgstr "Tienes mucho mejor aspecto."
+msgstr "Te ves mucho mejor ahora."
 
 #. STRINGS.LUCY.transform_woodie.11
 msgctxt "STRINGS.LUCY.transform_woodie.11"
 msgid "Phew! That was scary!"
-msgstr "¡Uf! ¡Fue aterrador!"
+msgstr "¡Fiu! ¡Fue aterrador!"
 
 #. STRINGS.LUCY.transform_woodie.12
 msgctxt "STRINGS.LUCY.transform_woodie.12"
@@ -195504,7 +195504,7 @@ msgstr "¡Me alegro de que estés bien!"
 #. STRINGS.LUCY.transform_woodie.8
 msgctxt "STRINGS.LUCY.transform_woodie.8"
 msgid "Whew! Still in one piece?"
-msgstr "¡Uf! ¿Todavía en una pieza?"
+msgstr "¡Fiu! ¿Todavía en una pieza?"
 
 #. STRINGS.LUCY.transform_woodie.9
 msgctxt "STRINGS.LUCY.transform_woodie.9"
