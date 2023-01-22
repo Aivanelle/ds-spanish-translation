@@ -105,8 +105,6 @@ if oldGetDisplayName and anyDLCEnabled then
                 if self.prefab == "wetgoop" then return name:gsub(" ", " " .. STRINGS.WET_PREFIX.WETGOOP .. " ") end
 
                 local wetFoodPrefix = Prefix.getWetFoodPrefix(prefab)
-                if self.prefab == "batwing" and name:find("?") then return name:gsub("?", " " .. wetFoodPrefix .. "?") end
-
                 if GetPlayer().components.eater:CanEat(self) then return ConstructAdjectivedName(self, name, wetFoodPrefix) end
             end
 
@@ -133,10 +131,6 @@ if oldGetDisplayName and anyDLCEnabled then
                 end
 
                 local wetGenericPrefix = Prefix.getWetGenericPrefix(prefab)
-                if (self.prefab == "pigskin" or self.prefab == "batwing") and name:find("?") then
-                    return name:gsub("?", " " .. wetGenericPrefix .. "?")
-                end
-
                 return ConstructAdjectivedName(self, name, wetGenericPrefix)
             end
         end
