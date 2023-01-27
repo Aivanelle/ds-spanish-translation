@@ -82,13 +82,13 @@ if _G.CraftMonkeyString then
         end
 
         local str = ""
-        local length = math.random(5)
+        local words = math.random(5)
 
-        for i = 1, length do
+        for i = 1, words do
             str = str .. makeString()
 
             -- If the last string was generated, it will no longer add a comma or space.
-            if i ~= length then
+            if i ~= words then
                 if MARKS[initialMarkIndex][3].COMMA and math.random() <= .2 then
                     LOWERCASE = true
                     str = str .. ", "
