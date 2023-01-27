@@ -11,8 +11,9 @@ for i = 1, 3 do
 end
 
 local IsDLCEnabled = _G.IsDLCEnabled
+local CAPY_DLC = _G.CAPY_DLC
 
-if IsDLCEnabled(_G.CAPY_DLC) then
+if IsDLCEnabled(CAPY_DLC) then
     STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
 end
 ---------------------------------------------------------------
@@ -235,8 +236,12 @@ modimport("scripts/modwidgets/hovertext_onupdate.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
 modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
 
-local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_DLC) or IsDLCEnabled(_G.PORKLAND_DLC)
+local IsDLCInstalled = _G.IsDLCInstalled
+if IsDLCInstalled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
+
+local ROG_DLC = _G.REIGN_OF_GIANTS
+local PORKLAND_DLC = _G.PORKLAND_DLC
+local anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
 if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
-if IsDLCEnabled(_G.CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
 if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/modcomponents/grogginess_onequip.lua") end
