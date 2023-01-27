@@ -230,7 +230,6 @@ AddPrefabPostInit("pig_palace", setNoWetPrefix)
 
 modimport("scripts/modwaxwellintro.lua")
 modimport("scripts/constructadjectivedname.lua")
-modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/getdisplayname.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
@@ -239,4 +238,5 @@ modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
 local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_DLC) or IsDLCEnabled(_G.PORKLAND_DLC)
 
 if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
+if IsDLCEnabled(_G.CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
 if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/modcomponents/grogginess_onequip.lua") end
