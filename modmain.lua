@@ -230,6 +230,7 @@ AddPrefabPostInit("pig_palace", setNoWetPrefix)
 
 modimport("scripts/modwaxwellintro.lua")
 modimport("scripts/constructadjectivedname.lua")
+modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/getdisplayname.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
