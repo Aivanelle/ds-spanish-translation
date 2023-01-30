@@ -1,3 +1,23 @@
+--[[
+    Used to manage some specific cases. Character refers to the player prefab which is needed to apply the
+    custom adjective, if no plyer prefab is provided, it will be applied with any character.
+    This should be something temporary.
+]]
+local CUSTOM_ADJECTIVE =
+{
+    POOP =
+    {
+        ADJECTIVE = STRINGS.WET_PREFIX.MALE.SINGULAR.FUEL,
+        CHARACTER = "wilbur"
+    },
+    
+    WEREWILBAFUR_HANDS =
+    {
+        ADJECTIVE = STRINGS.WET_PREFIX.MALE.SINGULAR.CLOTHING,
+        CHARACTER = "wilba"
+    }
+}
+
 local nearsighted_key_blacklist =
 {
     NIL = true,
@@ -100,6 +120,17 @@ if oldGetDisplayName and anyDLCEnabled then
 
         local isWet = self:GetIsWet()
         if showAdjectives and ((isWet or self.always_wet) and not self.no_wet_prefix) then
+            if CUSTOM_ADJECTIVE[prefab:upper()] then
+                local playerPrefab = CUSTOM_ADJECTIVE[prefab:upper()].CHARACTER
+
+                if GetPlayer().prefab == playerPrefab or playerPrefab == "" then
+                    return ConstructAdjectivedName(self, name, CUSTOM_ADJECTIVE[prefab:upper()].ADJECTIVE)
+                end
+            end
+            --[[
+                If statement isolated mainly because Wigfrid, since she only eats meat or related. If this were part of the
+                elseif statements, Wigfrid will return a name with no adjective attached to it.
+            ]]
             if self.components.edible and GetPlayer() and GetPlayer().components.eater then
                 -- Special case for wet goop if it's wet.
                 if self.prefab == "wetgoop" then return name:gsub(" ", " " .. STRINGS.WET_PREFIX.WETGOOP .. " ") end
@@ -112,11 +143,6 @@ if oldGetDisplayName and anyDLCEnabled then
                 local wetClothingPrefix = Prefix.getWetClothingPrefix(prefab)
                 return ConstructAdjectivedName(self, name, wetClothingPrefix)
             elseif self.components.equippable and self.components.equippable.equipslot == "hands" then
-                -- werewilbafur_hands isn't sorted because wet tool prefix doesn't match with that prefab.
-                if prefab == "werewilbafur_hands" then
-                    return ConstructAdjectivedName(self, name, STRINGS.WET_PREFIX.MALE.SINGULAR.CLOTHING)
-                end
-
                 local wetToolPrefix = Prefix.getWetToolPrefix(prefab)
                 return ConstructAdjectivedName(self, name, wetToolPrefix)
             elseif self.components.fuel then
