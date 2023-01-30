@@ -92,7 +92,7 @@ return {
 				"unagi",
 				"venus_stalk",
 				"watermelonicle",
-                
+
                 -- Used by the Werebeaver
                 "cork",
                 "dug_berrybush",
@@ -105,7 +105,7 @@ return {
                 "log",
                 "pinecone",
 			},
-			
+
 			CLOTHING = Set{ -- EMPAPADO
 				"aerodynamichat",
 				"amulet",
@@ -169,7 +169,7 @@ return {
 				"winterhat",
 				"woodlegshat",
 			},
-			
+
 			TOOL = Set{ -- RESBALADIZO
 				"ballpein_hammer",
 				"batbat",
@@ -216,7 +216,7 @@ return {
 				"wheeler_tracker",
 				"yellowstaff",
 			},
-			
+
 			FUEL = Set{ -- MOJADO
 				"bamboo",
 				"beardhair",
@@ -287,7 +287,7 @@ return {
 				"wall_hay_item",
 				"wall_wood_item",
 				"waxpaper",
-                
+
                 -- Used by the Werebeaver
                 "blue_cap_cooked",
                 "dragoonheart",
@@ -301,7 +301,7 @@ return {
                 "tuber_crop",
                 "tuber_crop_cooked",
 			},
-			
+
 			GENERIC = Set{ -- HÚMEDO
 				"aloe_planted",
 				"ancient_altar",
@@ -834,7 +834,7 @@ return {
 				"wreck",
 				"wx78",
 				"zeb",
-                
+
                 -- Used by the Werebeaver and Wigfrid
                 "aloe",
                 "aloe_cooked",
@@ -917,7 +917,7 @@ return {
                 "watermelonicle",
 			},
 		},
-		
+
 		PLURAL =
 		{
 			FOOD = Set{ -- REMOJADOS
@@ -940,10 +940,10 @@ return {
 				"petals_evil",
 				"taffy",
 				"waffles",
-                
+
                 -- Used by WX78
                 "gears",
-                
+
                 -- Used by the Werebeaver
                 "boards",
 			},
@@ -951,7 +951,7 @@ return {
 			CLOTHING = Set{ -- EMPAPADOS
 				"gogglesarmorhat",
 			},
-			
+
 			-- TOOL = Set{}, -- RESBALADIZOS
 
 			FUEL = Set{ -- MOJADOS
@@ -963,7 +963,7 @@ return {
 				"spidereggsack",
 				"tentaclespots",
 				"turf_road",
-                
+
                 --Used by the Werebeaver
                 "clippings",
                 "petals",
@@ -980,7 +980,7 @@ return {
 				"firecrackers",
 				"flotsam",
 				"houndbone",
-				"lightning", -- Abolustely unnecessary, but whatever.
+				"lightning", -- Absolustely unnecessary, but whatever.
 				"mussel_farm",
 				"oinc10",
 				"oinc100",
@@ -995,7 +995,7 @@ return {
 				"wallyintro_debris_2",
 				"wallyintro_debris_3",
 				"wallyintro_shipmast",
-                
+
                 -- Used by the Werebeaver and Wigfrid
                 "asparagus",
                 "asparagus_cooked",
@@ -1015,7 +1015,7 @@ return {
                 "waffles",
 			},
 		},
-		
+
 		NAME = Set{
 			-- Parrot names
 			"Barbanegra",
@@ -1046,7 +1046,7 @@ return {
 			"Van Dader",
 			"Wilde",
 		},
-		
+
 		WITHERED = Set{
 			"berrybush",
 			"berrybush2",
@@ -1058,7 +1058,7 @@ return {
 			"plant_normal",
 			"sapling",
 		},
-		
+
 		SMALL_ANIMAL = Set{
 			"crab",
 			"crow",
@@ -1077,7 +1077,7 @@ return {
 			"toucan",
 		},
 	},
-	
+
 	FEMALE =
 	{
 		SINGULAR =
@@ -1166,7 +1166,7 @@ return {
 				"watermelon",
 				"watermelon_cooked",
 				"wormlight",
-                
+
                 -- Used by the Werebeaver
                 "cutgrass",
                 "dug_bambootree",
@@ -1175,7 +1175,7 @@ return {
                 "dug_nettle",
                 "palmleaf",
 			},
-			
+
 			CLOTHING = Set{ -- EMPAPADA
 				"antmaskhat",
 				"antsuit",
@@ -1207,7 +1207,7 @@ return {
 				"watermelonhat",
 				"yellowamulet",
 			},
-			
+
 			TOOL = Set{ -- RESBALADIZA
 				"axe",
 				"blowdart_fire",
@@ -1249,7 +1249,7 @@ return {
 				"torch",
 				"trusty_shooter",
 			},
-			
+
 			FUEL = Set{ -- MOJADA
 				"beefalowool",
 				"bioluminescence",
@@ -1277,14 +1277,14 @@ return {
 				"turf_beard_hair",
 				"turf_snakeskinfloor",
 				"vine",
-                
+
                 -- Used by the Werebeaver
                 "blubber",
                 "glommerfuel",
                 "spoiled_food",
                 "wormlight",
 			},
-			
+
 			GENERIC = Set{ -- HÚMEDA
 				"abigail",
 				"abigail_flower",
@@ -1796,7 +1796,7 @@ return {
 				"woodlegs_key2",
 				"woodlegs_key3",
 				"yellowgem",
-                
+
                 -- Used by the Werebeaver and Wigfrid
                 "acorn",
                 "acorn_cooked",
@@ -1881,7 +1881,7 @@ return {
                 "watermelon_cooked",
 			},
 		},
-		
+
 		PLURAL =
 		{
 			FOOD = Set{ -- REMOJADAS
@@ -1917,11 +1917,11 @@ return {
 				"seeds_cooked",
 				"sweet_potato_seeds",
 				"watermelon_seeds",
-                
+
                 -- Used by the Werebeaver
                 "twigs",
 			},
-			
+
 			CLOTHING = Set{ -- EMPAPADAS
 				"earmuffshat",
 				"gogglesheathat",
@@ -1929,17 +1929,17 @@ return {
 				"gogglesshoothat",
 				"molehat",
 			},
-			
+
 			TOOL = Set{ -- RESBALADIZAS
 				"shears",
 			},
-			
+
 			FUEL = Set{ -- MOJADAS
 				"fireflies",
 				"glommerwings",
 				"twigs",
 			},
-			
+
 			GENERIC = Set{ -- HÚMEDAS
 				"animal_track",
 				"ash",
@@ -1957,7 +1957,7 @@ return {
 				"trinket_1",
 				"turbine_blades",
 				"whale_bubbles",
-                
+
                 -- Used by the Werebeaver and Wigfrid
                 "aloe_seeds",
                 "asparagus_seeds",
@@ -1993,7 +1993,7 @@ return {
                 "watermelon_seeds",
 			},
 		},
-		
+
 		NAME = Set{
 		-- Parrot names
 			"Alethea",
@@ -2011,7 +2011,7 @@ return {
 			"Vixel",
 			"Zoe",
 		},
-		
+
 		WITHERED = Set{
 			"coffeebush",
 			"depleted_grass",
@@ -2019,7 +2019,7 @@ return {
 			"grass_water",
 			"nettle",
 		},
-		
+
 		SMALL_ANIMAL = Set{
 			"bee",
 			"butterfly",
