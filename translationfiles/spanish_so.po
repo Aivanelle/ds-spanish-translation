@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 31350,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 8974,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -44440,7 +44440,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.BUILD.MOUNTED"
 msgid "Mon dieu, that's far away."
-msgstr ""
+msgstr "Mon dieu, qué lejos."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.BURNING"
@@ -44450,9 +44450,10 @@ msgstr "Esto, eh, parece que está ardiendo."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.GENERIC"
 msgid "I guess it never occurred to me I'd need to change."
-msgstr "Supongo que nunca se me ocurrió que necesitaba cambiar."
+msgstr "Supongo que nunca se me ocurrió cambiarme."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COOK.GENERIC
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COOK.GENERIC"
 msgid "I'm not quite ready yet."
 msgstr "Aún no estoy listo."
@@ -44460,12 +44461,12 @@ msgstr "Aún no estoy listo."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COOK.TOOFAR
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COOK.TOOFAR"
 msgid "I'll need to get a little closer to cook with that."
-msgstr "Tendré que acercarme unpoco más para cocinar con eso."
+msgstr "Tendré que acercarme un poco más para cocinar con eso."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.DRAW.NOIMAGE
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "What should I draw?"
-msgstr ""
+msgstr "¿Qué debería dibujar?"
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.BUSY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.BUSY"
@@ -44475,7 +44476,7 @@ msgstr "Díos mío, parece ocupado."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.DEAD"
 msgid "Oh dear..."
-msgstr "Oh, no..."
+msgstr "Oh, cielos..."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.SLEEPING"
@@ -44485,12 +44486,12 @@ msgstr "Está durmiendo."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.INUSE
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.INUSE"
 msgid "Oh. It must belong to someone else."
-msgstr ""
+msgstr "Oh. Ya debe ser de alguien más."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "Mon dieu. It's busy just now."
-msgstr ""
+msgstr "Mon dieu. Está algo ocupado."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.REPAIRBOAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.REPAIRBOAT.GENERIC"
@@ -44505,17 +44506,17 @@ msgstr "Ahora mismo no puedo."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SADDLE.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SADDLE.TARGETINCOMBAT"
 msgid "It's too angry to do that."
-msgstr ""
+msgstr "No está de buenas para eso."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.AWAKEBEEFALO"
 msgid "It would be unwise to attempt this while the animal is awake."
-msgstr "No sería prudente intentar esto mientras el animal está despierto."
+msgstr "No sería prudente intentar eso mientras el animal está despierto."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.GENERIC"
 msgid "Not a shaveable beast."
-msgstr "No es una bestia que se pueda afeitar."
+msgstr "No es una bestia afeitable."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.NOBITS
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.NOBITS"
@@ -44525,22 +44526,22 @@ msgstr "Nada que afeitar."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHOP.CANTPAY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHOP.CANTPAY"
 msgid "I can't afford that."
-msgstr ""
+msgstr "No puedo permitirme eso."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHOP.GENERIC"
 msgid "Oh. Can't buy that."
-msgstr ""
+msgstr "Oh. No puedo comprar eso."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.STORE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.STORE.GENERIC"
 msgid "It is too full."
-msgstr "Está demasiado lleno."
+msgstr "No le cabe más."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.STORE.NOTALLOWED
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.STORE.NOTALLOWED"
 msgid "This is not the place for it."
-msgstr "Este no es el lugar para ello."
+msgstr "Este no es el lugar para eso."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.TEACH.CANTLEARN
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.TEACH.CANTLEARN"
@@ -44550,27 +44551,27 @@ msgstr "Tal vez esté un poco fuera de mi alcance."
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.TEACH.KNOWN
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.TEACH.KNOWN"
 msgid "Ah. I already knew that."
-msgstr "Ah, ya lo sabía."
+msgstr "Ah. Eso ya lo sabía."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEDOOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEDOOR.GENERIC"
 msgid "It cannot be opened."
-msgstr ""
+msgstr "No se puede abrir."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEDOOR.LOCKED
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.USEDOOR.LOCKED"
 msgid "Perhaps there is a way to unlock it."
-msgstr ""
+msgstr "A lo mejor se abre de alguna manera."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.WRAPBUNDLE.EMPTY"
 msgid "There's nothing to wrap."
-msgstr ""
+msgstr "No hay nada que envolver."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL.WRITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL.WRITE.GENERIC"
 msgid "Maybe later. My hands are covered in cooking oil."
-msgstr "Igual más tarde. Mis manos están cubiertas de aceite de cocina."
+msgstr "Igual más tarde. Mis manos están cubiertas de aceite."
 
 #. STRINGS.CHARACTERS.WARLY.ACTIONFAIL_GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ACTIONFAIL_GENERIC"
@@ -44580,22 +44581,22 @@ msgstr "No puedo hacer eso."
 #. STRINGS.CHARACTERS.WARLY.ANNOUCE_ALARMOVER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUCE_ALARMOVER"
 msgid "I think I'm safe now."
-msgstr ""
+msgstr "Creo que ya estoy a salvo."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUCE_BATS
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUCE_BATS"
 msgid "Agh! Bats!"
-msgstr ""
+msgstr "¡Agh! ¡Murciélagos!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUCE_OTHERWORLD_DEED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUCE_OTHERWORLD_DEED"
 msgid "I don't recognize this place."
-msgstr ""
+msgstr "No reconozco ese sitio."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUCE_UNDERLEAFCANOPY
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUCE_UNDERLEAFCANOPY"
 msgid "It is dark here."
-msgstr ""
+msgstr "Está oscuro aquí."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_ACCOMPLISHMENT"
@@ -44615,27 +44616,29 @@ msgstr "Tendré que volver a intentarlo."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_BEES
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_BEES"
 msgid "The honeymakers are upon me!"
-msgstr "¡Los fabricantes de miel me persiguen!"
+msgstr "¡Las mieleras me persiguen!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_DAMAGED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_DAMAGED"
 msgid "The vessel is damaged..."
-msgstr "El barco está dañado..."
+msgstr "El bote ha sufrido daños..."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_SINKING
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_SINKING"
 msgid "Oh no... I can't die on an empty stomach!"
-msgstr "Oh, no... ¡No puedo morirme con el estómago vacío!"
+msgstr "Oh, no... ¡No puedo morir con el estómago vacío!"
 
+# Expresión usada para expresar la dificultad de una situación.
+# Me tomé la libertad de añadir una referencia a Titanic.
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_SINKING_IMMINENT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_SINKING_IMMINENT"
 msgid "Into the soup!"
-msgstr "¡A la sopa!"
+msgstr "¡Voy directo con Jack!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOOMERANG"
 msgid "Ouch! Damnable thing!"
-msgstr "¡Ay! ¡Maldito trasto!"
+msgstr "¡Ouch! ¡Maldita cosa!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_BURNT"
@@ -44649,7 +44652,7 @@ msgid ""
 "I believe I could repair that."
 msgstr ""
 "\n"
-"Creo que puedo reparar esto."
+"Creo que puedo reparar eso."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_CHARLIE"
@@ -44664,7 +44667,7 @@ msgstr "¡Ah! ¡Creo que me ha mordido algo!"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_COLD
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_COLD"
 msgid "I'm... getting freezerburn..."
-msgstr "Estoy teniendo una... quemadura por congelamiento..."
+msgstr "Me estoy... congelando..."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_COMPASS_OUT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_COMPASS_OUT"
@@ -44684,17 +44687,17 @@ msgstr "Me faltan los ingredientes necesarios."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_DAMP
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DAMP"
 msgid "I've been lightly spritzed."
-msgstr "Me han rociado ligeramente."
+msgstr "He sido rociado un poco."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DEERCLOPS"
 msgid "I do not like that sound one bit!"
-msgstr "¡No me gusta ese sonido un pelo!"
+msgstr "¡No me gusta nada ese sonido!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DEHUMID.1"
 msgid "Ah, I feel better now."
-msgstr ""
+msgstr "Ah, ahora me siento mejor."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_DUSK"
@@ -44704,13 +44707,14 @@ msgstr "Se acerca la hora de la cena."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.COOKED"
 msgid "Not very palatable."
-msgstr "No es muy agradable al paladar."
+msgstr "No era muy agradable al paladar."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.DRIED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.DRIED"
 msgid "A bit dry."
 msgstr "Un poco seco."
 
+# Expresión francesa.
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.GENERIC"
 msgid "Magnifique!"
@@ -44719,7 +44723,7 @@ msgstr "¡Magnifique!"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.INVALID
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.INVALID"
 msgid "Clearly inedible."
-msgstr "Claramente no comestible."
+msgstr "Claramente incomestible."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.PAINFUL"
@@ -44729,7 +44733,7 @@ msgstr "¡Aarg! Mi estomago..."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.PREPARED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.PREPARED"
 msgid "Delectable!"
-msgstr "¡Deliciosa!"
+msgstr "¡Qué delicia!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.RAW
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.RAW"
@@ -44759,7 +44763,7 @@ msgstr "No soporto esta comida."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SAME_OLD_5
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SAME_OLD_5"
 msgid "Enough already!"
-msgstr "¡Ya tengo bastante!"
+msgstr "¡Ya tuve suficiente!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SPOILED"
@@ -44769,12 +44773,13 @@ msgstr "¡Puaj! ¿Cómo he permitido que toque mis labios?"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.STALE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.STALE"
 msgid "That was past its best-by date..."
-msgstr "Eso estaba bien caducado..."
+msgstr "Eso estaba caducado..."
 
+# Expresión francesa.
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.TASTY
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.TASTY"
 msgid "Tres magnifique!"
-msgstr "¡Tres magnifique!"
+msgstr "¡Très magnifique!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.YUCKY
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.YUCKY"
@@ -44799,42 +44804,42 @@ msgstr "¡Se ha roto en mis manos!"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_FREEDOM"
 msgid "Freeeeeeee!"
-msgstr "¡Libreeeeee!"
+msgstr "¡Libertaaaaad!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_GAS_DAMAGE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_GAS_DAMAGE"
 msgid "Hack! Cough! Smells like gas!"
-msgstr ""
+msgstr "¡Agh! ¡Cof! ¡Huele horrible!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER"
 msgid "Ugh! My allergies!"
-msgstr ""
+msgstr "¡Ugh! ¡Mis alergias!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER_OFF
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HAYFEVER_OFF"
 msgid "I think... my nose has cleared!"
-msgstr ""
+msgstr "Creo que... ¡se me ha despejado la nariz!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HIGHRESEARCH"
 msgid "My brain is tingling!"
-msgstr "¡Mi cerebro está hormigueando!"
+msgstr "¡Se me hormiguea el cerebro!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOT"
 msgid "I'm baking like a souffle here..."
-msgstr "Estoy ardiendo como un soufflé..."
+msgstr "Me estoy cocinando como un suflé..."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOUNDS
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOUNDS"
 msgid "I recognize that sound. Hunger."
-msgstr "Reconozco ese sonido. Hambre."
+msgstr "Reconozco el sonido del hambre."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOUSE_DOOR
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOUSE_DOOR"
 msgid "My dream kitchen awaits! After I get a permit."
-msgstr ""
+msgstr "¡Mi cocina soñada me espera! Pero primero un permiso."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNGRY"
@@ -44854,7 +44859,7 @@ msgstr "He perdido el rastro."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNT_LOST_TRAIL_SPRING"
 msgid "The trail has been washed out."
-msgstr "El rastro ha sido borrado por la lluvia."
+msgstr "El rastro ha sido borrado."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_INSUFFICIENTFERTILIZER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_INSUFFICIENTFERTILIZER"
@@ -44874,12 +44879,12 @@ msgstr "Mi cabeza... me da vueltas..."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "That was much too close!"
-msgstr "¡Me ha faltado un pelo!"
+msgstr "¡Eso ha estado demasiado cerca!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_LOWRESEARCH"
 msgid "I did not learn any new tricks from that."
-msgstr "No he aprendido nuevos trucos con esto."
+msgstr "No he aprendido nada nuevo con eso."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAGIC_FAIL
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAGIC_FAIL"
@@ -44889,7 +44894,7 @@ msgstr "Es una pena, pero no consigo hacer que funcione."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAPWRAP_LOSECONTROL
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAPWRAP_LOSECONTROL"
 msgid "Oh dear me, I have reached the point of no return."
-msgstr "Oh, Dios mío. He llegado al punto de no retorno."
+msgstr "Oh, cielos. He llegado al punto de no retorno."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAPWRAP_RETURN
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAPWRAP_RETURN"
@@ -44904,7 +44909,7 @@ msgstr "Las implicaciones de esto son turbias."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MESSAGEBOTTLE.1
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MESSAGEBOTTLE.1"
 msgid "The ink is smudged..."
-msgstr "La tinta se ha emborronado..."
+msgstr "La tinta se ha corrido..."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MORETREASURE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MORETREASURE"
@@ -44919,22 +44924,22 @@ msgstr "¡Enfermedad con alas!"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_DOOR_FOUND
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_DOOR_FOUND"
 msgid "Mon dieu! A door!"
-msgstr ""
+msgstr "¡Mon dieu! ¡Una puerta!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND"
 msgid "Nothing here."
-msgstr ""
+msgstr "Nada aquí."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_FOUND
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_FOUND"
 msgid "Mon dieu! I have found something!"
-msgstr ""
+msgstr "¡Mon dieu! ¡He encontrado algo!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_NOREWARD
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_MYSTERY_NOREWARD"
 msgid "Disappointing."
-msgstr ""
+msgstr "Decepcionante."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NODANGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NODANGERSIESTA"
@@ -44979,17 +44984,18 @@ msgstr "Este no me parece que sea un lugar relajado para la siesta."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPONFIRE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPONFIRE"
 msgid "I think not! That's a hotbed for danger!"
-msgstr "¡Creo que no! ¡Es un caldo de cultivo para el peligro!"
+msgstr "¡Creo que no! ¡Es demasiado peligroso!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOTHING_FOUND
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOTHING_FOUND"
 msgid "Nothing nearby, I'm afraid."
-msgstr ""
+msgstr "No hay nada cerca, me temo."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_NO_TRAP
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_NO_TRAP"
 msgid "Went off without a hitch."
-msgstr "Se desactivó sin problemas."
+msgstr "Sin problema alguno."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_OTHER_WORLD_PLANT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_OTHER_WORLD_PLANT"
@@ -45009,37 +45015,37 @@ msgstr "¡Ah! ¡Suficiente!"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.1
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.1"
 msgid "Blech!"
-msgstr ""
+msgstr "¡Puaj!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.2
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.2"
 msgid "Blagh!"
-msgstr ""
+msgstr "¡Ew!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.3
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PICKPOOP.3"
 msgid "Beurk!"
-msgstr ""
+msgstr "¡Voy a vomitar!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PUGALISK_INVULNERABLE.1
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PUGALISK_INVULNERABLE.1"
 msgid "If only I had a shell cracker!"
-msgstr ""
+msgstr "¡Si tan solo tuviera un cascanueces!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PUGALISK_INVULNERABLE.2
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PUGALISK_INVULNERABLE.2"
 msgid "Won't break there."
-msgstr ""
+msgstr "No cederá."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_PUGALISK_INVULNERABLE.3
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_PUGALISK_INVULNERABLE.3"
 msgid "I need to find a weak spot."
-msgstr ""
+msgstr "Tengo que encontrar un punto débil."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_QUAKE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_QUAKE"
 msgid "That is not a comforting sound..."
-msgstr "No es un sonido reconfortante..."
+msgstr "Eso no suena reconfortante..."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_RESEARCH
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_RESEARCH"
@@ -45049,7 +45055,7 @@ msgstr "La educación es un proceso para toda la vida."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_ROOM_STUCK
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_ROOM_STUCK"
 msgid "I'd be trapped here. Like juices in meat when you sear it."
-msgstr ""
+msgstr "Quedaría atrapado aquí. Como los jugos de la carne al sellarla."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_SHARX
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_SHARX"
@@ -45059,27 +45065,28 @@ msgstr "Creo que me quieren hacer daño."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_SHELTER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_SHELTER"
 msgid "I am thankful for this tree's protective buffer."
-msgstr "Estoy agradecido por el abrazo protector de este árbol."
+msgstr "Agradecido con el abrazo protector de este árbol."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_SNEEZE"
 msgid "Atchoum!"
-msgstr ""
+msgstr "¡Achú!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_SOAKED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_SOAKED"
 msgid "I'm wetter than a dish rag!"
-msgstr "¡Estoy más empapado que una esponja de fregar los platos!"
+msgstr "¡Estoy más húmedo que esponja de fregadero!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_SUITUP
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_SUITUP"
 msgid "Eat your heart out!"
-msgstr ""
+msgstr "¡Observen!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TAXDAY
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TAXDAY"
 msgid "Time to collect tips for my excellent service!"
-msgstr ""
+msgstr "¡Hora de recoger la propina por mi excelente servicio!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_THORNS"
@@ -45089,7 +45096,7 @@ msgstr "¡Ah!"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOLCORRODED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOLCORRODED"
 msgid "Huh. I wonder what made my tool fall apart."
-msgstr ""
+msgstr "Huh. Me pregunto qué le pasó a mi herramienta."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOL_SLIP
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOL_SLIP"
@@ -45099,12 +45106,12 @@ msgstr "Todo está resbaladizo..."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID.1"
 msgid "Mon dieu! This %s is humid."
-msgstr ""
+msgstr "¡Mon dieu! Qué húmedo."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID.2
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID.2"
 msgid "Whew. This %s is hot."
-msgstr ""
+msgstr "Fiu. Hace mucho calor."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TORCH_OUT"
@@ -45129,7 +45136,7 @@ msgstr "¡Apunta a posibles riquezas!"
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_TURFTOOHARD
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_TURFTOOHARD"
 msgid "Can't move that."
-msgstr ""
+msgstr "No puedo mover eso."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_UNIMPLEMENTED"
@@ -45137,24 +45144,25 @@ msgid "It is not operational yet."
 msgstr "Aún no está operativo."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_VOLCANO_ERUPT
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_VOLCANO_ERUPT"
 msgid "Incoming!"
-msgstr "¡Que viene!"
+msgstr "¡Allá vamos!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WAVE_BOOST
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WAVE_BOOST"
 msgid "Whoaaaa!"
-msgstr "¡Ahhhhh!"
+msgstr "¡Waooooo!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WET
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WET"
 msgid "I am getting positively drenched."
-msgstr "Me estoy realmente empapando."
+msgstr "Me estoy empapando."
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WETTER
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WETTER"
 msgid "I fear I may be water soluble!"
-msgstr "¡Me temo que puede ser soluble en agua!"
+msgstr "¡Temo poder ser hidrosoluble!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_BEAST_NEARBY"
@@ -45164,12 +45172,12 @@ msgstr "La bestia está cerca."
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_LOST_TRAIL"
 msgid "The beast has slipped by me!"
-msgstr "¡La bestia se me ha escurrido!"
+msgstr "¡La bestia se me ha escapado!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_LOST_TRAIL_SPRING"
 msgid "How can I track anything in this deluge!"
-msgstr "¡Cómo voy a rastrear nada con este diluvio!"
+msgstr "¡Cómo voy a rastrear algo con este diluvio!"
 
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_WORMHOLE"
@@ -45179,32 +45187,33 @@ msgstr "Debo estar desquiciado para viajar así..."
 #. STRINGS.CHARACTERS.WARLY.BATTLECRY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.BATTLECRY.GENERIC"
 msgid "I'm also an accomplished butcher!"
-msgstr "¡También soy un carnicero consumado!"
+msgstr "¡También soy un carnicero de renombre!"
 
+# Cochon significa cerdo en francés.
 #. STRINGS.CHARACTERS.WARLY.BATTLECRY.PIG
 msgctxt "STRINGS.CHARACTERS.WARLY.BATTLECRY.PIG"
 msgid "No part of you will go to waste, cochon!"
-msgstr "¡Ninguna parte tuya se desperdicia, cochon!"
+msgstr "¡No desperdiciaré nada de ti, cochon!"
 
 #. STRINGS.CHARACTERS.WARLY.BATTLECRY.PREY
 msgctxt "STRINGS.CHARACTERS.WARLY.BATTLECRY.PREY"
 msgid "You look delicious!"
-msgstr "¡Pareces deliciosa!"
+msgstr "¡Hoy se cena!"
 
 #. STRINGS.CHARACTERS.WARLY.BATTLECRY.SPIDER
 msgctxt "STRINGS.CHARACTERS.WARLY.BATTLECRY.SPIDER"
 msgid "I hope it does not rain after I kill you!"
-msgstr "¡Espero que no llueva después de que te mate!"
+msgstr "¡Espero que no llueva después de matarte!"
 
 #. STRINGS.CHARACTERS.WARLY.BATTLECRY.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WARLY.BATTLECRY.SPIDER_WARRIOR"
 msgid "You will die, pest!"
-msgstr "¡Morirás, plaga!"
+msgstr "¡Morirás, pestilencia!"
 
 #. STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.GENERIC"
 msgid "There's no shame in running!"
-msgstr "¡No es una deshonra huir corriendo!"
+msgstr "¡Huir no es ninguna vergüenza!"
 
 #. STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.PIG
 msgctxt "STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.PIG"
@@ -45214,7 +45223,7 @@ msgstr "Noooo, esos codillos, esas chuletas..."
 #. STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.PREY
 msgctxt "STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.PREY"
 msgid "Whew. I'm out of breath."
-msgstr "Uf, estoy sin aliento."
+msgstr "Fiu. Estoy sin aliento."
 
 #. STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.SPIDER
 msgctxt "STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.SPIDER"
