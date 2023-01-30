@@ -135,8 +135,10 @@ if oldGetDisplayName and anyDLCEnabled then
                 -- Special case for wet goop if it's wet.
                 if self.prefab == "wetgoop" then return name:gsub(" ", " " .. STRINGS.WET_PREFIX.WETGOOP .. " ") end
 
-                local wetFoodPrefix = Prefix.getWetFoodPrefix(prefab)
-                if GetPlayer().components.eater:CanEat(self) then return ConstructAdjectivedName(self, name, wetFoodPrefix) end
+                if GetPlayer().components.eater:CanEat(self) then
+                    local wetFoodPrefix = Prefix.getWetFoodPrefix(prefab)
+                    return ConstructAdjectivedName(self, name, wetFoodPrefix)
+                end
             end
 
             if self.components.equippable and (self.components.equippable.equipslot == "head" or self.components.equippable.equipslot == "body") then
