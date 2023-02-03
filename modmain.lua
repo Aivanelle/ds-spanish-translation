@@ -104,6 +104,8 @@ local function enableSUffixes()
 	end
 end
 
+local IsDLCInstalled = _G.IsDLCInstalled
+
 local function modPostInit(player)
 	enableSUffixes()
 	USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
@@ -116,8 +118,13 @@ local function modPostInit(player)
 
 	importStrings()
 
-	if player.prefab == "wormwood" then setWormwoodFont() end
-	if player.prefab == "webber" then translateWebberStrings() end
+	if player.prefab == "wormwood" then
+        setWormwoodFont()
+	elseif player.prefab == "webber" then
+        translateWebberStrings()
+    elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
+        modimport("scripts/craftmonkeystring.lua")
+    end
 end
 
 
@@ -235,9 +242,6 @@ modimport("scripts/getdisplayname.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
 modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
-
-local IsDLCInstalled = _G.IsDLCInstalled
-if IsDLCInstalled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
 
 local ROG_DLC = _G.REIGN_OF_GIANTS
 local PORKLAND_DLC = _G.PORKLAND_DLC
