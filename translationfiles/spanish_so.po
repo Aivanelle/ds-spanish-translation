@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 9375,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 9525,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -47197,7 +47197,7 @@ msgstr "De primera."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_MARBLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_MARBLE"
 msgid "Rich!"
-msgstr "¡Acaudalado!"
+msgstr "¡Algo acaudalado!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_ORCHID
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_ORCHID"
@@ -47253,187 +47253,187 @@ msgstr "Para el jardín."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA"
 msgid "Lush."
-msgstr ""
+msgstr "Exuberante."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_ZZ
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_PLANTHOLDER_ZZ"
 msgid "Luscious."
-msgstr ""
+msgstr "Excelso."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_ROUND
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_ROUND"
 msgid "Delish."
-msgstr ""
+msgstr "Exquisito."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_BEAM_ROOM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_BEAM_ROOM"
 msgid "Sturdy."
-msgstr ""
+msgstr "Resistente."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE"
 msgid "Magnifique."
-msgstr ""
+msgstr "Magnifique."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_ENDSWELL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_ENDSWELL"
 msgid "This water is not food safe."
-msgstr ""
+msgstr "Esa agua no es apta para el consumo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_FOUNTAIN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_RUINS_FOUNTAIN"
 msgid "Does Lady Luck smile upon me today?"
-msgstr ""
+msgstr "¿La señora Fortuna me sonríe hoy?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_BANKER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_BANKER"
 msgid "I suppose it could double as a dining table."
-msgstr ""
+msgstr "Supongo que podría servir como mesa de comedor."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_CHESS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_CHESS"
 msgid "One could eat off it, I suppose."
-msgstr ""
+msgstr "Podría servir para comer, supongo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_CRATE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_CRATE"
 msgid "Reminds me of my culinary school days."
-msgstr ""
+msgstr "Me recuerda a mis días en la escuela culinaria."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_DIY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_DIY"
 msgid "Not very fancy."
-msgstr ""
+msgstr "Una opción poco sofisticada."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_RAW
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_RAW"
 msgid "Flavorless."
-msgstr ""
+msgstr "Muy soso."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_ROUND
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_TABLE_ROUND"
 msgid "I could eat on that!"
-msgstr ""
+msgstr "¡No me importaría comer ahí!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_AXE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_AXE"
 msgid "Not the best butchering tool."
-msgstr ""
+msgstr "No la mejor herramienta carnicera."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_BLACK_CAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_BLACK_CAT"
 msgid "Ah. Le Chat Noir."
-msgstr ""
+msgstr "Ah. Le Chat Noir."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_CAPE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_CAPE"
 msgid "Rather dramatic."
-msgstr ""
+msgstr "Un poco dramático."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_EMBROIDERY_HOOP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_EMBROIDERY_HOOP"
 msgid "Well said."
-msgstr ""
+msgstr "Bien dicho."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_FULLLENGTH_MIRROR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_FULLLENGTH_MIRROR"
 msgid "Mon dieu, I look a sight!"
-msgstr ""
+msgstr "¡Mon dieu, mira eso!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_GEARS_ART
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_GEARS_ART"
 msgid "Hmm..."
-msgstr ""
+msgstr "Mmm..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_HUNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_HUNT"
 msgid "I suppose meat must be gotten somehow."
-msgstr ""
+msgstr "La carne no se consigue sola."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_MOSAIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_MOSAIC"
 msgid "A smorgasbord of rocks."
-msgstr ""
+msgstr "Un smörgåsbord de rocas."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_NO_SMOKING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_NO_SMOKING"
 msgid "Fine decoration for a dinner party."
-msgstr ""
+msgstr "Bonita decoración para una cena de gala."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_PERIODIC_TABLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_PERIODIC_TABLE"
 msgid "I prefer the dinner table."
-msgstr ""
+msgstr "Prefiero la tabla de quesos."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_PHOTO
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_PHOTO"
 msgid "He looks well fed."
-msgstr ""
+msgstr "Parece haber comido bien."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_WREATH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WALLORNAMENT_WREATH"
 msgid "Fine decoration for a dinner party."
-msgstr ""
+msgstr "Bonita decoración para una cena de gala."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WOOD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WOOD"
 msgid "Appropriate for the smokehouse."
-msgstr ""
+msgstr "Apropiada para un ahumadero."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WOOD_CORNERBEAM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DECO_WOOD_CORNERBEAM"
 msgid "Robust."
-msgstr ""
+msgstr "Robusta."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEED"
 msgid "I'll only need the kitchen."
-msgstr ""
+msgstr "Solo necesitaré una cocina."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEERCLOPS"
 msgid "I once had a saucier who looked like that."
-msgstr "Una vez tuve un saucier que se parecía a este bicho."
+msgstr "Una vez tuve un saucier que se veía como eso."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEERCLOPS_EYEBALL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEERCLOPS_EYEBALL"
 msgid "Giant eyeball... soup?"
-msgstr "Globo ocular gigante... ¿sopa?"
+msgstr "¿Sopa de... globo ocular gigante?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEFLATED_BALLOON
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEFLATED_BALLOON"
 msgid "Ah. It's like a fallen cake."
-msgstr ""
+msgstr "Ah. Es como ver un pastel estrellado."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEFLATED_BALLOON_BASKET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEFLATED_BALLOON_BASKET"
 msgid "I wish is was a picnic basket."
-msgstr ""
+msgstr "Ojalá fuera una cesta de pícnic."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEMOLITION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEMOLITION_PERMIT"
 msgid "A permit to break a few eggs."
-msgstr ""
+msgstr "Un permiso para romper algunos huevos."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_BAMBOOTREE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_BAMBOOTREE"
 msgid "Perhaps one day it will return."
-msgstr "Tal vez regrese algún día."
+msgstr "Tal vez crezca algún día."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_BUSH_VINE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_BUSH_VINE"
 msgid "It's all used up... for now."
-msgstr "Está agotado... por ahora."
+msgstr "Ya no queda nada... por ahora."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_GRASS.GENERIC"
 msgid "Well past its expiry date."
-msgstr "Esto está muy caducado."
+msgstr "Eso está muy caducado."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_GRASS_WATER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_GRASS_WATER"
 msgid "Will you recover soon, little tuft?"
-msgstr "¿Te recuperarás pronto, pequeño penacho?"
+msgstr "¿Te recuperarás pronto, pequeña hierba?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DEVTOOL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DEVTOOL"
@@ -47448,27 +47448,27 @@ msgstr "No, yo soy un tradicionalista."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DIRTPILE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DIRTPILE"
 msgid "It's making a bit of a mess, isn't it?"
-msgstr "Qué guarro está dejando todo, ¿verdad?"
+msgstr "Eso es un poco desastre, ¿no?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DISARMING_KIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DISARMING_KIT"
 msgid "Disarmingly simple to use."
-msgstr ""
+msgstr "Su sencillez lo desmonta todo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DISGUISEHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DISGUISEHAT"
 msgid "It is the icing on the face."
-msgstr ""
+msgstr "Es bastante graciosa."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.COLD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.COLD"
 msgid "Hmm, keep looking."
-msgstr "Hmm, sigue buscando."
+msgstr "Mmm, sigue buscando."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.GENERIC"
 msgid "A finely tuned radar stick."
-msgstr "Un palo de radar finamente sintonizado."
+msgstr "Un palo radar finamente sintonizado."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.HOT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.HOT"
@@ -47483,7 +47483,7 @@ msgstr "¡He encontrado algo!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.WARMER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.WARMER"
 msgid "Warmer, warmer...!"
-msgstr "¡Más caliente, más caliente...!"
+msgstr "¡Tibio, tibio...!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGRODBASE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGRODBASE.GENERIC"
@@ -47508,22 +47508,22 @@ msgstr "Eso parece importante."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DORSALFIN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DORSALFIN"
 msgid "I'd imagine that hurt."
-msgstr "Me imagino que duele."
+msgstr "Me imagino que habrá dolido."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOUBLE_UMBRELLAHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOUBLE_UMBRELLAHAT"
 msgid "Ridiculous! I want one."
-msgstr "¡Ridículo! Quiero uno."
+msgstr "¡Qué ridículo! Me encanta."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOY"
 msgid "I see potential in this poultry."
-msgstr "Veo potencial en esta ave de corral."
+msgstr "Veo potencial en esa ave de corral."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYBABY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYBABY"
 msgid "I should let it grow into more food."
-msgstr "Debería dejar que crezca para que sea más comida."
+msgstr "Si crece, será más comida."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYEGG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYEGG"
@@ -47538,7 +47538,7 @@ msgstr "¡Bon appetit!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYEGG_CRACKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYEGG_CRACKED"
 msgid "Spoiled egg?"
-msgstr "¿Huevo estropeado?"
+msgstr "¿Ya se ha estropeado?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYFEATHER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYFEATHER"
@@ -47548,17 +47548,17 @@ msgstr "Una pluma de mi amigo con plumas."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYNEST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYNEST"
 msgid "It will become tastier with time."
-msgstr "Resultará más sabroso con el tiempo."
+msgstr "Con el tiempo se vuelve más sabroso."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFLY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFLY"
 msgid "I'm not cut out for this."
-msgstr "No estoy hecho para esto."
+msgstr "No estoy hecho para eso."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFLYCHEST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFLYCHEST"
 msgid "Ooh la la, burnproof storage."
-msgstr "Oh, la, la, almacenamiento ignífugo."
+msgstr "Oh là là, almacenamiento ignífugo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT"
@@ -47568,7 +47568,7 @@ msgstr "¡Qué exótica!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT_COOKED"
 msgid "Could use a spread of pudding and chia seeds..."
-msgstr "Le hace falta crema y semillas de chía..."
+msgstr "Podría llevar pudín y semillas de chía..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT_SEEDS"
@@ -47578,12 +47578,12 @@ msgstr "Incuban frutas de dragón."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONPIE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONPIE"
 msgid "Flaky crust, tart filling... heavenly!"
-msgstr "Corteza crujiente, relleno en la tarta... ¡delicioso!"
+msgstr "Corteza crujiente y relleno... ¡delicioso!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGON_SCALES
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGON_SCALES"
 msgid "Hot to the touch!"
-msgstr "¡Caliente al tacto!"
+msgstr "¡Calientes al tacto!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOON
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOON"
@@ -47593,7 +47593,7 @@ msgstr "¡Ojalá yo hiciera mi propio fuego!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONDEN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONDEN"
 msgid "I do not like these fellows one bit."
-msgstr "No me gustan un pelo estas criaturas."
+msgstr "No me gustan un pelo esas criaturas."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONEGG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONEGG"
@@ -47603,7 +47603,7 @@ msgstr "¿De qué sirve un huevo que no se puede comer?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONHEART
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONHEART"
 msgid "It is lifeless, yet surprisingly hot to touch."
-msgstr "No tiene vida, y sin embargo es asombrosamente caliente al tacto."
+msgstr "No tiene vida y es asombrosamente caliente al tacto."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONSPIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONSPIT"
@@ -47618,7 +47618,7 @@ msgstr "¡Carne oscura!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DRUMSTICK_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DRUMSTICK_COOKED"
 msgid "Could use a light honey garlic glaze..."
-msgstr "Le hace falta una glaseado de ajo y miel..."
+msgstr "Le hace falta un glaseado de miel y ajo..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUBLOON
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUBLOON"
@@ -47628,12 +47628,12 @@ msgstr "Jamón de oro, miel de oro, monedas de oro."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BAMBOOTREE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BAMBOOTREE"
 msgid "Shall I bring it back to life?"
-msgstr "¿Debo volver traerlo a la vida?"
+msgstr "¿Debo volver a traerla a la vida?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BERRYBUSH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BERRYBUSH"
 msgid "Shall I bring it back to life?"
-msgstr "¿Debo volver traerlo a la vida?"
+msgstr "¿Debo volver a traerlo a la vida?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BUSH_VINE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BUSH_VINE"
@@ -47648,22 +47648,22 @@ msgstr "¡Café para llevar!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_ELEPHANTCACTUS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_ELEPHANTCACTUS"
 msgid "Shall I bring it back to life?"
-msgstr "¿Debo volver traerlo a la vida?"
+msgstr "¿Debo volver a traerlo a la vida?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_GRASS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_GRASS"
 msgid "Shall I bring it back to life?"
-msgstr "¿Debo volver traerlo a la vida?"
+msgstr "¿Debo volver a traerlo a la vida?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_MARSH_BUSH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_MARSH_BUSH"
 msgid "Shall I bring it back to life?"
-msgstr "¿Debo volver traerlo a la vida?"
+msgstr "¿Debo volver a traerlo a la vida?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_NETTLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_NETTLE"
 msgid "I'll find somewhere to plant this."
-msgstr ""
+msgstr "Encontraré un lugar para plantarla."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_SAPLING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_SAPLING"
@@ -47673,37 +47673,37 @@ msgstr "¿Debo volver traerlo a la vida?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBALL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBALL"
 msgid "Non."
-msgstr ""
+msgstr "Non."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.DEAD"
 msgid "Such is life."
-msgstr ""
+msgstr "Así es la vida."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.GENERIC"
 msgid "Not how I would spend my days."
-msgstr ""
+msgstr "Yo no invertiría mi tiempo así."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.SLEEPING"
 msgid "Dormez bien, mon amie."
-msgstr ""
+msgstr "Dormez bien, mon amie."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.UNDUNGED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGBEETLE.UNDUNGED"
 msgid "She's fallen."
-msgstr ""
+msgstr "Se ha caído."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.GENERIC"
 msgid "The smell is so strong I can taste it."
-msgstr ""
+msgstr "Huele tan fuerte que puedo saborearlo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.PICKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DUNGPILE.PICKED"
 msgid "That was not food safe."
-msgstr ""
+msgstr "No era seguro para los alimentos."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN"
@@ -47713,17 +47713,17 @@ msgstr "Ese olor..."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN_COOKED"
 msgid "Could use onions and chili..."
-msgstr "Le hacen falta cebollas y guindillas..."
+msgstr "Le hace falta cebolla y chile..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN_SEEDS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN_SEEDS"
 msgid "Even these smell..."
-msgstr "Hasta estas huelen..."
+msgstr "Hasta las semillas huelen..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EARMUFFSHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EARMUFFSHAT"
 msgid "Ahh, fuzzy!"
-msgstr "¡Ahh, qué peludo!"
+msgstr "¡Ah, qué peludas!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EARRING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EARRING"
@@ -47738,12 +47738,12 @@ msgstr "Anguille."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EEL_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EEL_COOKED"
 msgid "Could use some Cajun spices..."
-msgstr ""
+msgstr "Con algo de especias Cajún..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT"
 msgid "Aubergine!"
-msgstr "¡Berenjena!"
+msgstr "¡Aubergine!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT_COOKED"
@@ -47758,7 +47758,7 @@ msgstr "¡Saldrán más berenjenas!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ELEPHANTCACTUS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ELEPHANTCACTUS"
 msgid "A big prickly pickle."
-msgstr "Un pepinillo con espinas gigante."
+msgstr "Un pepinillo gigante con espinas."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ELEPHANTCACTUS_ACTIVE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ELEPHANTCACTUS_ACTIVE"
@@ -47788,7 +47788,7 @@ msgstr "Crujiente, ¿verdad?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.CHOPPED"
 msgid "Sliced!"
-msgstr "¡En rodajas!"
+msgstr "¡Rebanado!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.GENERIC"
@@ -47808,27 +47808,28 @@ msgstr "Crujiente, ¿verdad?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.CHOPPED"
 msgid "Sliced!"
-msgstr "¡En rodajas!"
+msgstr "¡Rebanado!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.GENERIC"
 msgid "A coneless arbre."
-msgstr "Un árbol sin piñas."
+msgstr "Un arbre sin piñones."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEBRELLAHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEBRELLAHAT"
 msgid "\"Eye\" like it!"
-msgstr "¡Ojo, qué bonito!"
+msgstr "¡Ojo, qué bonita!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEPLANT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEPLANT"
 msgid "Alluring, no?"
 msgstr "Seductora, ¿verdad?"
 
+# Laser Oeil simplemente significa Ojo Láser en francés.
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EYETURRET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EYETURRET"
 msgid "This is my friend, Lazer Oeil!"
-msgstr "¡Este es mi amigo, Lazer Oeil!"
+msgstr "¡Ese es mi amigo, Laser Oeil!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.EYETURRET_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.EYETURRET_ITEM"
@@ -47838,7 +47839,7 @@ msgstr "¡Despierta!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FABRIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FABRIC"
 msgid "Soft and crisp, all at once."
-msgstr "Suave y crujiente, todo a la vez."
+msgstr "Suave y resistente, todo a la vez."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.BURNT"
@@ -47848,7 +47849,7 @@ msgstr "Ha estado demasiado tiempo en el horno."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.GENERIC"
 msgid "I can grow my own ingredients!"
-msgstr "¡Puedo hacer crecer mis propios ingredientes!"
+msgstr "¡Puedo cultivar mis propios ingredientes!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.GROWING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.GROWING"
@@ -47868,12 +47869,12 @@ msgstr "¿Por qué es tan grande?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERHAT"
 msgid "What am I supposed to do with this?"
-msgstr "¿Qué se supone que tengo que hacer con esto?"
+msgstr "¿Qué se supone que haré con eso?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERPENCIL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERPENCIL"
 msgid "Lighter than my meringue."
-msgstr ""
+msgstr "Ni mi merengue es tan ligero."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERSAIL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERSAIL"
@@ -47883,27 +47884,27 @@ msgstr "Yo sobre todo quiero acariciarla."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_CROW
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_CROW"
 msgid "A bird's feather, in truffle black."
-msgstr "Plumaje de ave, de trufa negra."
+msgstr "Una pluma de ave negra como una trufa."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_ROBIN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_ROBIN"
 msgid "A bird's feather, in cherry red."
-msgstr "Una pluma de pájaro, en rojo cereza."
+msgstr "Una pluma de ave roja como una cereza."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_ROBIN_WINTER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_ROBIN_WINTER"
 msgid "A bird's feather, in tuna blue."
-msgstr "Una pluma de un ave, en atún azul."
+msgstr "Una pluma de ave azul como un atún."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_THUNDER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_THUNDER"
 msgid "A nice ingredient for a hat."
-msgstr ""
+msgstr "Bonito ingrediente para un sombrero."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEIJOADA
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEIJOADA"
 msgid "I've had to improvise."
-msgstr ""
+msgstr "Tuve que improvisar."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FEM_PUPPET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FEM_PUPPET"
@@ -47913,22 +47914,22 @@ msgstr "¡Está atrapada!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE"
 msgid "A fence."
-msgstr ""
+msgstr "Una valla."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE_GATE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE_GATE"
 msgid "Like an oven door."
-msgstr ""
+msgstr "Como la puerta de un horno."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE_GATE_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE_GATE_ITEM"
 msgid "The ingredients for a gate."
-msgstr ""
+msgstr "Los ingredientes de una puerta."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FENCE_ITEM"
 msgid "The ingredients for a fence."
-msgstr ""
+msgstr "Los ingredientes de una valla."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FERTILIZER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FERTILIZER"
@@ -47938,37 +47939,37 @@ msgstr "¡Salsa para mi jardín!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRECRACKERS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRECRACKERS"
 msgid "Like oil splattering in a hot pan."
-msgstr ""
+msgstr "Como aceite salpicando de un sartén caliente."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREFLIES.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREFLIES.GENERIC"
 msgid "A dash of glow."
-msgstr "Una centella brillante."
+msgstr "Un destello de brillo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREFLIES.HELD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREFLIES.HELD"
 msgid "My petit lightbulb pets."
-msgstr "Mis petit mascotas iluminadas."
+msgstr "Mis mascotas iluminadas petit."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREHOUND
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREHOUND"
 msgid "Chien, on fire!"
-msgstr "¡Chien ardiendo!"
+msgstr "¡Chien en llamas!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.EMBERS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.EMBERS"
 msgid "That fire's almost out!"
-msgstr "¡Este fuego casi se ha apagado!"
+msgstr "¡El fuego casi se ha apagado!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.GENERIC"
 msgid "To warm my fingers and roast sausages."
-msgstr "Para calentarme los dedos y asar salchichas."
+msgstr "Para calentar mis dedos y asar salchichas."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.HIGH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.HIGH"
 msgid "Maximum heat!"
-msgstr "¡Calor máximo!"
+msgstr "¡Calor al máximo!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.LOW
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.LOW"
@@ -47983,17 +47984,17 @@ msgstr "Parfait."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.OUT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.OUT"
 msgid "I like when it's warm and toasty."
-msgstr "Me gusta cuando se está calentito."
+msgstr "La prefiero caliente y crepitante."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESTAFF
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESTAFF"
 msgid "Oven on a stick!"
-msgstr "¡Un horno en un palo!"
+msgstr "¡Un horno en palo!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESUPPRESSOR.LOWFUEL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESUPPRESSOR.LOWFUEL"
 msgid "Shall I fuel it up?"
-msgstr "¿Lo añado combustible?"
+msgstr "¿Le añado combustible?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESUPPRESSOR.OFF
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESUPPRESSOR.OFF"
