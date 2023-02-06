@@ -211362,7 +211362,7 @@ msgstr "Día"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DEEP_JUNGLE_FERN_NOISE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DEEP_JUNGLE_FERN_NOISE"
 msgid "Jungle Floor Ferns"
-msgstr "Helechos de suelo de jungla"
+msgstr "Helechos de suelo de selva"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DOOR_VINES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DOOR_VINES"
@@ -211427,7 +211427,7 @@ msgstr "Temporada húmeda"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.JUNGLE_BORDER_VINE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.JUNGLE_BORDER_VINE"
 msgid "Jungle Canopy Vines"
-msgstr "Enredaderas de dosel de jungla"
+msgstr "Enredaderas de dosel de selva"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOST_RELICS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOST_RELICS"
@@ -213803,7 +213803,7 @@ msgstr "Fotogramas por segundo"
 #. STRINGS.UI.OPTIONS.RENDERJUNGLECANOPY
 msgctxt "STRINGS.UI.OPTIONS.RENDERJUNGLECANOPY"
 msgid "Render Jungle Canopy"
-msgstr "Renderizar dosel de jungla"
+msgstr "Renderizar dosel de selva"
 
 #. STRINGS.UI.OPTIONS.RENDERJUNGLEVINES
 msgctxt "STRINGS.UI.OPTIONS.RENDERJUNGLEVINES"
