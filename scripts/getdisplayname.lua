@@ -1,6 +1,6 @@
 --[[
     Used to manage some specific cases. Character refers to the player prefab which is needed to apply the
-    custom adjective, if no plyer prefab is provided, it will be applied with any character.
+    custom adjective, if no player prefab is provided, it will be applied with any character.
     This should probably be something temporary.
 ]]
 local CUSTOM_ADJECTIVE =
