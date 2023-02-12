@@ -208624,7 +208624,7 @@ msgstr "ardiente"
 #. STRINGS.STACKMOD
 msgctxt "STRINGS.STACKMOD"
 msgid "Stack"
-msgstr "Apilar"
+msgstr "Tomar mitad"
 
 #. STRINGS.SUNKEN_BOAT_ACCEPT_TRADE.1
 msgctxt "STRINGS.SUNKEN_BOAT_ACCEPT_TRADE.1"
@@ -209510,7 +209510,7 @@ msgstr "Pausar"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.15
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.15"
 msgid "Map"
-msgstr "Mapa"
+msgstr "Abrir mapa"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.16
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.16"
@@ -209605,32 +209605,32 @@ msgstr "Cancelar en menú"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.32
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.32"
 msgid "Menu Prev Page"
-msgstr "Pág. anterior en menú"
+msgstr "Pág. anterior de menú"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.33
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.33"
 msgid "Menu Next Page"
-msgstr "Pág. siguiente en menú"
+msgstr "Pág. siguiente de menú"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.34
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.34"
 msgid "Menu Prev Value"
-msgstr "Valor anterior en menú"
+msgstr "Valor anterior de menú"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.35
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.35"
 msgid "Menu Next Value"
-msgstr "Valor siguiente en menú"
+msgstr "Valor siguiente de menú"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.36
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.36"
 msgid "Take Half"
-msgstr "Llevarse la mitad"
+msgstr "Tomar mitad"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.37
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.37"
 msgid "Change Box"
-msgstr "Cambiar caja"
+msgstr "Guardar rápido"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.38
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.38"
@@ -209640,7 +209640,7 @@ msgstr "Cambiar caja (mitad)"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.39
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.39"
 msgid "Force Inspect (mod)"
-msgstr "Forzar inspección (mod)"
+msgstr "Forzar inspección"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.4
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.4"
@@ -209650,17 +209650,17 @@ msgstr "Inspeccionar inv."
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.40
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.40"
 msgid "Force Attack (mod)"
-msgstr "Forzar ataque (mod)"
+msgstr "Forzar ataque"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.41
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.41"
 msgid "Force Container (mod)"
-msgstr "Forzar recipiente (mod)"
+msgstr "Forzar guardado rápido"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.42
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.42"
 msgid "Force Stack (mod)"
-msgstr "Forzar montón (mod)"
+msgstr "Forzar mitad"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.43
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.43"
@@ -209766,12 +209766,12 @@ msgstr "Usar en objeto inv."
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.61
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.61"
 msgid "Map Zoom In"
-msgstr "Acercar vista mapa"
+msgstr "Acercar mapa"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.62
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.62"
 msgid "Map Zoom Out"
-msgstr "Alejar vista mapa"
+msgstr "Alejar mapa"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.63
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.63"
