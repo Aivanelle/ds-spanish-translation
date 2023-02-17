@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.2.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 10650,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 10750,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -53665,22 +53665,22 @@ msgstr "Ah, los recuerdos del baño."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_9
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_9"
 msgid "Buttons that are not so cute."
-msgstr "Estos botones no son tan bonitos."
+msgstr "Esos botones no son tan bonitos."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_GIFTSHOP_1
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_GIFTSHOP_1"
 msgid "A centerpiece?"
-msgstr ""
+msgstr "¿Un centro de mesa?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_GIFTSHOP_3
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_GIFTSHOP_3"
 msgid "Perhaps it can be used as a placemat."
-msgstr ""
+msgstr "Tal vez pueda usarse como mantel."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_GIFTSHOP_4
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_GIFTSHOP_4"
 msgid "Is this really so precious?"
-msgstr ""
+msgstr "¿Tanto valor tiene?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICALBOUILLABAISSE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICALBOUILLABAISSE"
@@ -53690,7 +53690,7 @@ msgstr "¡Qué plato tan decadente!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICALFAN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICALFAN"
 msgid "Like a cool ocean breeze."
-msgstr "Como una brisa fresca oceánica."
+msgstr "Como una brisa fresca de mar."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICAL_FISH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICAL_FISH"
@@ -53700,7 +53700,7 @@ msgstr "¡La pesca del día!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNKVEST_SUMMER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNKVEST_SUMMER"
 msgid "Fashionably refreshing."
-msgstr "Refrescantemente moderno."
+msgstr "Refrescante y a la moda."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNKVEST_WINTER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNKVEST_WINTER"
@@ -53710,12 +53710,12 @@ msgstr "Caliente y a la moda."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_COOKED"
 msgid "Could use... Hm... I'm stumped..."
-msgstr "Le hace falta... hmm... estoy perplejo."
+msgstr "Le hace falta... mmm... estoy perplejo..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_SUMMER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_SUMMER"
 msgid "This meat has a gamey odor."
-msgstr "Esta carne tiene un olor fuerte."
+msgstr "Carne con un olor muy fuerte."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_WINTER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_WINTER"
@@ -53725,32 +53725,32 @@ msgstr "No es el mejor trozo de carne."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUSTY_SHOOTER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUSTY_SHOOTER"
 msgid "An easy way to get some bird meat."
-msgstr ""
+msgstr "Una forma fácil de conseguir carne de ave."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBERTREE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBERTREE"
 msgid "I do like tubers."
-msgstr ""
+msgstr "Los tubérculos me gustan."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_BLOOM_CROP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_BLOOM_CROP"
 msgid "The perfect ripeness."
-msgstr ""
+msgstr "Maduro a la perfección."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_BLOOM_CROP_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_BLOOM_CROP_COOKED"
 msgid "Something I just whipped up."
-msgstr ""
+msgstr "Eso solo algo que acabo de improvisar."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_CROP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_CROP"
 msgid "Ah. It is not ripe yet."
-msgstr ""
+msgstr "Ah. Aún está verde."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_CROP_COOKED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TUBER_CROP_COOKED"
 msgid "Not my best work."
-msgstr ""
+msgstr "No es mi mejor obra."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TUMBLEWEED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TUMBLEWEED"
@@ -53760,227 +53760,227 @@ msgstr "¿Qué secretos escondes?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TUNACAN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TUNACAN"
 msgid "Tuna, packed in oil!"
-msgstr "¡Atún envasado en aceite!"
+msgstr "¡Atún enlatado en aceite!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURBINE_BLADES
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURBINE_BLADES"
 msgid "Could work in a food processor."
-msgstr "Podrían valer en un procesador de alimentos."
+msgstr "Podrían usarse en un procesador de alimentos."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ASH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ASH"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BADLANDS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BADLANDS"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BEACH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BEACH"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BEARD_HAIR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BEARD_HAIR"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CARPETFLOOR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CARPETFLOOR"
 msgid "Make fists with your toes..."
-msgstr "Convierte los dedos de los pies en puños..."
+msgstr "Juntar los dedos de los pies..."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CAVE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CAVE"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CHECKERFLOOR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CHECKERFLOOR"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_COBBLEROAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_COBBLEROAD"
 msgid "It's like an ingredient for the road."
-msgstr ""
+msgstr "Es como un ingrediente para caminos."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DECIDUOUS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DECIDUOUS"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DEEPRAINFOREST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DEEPRAINFOREST"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DEEPRAINFOREST_NOCANOPY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DEEPRAINFOREST_NOCANOPY"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DESERTDIRT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DESERTDIRT"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DIRT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DIRT"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FIELDS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FIELDS"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FOREST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FOREST"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FOUNDATION
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FOUNDATION"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS_GREEN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS_GREEN"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS_RED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS_RED"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_GASJUNGLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_GASJUNGLE"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_GRASS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_GRASS"
 msgid "Will I need to cut this?"
-msgstr "¿Tendré que cortarlo?"
+msgstr "¿Tendré que podarlo?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_JUNGLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_JUNGLE"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_LAWN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_LAWN"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MAGMAFIELD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MAGMAFIELD"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MARSH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MARSH"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MEADOW
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MEADOW"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MOSS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MOSS"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MUD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MUD"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_PAINTED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_PAINTED"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_PIGRUINS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_PIGRUINS"
 msgid "It's like an ingredient for the ruins."
-msgstr ""
+msgstr "Es como un ingrediente de las ruinas."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_PLAINS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_PLAINS"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_RAINFOREST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_RAINFOREST"
 msgid "It's like an ingredient for the ground."
-msgstr ""
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ROAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ROAD"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ROCKY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ROCKY"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SANDY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SANDY"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SAVANNA
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SAVANNA"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SINKHOLE"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SNAKESKINFLOOR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SNAKESKINFLOOR"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SWAMP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SWAMP"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_TIDALMARSH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_TIDALMARSH"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_UNDERROCK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_UNDERROCK"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_VOLCANO
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_VOLCANO"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_WOODFLOOR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_WOODFLOOR"
 msgid "It's like an ingredient for the ground."
-msgstr "Es como un ingrediente para el suelo."
+msgstr "Es como un ingrediente del suelo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TURKEYDINNER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TURKEYDINNER"
@@ -54000,17 +54000,17 @@ msgstr "¡La licuadora de la naturaleza!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TWISTER_SEAL
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TWISTER_SEAL"
 msgid "I bet it's delicious, but I just don't have the heart to find out."
-msgstr "Seguro que es delicioso, pero no tengo ganas de averiguarlo."
+msgstr "Seguro que es deliciosa, pero no tengo ganas de averiguarlo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.UMBRELLA"
 msgid "I will try to remember not to open indoors."
-msgstr "Trataré de acordarme de no abrirlo dentro de casa."
+msgstr "Intentaré recordar no abrirlo en interiores."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.UNAGI
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.UNAGI"
 msgid "More like \"umami\"! Ooooh, mommy!"
-msgstr "¡Más bien \"umami\"! ¡Ooooh, mami!"
+msgstr "¡Más bien \"umami\"! ¡Oh, mami!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.UNIMPLEMENTED"
@@ -54020,27 +54020,27 @@ msgstr "Parece sin terminar."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBAT.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBAT.DEAD"
 msgid "It has met its untimely end."
-msgstr ""
+msgstr "Ha llegado al final de su camino."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBAT.GENERIC"
 msgid "I assure you, I taste horrible!"
-msgstr ""
+msgstr "¡Te aseguro que sé horrible!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBAT.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBAT.SLEEPING"
 msgid "Peaceful for now."
-msgstr ""
+msgstr "Paz por ahora."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBATCAVE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIREBATCAVE"
 msgid "Not the best place to hide, I think."
-msgstr ""
+msgstr "No es el mejor sitio para esconderse."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIRE_BAT_WING
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VAMPIRE_BAT_WING"
 msgid "Hmmm, maybe a soup stock of batwings?"
-msgstr ""
+msgstr "Mmm, ¿quizá una sopa de alas de murciélago?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VENOMGLAND
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VENOMGLAND"
@@ -54050,7 +54050,7 @@ msgstr "¡El peor tipo de glándula!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VENUS_STALK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VENUS_STALK"
 msgid "Possesses a flavor reminiscent of artichoke hearts."
-msgstr ""
+msgstr "Su sabor me recuerda a la alcachofa."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VINE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VINE"
@@ -54065,7 +54065,7 @@ msgstr "Oh, esto se pone cada vez mejor..."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANOSTAFF
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANOSTAFF"
 msgid "One must be careful with this."
-msgstr "Uno debe tener cuidado con esto."
+msgstr "Uno debe tener cuidado con eso."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_ALTAR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_ALTAR.GENERIC"
@@ -54090,27 +54090,27 @@ msgstr "¡Mon dieu!"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_EXIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_EXIT"
 msgid "I will not let the door hit me on the way out!"
-msgstr "¡No dejaré que la puerta me golpee al salir!"
+msgstr "¡Me iré ahora mismo de aquí!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_SHRUB
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_SHRUB"
 msgid "I wonder what it used to be?"
-msgstr "Me pregunto qué solía ser esto."
+msgstr "Me pregunto qué solía ser eso."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAFFLES
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAFFLES"
 msgid "Oh, brunch, I have missed you so!"
-msgstr "¡Oh, brunch, cómo te he echado de menos!"
+msgstr "¡Oh, brunch, te extrañé mucho!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALKINGSTICK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALKINGSTICK"
 msgid "I'm out to forage!"
-msgstr ""
+msgstr "¡Para buscar comida!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALLCRACK_RUINS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALLCRACK_RUINS"
 msgid "It would not pass health inspection."
-msgstr ""
+msgstr "No pasaría una inspección de sanidad."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALLYINTRO_DEBRIS
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALLYINTRO_DEBRIS"
@@ -54120,12 +54120,12 @@ msgstr "Esto deja un mal sabor de boca..."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_ENFORCEDLIMESTONE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_ENFORCEDLIMESTONE"
 msgid "Good and strong."
-msgstr "Buena y fuerte."
+msgstr "Bueno y robusto."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_ENFORCEDLIMESTONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_ENFORCEDLIMESTONE_ITEM"
 msgid "I could probably place this at sea without issue."
-msgstr "Probablemente podría ponerla en el mar sin ningún problema."
+msgstr "Podría ponerlo en el mar sin ningún problema."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY.BURNT"
@@ -54140,12 +54140,12 @@ msgstr "Llamarlo \"muro\" es exagerar un poco."
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY_ITEM"
 msgid "Hay look, a wall!"
-msgstr "¡Un muro de heno, qué bueno!"
+msgstr "¡Un \"muro\"!"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_LIMESTONE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_LIMESTONE"
 msgid "Zesty wall."
-msgstr "Muro vigoroso."
+msgstr "Un muro robusto."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_LIMESTONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_LIMESTONE_ITEM"
