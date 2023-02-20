@@ -327,3 +327,18 @@ STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOO_HUMID_ES =
         PLURAL = {"La cosa está que arde con estas %s.", "¡Fiu! Estas %s son muy calurosas, ¿eh?"}
     }
 }
+
+STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID_ES =
+{
+    MALE =
+    {
+        SINGULAR = {"¡Mon dieu! Este %s está húmedo.", "Fiu. Este %s me cocina vivo."},
+        PLURAL = {"¡Mon dieu! Estos %s están húmedos.", "Fiu. Estos %s me cocinan vivo."}
+    },
+    
+    FEMALE =
+    {
+        SINGULAR = {"¡Mon dieu! Esta %s está húmeda.", "Fiu. Esta %s me cocina vivo."},
+        PLURAL = {"¡Mon dieu! Estas %s están húmedas.", "Fiu. Estas %s me cocinan vivo."}
+    }
+}
