@@ -76112,7 +76112,7 @@ msgstr "¡Guau! ¡Es un gran robot!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_REMNANT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_REMNANT"
 msgid "Kinda like a security blanket. But also kinda scary."
-msgstr ""
+msgstr "Como una mantita de seguridad, pero que da miedo."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_ROBOTS_ASSEMBLY
 #, fuzzy
@@ -76295,7 +76295,7 @@ msgstr "¡Somos una araña gigante! ¡Con un caparazón!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORVORTEXCLOAK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORVORTEXCLOAK"
 msgid "Wow. There's a lot of space in there!"
-msgstr ""
+msgstr "Guau. ¡Tiene mucho espacio!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORWOOD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORWOOD"
