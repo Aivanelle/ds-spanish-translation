@@ -214827,17 +214827,17 @@ msgstr "Cerrar"
 #. STRINGS.UI.OPTIONS.DEFAULT
 msgctxt "STRINGS.UI.OPTIONS.DEFAULT"
 msgid "Default"
-msgstr ""
+msgstr "Por defecto"
 
 #. STRINGS.UI.OPTIONS.DIM
 msgctxt "STRINGS.UI.OPTIONS.DIM"
 msgid "Dim"
-msgstr ""
+msgstr "Tenues"
 
 #. STRINGS.UI.OPTIONS.DIMMEST
 msgctxt "STRINGS.UI.OPTIONS.DIMMEST"
 msgid "Dimmest"
-msgstr ""
+msgstr "Muy tenues"
 
 #. STRINGS.UI.OPTIONS.DISABLED
 msgctxt "STRINGS.UI.OPTIONS.DISABLED"
