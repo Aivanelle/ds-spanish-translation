@@ -208989,7 +208989,7 @@ msgstr "Mantén fresquitos los alimentos."
 #. STRINGS.RECIPE_DESC.SPIDEREGGSACK
 msgctxt "STRINGS.RECIPE_DESC.SPIDEREGGSACK"
 msgid "Get a little help from your friends."
-msgstr ""
+msgstr "Consigue algo de ayuda de tus amigas."
 
 #. STRINGS.RECIPE_DESC.SPIDERHAT
 msgctxt "STRINGS.RECIPE_DESC.SPIDERHAT"
