@@ -215134,7 +215134,7 @@ msgstr "¡Saliendo!"
 #. STRINGS.UI.RESETCAVE.BODY
 msgctxt "STRINGS.UI.RESETCAVE.BODY"
 msgid "Are you sure you want to make a new cave here?"
-msgstr "¿Seguro que quieres hacer una cueva nueva aquí?"
+msgstr "¿Quieres generar una nueva cueva aquí?"
 
 #. STRINGS.UI.RESETCAVE.NO
 msgctxt "STRINGS.UI.RESETCAVE.NO"
