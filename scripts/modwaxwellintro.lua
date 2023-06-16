@@ -56,7 +56,7 @@ local function modMaxwellIntro(prefab)
 	prefab.components.maxwelltalker.speeches.ADVENTURE_4 =
 	{		
 		delay = 2,
-	    voice = "dontstarve/maxwell/talk_LP_world4",
+	  voice = "dontstarve/maxwell/talk_LP_world4",
 		appearanim = "appear4",
 		idleanim= "idle4_loop",
 		dialogpreanim = "dialog4_pre",
@@ -88,7 +88,7 @@ local function modMaxwellIntro(prefab)
 	prefab.components.maxwelltalker.speeches.ADVENTURE_TWOLANDS =
 	{		
 		delay = 2,
-	    voice = "dontstarve/maxwell/talk_LP_world4",
+	  voice = "dontstarve/maxwell/talk_LP_world4",
 		appearanim = "appear4",
 		idleanim= "idle4_loop",
 		dialogpreanim = "dialog4_pre",
