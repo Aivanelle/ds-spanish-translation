@@ -17,7 +17,7 @@ STRINGS.WET_PREFIX.MALE =
 		FUEL = "mojados",
 		GENERIC = "húmedos",
 
-        BLUEPRINT = "Planos húmedos"
+    BLUEPRINT = "Planos húmedos"
 	},
 
 	WITHERED = "marchito",
@@ -84,21 +84,21 @@ STRINGS.UI.HUD.FEMALE =
 
 STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES =
 {
-    "Predeterminado",
-    "Predeterminado +",
-    "Luces fuera"
+  "Predeterminado",
+  "Predeterminado +",
+  "Luces fuera"
 }
 
 STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES =
 {
-    "La experiencia estándar de Don't Starve.",
-    "Un inicio más rápido en un mundo más duro.",
-    "Un toque oscuro a la experiencia estándar de Don't Starve."
+  "La experiencia estándar de Don't Starve.",
+  "Un inicio más rápido en un mundo más duro.",
+  "Un toque oscuro a la experiencia estándar de Don't Starve."
 }
 
 STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES =
 {
-    "¿Un paraíso tropical?"
+  "¿Un paraíso tropical?"
 }
 
 STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES = "Activar"
@@ -117,27 +117,27 @@ STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
 
 STRINGS.CHARACTERS.WOLFGANG.EPITAPHS =
 {
-    "Lápida estar en blanco.",
-    "¿Eh? ¡Ese ser nombre de Wolfgang!",
-    "Solo haber \"W\" grabada.",
-    "Wolfgang no saber leer muy bien.",
-    "Palabras ser difíciles para Wolfgang.",
-    "Leer ser para hombrecitos enclenques.",
-    "¿Quién escribir esas palabras?",
-    "Wolfgang querer escribir algo también.",
-    "Wolfgang no querer leer ahora mismo.",
-    "¡Palabras de Wolfgang ser más fuertes!",
-    "Palabras grabadas decir \"Oh, oh\".",
-    "¿Wolfgang también escribir palabras en lápida?",
-    "Epitafio estar agrietado.",
-    "¡Wolfgang ser recordado como El Poderoso Wolfgang!",
-    "¿Wolfgang también morir algún día?",
-    "¡Wolfgang querer aplastar palabras!",
-    "Wolgang no saber leer.",
-    "¡Músculos de Wolfgang nunca morir!",
-    "Por eso Wolfgang siempre ser cuidadoso.",
-    "Estar cubierta de bonito musgo.",
-    "Músculos de Wolfgang nunca ser enterrados."
+  "Lápida estar en blanco.",
+  "¿Eh? ¡Ese ser nombre de Wolfgang!",
+  "Solo haber \"W\" grabada.",
+  "Wolfgang no saber leer muy bien.",
+  "Palabras ser difíciles para Wolfgang.",
+  "Leer ser para hombrecitos enclenques.",
+  "¿Quién escribir esas palabras?",
+  "Wolfgang querer escribir algo también.",
+  "Wolfgang no querer leer ahora mismo.",
+  "¡Palabras de Wolfgang ser más fuertes!",
+  "Palabras grabadas decir \"Oh, oh\".",
+  "¿Wolfgang también escribir palabras en lápida?",
+  "Epitafio estar agrietado.",
+  "¡Wolfgang ser recordado como El Poderoso Wolfgang!",
+  "¿Wolfgang también morir algún día?",
+  "¡Wolfgang querer aplastar palabras!",
+  "Wolgang no saber leer.",
+  "¡Músculos de Wolfgang nunca morir!",
+  "Por eso Wolfgang siempre ser cuidadoso.",
+  "Estar cubierta de bonito musgo.",
+  "Músculos de Wolfgang nunca ser enterrados."
 }
 
 -- Hamlet fog strings
@@ -293,45 +293,45 @@ STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID_ES =
 
 STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID_ES =
 {
-    MALE =
-    {
-        SINGULAR = {"Wolfgang odiar llevar este %s con tanto calor.", "Este %s ser muy sofocante."},
-        PLURAL = {"Wolfgang odiar llevar estos %s con tanto calor.", "Estos %s ser muy sofocantes."}
-    },
+  MALE =
+  {
+    SINGULAR = {"Wolfgang odiar llevar este %s con tanto calor.", "Este %s ser muy sofocante."},
+    PLURAL = {"Wolfgang odiar llevar estos %s con tanto calor.", "Estos %s ser muy sofocantes."}
+  },
 
-    FEMALE =
-    {
-        SINGULAR = {"Wolfgang odiar llevar esta %s con tanto calor.", "Esta %s ser muy sofocante."},
-        PLURAL = {"Wolfgang odiar llevar estas %s con tanto calor.", "Estas %s ser muy sofocantes."}
-    }
+  FEMALE =
+  {
+    SINGULAR = {"Wolfgang odiar llevar esta %s con tanto calor.", "Esta %s ser muy sofocante."},
+    PLURAL = {"Wolfgang odiar llevar estas %s con tanto calor.", "Estas %s ser muy sofocantes."}
+  }
 }
 
 STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOO_HUMID_ES =
 {
-    MALE =
-    {
-        SINGULAR = {"La cosa está que arde con este %s.", "¡Fiu! Este %s es muy caluroso, ¿eh?"},
-        PLURAL = {"La cosa está que arde con estos %s.", "¡Fiu! Estos %s son muy calurosos, ¿eh?"}
-    },
+  MALE =
+  {
+    SINGULAR = {"La cosa está que arde con este %s.", "¡Fiu! Este %s es muy caluroso, ¿eh?"},
+    PLURAL = {"La cosa está que arde con estos %s.", "¡Fiu! Estos %s son muy calurosos, ¿eh?"}
+  },
 
-    FEMALE =
-    {
-        SINGULAR = {"La cosa está que arde con esta %s.", "¡Fiu! Esta %s es muy calurosa, ¿eh?"},
-        PLURAL = {"La cosa está que arde con estas %s.", "¡Fiu! Estas %s son muy calurosas, ¿eh?"}
-    }
+  FEMALE =
+  {
+    SINGULAR = {"La cosa está que arde con esta %s.", "¡Fiu! Esta %s es muy calurosa, ¿eh?"},
+    PLURAL = {"La cosa está que arde con estas %s.", "¡Fiu! Estas %s son muy calurosas, ¿eh?"}
+  }
 }
 
 STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID_ES =
 {
-    MALE =
-    {
-        SINGULAR = {"¡Mon dieu! Este %s está húmedo.", "Fiu. Este %s me cocina vivo."},
-        PLURAL = {"¡Mon dieu! Estos %s están húmedos.", "Fiu. Estos %s me cocinan vivo."}
-    },
+  MALE =
+  {
+    SINGULAR = {"¡Mon dieu! Este %s está húmedo.", "Fiu. Este %s me cocina vivo."},
+    PLURAL = {"¡Mon dieu! Estos %s están húmedos.", "Fiu. Estos %s me cocinan vivo."}
+  },
     
-    FEMALE =
-    {
-        SINGULAR = {"¡Mon dieu! Esta %s está húmeda.", "Fiu. Esta %s me cocina vivo."},
-        PLURAL = {"¡Mon dieu! Estas %s están húmedas.", "Fiu. Estas %s me cocinan vivo."}
-    }
+  FEMALE =
+  {
+    SINGULAR = {"¡Mon dieu! Esta %s está húmeda.", "Fiu. Esta %s me cocina vivo."},
+    PLURAL = {"¡Mon dieu! Estas %s están húmedas.", "Fiu. Estas %s me cocinan vivo."}
+  }
 }
