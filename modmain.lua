@@ -6,15 +6,15 @@ modimport("scripts/spanishstrings.lua")
 -- Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in the po file do nothing.
 -- Translated strings in po files have been deleted just to not have to make any change twice, here in the lua files and there in the po files.
 for i = 1, 3 do
-    STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES[i]
-    STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES[i]
+  STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES[i]
+  STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES[i]
 end
 
 local IsDLCEnabled = _G.IsDLCEnabled
 local CAPY_DLC = _G.CAPY_DLC
 
 if IsDLCEnabled(CAPY_DLC) then
-    STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
+  STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
 end
 ---------------------------------------------------------------
 
@@ -111,12 +111,12 @@ local function modPostInit(player)
   importStrings()
 
   if player.prefab == "wormwood" then
-        setWormwoodFont()
+    setWormwoodFont()
   elseif player.prefab == "webber" then
-        translateWebberStrings()
-    elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
-        modimport("scripts/craftmonkeystring.lua")
-    end
+    translateWebberStrings()
+  elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
+    modimport("scripts/craftmonkeystring.lua")
+  end
 end
 
 
@@ -127,10 +127,10 @@ local function modAdventureTeleportato(prefab)
 end
 
 local function modEpitaphs(prefab)
-    if GetPlayer().prefab == "wolfgang" then
-        local wolfgangEpitaphs = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
-        prefab.components.inspectable:SetDescription(wolfgangEpitaphs[math.random(#wolfgangEpitaphs)])
-    end
+  if GetPlayer().prefab == "wolfgang" then
+    local wolfgangEpitaphs = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
+    prefab.components.inspectable:SetDescription(wolfgangEpitaphs[math.random(#wolfgangEpitaphs)])
+  end
 end
 
 local function setNoWetPrefix(prefab)
