@@ -18,12 +18,6 @@ if IsDLCEnabled(CAPY_DLC) then
 end
 ---------------------------------------------------------------
 
-STRINGS.UI.OPTIONS.DEFAULT = STRINGS.UI.OPTIONS.DEFAULT_ES
-STRINGS.UI.OPTIONS.DIM = STRINGS.UI.OPTIONS.DIM_ES
-STRINGS.UI.OPTIONS.DIMMEST = STRINGS.UI.OPTIONS.DIMMEST_ES
-STRINGS.UI.OPTIONS.ENABLED = STRINGS.UI.OPTIONS.ENABLED_ES
-STRINGS.UI.OPTIONS.DISABLED = STRINGS.UI.OPTIONS.DISABLED_ES
-
 local translationFile = GetModConfigData("translationFile")
 
 if translationFile == "ES" then
@@ -35,7 +29,6 @@ else
 end
 
 -- Characters not added to any gender table.
-table.insert(_G.CHARACTER_GENDERS.FEMALE, "wilba")
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
 _G.Set = function(list)
@@ -83,7 +76,6 @@ local function setWormwoodFont()
 end
 
 local function translateWebberStrings()
-	STRINGS.RECIPE_DESC.SPIDEREGGSACK = STRINGS.RECIPE_DESC.SPIDEREGGSACK_ES
 	STRINGS.UI.GENDERSTRINGS.ROBOT.ONE = STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
 	STRINGS.UI.ENDGAME.BODY2 = STRINGS.UI.ENDGAME.BODY2_ES
 end
@@ -134,12 +126,6 @@ local function modAdventureTeleportato(prefab)
 	end
 end
 
-local function modFishinhole(prefab)
-	if prefab.components.inspectable.nameoverride then
-		prefab.components.inspectable.nameoverride = nil
-	end
-end
-
 local function modEpitaphs(prefab)
     if GetPlayer().prefab == "wolfgang" then
         local wolfgangEpitaphs = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
@@ -154,7 +140,6 @@ end
 AddSimPostInit(modPostInit)
 
 AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
-AddPrefabPostInit("fishinhole", modFishinhole)
 AddPrefabPostInit("inventorygrave", modEpitaphs)
 AddPrefabPostInit("gravestone", modEpitaphs)
 

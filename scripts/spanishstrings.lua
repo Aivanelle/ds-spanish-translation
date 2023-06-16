@@ -103,13 +103,6 @@ STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES =
 
 STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES = "Activar"
 
-STRINGS.UI.OPTIONS.DEFAULT_ES = "Por defecto"
-STRINGS.UI.OPTIONS.DIM_ES = "Tenues"
-STRINGS.UI.OPTIONS.DIMMEST_ES = "Muy tenues"
-STRINGS.UI.OPTIONS.ENABLED_ES = "Habilitado"
-STRINGS.UI.OPTIONS.DISABLED_ES = "Deshabilitado"
-
-STRINGS.RECIPE_DESC.SPIDEREGGSACK_ES = "Consigue algo de ayuda de tus amigas."
 STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES = "sus"
 STRINGS.UI.ENDGAME.BODY2_ES = " de escapar?\nQuizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\nLos seres misteriosos que controlan este lugar todavía están al acecho en las sombras y pronto revelarán nuevos desafíos.\n\nHasta entonces,\n- El equipo de Don't Starve -"
 

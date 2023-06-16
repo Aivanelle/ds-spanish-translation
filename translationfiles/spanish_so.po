@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 31453,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 36914,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -23,6 +23,11 @@ msgstr "Dar cuerda"
 msgctxt "STRINGS.ACTIONS.ACTIVATE.CLIMB"
 msgid "Climb"
 msgstr "Escalar"
+
+#. STRINGS.ACTIONS.ACTIVATE.CLOSE
+msgctxt "STRINGS.ACTIONS.ACTIVATE.CLOSE"
+msgid "Close"
+msgstr "Cerrar"
 
 #. STRINGS.ACTIONS.ACTIVATE.DESCEND
 msgctxt "STRINGS.ACTIONS.ACTIVATE.DESCEND"
@@ -39,6 +44,11 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.INVESTIGATE"
 msgid "Investigate"
 msgstr "Investigar"
 
+#. STRINGS.ACTIONS.ACTIVATE.OPEN
+msgctxt "STRINGS.ACTIONS.ACTIVATE.OPEN"
+msgid "Open"
+msgstr "Abrir"
+
 #. STRINGS.ACTIONS.ACTIVATE.SAND
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SAND"
 msgid "Destroy"
@@ -49,15 +59,25 @@ msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
 msgstr "Hacer espeleísmo"
 
-#. STRINGS.ACTIONS.ADDFUEL
-msgctxt "STRINGS.ACTIONS.ADDFUEL"
+#. STRINGS.ACTIONS.ADDFUEL.GENERIC
+msgctxt "STRINGS.ACTIONS.ADDFUEL.GENERIC"
 msgid "Add Fuel"
 msgstr "Añadir combustible"
 
-#. STRINGS.ACTIONS.ADDWETFUEL
-msgctxt "STRINGS.ACTIONS.ADDWETFUEL"
+#. STRINGS.ACTIONS.ADDFUEL.REPAIR
+msgctxt "STRINGS.ACTIONS.ADDFUEL.REPAIR"
+msgid "Repair"
+msgstr "Reparar"
+
+#. STRINGS.ACTIONS.ADDWETFUEL.GENERIC
+msgctxt "STRINGS.ACTIONS.ADDWETFUEL.GENERIC"
 msgid "Add Wet Fuel"
 msgstr "Añadir combustible húmedo"
+
+#. STRINGS.ACTIONS.ADDWETFUEL.REPAIR
+msgctxt "STRINGS.ACTIONS.ADDWETFUEL.REPAIR"
+msgid "Repair"
+msgstr "Reparar"
 
 #. STRINGS.ACTIONS.ATTACK.GENERIC
 msgctxt "STRINGS.ACTIONS.ATTACK.GENERIC"
@@ -174,6 +194,16 @@ msgctxt "STRINGS.ACTIONS.DEMOLISH_ROOM"
 msgid "Demolish Room"
 msgstr "Demoler habitación"
 
+#. STRINGS.ACTIONS.DEPLOY.FENCE
+msgctxt "STRINGS.ACTIONS.DEPLOY.FENCE"
+msgid "Build Fence"
+msgstr "Construir valla"
+
+#. STRINGS.ACTIONS.DEPLOY.GATE
+msgctxt "STRINGS.ACTIONS.DEPLOY.GATE"
+msgid "Build Gate"
+msgstr "Construir puerta"
+
 #. STRINGS.ACTIONS.DEPLOY.GENERIC
 msgctxt "STRINGS.ACTIONS.DEPLOY.GENERIC"
 msgid "Plant"
@@ -260,7 +290,6 @@ msgid "Set Trap"
 msgstr "Colocar trampa"
 
 #. STRINGS.ACTIONS.DRY
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.DRY"
 msgid "Dry"
 msgstr "Secar"
@@ -356,7 +385,6 @@ msgid "Go Home"
 msgstr "Irse a casa"
 
 #. STRINGS.ACTIONS.HACK
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.HACK"
 msgid "Hack"
 msgstr "Tajar"
@@ -382,7 +410,6 @@ msgid "Investigate"
 msgstr "Investigar"
 
 #. STRINGS.ACTIONS.JUMPIN.ENTER
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.JUMPIN.ENTER"
 msgid "Enter"
 msgstr "Entrar"
@@ -423,7 +450,6 @@ msgid "Inflate"
 msgstr "Inflar"
 
 #. STRINGS.ACTIONS.MANUALEXTINGUISH
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.MANUALEXTINGUISH"
 msgid "Extinguish"
 msgstr "Extinguir"
@@ -520,7 +546,6 @@ msgid "Light"
 msgstr "Encender"
 
 #. STRINGS.ACTIONS.RANGEDSMOTHER
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.RANGEDSMOTHER"
 msgid "Extinguish"
 msgstr "Extinguir"
@@ -677,7 +702,6 @@ msgid "Sleep"
 msgstr "Dormir en"
 
 #. STRINGS.ACTIONS.SMOTHER
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.SMOTHER"
 msgid "Extinguish"
 msgstr "Extinguir"
@@ -747,6 +771,16 @@ msgctxt "STRINGS.ACTIONS.TOGGLEON"
 msgid "Turn On"
 msgstr "Encender"
 
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.FENCE
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.FENCE"
+msgid "Build Fence"
+msgstr "Construir valla"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GATE
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GATE"
+msgid "Build Gate"
+msgstr "Construir puerta"
+
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC"
 msgid "Plant"
@@ -788,7 +822,6 @@ msgid "Turn On"
 msgstr "Encender"
 
 #. STRINGS.ACTIONS.UNEQUIP.GENERIC
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.UNEQUIP.GENERIC"
 msgid "Unequip"
 msgstr "Desequipar"
@@ -3515,8 +3548,8 @@ msgstr "¡Nunca dejes de aprender!"
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ROOM_STUCK
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ROOM_STUCK"
-msgid "If I did that, I be stuck here forever."
-msgstr "Si hago eso, estaré atrapado aquí para siempre."
+msgid "If I did that, I'd be stuck here forever."
+msgstr "Si hago eso, me quedo atrapado aquí por siempre."
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHARX
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SHARX"
@@ -3884,6 +3917,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANTLER"
 msgid "For the bird."
 msgstr "Para el pájaro."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANTLER_CORRUPTED"
+msgid "This should scare off that big bird."
+msgstr "Eso debería asustar a ese gran pájaro."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANTMAN.DEAD"
 msgid "Exterminated."
@@ -4004,6 +4042,11 @@ msgstr "¡Jaja! ¡Tomen eso pesadillas!"
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMORWOOD"
 msgid "That is a perfectly reasonable piece of clothing."
 msgstr "Esta es una prenda de vestir perfectamente razonable."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_BRAMBLE"
+msgid "The best offense is a good defense."
+msgstr "La mejor ofensa es una buena defensa."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_LIFEJACKET"
@@ -4642,6 +4685,36 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESTEW"
 msgid "A stew to put some meat on my bones."
 msgstr "Un guiso para meter algo de carne en mis huesos."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BIRDS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BIRDS"
+msgid "No point studying when I can just wing it."
+msgstr "Prefiero improvisar antes que estudiar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BRIMSTONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BRIMSTONE"
+msgid "The beginning was dull, but got better near the end."
+msgstr "Al principio es aburrido, pero mejora al final."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_GARDENING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_GARDENING"
+msgid "I see no farm in reading that."
+msgstr "No veo ninguna granja después de leerlo."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_METEOR"
+msgid "The foreword just says \"hope you like dragoons.\""
+msgstr "El prólogo sólo dice \"espero que te gusten los dragones\"."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SLEEP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SLEEP"
+msgid "Strange, it's just 500 pages of telegraph codes."
+msgstr "Qué raro, son solo 500 páginas de códigos telegráficos."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TENTACLES
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TENTACLES"
+msgid "Someone'll get suckered into reading this."
+msgstr "Alguien será atrapado por su lectura."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG"
 msgid "Aerodynamical!"
@@ -4962,6 +5035,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_FERN"
 msgid "It's a fern."
 msgstr "Es un helecho."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_REGENERATOR"
+msgid "I feel a strangely magnetic pull towards the cave entrance."
+msgstr "Siento una extraña atracción magnética hacia una cueva."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVIAR"
 msgid "I never had it before I came here."
@@ -5241,6 +5319,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPOSTWRAP"
+msgid "Respectfully, I'd rather eat dirt."
+msgstr "Con todo respeto, preferiría comer tierra."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -6779,8 +6862,8 @@ msgstr "Elimina todo el hedor."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GASMASKHAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GASMASKHAT"
-msgid "Now I can breath anywhere."
-msgstr "Con esto puedo respirar donde sea."
+msgid "Now I can breathe anywhere."
+msgstr "Con eso podré respirar donde sea."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.GEARS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GEARS"
@@ -8171,6 +8254,11 @@ msgstr "Sabe un poco fuerte, pero servirá."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEATBALLS"
 msgid "I cooked it myself!"
 msgstr "¡Lo he cocinado yo mismo!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEATED_NETTLE"
+msgid "Improved with scientific meat-wrapping technology."
+msgstr "Mejorada con la técnica infalible de agregar carne."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MEATRACK.BURNT"
@@ -9747,6 +9835,11 @@ msgstr "La ciencia indica que siempre está hambriento."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POG.SLEEPING"
 msgid "I'll let it rest."
 msgstr "Lo dejaré descansar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POISONBALM"
+msgid "I do love not being poisoned."
+msgstr "Me encanta no estar envenenado."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POISONCROCODOG"
@@ -11361,6 +11454,11 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPEAR_POISON"
 msgid "Now it's extra deadly."
 msgstr "Ahora es aún más letal."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPEAR_WATHGRITHR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPEAR_WATHGRITHR"
+msgid "It feels very stabby."
+msgstr "Parece muy punzante."
+
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPICYVEGSTINGER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPICYVEGSTINGER"
 msgid "Can you use the celery as a straw?"
@@ -12171,6 +12269,11 @@ msgstr "Está zumbando de electricidad."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRAP"
 msgid "I wove it real tight."
 msgstr "La he tejido firmemente."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRAP_BRAMBLE"
+msgid "It'd really poke whoever stepped on it."
+msgstr "Realmente hiere a quien ose pisarla."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRAP_TEETH"
@@ -12988,6 +13091,11 @@ msgstr "Semillas de sandía."
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATERYGRAVE"
 msgid "Sure, I could fish it out of there. But should I?"
 msgstr "Sí, podría pescar ahí fuera. Pero, ¿debería?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHRHAT"
+msgid "Pretty fancy hat, that."
+msgstr "Es un casco muy bonito."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.WAXPAPER"
@@ -14299,6 +14407,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ANTLER"
 msgid "A bird whistle that appears to call an exceedingly large bird."
 msgstr "Un silbato para aves que parece atraer a una muy gigante."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ANTLER_CORRUPTED"
+msgid "This model appears to deter the exceedingly large bird."
+msgstr "Un modelo que parece disuadir al ave excesivamente grande."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ANTMAN.DEAD"
 msgid "I wonder if they have funeral rites."
@@ -14423,6 +14536,11 @@ msgstr "¡Espléndido! ¡Revolucionario! ¡Puedo notar sus efectos!"
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMORWOOD"
 msgid "I can study my attackers more closely with this rudimentary armor."
 msgstr "Puedo estudiar a mis adversarios más de cerca con tal armadura."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_BRAMBLE"
+msgid "Brambles woven into a makeshift piece of armor."
+msgstr "Zarzas tejidas en una armadura improvisada."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.ARMOR_LIFEJACKET"
@@ -15097,6 +15215,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.BOOK_GARDENING"
 msgid "Much more than a collection of facts."
 msgstr "Mucho más que una recopilación de hechos."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.BOOK_METEOR"
+msgid "Includes a formula on mastering control over volcanic eruptions."
+msgstr "Incluye la fórmula para dominar las erupciones volcánicas."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.BOOK_SLEEP"
 msgid "Is this ink imbued with dark fuel?! Fascinating!"
@@ -15454,6 +15577,13 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CAVE_FERN"
 msgid "Rudimentary plant life."
 msgstr "Una vida vegetal rudimentaria."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CAVE_REGENERATOR"
+msgid ""
+"I hypothesize it will have an interesting reaction with the caves' entrance."
+msgstr ""
+"Tengo la hipótesis de que ocurrirá algo interesante si la llevo a la entrada."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CAVIAR"
 msgid "Where did I get that glass jar? Curious..."
@@ -15741,6 +15871,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.COMPOSTWRAP"
+msgid "A bundle of assorted excrement. Charming."
+msgstr "Un montón de excrementos variados. Qué encantador."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -18743,6 +18878,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.MEATBALLS"
 msgid "These round spheres of meat should be digestible."
 msgstr "La carne esférica debería ser digerible."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.MEATED_NETTLE"
+msgid "Wrapping the fronds in meat makes them considerably more palatable."
+msgstr "Envolver las frondas en carne las hace definitivamente más sabrosas."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.MEATRACK.BURNT"
 msgid "Perhaps it was a little too dry."
@@ -20326,6 +20466,11 @@ msgstr "Teóricamente, mejorará la apariencia de mi hogar."
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.POG"
 msgid "An adorably audacious animal with an insatiable appetite!"
 msgstr "¡Un animal adorablemente audaz con un apetito insaciable!"
+
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.POISONBALM"
+msgid "I should keep this on hand, in case I find myself poisoned."
+msgstr "Debería mantener eso cerca, en caso de ser envenenado."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.POISONCROCODOG"
@@ -22796,6 +22941,11 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TRAP"
 msgid "A rudimentary invention to abduct small creatures."
 msgstr "Un invento rudimentario para abducir criaturas pequeñas."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TRAP_BRAMBLE"
+msgid "Incredible! This plant has been weaponized!"
+msgstr "¡Increíble! ¡La planta se ha convertido en un arma!"
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.TRAP_TEETH"
 msgid "How magnificently unmerciful!"
@@ -23632,6 +23782,12 @@ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WATERYGRAVE"
 msgid "The deceased won't mind if I raid their graves."
 msgstr "A los muertos les da igual que saquee sus tumbas."
 
+#. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WATHGRITHRHAT"
+msgid "Upon closer inspection, it seems to be nothing more than a stage prop."
+msgstr ""
+"Después de una inspección minuciosa, parece ser solo un accesorio escénico."
+
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WAXPAPER"
 msgid "The melding of paper and wax for the purpose of preservation."
@@ -23784,8 +23940,8 @@ msgstr "¡Intrigante! ¡Sus reverberaciones sonoras afectan el clima!"
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WINTERHAT
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WINTERHAT"
-msgid "A knitted hat constructed from silk and grass."
-msgstr "Un gorro hecho de lana y seda."
+msgid "A knitted hat constructed from silk and fur."
+msgstr "Un gorro de punto fabricado de seda y piel."
 
 #. STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WINTEROMETER.BURNT
 msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WINTEROMETER.BURNT"
@@ -24868,6 +25024,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ANTLER"
 msgid "Here birdy birdy."
 msgstr "Aquí, pajarito."
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Bye birdy birdy."
+msgstr "Adiós, pajarito."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ANTMAN.DEAD"
 msgid "That bugs me."
@@ -24989,6 +25150,11 @@ msgstr "Usa las sombras para evitarme molestias."
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMORWOOD"
 msgid "I hope the attacker doesn't have an axe."
 msgstr "Espero que el atacante no tenga un hacha."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_BRAMBLE"
+msgid "Aww, nature wants to protect me!"
+msgstr "¡Aw, la naturaleza quiere protegerme!"
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.ARMOR_LIFEJACKET"
@@ -25612,6 +25778,36 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BONESTEW"
 msgid "It looks like a pretty hearty meal."
 msgstr "Parece una comida muy contundente."
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_BIRDS
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_BIRDS"
+msgid "I think I'll just look at real birds instead."
+msgstr "Creo que mejor miraré pájaros de verdad."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_BRIMSTONE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_BRIMSTONE"
+msgid "Gnarly."
+msgstr "Vaya."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_GARDENING
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_GARDENING"
+msgid "Hmm. Sounds suspiciously like work."
+msgstr "Mmm. Suena sospechosamente a trabajo."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_METEOR"
+msgid "I've got a bad feeling about this."
+msgstr "Me da un muy mal presentimiento."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_SLEEP
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_SLEEP"
+msgid "I don't need a book to fall asleep."
+msgstr "No necesito un libro para dormir."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_TENTACLES
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOK_TENTACLES"
+msgid "You know, I think I'm okay letting those things stay a mystery."
+msgstr "Sabes, creo que prefiero que esas cosas sigan siendo un misterio."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.BOOMERANG"
 msgid "They say if you love something, you should let it go."
@@ -25922,6 +26118,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CAVE_FERN"
 msgid "Nature finds a way, even here."
 msgstr "La naturaleza haciendo de las suyas."
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CAVE_REGENERATOR"
+msgid "I wonder what would happen if I brought this to the entrance?"
+msgstr "¿Qué pasará si llevo eso a la entrada de una cueva?"
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CAVIAR"
 msgid "I made them fancy, but they're still fish eggs."
@@ -26203,6 +26404,11 @@ msgstr "Suroeste, ¿verdad?"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.COMPASS.W"
 msgid "West-ish?"
 msgstr "Yo digo que Oeste."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.COMPOSTWRAP"
+msgid "Nah, I'm good."
+msgstr "Nah, estoy bien."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -29039,6 +29245,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.MEATBALLS"
 msgid "Saucy."
 msgstr "Sabrosas."
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.MEATED_NETTLE"
+msgid "The meat helps cover the medicine smell."
+msgstr "La carne ayuda a ocultar el olor a medicina."
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.MEATRACK.BURNT"
 msgid "Your days of jerkying are over."
@@ -29342,19 +29553,18 @@ msgstr "¡Fiu! Huele muy fuerte."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.EMPTY"
-msgid "I do hope it grows back."
-msgstr "Espero que crezca de nuevo."
+msgid "It'll grow back eventually."
+msgstr "Acabará creciendo de nuevo."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.MOIST
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.MOIST"
-msgid "Ah, it's keeps moist with a marinade."
-msgstr "Se mantiene completamente húmeda."
+msgid "Water really makes it happy."
+msgstr "El agua realmente le hace bien."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.WITHERED
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.WITHERED"
-msgid "This soil is over-cooking it."
-msgstr "El suelo la está matando."
+msgid "Nah. Not the right dirt for it."
+msgstr "Nah. No es el terreno adecuado."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLELOSANGE
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLELOSANGE"
@@ -30589,6 +30799,11 @@ msgstr "Hola, pequeñín, ¿damos un paseo?"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POG.SLEEPING"
 msgid "Sleep tight little dude."
 msgstr "Duerme bien, amiguito."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POISONBALM"
+msgid "Getting poisoned is such a bummer."
+msgstr "Envenenarse es un fastidio."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.POISONCROCODOG"
@@ -32180,6 +32395,11 @@ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SPEAR_POISON"
 msgid "Want to take a sick day?"
 msgstr "Reparte permisos por enfermedad."
 
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.SPEAR_WATHGRITHR
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SPEAR_WATHGRITHR"
+msgid "Why can't we all just get along?"
+msgstr "¿Por qué no podemos llevarnos todos bien?"
+
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.SPICYVEGSTINGER
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.SPICYVEGSTINGER"
 msgid "Cheers!"
@@ -32965,6 +33185,11 @@ msgstr "¡Qué cosas hace la ciencia!"
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TRAP"
 msgid "Catch me a beach breakfast!"
 msgstr "¡Atrápame un desayuno playero!"
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TRAP_BRAMBLE"
+msgid "Not very chill of you, nature."
+msgstr "No es muy amable de tu parte, naturaleza."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.TRAP_TEETH"
@@ -33752,6 +33977,11 @@ msgstr "Me encanta la sandía... pero odio plantar..."
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.WATERYGRAVE"
 msgid "That wound's a little too fresh."
 msgstr "Aún tiene heridas muy frescas."
+
+#. STRINGS.CHARACTERS.WALANI.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.WATHGRITHRHAT"
+msgid "Aww, there's a little pony on it."
+msgstr "Aww, tienen un pequeño unicornio."
 
 #. STRINGS.CHARACTERS.WALANI.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.WAXPAPER"
@@ -40576,6 +40806,16 @@ msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SCEPTER"
 msgid "A capital artifact!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_ACADEMY.BURNING
+msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_ACADEMY.BURNING"
+msgid "What a waste!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_ACADEMY.GENERIC
+msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_ACADEMY.GENERIC"
+msgid "Ah! Just what I was looking for!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_ARCANE.BURNING
 msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_ARCANE.BURNING"
 msgid "One would think someone would put that out."
@@ -40664,16 +40904,6 @@ msgstr ""
 #. STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_HOOFSPA.GENERIC
 msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_HOOFSPA.GENERIC"
 msgid "I could do with some medical supplies."
-msgstr ""
-
-#. STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_MUSEUM.BURNING
-msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_MUSEUM.BURNING"
-msgid "What a waste!"
-msgstr ""
-
-#. STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_MUSEUM.GENERIC
-msgctxt "STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_MUSEUM.GENERIC"
-msgid "Ah! Just what I was looking for!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WARBUCKS.DESCRIBE.PIG_SHOP_PRODUCE.BURNING
@@ -45396,6 +45626,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTLER"
 msgid "Like a dinner bell for a bird!"
 msgstr "¡Es la campana de las aves gigantes!"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Au revoir giant bird, no dinner for you!"
+msgstr "¡Au revoir, gran ave, hoy no cenas!"
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTMAN.DEAD"
 msgid "He's met an untimely end."
@@ -45425,7 +45660,7 @@ msgstr "¿Para un omelet de hombriga?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTMASKHAT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTMASKHAT"
 msgid "The pith has been removed."
-msgstr ""
+msgstr "Se quedó hasta sin médula."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTQUEEN
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTQUEEN"
@@ -45514,6 +45749,11 @@ msgstr "Marinado en oscuridad."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORWOOD"
 msgid "Sturdy, but quite flammable."
 msgstr "Robusto, pero bastante inflamable."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_BRAMBLE"
+msgid "I'll have to be very careful putting it on."
+msgstr "Deberé tener mucho cuidado poniéndomela."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_LIFEJACKET"
@@ -46135,6 +46375,36 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BONESTEW"
 msgid "Warms my soul!"
 msgstr "¡Calienta mi alma!"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_BIRDS
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_BIRDS"
+msgid "I had hoped it was a poultry cookbook."
+msgstr "Esperaba que fuera un libro de cocina de aves."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_BRIMSTONE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_BRIMSTONE"
+msgid "I don't think that's my forte."
+msgstr "No creo que eso sea mi fuerte."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_GARDENING
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_GARDENING"
+msgid "Maybe I could start an herb garden."
+msgstr "Quizás podría iniciar un jardín de hierbas."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_METEOR"
+msgid "There's not a single recipe to be found within."
+msgstr "No hay una sola receta en sus páginas."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_SLEEP
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_SLEEP"
+msgid "It's tradition to nap after a good meal."
+msgstr "Es tradición dormir luego de una buena comida."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_TENTACLES
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOK_TENTACLES"
+msgid "I don't see any recipes in this at all."
+msgstr "No veo que tenga una sola receta."
+
 # No entiendo lo que tiene que ver con el búmeran, pero bueno.
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOMERANG"
@@ -46458,6 +46728,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_FERN"
 msgid "How does anything grow down here?"
 msgstr "¿Cómo puede crecer nada aquí abajo?"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_REGENERATOR"
+msgid "It wants to be fed to the mouth of the cave."
+msgstr "Quiere ser alimento para la entrada de una cueva."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVIAR"
 msgid "Eat it with a clamshell or the flavor will be ruined."
@@ -46737,6 +47012,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPOSTWRAP"
+msgid "I'm frankly offended."
+msgstr "Me siento francamente ofendido."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -49570,6 +49850,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATBALLS"
 msgid "I'm having a ball!"
 msgstr "¡Como jugar a la pelota!"
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATED_NETTLE"
+msgid "Medicinal leaves with some added flavor."
+msgstr "Hojas medicinales con un poco de sabor."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATRACK.BURNT"
 msgid "Too dry! Too dry!"
@@ -49877,18 +50162,18 @@ msgstr "Ah. Huele a eucalipto."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.EMPTY"
-msgid "It'll grow back eventually."
-msgstr "Acabará creciendo de nuevo."
+msgid "I do hope it grows back."
+msgstr "Espero que crezca de nuevo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.MOIST
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.MOIST"
-msgid "Water really makes it happy."
-msgstr "El agua realmente le hace bien."
+msgid "Ah, it's keeps moist with a marinade."
+msgstr "Se mantiene completamente húmeda."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.WITHERED
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.WITHERED"
-msgid "Nah. Not the right dirt for it."
-msgstr "Nah. No es el terreno adecuado."
+msgid "This soil is over-cooking it."
+msgstr "El suelo la está matando."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLELOSANGE
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLELOSANGE"
@@ -51118,6 +51403,11 @@ msgstr "¡Genial para deshacerme de las sobras!"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.POG.SLEEPING"
 msgid "Au revoir."
 msgstr "Au revoir."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.POISONBALM"
+msgid "I fear that it tastes as terrible as it smells."
+msgstr "Me temo que sabe tan horrible como huele."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.POISONCROCODOG"
@@ -52709,6 +52999,11 @@ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEAR_POISON"
 msgid "It would make me sick to use this on good meat."
 msgstr "Me enfermaría usar eso en una buena carne."
 
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEAR_WATHGRITHR
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEAR_WATHGRITHR"
+msgid "I'm better with a spatula."
+msgstr "Soy mejor con una espátula."
+
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.SPICEPACK
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.SPICEPACK"
 msgid "My bag of chef's tricks!"
@@ -53486,6 +53781,11 @@ msgstr "¡Soy tan positivo que quiero uno!"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP"
 msgid "I do not wish to be so tricky, but the dinner bell calls me."
 msgstr "No quiero ser un tramposo, pero la cena me llama."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP_BRAMBLE"
+msgid "I wonder who might have planted it?"
+msgstr "¿Quién plantará esas cosas?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP_TEETH"
@@ -54271,6 +54571,11 @@ msgstr "¿Alguien quiere más sandía?"
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERYGRAVE"
 msgid "Let's open her up."
 msgstr "Abrámosla."
+
+#. STRINGS.CHARACTERS.WARLY.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WATHGRITHRHAT"
+msgid "I don't quite have the confidence to pull it off."
+msgstr "No tengo la confianza necesaria para usarlo."
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.WAXPAPER"
@@ -55467,6 +55772,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ANTLER"
 msgid "Calls upon the mighty bird beast!"
 msgstr "¡Invoca a la poderosa bestia ave!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Calls off the mighty bird beast."
+msgstr "Ahuyenta a la poderosa bestia ave."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ANTMAN.DEAD"
 msgid "It no longer lives."
@@ -55586,6 +55896,11 @@ msgstr "¡Un manto digno de una guerrera!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORWOOD"
 msgid "A borrowed tree vest."
 msgstr "Un chaleco de árbol prestado."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_BRAMBLE"
+msgid "Armor studded with fearsome thorns."
+msgstr "Armadura incrustada con temibles espinas."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_LIFEJACKET"
@@ -56199,6 +56514,36 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BONESTEW"
 msgid "Delicious!"
 msgstr "¡Delicioso!"
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_BIRDS
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_BIRDS"
+msgid "To rule the skies!"
+msgstr "¡Para domar los cielos!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_BRIMSTONE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_BRIMSTONE"
+msgid "This tome is brimming with Hel's fire!"
+msgstr "¡Ese tomo rezuma con el fuego de Helheim!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_GARDENING
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_GARDENING"
+msgid "But can it tend the garden of mine soul?"
+msgstr "¿Pero puede cuidar el jardín de mi alma?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_METEOR"
+msgid "Read a passage and call forth Ragnarok!"
+msgstr "¡Uno de sus pasajes invoca el Ragnarök!"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_SLEEP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_SLEEP"
+msgid "Where's the drama? The suspense?"
+msgstr "¿Dónde está el drama y el suspenso?"
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_TENTACLES
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_TENTACLES"
+msgid "Knowledge grants great power!"
+msgstr "¡El conocimiento es poder!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOMERANG"
 msgid "For flinging at foes!"
@@ -56504,6 +56849,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_FERN"
 msgid "Foliage from the dark ages."
 msgstr "Follaje de épocas oscuras."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_REGENERATOR"
+msgid "It wishes return to the entrance."
+msgstr "Quiere regresar a la entrada de la cueva."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVIAR"
 msgid "I would have rathered the fish."
@@ -56789,6 +57139,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COMPOSTWRAP"
+msgid "Foul thing! Begone from my sight!"
+msgstr "¡Cosa asquerosa! ¡Aparta de mi vista!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -59661,6 +60016,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATBALLS"
 msgid "Tiny feast balls."
 msgstr "Pequeños banquetes esféricos."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATED_NETTLE"
+msgid "This meat hath a strange texture within, but my sinuses art clear!"
+msgstr "Carne con una extraña textura interior, ¡pero ahora respiro mejor!"
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MEATRACK.BURNT"
 msgid "Such a shame."
@@ -61215,6 +61575,11 @@ msgstr "¡Su belleza esconde un minúsculo corazón guerrero!"
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POG.SLEEPING"
 msgid "Sweetest dreams, cute meat."
 msgstr "Dulces sueños, preciosa carne."
+
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POISONBALM"
+msgid "Defense against poison."
+msgstr "Defensa contra el veneno."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.POISONCROCODOG"
@@ -63568,6 +63933,11 @@ msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRAP"
 msgid "A well constructed trap. I will have my meal."
 msgstr "Una trampa bien construida. Me conseguirá comida."
 
+#. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRAP_BRAMBLE"
+msgid "A most clever trap for one's foes."
+msgstr "Una trampa astuta para tus enemigos."
+
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRAP_TEETH"
 msgid "A treacherous trap."
@@ -65651,6 +66021,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTLER"
 msgid "Why would I want to call that bird?"
 msgstr "¿Por qué iba a querer llamar a ese pájaro?"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTLER_CORRUPTED"
+msgid "This should rid me of that giant pest."
+msgstr "Eso debería librarme de esa plaga gigante."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTMAN.DEAD"
 msgid "Serves it right for being so ugly."
@@ -65770,6 +66145,11 @@ msgstr "Como si fuera hecho a medida para mí."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORWOOD"
 msgid "Ugh. I'm not typically one for vulgar fisticuffs."
 msgstr "Uf. No soy partidario de tales armaduras vulgares."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_BRAMBLE"
+msgid "Who's frail now?"
+msgstr "¿Quién es el frágil ahora?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMOR_LIFEJACKET"
@@ -66413,6 +66793,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOK_GARDENING"
 msgid "It's not wise to toy with forces beyond your comprehension."
 msgstr "No es aconsejable jugar con fuerzas más allá de tu comprensión."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOK_METEOR"
+msgid "Reading strange books has always worked out for me before."
+msgstr "Leer libros extraños siempre me ha funcionado."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOK_SLEEP"
 msgid "I haven't slept in... ages."
@@ -66713,6 +67098,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_FERN"
 msgid "I'd like to step on it."
 msgstr "Me gustaría pisarlo."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVE_REGENERATOR"
+msgid "A return to the beginning. I should leave it at the cave entrance."
+msgstr "Un regreso a los inicios. Debería dejarla en la entrada de la cueva."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CAVIAR"
 msgid "A meal fitting of my stature."
@@ -66992,6 +67382,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COMPOSTWRAP"
+msgid "I'm utterly dung with all of this."
+msgstr "Estoy harto de ese tipo de cosas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -69830,6 +70225,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEATBALLS"
 msgid "My compliments to the chef!"
 msgstr "¡Mis felicitaciones al chef!"
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEATED_NETTLE"
+msgid "Meaty and medicinal."
+msgstr "Carnoso y medicinal."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEATRACK.BURNT"
 msgid "It's too brittle to hang meat on now."
@@ -71372,6 +71772,11 @@ msgstr "¿Qué quieres?"
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POG.SLEEPING"
 msgid "Oh look. It is asleep."
 msgstr "Oh, mira. Se ha dormido."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POISONBALM"
+msgid "It's almost as bad as the poison."
+msgstr "Casi tan malo como el veneno mismo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.POISONCROCODOG"
@@ -73729,6 +74134,11 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRAP"
 msgid "Only the dumbest animals will fall for this."
 msgstr "Solo los animales más estúpidos caerán en ella."
 
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRAP_BRAMBLE"
+msgid "Best laid traps."
+msgstr "Una trampa de las buenas."
+
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRAP_TEETH"
 msgid "This one packs a wallop."
@@ -74514,6 +74924,11 @@ msgstr "Probablemente podría plantarlas."
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATERYGRAVE"
 msgid "Not all find a final resting place."
 msgstr "No todos encuentran su último lugar de descanso."
+
+#. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATHGRITHRHAT"
+msgid "Well... it's no crown."
+msgstr "Bueno... no es una corona."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXPAPER"
@@ -75691,8 +76106,8 @@ msgstr "¡Guau! ¡Es un gran robot!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_REMNANT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_REMNANT"
-msgid "Wow. There's a lot of space in there!"
-msgstr "Guau. ¡Hay mucho espacio ahí!"
+msgid "Kinda like a security blanket. But also kinda scary."
+msgstr "Como una mantita de seguridad, pero que da miedo."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_ROBOTS_ASSEMBLY
 #, fuzzy
@@ -75755,6 +76170,11 @@ msgstr "¿Es esto medicina?"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANTLER"
 msgid "Now we can sing to that big friendly birdie."
 msgstr "Ahora podemos cantarle a ese gran pájaro amigable."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANTLER_CORRUPTED"
+msgid "The big birdie doesn't like the sounds it makes."
+msgstr "Al gran pájaro no le gusta el sonido que hace."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANTMAN.DEAD"
@@ -75869,13 +76289,18 @@ msgstr "¡Somos una araña gigante! ¡Con un caparazón!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORVORTEXCLOAK
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORVORTEXCLOAK"
-msgid "Kinda like a security blanket. But also kinda scary."
-msgstr "Como una manta de seguridad. Pero que da miedo."
+msgid "Wow. There's a lot of space in there!"
+msgstr "Guau. ¡Tiene mucho espacio!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORWOOD
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORWOOD"
 msgid "Wood you like to fight?"
 msgstr "¡Más madera!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_BRAMBLE"
+msgid "We're ready to let spikes fly!"
+msgstr "¡Estamos listos para pinchar!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_LIFEJACKET"
@@ -76553,6 +76978,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_GARDENING"
 msgid "Why should we read about flowers when we can just pick them?"
 msgstr "¿Para qué leeríamos sobre flores si solo podemos recogerlas?"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_METEOR"
+msgid "I'm not a good reader, but he is!"
+msgstr "¡No soy muy bueno leyendo, pero él sí!"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_SLEEP"
 msgid "It's... beddy-bye time..."
@@ -76876,6 +77306,12 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_FERN"
 msgid "Swirly plants."
 msgstr "Plantas en zigzag."
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_REGENERATOR"
+msgid "We should bring it back to the opening! We have a feeling!"
+msgstr ""
+"¡Debemos dejarla en la entrada de la cueva! ¡Tenemos un presentimiento!"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVIAR"
 msgid "So fancy!"
@@ -77161,6 +77597,11 @@ msgstr "¡Suroeste!"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.W"
 msgid "West!"
 msgstr "¡Oeste!"
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPOSTWRAP"
+msgid "Double doodoo."
+msgstr "Caca doble."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -80113,6 +80554,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATBALLS"
 msgid "I used to make these with grandpa!"
 msgstr "¡Solía hacerlas con el abuelo!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATED_NETTLE"
+msgid "They're more yummy this way"
+msgstr "Son más ricas de esa manera."
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.BURNT"
 msgid "Fire takes all."
@@ -81457,7 +81903,7 @@ msgstr "Debe haber fruta deliciosa ahí dentro."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIG_SHOP_TINKER.BURNING
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIG_SHOP_TINKER.BURNING"
-msgid "Aw...We liked that place."
+msgid "Aw... we liked that place."
 msgstr "Ay... Nos gustaba ese lugar."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIG_SHOP_TINKER.GENERIC
@@ -81689,6 +82135,11 @@ msgstr "¡Hola, pequeñín! ¿Quieres ser nuestro amigo?"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POG.SLEEPING"
 msgid "Nighty night doggy."
 msgstr "Dulces sueños, perrito."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POISONBALM"
+msgid "It's icky, but it helps us when we feel sick."
+msgstr "Es asqueroso, pero nos ayuda cuando estamos enfermos."
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.POISONCROCODOG"
@@ -84098,6 +84549,11 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP"
 msgid "Now we can catch some food!"
 msgstr "¡Ahora podemos atrapar algo de comida!"
 
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_BRAMBLE"
+msgid "It's a very pointy planty trap!"
+msgstr "¡Es una planta trampa muy puntiaguda!"
+
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_TEETH"
 msgid "This will hurt our enemies."
@@ -84915,6 +85371,11 @@ msgstr "Si nos las comemos, ¿crecerán dentro de nosotros?"
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERYGRAVE"
 msgid "Blub blub."
 msgstr "Glu, glu, glu."
+
+#. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHRHAT"
+msgid "Haha! It's way too big for us!"
+msgstr "¡Jaja! ¡Es muy grande para nosotros!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXPAPER"
@@ -86173,6 +86634,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ANTLER"
 msgid "Do you enjoy the wistful sound of bird song, Abigail?"
 msgstr "¿Disfrutas del melancólico canto de las aves, Abigail?"
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ANTLER_CORRUPTED"
+msgid "It has a most haunting sound."
+msgstr "Hace un sonido de lo más inquietante."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ANTMAN.DEAD"
 msgid "Gone to a better place."
@@ -86292,6 +86758,11 @@ msgstr "La profundidad de su oscuridad es insondable."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORWOOD"
 msgid "I might hold off the inevitable a bit longer with this."
 msgstr "Podría demorar lo inevitable un poco más con eso."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_BRAMBLE"
+msgid "So my outside matches my inside."
+msgstr "Así mi exterior será como mi interior."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMOR_LIFEJACKET"
@@ -86965,6 +87436,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_GARDENING"
 msgid "Imagine, a rolling field of red flowers..."
 msgstr "Imagina, un campo lleno de flores rojas..."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_METEOR"
+msgid "Reading is a dangerous thing."
+msgstr "Leer es una actividad peligrosa."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_SLEEP"
 msgid "Does it bestow an eternal slumber?"
@@ -87286,6 +87762,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_FERN"
 msgid "A touch of color in the darkness."
 msgstr "Un toque de color en la oscuridad."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_REGENERATOR"
+msgid "It yearns to be brought to the cave's entrance."
+msgstr "Anhela ser llevada a la entrada de la cueva."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVIAR"
 msgid "I took their life to sustain my own."
@@ -87571,6 +88052,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COMPOSTWRAP"
+msgid "It's poop. Sigh."
+msgstr "No es más que popó..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -90526,6 +91012,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MEATBALLS"
 msgid "Balled meat. How exciting."
 msgstr "Bolas de carne. Qué emocionante."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MEATED_NETTLE"
+msgid "Temporary relief for life's grief... wrapped in meat."
+msgstr "Un alivio temporal del dolor de la vida... con carne."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MEATRACK.BURNT"
 msgid "It's done drying forever."
@@ -92115,6 +92606,11 @@ msgstr "Ni tú puedes escapar a la muerte."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POG.SLEEPING"
 msgid "Are you practicing being dead?"
 msgstr "¿Finges estar muerto?"
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POISONBALM"
+msgid "In case I don't want to succumb to poison. Unlikely."
+msgstr "En caso de no querer morir de envenenamiento. Improbable."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POISONCROCODOG"
@@ -94513,6 +95009,11 @@ msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP"
 msgid "Simple grass has become deadly."
 msgstr "Simple hierba convertida en algo mortal."
 
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP_BRAMBLE"
+msgid "To prick and ensnare."
+msgstr "Para pinchar y atrapar."
+
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRAP_TEETH"
 msgid "A devious surprise from underground."
@@ -95326,6 +95827,11 @@ msgstr "Una forma perfecta para escupirlas."
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATERYGRAVE"
 msgid "I'm not above raiding a grave for loot."
 msgstr "No está bien asaltar tumbas para buscar botines."
+
+#. STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHRHAT"
+msgid "Perhaps someone was playing dress-up. I suppose I missed it."
+msgstr "Tal vez alguien estaba jugando a disfrazarse. Creo que me lo perdí."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WAXPAPER"
@@ -96595,6 +97101,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ANTLER"
 msgid "Maybe this bird whistle will convince a bird to fly me out of here."
 msgstr "Quizá este silbato para aves consiga de sacarme de aquí."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ANTLER_CORRUPTED"
+msgid "This should make any giant birds steer clear."
+msgstr "Eso hará que cualquier pájaro gigante se aleje."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ANTMAN.DEAD"
 msgid "I won't step on it out of respect."
@@ -96715,6 +97226,11 @@ msgstr "Un profundo y oscuro manto lleno de espacio."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMORWOOD"
 msgid "I think it brings out the color in my eyes."
 msgstr "Creo que resalta el color de mis ojos."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_BRAMBLE"
+msgid "I think it looks pretty sharp on me."
+msgstr "Llevarla definitivamente la mejora."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.ARMOR_LIFEJACKET"
@@ -97388,6 +97904,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.BOOK_GARDENING"
 msgid "I'm not digging this one."
 msgstr "No pienso cavar aquí."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.BOOK_METEOR"
+msgid "Who comes up with this stuff?"
+msgstr "¿A quién se le ocurren esas cosas?"
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.BOOK_SLEEP"
 msgid "A sleeper hit."
@@ -97735,6 +98256,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CAVE_FERN"
 msgid "That says projectile to me."
 msgstr "A mí me parece un proyectil."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CAVE_REGENERATOR"
+msgid "I think I'll bring it back to the entrance, see what happens."
+msgstr "Creo que la llevaré a la entrada de la cueva, a ver qué pasa."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CAVIAR"
 msgid "If I don't like it, it's going in the Pew-matic."
@@ -97858,7 +98384,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.COCONUT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.COCONUT.GENERIC"
-msgid "A tough coconut to crack"
+msgid "A tough coconut to crack."
 msgstr "Un coco duro de partir."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.COCONUT.PLANTED
@@ -98022,6 +98548,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.COMPOSTWRAP"
+msgid "Must be someone's idea of a joke."
+msgstr "Debe ser una broma hecha por alguien."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -100991,6 +101522,11 @@ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.MEATBALLS"
 msgid "Perfectly rounded edible projectiles."
 msgstr "Proyectiles comestibles perfectamente redondos."
 
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.MEATED_NETTLE"
+msgid "The meat helps the medicine go down."
+msgstr "La carne ayuda a pasarse la medicina."
+
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.MEATRACK.BURNT"
 msgid "A little too dry."
@@ -102444,7 +102980,7 @@ msgstr "Creo que a esto lo llaman \"planta\"."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PLANT_NORMAL.GROWING
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PLANT_NORMAL.GROWING"
-msgid "It's growing! I guess I'm not a totally incompetant gardener."
+msgid "It's growing! I guess I'm not a totally incompetent gardener."
 msgstr "¡Está creciendo! Supongo que no se me da tan mal la jardinería."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.PLANT_NORMAL.READY
@@ -102566,6 +103102,11 @@ msgstr "Qué lindo. Serías más lindo como gato."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.POG.SLEEPING"
 msgid "Finally, it stopped eating."
 msgstr "Por fin ha dejado de comer."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.POISONBALM"
+msgid "Handy!"
+msgstr "¡Muy útil!"
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.POISONCROCODOG"
@@ -104100,7 +104641,7 @@ msgstr ""
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SNAKE_POISON
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SNAKE_POISON"
-msgid "You're poison does nothing to endear you to me."
+msgid "Your poison does nothing to endear you to me."
 msgstr "Tu veneno no juega a favor de hacerte querer."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.SNAPDRAGON.DEAD
@@ -104827,7 +105368,7 @@ msgstr "Esto huele a aventura."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.TELESCOPE
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.TELESCOPE"
-msgid "I could see farther that this if I was up in my balloon."
+msgid "I could see farther than this if I was up in my balloon."
 msgstr "Podría abarcar más con la vista desde mi globo."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.TELESTAFF
@@ -104985,6 +105526,11 @@ msgstr "Uno está bien. Y dos es mejor."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.TRAP"
 msgid "I need to trap something good. Preferably a sandwich."
 msgstr "Necesito atrapar algo bueno. Preferiblemente un sándwich."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.TRAP_BRAMBLE"
+msgid "Wouldn't want to step on that."
+msgstr "No me gustaría pisar eso."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.TRAP_TEETH"
@@ -105820,6 +106366,11 @@ msgstr "Torpedos diminutos que puedes plantar."
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.WATERYGRAVE"
 msgid "That looks like something I should check for treasure."
 msgstr "Se ve como algo que debería revisar en busca de tesoros."
+
+#. STRINGS.CHARACTERS.WHEELER.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.WATHGRITHRHAT"
+msgid "Sure wish those wings were a little bigger."
+msgstr "Ojalá esas alas fueran un poco más grandes."
 
 #. STRINGS.CHARACTERS.WHEELER.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.WAXPAPER"
@@ -107096,6 +107647,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANTLER"
 msgid "I do enjoy a good bird song."
 msgstr "Me encanta el trino de los pájaros."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANTLER_CORRUPTED"
+msgid "One bird in particular does not seem to enjoy it."
+msgstr "Un ave en particular parece no disfrutar su sonido."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANTMAN.DEAD"
 msgid "It has ceased functioning."
@@ -107215,6 +107771,11 @@ msgstr "Cuánto espacio. Puedo guardar todos mis libros."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORWOOD"
 msgid "Crude plate mail cobbled together from log sections."
 msgstr "Placas toscas de tablones juntadas de forma improvisada."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_BRAMBLE"
+msgid "The brambles are knit together tightly, though rather clumsily."
+msgstr "Las zarzas están atadas con firmeza, aunque de una manera torpe."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_LIFEJACKET"
@@ -108201,6 +108762,13 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_FERN"
 msgid "A lovely ornamental plant."
 msgstr "Una planta ornamental preciosa."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_REGENERATOR"
+msgid ""
+"What might transpire if it came in contact with the cave's entrance, I "
+"wonder?"
+msgstr "¿Qué ocurrirá si la llevo a la entrada de una cueva?"
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVIAR"
 msgid "Differentiated from roe chiefly by the jar."
@@ -108480,6 +109048,11 @@ msgstr "Sudoeste."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COMPOSTWRAP"
+msgid "Oh dear. Those are some large droppings."
+msgstr "Oh, cielos. Esos son excrementos muy grandes."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -111437,6 +112010,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATBALLS"
 msgid "A pile of processed meat. Who knows what went into this."
 msgstr "Un montón de carne procesada. Quién sabe lo que tendrá."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATED_NETTLE"
+msgid "Medicinal nourishment, with added protein."
+msgstr "Alimento medicinal con proteína añadida."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.BURNT"
 msgid "It doesn't seem stable."
@@ -113010,6 +113588,11 @@ msgstr "Otocyon canis. ¡Y uno hambriento!"
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POG.SLEEPING"
 msgid "The Otocyon Canis slumbers."
 msgstr "Un Otocyon canis durmiente."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POISONBALM"
+msgid "A natural antidote for most venoms."
+msgstr "Un antídoto natural para la mayoría de venenos."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POISONCROCODOG"
@@ -115401,6 +115984,11 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP"
 msgid "A simple stick-and-basket trap."
 msgstr "Una trampa simple y sencilla."
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_BRAMBLE"
+msgid "Microscopic barbs on the thorns make them quite unpleasant."
+msgstr "Las púas microscópicas de cada espina la hacen muy molesta."
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH"
 msgid "It's covered with a thin film of canine digestive fluid."
@@ -116218,6 +116806,11 @@ msgstr "Las plantaré para que crezca un lanatus."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WATERYGRAVE"
 msgid "I wonder how long it's been drifting at sea?"
 msgstr "Me pregunto cuánto llevará a la deriva en el mar."
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WATHGRITHRHAT"
+msgid "Anachronistic drivel."
+msgstr "Tonterías anacrónicas."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WAXPAPER
 #, fuzzy
@@ -117503,6 +118096,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ANTLER"
 msgid "WILBA SING LIKE BIG BIRDIE"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ANTLER_CORRUPTED"
+msgid "BIG BIRDIE LIKETH NOT ITS SONG"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ANTMAN.DEAD"
 msgid "HATH BEEN VANQUISH'DED"
@@ -117621,6 +118219,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMORWOOD
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMORWOOD"
 msgid "'TIS ARMOR MADE OF TREE BITS"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMOR_BRAMBLE"
+msgid "'TIS ARMOR MADE OF THORNY BITS"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.ARMOR_LIFEJACKET
@@ -118278,6 +118881,36 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BONESTEW"
 msgid "STEW'D BONE"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_BIRDS
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_BIRDS"
+msgid "'TIS NAUGHT BUT SCRIBBLERY!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_BRIMSTONE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_BRIMSTONE"
+msgid "IT DOTH NOT SCARE WILBA, FOR WILBA CANNOT READ!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_GARDENING
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_GARDENING"
+msgid "NARY A PICTURE TO BE FOUND"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_METEOR"
+msgid "WILBA LIKETHS NOT THE LOOK OF IT"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_SLEEP
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_SLEEP"
+msgid "FORSOOTH! 'TIS NOT WILBA'S BEDTIME!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_TENTACLES
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOK_TENTACLES"
+msgid "WILBA HATH NO USE FOR SUCH THINGS"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.BOOMERANG"
 msgid "RETURN YOU THITHER?"
@@ -118598,6 +119231,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.CAVE_FERN"
 msgid "CAN'ST WILBA EAT IT?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.CAVE_REGENERATOR"
+msgid "IT BESEECHETH WILBA BRING IT TO YONDER CAVE OPENING"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.CAVIAR"
 msgid "YON EGGS HATH THE SQUISHINESS"
@@ -118876,6 +119514,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.COMPASS.W
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.COMPASS.W"
 msgid "WEST"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.COMPOSTWRAP"
+msgid "NICE-WRAPPED PLOP"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.CONSTRUCTION_PERMIT
@@ -121814,6 +122457,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.MEATBALLS"
 msgid "'TIS BALLS O' MEAT!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.MEATED_NETTLE"
+msgid "GOODNESS FOR TH'SNOUT AND TH'BELLY"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.MEATRACK.BURNT"
 msgid "'TIS TOO DRY FOR EATINGS"
@@ -123377,6 +124025,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.POG.SLEEPING"
 msgid "NIGHT NIGHT"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.POISONBALM"
+msgid "IT SOOTHEST THE OUCHIES OF POIS'NINGS"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.POISONCROCODOG
@@ -124949,6 +125602,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SPEAR_POISON"
 msgid "'TIS A POKEY STICK O' POISON"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.SPEAR_WATHGRITHR
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SPEAR_WATHGRITHR"
+msgid "'TIS A MOST GOOD AND POINTY STICK"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.SPICYVEGSTINGER
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.SPICYVEGSTINGER"
 msgid "HATH A FURY IN'T"
@@ -125769,6 +126427,11 @@ msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.TRAP"
 msgid "FOR ENTRAPPINGS CRITTERS"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.TRAP_BRAMBLE"
+msgid "'TIS A TRICKY THORN TRAP"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.TRAP_TEETH"
 msgid "'TIS ENTRAPPING OUCHIES"
@@ -126562,6 +127225,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.WATERYGRAVE
 msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.WATERYGRAVE"
 msgid "WHATFORE DOST IT HAS'T IN'T?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILBA.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WILBA.DESCRIBE.WATHGRITHRHAT"
+msgid "T'WOULD RESTRICT WILBA'S BOUNCY LOCKS!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILBA.DESCRIBE.WAXPAPER
@@ -127888,6 +128556,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANTLER"
 msgid "Here birdie birdie..."
 msgstr "Aquí, pajarito, pajarito..."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Seeya round big birdie. Or not."
+msgstr "Hasta luego, gran pajarito. O no."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ANTMAN.DEAD"
 msgid "Gross and dead."
@@ -128007,6 +128680,11 @@ msgstr "Me recuerda a mi mechero. Mantiene alejada a la oscuridad."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORWOOD"
 msgid "Now I can take on the world!"
 msgstr "¡Ahora puedo conquistar el mundo!"
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_BRAMBLE"
+msgid "You mess with me, you get the thorns!"
+msgstr "¡Si te metes conmigo, te metes con los pinchos!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMOR_LIFEJACKET"
@@ -128678,6 +129356,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOOK_GARDENING"
 msgid "Ughh, who cares?"
 msgstr "¿Agh, a quién le importa?"
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOOK_METEOR"
+msgid "I'll burn through this book!"
+msgstr "¡Lo quemaré todo con ese libro!"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BOOK_SLEEP"
 msgid "Bo-oring!"
@@ -129018,6 +129701,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_FERN"
 msgid "Looks flammable."
 msgstr "Parece inflamable."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVE_REGENERATOR"
+msgid "Why do I feel like I should bring it back to the entrance?"
+msgstr "¿Por qué siento que debería llevarla a la entrada de una cueva?"
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CAVIAR"
 msgid "Fish eggs in a jar. Great."
@@ -129303,6 +129991,11 @@ msgstr "¡Suroeste!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.COMPASS.W"
 msgid "West..."
 msgstr "Oeste..."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.COMPOSTWRAP"
+msgid "That's disgusting!"
+msgstr "¡Eso es asqueroso!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -132257,6 +132950,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEATBALLS"
 msgid "Meat made into spheres and improved with fire."
 msgstr "Carne esférica mejorada por el poder del fuego."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEATED_NETTLE"
+msgid "It clears my snot."
+msgstr "Me limpia los mocos."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEATRACK.BURNT"
 msgid "Maybe the fire wasn't the best drying method..."
@@ -133823,6 +134521,11 @@ msgstr "¡Ey! ¡Un perrito!"
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POG.SLEEPING"
 msgid "Aw, it's sleeping."
 msgstr "Aw, está durmiendo."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POISONBALM"
+msgid "I actually kinda like that burning feeling."
+msgstr "En realidad me gusta su sensación ardiente."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POISONCROCODOG"
@@ -136211,6 +136914,11 @@ msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP"
 msgid "It's a bit passive aggressive, but it'll work."
 msgstr "Es un poco pasiva agresiva, pero funcionará."
 
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_BRAMBLE"
+msgid "It's got really sharp thorns."
+msgstr "Tiene espinas muy afiladas."
+
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP_TEETH"
 msgid "It would be better with fire."
@@ -137025,6 +137733,11 @@ msgstr "Podría cultivarlas, pero eso suena aburrido."
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WATERYGRAVE"
 msgid "Something's fishy here."
 msgstr "Algo huele mal por aquí."
+
+#. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WATHGRITHRHAT"
+msgid "It's got a name scratched on the inside... \"W\", uh..."
+msgstr "Tiene un nombre tallado dentro... \"W\", mmm..."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WAXPAPER"
@@ -138318,6 +139031,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTLER"
 msgid "Wolfgang sings like big birdy."
 msgstr "Wolfgang cantar como gran pajarito."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Birds not like it, makes scary sound!"
+msgstr "¡Pájaros no gustar, hacer sonido aterrador!"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANTMAN.DEAD"
 msgid "Bug Man is dead."
@@ -138437,6 +139155,11 @@ msgstr "¡Manto aterrador! Wolfgang vestirlo aún así."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORWOOD"
 msgid "Is almost strong as belly!"
 msgstr "¡Ser casi tan fuerte como mi estómago!"
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_BRAMBLE"
+msgid "Mighty Wolfgang does not need armor!"
+msgstr "¡Poderoso Wolfgang no necesitar armadura!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMOR_LIFEJACKET"
@@ -139088,6 +139811,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOOK_GARDENING"
 msgid "Wolfgang prefers growing muscle mass to flowers."
 msgstr "Wolfgang preferir ver crecer masa muscular."
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOOK_METEOR"
+msgid "Book make very hot rain."
+msgstr "Libro hacer lluvia muy caliente."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOOK_SLEEP"
 msgid "Wolfgang's eyes feel heavy, like dumbbells."
@@ -139408,6 +140136,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_FERN"
 msgid "Pretty plant!"
 msgstr "¡Planta bonita!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVE_REGENERATOR"
+msgid "Want Wolfgang to bring you back to cave opening?"
+msgstr "¿Cosa querer que Wolfgang llevarla a entrada de cueva?"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAVIAR"
 msgid "Little eggs make Wolfgang feel like big, important man."
@@ -139687,6 +140420,11 @@ msgstr "Ser Suroeste."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COMPASS.W"
 msgid "Is West."
 msgstr "Ser Oeste."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COMPOSTWRAP"
+msgid "Is very mighty poop."
+msgstr "Ser popó muy fuerte."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -142600,6 +143338,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEATBALLS"
 msgid "Ball of meats make me strong!"
 msgstr "¡Bolas de carne hacerme fuerte!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEATED_NETTLE"
+msgid "Meaty snack clears Wolfgang's mighty nostrils!"
+msgstr "¡Carne limpiar poderosa nariz de Wolfgang!"
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEATRACK.BURNT"
 msgid "Cannot dry meat now."
@@ -144179,6 +144922,11 @@ msgstr "Ser bonito ladroncito de comida."
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POG.SLEEPING"
 msgid "Goodnight little food stealer."
 msgstr "Buenas noches, ladroncito de comida."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POISONBALM"
+msgid "Wolfgang does not fear poison! But will take just in case!"
+msgstr "¡Wolfgang no temer a veneno! ¡Pero Wolfgang querer llevar eso!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POISONCROCODOG"
@@ -146554,6 +147302,11 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRAP"
 msgid "No trap can hold me!"
 msgstr "¡Trampas nunca atraparme!"
 
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRAP_BRAMBLE"
+msgid "Is sharp plant for hurting feets."
+msgstr "Ser planta espinosa para herir pies."
+
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRAP_TEETH"
 msgid "It bites bottoms from below!"
@@ -147363,6 +148116,11 @@ msgstr "¿Ahora ser melones de tierra?"
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATERYGRAVE"
 msgid "I do not like this. Is creepy."
 msgstr "No gustarme. Ser aterrador."
+
+#. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATHGRITHRHAT"
+msgid "Is strong helm for strong warrior!"
+msgstr "¡Ser poderoso casco para poderoso guerrero!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXPAPER"
@@ -148623,6 +149381,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTLER"
 msgid "That bird is a nuisance."
 msgstr "Ese pájaro es una molestia."
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Bird repellant."
+msgstr "Repelente para pájaros."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ANTMAN.DEAD"
 msgid "Out of his misery."
@@ -148742,6 +149505,11 @@ msgstr "Es muy espacioso, ¿eh?"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORWOOD"
 msgid "It fits me so well!"
 msgstr "¡Me queda muy bien!"
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_BRAMBLE"
+msgid "All natural safety precautions."
+msgstr "Precauciones de seguridad natural."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_LIFEJACKET"
@@ -149400,6 +150168,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOK_GARDENING"
 msgid "Does it grow trees?"
 msgstr "¿Hace que crezcan arboles?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOK_METEOR"
+msgid "That there ain't right."
+msgstr "Eso no está bien."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOK_SLEEP"
 msgid "The perfect book for a full moon."
@@ -149720,6 +150493,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_FERN"
 msgid "Hey! It's a fern!"
 msgstr "¡Ey! ¡Es un helecho!"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVE_REGENERATOR"
+msgid "Why do I feel like I should bring it to the entrance, eh?"
+msgstr "¿Por qué siento que debo llevarla a la entrada de la cueva, eh?"
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CAVIAR"
 msgid "Whew, that's salty."
@@ -149999,6 +150777,11 @@ msgstr "Suroeste."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPASS.W"
 msgid "West."
 msgstr "Oeste."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPOSTWRAP"
+msgid "Well. Plants gotta fertilize."
+msgstr "Bueno. Las plantas necesitan fertilizarse."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -152945,6 +153728,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MEATBALLS"
 msgid "All the meats!"
 msgstr "¡Un montón de carne!"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MEATED_NETTLE"
+msgid "It's not back bacon, but it'll do."
+msgstr "No es tocino, pero igual sirve."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MEATRACK.BURNT"
 msgid "Its usefulness has dried up."
@@ -154524,6 +155312,11 @@ msgstr "Ah, hola, pequeñín."
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POG.SLEEPING"
 msgid "Look'em, Lucy."
 msgstr "Míralos, Lucy."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POISONBALM"
+msgid "I really like not bein' poisoned."
+msgstr "Prefiero no estar envenenado."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POISONCROCODOG"
@@ -156925,6 +157718,11 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRAP"
 msgid "Work smarter, eh?"
 msgstr "Qué inteligente, ¿eh?"
 
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRAP_BRAMBLE"
+msgid "A trap for the forest, by the forest."
+msgstr "Una trampa para el bosque, por el bosque."
+
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRAP_TEETH"
 msgid "This seems a bit rough."
@@ -157743,6 +158541,11 @@ msgstr "¿Tal vez podría plantarlas?"
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WATERYGRAVE"
 msgid "I hope to never end up in one of those."
 msgstr "Espero no acabar nunca así."
+
+#. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WATHGRITHRHAT"
+msgid "Pretty snappy looking."
+msgstr "Un estilo muy poco amigable."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAXPAPER"
@@ -158968,6 +159771,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ANTLER"
 msgid "Fer tha'callin' o'tha big feather'd beastie."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Fer chasin' off tha big feather'd beastie."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ANTMAN.DEAD"
 msgid "Its 'atches 'ave been battened."
@@ -159081,13 +159889,18 @@ msgstr "No me parece bien pelear con una tortuga."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMORVORTEXCLOAK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMORVORTEXCLOAK"
-msgid "'t be like starin' into th'ocean depths."
+msgid "T'be like starin' into th'ocean depths."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMORWOOD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMORWOOD"
 msgid "At least wood floats."
 msgstr "Al menos la madera flota."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_BRAMBLE"
+msgid "I'll be a fearsome sight with that thorny hull!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.ARMOR_LIFEJACKET"
@@ -159709,6 +160522,36 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BONESTEW"
 msgid "Good fer th'scurvy."
 msgstr "Bueno para el escorbuto."
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_BIRDS
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_BIRDS"
+msgid "This book means to bewitch the birds!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_BRIMSTONE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_BRIMSTONE"
+msgid "It'll spell me doom, mark me words!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_GARDENING
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_GARDENING"
+msgid "Th'dirt's only good fer buryin' me treasure."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_METEOR"
+msgid "Devil magic thet summons demons from th'sky!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_SLEEP
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_SLEEP"
+msgid "It'll put ye into a cursed slumber."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_TENTACLES
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOK_TENTACLES"
+msgid "I've seen enough o'them ship sinkers to last me lifetime!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.BOOMERANG"
 msgid "I prefer somethin' thet don't come back at me head."
@@ -159999,6 +160842,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_FERN"
 msgid "How did ye grow doon here wit' no light?"
 msgstr "¿Cómo has crecido aquí sin luz?"
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_REGENERATOR"
+msgid "Got a funny feelin' about bringin' it back to the mouth o'this cave."
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVIAR"
 msgid "Snooty landlubb'rin' eats!"
@@ -160278,6 +161126,11 @@ msgstr "¡Al suroeste!"
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPASS.W"
 msgid "Ta th'West!"
 msgstr "¡Al oeste!"
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPOSTWRAP"
+msgid "Someone be tryin' t'make a fool of ol'Woodlegs!"
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -163103,6 +163956,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.MEATBALLS"
 msgid "Me lunch!"
 msgstr "¡Mi comida!"
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.MEATED_NETTLE"
+msgid "A bite o' meat to go with th'nose clearin'!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.MEATRACK.BURNT"
 msgid "Thet be a shame."
@@ -164641,6 +165499,11 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POG.SLEEPING"
 msgid "Thet b'nice."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POISONBALM"
+msgid "Aye, that'll take the sting out."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.POISONCROCODOG
@@ -166205,6 +167068,11 @@ msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SPEAR_POISON"
 msgid "A coward's weapon."
 msgstr "El arma de un cobarde."
 
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SPEAR_WATHGRITHR
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SPEAR_WATHGRITHR"
+msgid "Aye, it's sharp!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SPICYVEGSTINGER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.SPICYVEGSTINGER"
 msgid "Has the kick to't."
@@ -166975,6 +167843,11 @@ msgstr "¿Esto qué es?"
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TRAP"
 msgid "I prefer ta meet me foes head-on."
 msgstr "Prefiero enfrentarme a mis enemigos cara a cara."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TRAP_BRAMBLE"
+msgid "Best not t'get me legs caught in that."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.TRAP_TEETH"
@@ -167763,6 +168636,11 @@ msgstr "Ojalá pudiera plantarlas en el agua."
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.WATERYGRAVE"
 msgid "Th'only proper end fer a man o'th'sea."
 msgstr "El único fin adecuado para un hombre de mar."
+
+#. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.WATHGRITHRHAT"
+msgid "'Tis no hat fer this ol'sea dog."
+msgstr ""
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.WAXPAPER"
@@ -169033,6 +169911,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANTLER"
 msgid "Sounds like Womp Tweeter!"
 msgstr "¡Suena como un gran pío-pío!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANTLER_CORRUPTED"
+msgid "Scares Womp Tweeter"
+msgstr "Asusta al gran pío-pío"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANTMAN.DEAD"
 msgid "(sniff) Too bad"
@@ -169830,6 +170713,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_GARDENING"
 msgid "This one's nice"
 msgstr "Ese es bueno"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_METEOR"
+msgid "Scary sky rocks"
+msgstr "Rocas del cielo aterradoras"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_SLEEP"
 msgid "(yawn)"
@@ -170169,6 +171057,11 @@ msgstr "Una salida de aquí"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_FERN"
 msgid "How you doing?"
 msgstr "¿Cómo te va?"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_REGENERATOR"
+msgid "Bring to opening? Okay!"
+msgstr "¿Te llevo a la entrada? ¡Está bien!"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVIAR"
@@ -173423,6 +174316,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATBALLS"
 msgid "Balls of belly stuff"
 msgstr "Cosas esféricas para la barriga"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATED_NETTLE"
+msgid "Mmmm..."
+msgstr "Mmm..."
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATRACK.BURNT
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATRACK.BURNT"
 msgid "Oh"
@@ -174637,6 +175535,16 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SCEPTER"
 msgid "Makes friends with Twirly Tails!"
 msgstr "¡Hace amistad con los cola rizada!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_ACADEMY.BURNING
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_ACADEMY.BURNING"
+msgid "Stay away! Stay away!"
+msgstr "¡Aléjate! ¡Aléjate!"
+
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_ACADEMY.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_ACADEMY.GENERIC"
+msgid "Old stuff place"
+msgstr "Sitio de cosas viejas"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_ANTIQUITIES.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_ANTIQUITIES.BURNING"
 msgid "Fire! Fire!"
@@ -174736,16 +175644,6 @@ msgstr "¡Ayuda! ¡Ayuda!"
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_HOOFSPA.GENERIC"
 msgid "Boo Boo Place"
 msgstr "Lugar sanador"
-
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_MUSEUM.BURNING
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_MUSEUM.BURNING"
-msgid "Stay away! Stay away!"
-msgstr "¡Aléjate! ¡Aléjate!"
-
-#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_MUSEUM.GENERIC
-msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_MUSEUM.GENERIC"
-msgid "Old stuff place"
-msgstr "Sitio de cosas viejas"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_PRODUCE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_PRODUCE.BURNING"
@@ -178219,6 +179117,11 @@ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATERYGRAVE"
 msgid "Wood drowning!"
 msgstr "¡Madera hundiéndose!"
 
+#. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATHGRITHRHAT"
+msgid "Pokey branch hat"
+msgstr "Sombrero de ramas puntiagudas"
+
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXPAPER"
 msgid "Shiny paper. So shiny"
@@ -179509,6 +180412,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ANTLER"
 msgid "FOR INTERFACING WITH A FLYING FLESHLING"
 msgstr "PARA INTERCONECTARSE CON UN ORGÁNICO VOLADOR"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ANTLER_CORRUPTED
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ANTLER_CORRUPTED"
+msgid "AVIAN ANXIETY INDUCER"
+msgstr "INDUCTOR DE ANSIEDAD AVIAR"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ANTMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ANTMAN.DEAD"
 msgid "NONFUNCTIONING"
@@ -179628,6 +180536,11 @@ msgstr "ERROR: HE CONTEMPLADO EL ABISMO"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORWOOD"
 msgid "UPGRADED ARMOR"
 msgstr "ARMADURA MEJORADA"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_BRAMBLE"
+msgid "DEFEND ME WITH YOUR BODIES, PLANTS"
+msgstr "DEFIÉNDANME CON SUS CUERPOS, PLANTAS"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_LIFEJACKET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMOR_LIFEJACKET"
@@ -180306,6 +181219,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BOOK_GARDENING"
 msgid "A USELESS TOME ON PLANT CULTIVATION"
 msgstr "UN TOMO INÚTIL SOBRE CULTIVO DE PLANTAS"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.BOOK_METEOR
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BOOK_METEOR"
+msgid "WHERE DOES IT PLUG IN?"
+msgstr "¿DÓNDE SE ENCHUFA?"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BOOK_SLEEP"
 msgid "POWERING DOown..."
@@ -180636,6 +181554,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_FERN"
 msgid "YOUR CHARMS WILL NOT WORK ON ME, PLANT."
 msgstr "TUS ENCANTOS NO FUNCIONARÁN EN MÍ, PLANTA."
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_REGENERATOR
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_REGENERATOR"
+msgid "INSTALL AT CAVE OPENING"
+msgstr "INSTALAR EN ENTRADA DE CUEVA"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVIAR"
 msgid "I EXPECTED THEM TO WRIGGLE. DISAPPOINTING"
@@ -180915,6 +181838,11 @@ msgstr "SUROESTE"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COMPASS.W"
 msgid "WEST"
 msgstr "OESTE"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.COMPOSTWRAP
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COMPOSTWRAP"
+msgid "DISGUSTING"
+msgstr "REPUGNANTE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CONSTRUCTION_PERMIT"
@@ -183873,6 +184801,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MEATBALLS"
 msgid "MEAT PACKED INTO THE MOST NUTRITIOUS SHAPE: SPHERES"
 msgstr "CARNE RELLENA EN LA FORMA MÁS NUTRITIVA: ESFERAS"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.MEATED_NETTLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MEATED_NETTLE"
+msgid "NOSE IRRITANT EJECTOR WITH MEAT ATTATCHMENT"
+msgstr "EYECTOR DE IRRITANTES NASALES CON CARNE ADJUNTA"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MEATRACK.BURNT
 #, fuzzy
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MEATRACK.BURNT"
@@ -184478,6 +185411,11 @@ msgstr "SUS PROBABLES CONTENIDOS SON INCIERTOS"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PANFLUTE"
 msgid "I CAN REBOOT FLESHLINGS WITH THIS"
 msgstr "PUEDO REINICIAR SACOS DE CARNE CON ESO"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.PANGOLDEN
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PANGOLDEN"
+msgid "AN ORGANIC WITH A TASTE FOR METAL. CONCERNING"
+msgstr "UN ORGÁNICO CON GUSTO POR EL METAL. PREOCUPANTE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PAPYRUS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PAPYRUS"
@@ -185441,6 +186379,11 @@ msgstr "ADVERTENCIA: SOBRECARGA DE LINDURA"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POG.SLEEPING"
 msgid "THE CUTENESS OVERLOAD CAUSED A BLACKOUT"
 msgstr "LA SOBRECARGA DE LINDURA CAUSÓ UN CORTO CIRCUITO"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.POISONBALM
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POISONBALM"
+msgid "ORGANIC POISON EXTRACTOR"
+msgstr "EXTRACTOR DE VENENO ORGÁNICO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.POISONCROCODOG
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POISONCROCODOG"
@@ -187835,6 +188778,11 @@ msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP"
 msgid "I AM ADEPT AT WEAVING"
 msgstr "SOY EXPERTO TEJIENDO"
 
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_BRAMBLE
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_BRAMBLE"
+msgid "I HATE PLANTS"
+msgstr "ODIO LAS PLANTAS"
+
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_TEETH"
 msgid "THIS WILL PUNCTURE MY ENEMIES' FEET"
@@ -188652,6 +189600,11 @@ msgstr "ES COMO EL CÓDIGO FUENTE DE LAS PLANTAS REDONDAS"
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WATERYGRAVE"
 msgid "JETSAM DETECTED"
 msgstr "RESTOS DE NAUFRAGIO DETECTADOS"
+
+#. STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHRHAT
+msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHRHAT"
+msgid "DUMB HAT"
+msgstr "SOMBRERO RIDÍCULO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WAXPAPER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WAXPAPER"
@@ -196381,7 +197334,7 @@ msgstr "Gigante de hierro"
 
 #. STRINGS.NAMES.ANCIENT_STATUE
 msgctxt "STRINGS.NAMES.ANCIENT_STATUE"
-msgid "Ancient statue"
+msgid "Ancient Statue"
 msgstr "Estatua antigua"
 
 #. STRINGS.NAMES.ANIMAL_TRACK
@@ -196414,6 +197367,11 @@ msgstr "Antiveneno"
 msgctxt "STRINGS.NAMES.ANTLER"
 msgid "Bird Whistle"
 msgstr "Silbato para aves"
+
+#. STRINGS.NAMES.ANTLER_CORRUPTED
+msgctxt "STRINGS.NAMES.ANTLER_CORRUPTED"
+msgid "Nightmarish Bird Whistle"
+msgstr "Silbato para aves oscuro"
 
 #. STRINGS.NAMES.ANTMAN_WARRIOR
 msgctxt "STRINGS.NAMES.ANTMAN_WARRIOR"
@@ -196871,6 +197829,11 @@ msgctxt "STRINGS.NAMES.BIGFOOT"
 msgid "Biiigfoot"
 msgstr "Pie graaande"
 
+#. STRINGS.NAMES.BIGSHADOWTENTACLE
+msgctxt "STRINGS.NAMES.BIGSHADOWTENTACLE"
+msgid "Guardian Shadow Tentacle"
+msgstr "Tentáculo de las sombras guardián"
+
 #. STRINGS.NAMES.BILL
 msgctxt "STRINGS.NAMES.BILL"
 msgid "Platapine"
@@ -197327,6 +198290,11 @@ msgctxt "STRINGS.NAMES.CAVE_FERN"
 msgid "Fern"
 msgstr "Helecho"
 
+#. STRINGS.NAMES.CAVE_REGENERATOR
+msgctxt "STRINGS.NAMES.CAVE_REGENERATOR"
+msgid "Seed of Ruin"
+msgstr "Semilla de las ruinas"
+
 #. STRINGS.NAMES.CAVIAR
 msgctxt "STRINGS.NAMES.CAVIAR"
 msgid "Caviar"
@@ -197349,17 +198317,17 @@ msgstr "Charlie"
 
 #. STRINGS.NAMES.CHESSJUNK1
 msgctxt "STRINGS.NAMES.CHESSJUNK1"
-msgid "Broken clockworks"
+msgid "Broken Clockworks"
 msgstr "Piezas rotas"
 
 #. STRINGS.NAMES.CHESSJUNK2
 msgctxt "STRINGS.NAMES.CHESSJUNK2"
-msgid "Broken clockworks"
+msgid "Broken Clockworks"
 msgstr "Piezas rotas"
 
 #. STRINGS.NAMES.CHESSJUNK3
 msgctxt "STRINGS.NAMES.CHESSJUNK3"
-msgid "Broken clockworks"
+msgid "Broken Clockworks"
 msgstr "Piezas rotas"
 
 #. STRINGS.NAMES.CHESTER
@@ -199323,7 +200291,7 @@ msgstr "Suelo hexagonal"
 
 #. STRINGS.NAMES.INTERIOR_FLOOR_HOOF_CURVY
 msgctxt "STRINGS.NAMES.INTERIOR_FLOOR_HOOF_CURVY"
-msgid "Curcy Hoof Flooring"
+msgid "Curvy Hoof Flooring"
 msgstr "Suelo de pezuñas"
 
 #. STRINGS.NAMES.INTERIOR_FLOOR_MARBLE
@@ -199418,7 +200386,7 @@ msgstr "Tapizado púrpura"
 
 #. STRINGS.NAMES.INTERIOR_WALL_ROPE
 msgctxt "STRINGS.NAMES.INTERIOR_WALL_ROPE"
-msgid "Rope Wall Panneling"
+msgid "Rope Wall Paneling"
 msgstr "Tapizado de cuerdas"
 
 #. STRINGS.NAMES.INTERIOR_WALL_SUNFLOWER
@@ -199977,6 +200945,11 @@ msgstr "Carne"
 msgctxt "STRINGS.NAMES.MEATBALLS"
 msgid "Meatballs"
 msgstr "Albóndigas"
+
+#. STRINGS.NAMES.MEATED_NETTLE
+msgctxt "STRINGS.NAMES.MEATED_NETTLE"
+msgid "Meated Nettles"
+msgstr "Carne de ortiga"
 
 #. STRINGS.NAMES.MEATRACK
 msgctxt "STRINGS.NAMES.MEATRACK"
@@ -201917,6 +202890,11 @@ msgstr "Estatua antigua"
 msgctxt "STRINGS.NAMES.RUINS_BAT"
 msgid "Thulecite Club"
 msgstr "Garrote de tulecita"
+
+#. STRINGS.NAMES.RUINS_CAVEIN_OBSTACLE
+msgctxt "STRINGS.NAMES.RUINS_CAVEIN_OBSTACLE"
+msgid "Blocky Ruins"
+msgstr "Roca de las ruinas"
 
 #. STRINGS.NAMES.RUINS_RUBBLE
 msgctxt "STRINGS.NAMES.RUINS_RUBBLE"
@@ -205774,6 +206752,11 @@ msgctxt "STRINGS.RECIPE_DESC.ANTLER"
 msgid "For calling birds. Did you make it too big?"
 msgstr "Entre más grande, mejor, ¿cierto?"
 
+#. STRINGS.RECIPE_DESC.ANTLER_CORRUPTED
+msgctxt "STRINGS.RECIPE_DESC.ANTLER_CORRUPTED"
+msgid "Strikes fear into even the biggest birds."
+msgstr "Asusta incluso a los pájaros más grandes."
+
 #. STRINGS.RECIPE_DESC.ANTMASKHAT
 msgctxt "STRINGS.RECIPE_DESC.ANTMASKHAT"
 msgid "A face only a Mant could love."
@@ -207946,7 +208929,7 @@ msgstr "Un hogar sencillo para tus semillas."
 
 #. STRINGS.RECIPE_DESC.SMELTER
 msgctxt "STRINGS.RECIPE_DESC.SMELTER"
-msgid "Turn Iron into Alloy"
+msgid "Turn Iron into Alloy."
 msgstr "Convierte el hierro en aleación."
 
 #. STRINGS.RECIPE_DESC.SNAKESKINHAT
@@ -207998,6 +208981,11 @@ msgstr "El oro hace que sea más puntiaguda."
 msgctxt "STRINGS.RECIPE_DESC.SPICEPACK"
 msgid "Freshen up your foodstuffs."
 msgstr "Mantén fresquitos los alimentos."
+
+#. STRINGS.RECIPE_DESC.SPIDEREGGSACK
+msgctxt "STRINGS.RECIPE_DESC.SPIDEREGGSACK"
+msgid "Get a little help from your friends."
+msgstr "Consigue algo de ayuda de tus amigas."
 
 #. STRINGS.RECIPE_DESC.SPIDERHAT
 msgctxt "STRINGS.RECIPE_DESC.SPIDERHAT"
@@ -211336,6 +212324,16 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ANTMAN"
 msgid "Mants"
 msgstr "Hombrigas"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.AUTUMN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.AUTUMN"
+msgid "Autumn"
+msgstr "Otoño"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BEEFALOHEAT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BEEFALOHEAT"
+msgid "Beefalo Mating Frequency"
+msgstr "Frecuencia de apareamiento"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BEES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BEES"
 msgid "Bees"
@@ -211356,6 +212354,21 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BRAMBLES"
 msgid "Brambles"
 msgstr "Zarzas"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BRANCHING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BRANCHING"
+msgid "Branches"
+msgstr "Ramificación del terreno"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CAVE_ENTRANCE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CAVE_ENTRANCE"
+msgid "Caves"
+msgstr "Cuevas"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CHESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CHESS"
+msgid "Clockworks"
+msgstr "Enemigos mecánicos"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DART_TRAPS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DART_TRAPS"
 msgid "Dart Traps"
@@ -211365,6 +212378,11 @@ msgstr "Trampas de dardos"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DAY"
 msgid "Day"
 msgstr "Día"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DECIDUOUSMONSTER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DECIDUOUSMONSTER"
+msgid "Poison Birchnut Trees"
+msgstr "Abedules venenosos"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DEEP_JUNGLE_FERN_NOISE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DEEP_JUNGLE_FERN_NOISE"
@@ -211401,10 +212419,25 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FOG"
 msgid "Fog"
 msgstr "Niebla"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGRAIN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGRAIN"
+msgid "Frog Rain"
+msgstr "Lluvia de ranas"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGS"
+msgid "Frogs"
+msgstr "Ranas"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GLOWFLYCYCLE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GLOWFLYCYCLE"
 msgid "Glowfly Cycle"
 msgstr "Ciclo de resplandomosca"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GOOSEMOOSE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GOOSEMOOSE"
+msgid "Meese/Geese"
+msgstr "Gansoalce"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GRASS_BUNCHES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GRASS_BUNCHES"
@@ -211431,10 +212464,25 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.HUMID_SEASON"
 msgid "Humid Season"
 msgstr "Temporada húmeda"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.HUNT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.HUNT"
+msgid "Hunts"
+msgstr "Huellas de animales"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.JUNGLE_BORDER_VINE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.JUNGLE_BORDER_VINE"
 msgid "Jungle Canopy Vines"
 msgstr "Enredaderas de dosel de selva"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LIEFS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LIEFS"
+msgid "Treeguards"
+msgstr "Árboles guardianes"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOOP
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOOP"
+msgid "Loops"
+msgstr "Curvatura del terreno"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOST_RELICS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOST_RELICS"
@@ -211451,10 +212499,20 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LUSH_SEASON"
 msgid "Lush Season"
 msgstr "Temporada frondosa"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MARSHBUSH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MARSHBUSH"
+msgid "Spiky Bushes"
+msgstr "Arbustos espinosos"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MILD_SEASON
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MILD_SEASON"
 msgid "Mild"
 msgstr "Temporada templada"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MOLES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MOLES"
+msgid "Mole Burrows"
+msgstr "Madrigueras de topolombriz"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MUSHROOM
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MUSHROOM"
@@ -211466,10 +212524,30 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.OCEANWAVES"
 msgid "Waves"
 msgstr "Olas"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PENGUINS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PENGUINS"
+msgid "Pengulls"
+msgstr "Pingüiviotas"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PIGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PIGS"
+msgid "Pigs"
+msgstr "Hombres cerdo"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.POISON
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.POISON"
 msgid "Poison"
 msgstr "Veneno"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PONDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PONDS"
+msgid "Ponds"
+msgstr "Estanques"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.RABBITS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.RABBITS"
+msgid "Rabbit Holes"
+msgstr "Agujeros de conejo"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ROC
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ROC"
@@ -211491,6 +212569,11 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.RUSTED_HULKS"
 msgid "Rusted Hulks"
 msgstr "Gigantes oxidados"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SEASON
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SEASON"
+msgid "Seasons"
+msgstr "Temporadas"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SEASON_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SEASON_START"
 msgid "Season Start"
@@ -211506,6 +212589,16 @@ msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SPIDERS"
 msgid "Spiders"
 msgstr "Arañas"
 
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SPRING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SPRING"
+msgid "Spring"
+msgstr "Primavera"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SUMMER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SUMMER"
+msgid "Summer"
+msgstr "Verano"
+
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TALLBIRDS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TALLBIRDS"
 msgid "Tallbirds"
@@ -211515,6 +212608,11 @@ msgstr "Pájaros altos"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TEMPERATE_SEASON"
 msgid "Temperate Season"
 msgstr "Temporada templada"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TENTACLES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TENTACLES"
+msgid "Tentacles"
+msgstr "Tentáculos"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TIDES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TIDES"
@@ -211550,6 +212648,16 @@ msgstr "Caza de ballenas"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WILDBORES"
 msgid "Wildbores"
 msgstr "Cerdos salvajes"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WILDFIRES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WILDFIRES"
+msgid "Wildfires"
+msgstr "Incendios naturales"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WINTER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WINTER"
+msgid "Winter"
+msgstr "Invierno"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WORLD_SIZE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WORLD_SIZE"
@@ -212403,6 +213511,11 @@ msgstr "Volcán"
 msgctxt "STRINGS.UI.MAINSCREEN.ACCOUNTINFO"
 msgid "Account Info"
 msgstr "Información de la cuenta"
+
+#. STRINGS.UI.MAINSCREEN.ACKNOWLEDGEWARNING
+msgctxt "STRINGS.UI.MAINSCREEN.ACKNOWLEDGEWARNING"
+msgid "Don't Show This Again."
+msgstr "No mostrar de nuevo."
 
 #. STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_HEADER
 msgctxt "STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_HEADER"
@@ -213682,6 +214795,11 @@ msgctxt "STRINGS.UI.OPTIONS.BACKBODY"
 msgid "Do you want to throw out your changes?"
 msgstr "¿Quieres deshacer los cambios?"
 
+#. STRINGS.UI.OPTIONS.BACKPACKMODE
+msgctxt "STRINGS.UI.OPTIONS.BACKPACKMODE"
+msgid "Backpack Layout"
+msgstr "Interfaz de mochila"
+
 #. STRINGS.UI.OPTIONS.BACKTITLE
 msgctxt "STRINGS.UI.OPTIONS.BACKTITLE"
 msgid "Revert Changes?"
@@ -213701,6 +214819,21 @@ msgstr "Cancelar"
 msgctxt "STRINGS.UI.OPTIONS.CLOSE"
 msgid "Close"
 msgstr "Cerrar"
+
+#. STRINGS.UI.OPTIONS.DEFAULT
+msgctxt "STRINGS.UI.OPTIONS.DEFAULT"
+msgid "Default"
+msgstr "Por defecto"
+
+#. STRINGS.UI.OPTIONS.DIM
+msgctxt "STRINGS.UI.OPTIONS.DIM"
+msgid "Dim"
+msgstr "Tenues"
+
+#. STRINGS.UI.OPTIONS.DIMMEST
+msgctxt "STRINGS.UI.OPTIONS.DIMMEST"
+msgid "Dimmest"
+msgstr "Muy tenues"
 
 #. STRINGS.UI.OPTIONS.DISABLED
 msgctxt "STRINGS.UI.OPTIONS.DISABLED"
@@ -213761,6 +214894,16 @@ msgstr "Hamlet"
 msgctxt "STRINGS.UI.OPTIONS.HUDSIZE"
 msgid "HUD size"
 msgstr "Tamaño del HUD"
+
+#. STRINGS.UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED
+msgctxt "STRINGS.UI.OPTIONS.INTEGRATEDBACKPACK_DISABLED"
+msgid "Separated"
+msgstr "Separada"
+
+#. STRINGS.UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED
+msgctxt "STRINGS.UI.OPTIONS.INTEGRATEDBACKPACK_ENABLED"
+msgid "Integrated"
+msgstr "Integrada"
 
 #. STRINGS.UI.OPTIONS.MAXIMAL
 msgctxt "STRINGS.UI.OPTIONS.MAXIMAL"
@@ -213845,6 +214988,11 @@ msgstr "Deshacer"
 msgctxt "STRINGS.UI.OPTIONS.SCREENSHAKE"
 msgid "Screen Shake"
 msgstr "Vibración de pantalla"
+
+#. STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY
+msgctxt "STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY"
+msgid "Screen Flashes"
+msgstr "Destellos en pantalla"
 
 #. STRINGS.UI.OPTIONS.SENDSTATS
 msgctxt "STRINGS.UI.OPTIONS.SENDSTATS"
@@ -213986,7 +215134,7 @@ msgstr "¡Saliendo!"
 #. STRINGS.UI.RESETCAVE.BODY
 msgctxt "STRINGS.UI.RESETCAVE.BODY"
 msgid "Are you sure you want to make a new cave here?"
-msgstr "¿Seguro que quieres hacer una cueva nueva aquí?"
+msgstr "¿Quieres generar una nueva cueva aquí?"
 
 #. STRINGS.UI.RESETCAVE.NO
 msgctxt "STRINGS.UI.RESETCAVE.NO"
@@ -213995,7 +215143,7 @@ msgstr "No"
 
 #. STRINGS.UI.RESETCAVE.TITLE
 msgctxt "STRINGS.UI.RESETCAVE.TITLE"
-msgid "Regen this cave?"
+msgid "Regenerate this cave?"
 msgstr "¿Regenerar esta cueva?"
 
 #. STRINGS.UI.RESETCAVE.YES
@@ -215254,10 +216402,118 @@ msgctxt "STRINGS.WITHEREDITEM"
 msgid "Withered"
 msgstr "marchito(a)"
 
-#. STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY
-msgctxt "STRINGS.UI.OPTIONS.SCREEN_FLASH_INTENSITY"
-msgid "Screen Flashes"
-msgstr "Destellos en pantalla"
+#~ msgctxt "STRINGS.ACTIONS.ADDFUEL"
+#~ msgid "Add Fuel"
+#~ msgstr "Añadir combustible"
+
+#~ msgctxt "STRINGS.ACTIONS.ADDWETFUEL"
+#~ msgid "Add Wet Fuel"
+#~ msgstr "Añadir combustible húmedo"
+
+#~ msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ROOM_STUCK"
+#~ msgid "If I did that, I be stuck here forever."
+#~ msgstr "Si hago eso, estaré atrapado aquí para siempre."
+
+#~ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.GASMASKHAT"
+#~ msgid "Now I can breath anywhere."
+#~ msgstr "Con esto puedo respirar donde sea."
+
+#~ msgctxt "STRINGS.CHARACTERS.WAGSTAFF.DESCRIBE.WINTERHAT"
+#~ msgid "A knitted hat constructed from silk and grass."
+#~ msgstr "Un gorro hecho de lana y seda."
+
+#~ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.EMPTY"
+#~ msgid "I do hope it grows back."
+#~ msgstr "Espero que crezca de nuevo."
+
+#, fuzzy
+#~ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.MOIST"
+#~ msgid "Ah, it's keeps moist with a marinade."
+#~ msgstr "Se mantiene completamente húmeda."
+
+#~ msgctxt "STRINGS.CHARACTERS.WALANI.DESCRIBE.NETTLE.WITHERED"
+#~ msgid "This soil is over-cooking it."
+#~ msgstr "El suelo la está matando."
+
+#~ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.EMPTY"
+#~ msgid "It'll grow back eventually."
+#~ msgstr "Acabará creciendo de nuevo."
+
+#~ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.MOIST"
+#~ msgid "Water really makes it happy."
+#~ msgstr "El agua realmente le hace bien."
+
+#~ msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.NETTLE.WITHERED"
+#~ msgid "Nah. Not the right dirt for it."
+#~ msgstr "Nah. No es el terreno adecuado."
+
+#~ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_REMNANT"
+#~ msgid "Wow. There's a lot of space in there!"
+#~ msgstr "Guau. ¡Hay mucho espacio ahí!"
+
+#~ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORVORTEXCLOAK"
+#~ msgid "Kinda like a security blanket. But also kinda scary."
+#~ msgstr "Como una manta de seguridad. Pero que da miedo."
+
+#~ msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIG_SHOP_TINKER.BURNING"
+#~ msgid "Aw...We liked that place."
+#~ msgstr "Ay... Nos gustaba ese lugar."
+
+#~ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.COCONUT.GENERIC"
+#~ msgid "A tough coconut to crack"
+#~ msgstr "Un coco duro de partir."
+
+#~ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.PLANT_NORMAL.GROWING"
+#~ msgid "It's growing! I guess I'm not a totally incompetant gardener."
+#~ msgstr "¡Está creciendo! Supongo que no se me da tan mal la jardinería."
+
+#~ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.SNAKE_POISON"
+#~ msgid "You're poison does nothing to endear you to me."
+#~ msgstr "Tu veneno no juega a favor de hacerte querer."
+
+#~ msgctxt "STRINGS.CHARACTERS.WHEELER.DESCRIBE.TELESCOPE"
+#~ msgid "I could see farther that this if I was up in my balloon."
+#~ msgstr "Podría abarcar más con la vista desde mi globo."
+
+#~ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_MUSEUM.BURNING"
+#~ msgid "Stay away! Stay away!"
+#~ msgstr "¡Aléjate! ¡Aléjate!"
+
+#~ msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIG_SHOP_MUSEUM.GENERIC"
+#~ msgid "Old stuff place"
+#~ msgstr "Sitio de cosas viejas"
+
+#~ msgctxt "STRINGS.NAMES.ANCIENT_STATUE"
+#~ msgid "Ancient statue"
+#~ msgstr "Estatua antigua"
+
+#~ msgctxt "STRINGS.NAMES.CHESSJUNK1"
+#~ msgid "Broken clockworks"
+#~ msgstr "Piezas rotas"
+
+#~ msgctxt "STRINGS.NAMES.CHESSJUNK2"
+#~ msgid "Broken clockworks"
+#~ msgstr "Piezas rotas"
+
+#~ msgctxt "STRINGS.NAMES.CHESSJUNK3"
+#~ msgid "Broken clockworks"
+#~ msgstr "Piezas rotas"
+
+#~ msgctxt "STRINGS.NAMES.INTERIOR_FLOOR_HOOF_CURVY"
+#~ msgid "Curcy Hoof Flooring"
+#~ msgstr "Suelo de pezuñas"
+
+#~ msgctxt "STRINGS.NAMES.INTERIOR_WALL_ROPE"
+#~ msgid "Rope Wall Panneling"
+#~ msgstr "Tapizado de cuerdas"
+
+#~ msgctxt "STRINGS.RECIPE_DESC.SMELTER"
+#~ msgid "Turn Iron into Alloy"
+#~ msgstr "Convierte el hierro en aleación."
+
+#~ msgctxt "STRINGS.UI.RESETCAVE.TITLE"
+#~ msgid "Regen this cave?"
+#~ msgstr "¿Regenerar esta cueva?"
 
 #~ msgctxt "STRINGS.UI.OPTIONS.DYNAMIC_LOADING"
 #~ msgid "Dynamic Loading"

@@ -53,7 +53,7 @@ local GetRandomItem = _G.GetRandomItem
 local reduce = _G.reduce
 local nearsightednames = nil
 local ModIndex = _G.ModIndex
-local ConfigurationName = ModIndex:GetModConfigurationName("Traducción al Español")
+local ConfigurationName = ModIndex:GetModConfigurationName("Traducciï¿½n al Espaï¿½ol")
 local showAdjectives = GetModConfigData("showAdjectives", ConfigurationName)
 local require = _G.require
 local PREFABS = require("sortedprefabs")
@@ -112,9 +112,10 @@ if oldGetDisplayName and anyDLCEnabled then
             return ConstructAdjectivedName(self, name, STRINGS.WET_PREFIX.RABBITHOLE)
         end
         --[[
-            If a Hamlet building is destroyed and the world is reloaded, it will show "MISSING NAME", I don't know how to show it's
-            proper name based on construction_prefab so I'm just setting name as a unique name for all Hamlet reconstruction projects.
-                Pretty sad.
+            Legacy: If a Hamlet building is destroyed and the world is reloaded, it will show "MISSING NAME".
+            Since the Major Quality of Life and Bug Fix Update released on April 27, this fix is no longer needed,
+            although I'll keep it because it still works and makes me not have to think in a proper fix for a 
+            prefab that can have multiple display names.
         ]]
         if self.construction_prefab then name = STRINGS.NAMES.RECONSTRUCTION_PROJECT end
 
