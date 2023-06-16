@@ -105,5 +105,5 @@ if _G.CraftMonkeyString then
     end
 
     return str
-  end 
+  end
 end

@@ -1,8 +1,8 @@
 --[[
-	WX-78
-	Webber
-	Wilbur
-	Wormwood
+  WX-78
+  Webber
+  Wilbur
+  Wormwood
 ]]
 
 -- Shipwrecked Wildbores. / Cerdos salvajes de Shipwrecked.
@@ -53,8 +53,8 @@ STRINGS.TALKINGBIRD.on_ground[3] = "¡Cabeza hueca!"
 STRINGS.TALKINGBIRD.on_mounted[3] = "¿Sabes lo que haces?"
 
 AddSimPostInit(function(player)
-	if player.prefab == "wilbur" then
-		STRINGS.BORE_TALK_LOOKATWILSON[3] = "FEO MONO NO SALVAJE"
-		STRINGS.PIG_TALK_LOOKATWILSON[3] = "FEO MONO NO SALVAJE"
-	end
+  if player.prefab == "wilbur" then
+    STRINGS.BORE_TALK_LOOKATWILSON[3] = "FEO MONO NO SALVAJE"
+    STRINGS.PIG_TALK_LOOKATWILSON[3] = "FEO MONO NO SALVAJE"
+  end
 end)

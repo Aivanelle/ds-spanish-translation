@@ -16,19 +16,21 @@ local GetActiveCharacterList = _G.GetActiveCharacterList
 
 local column_offsets
 if JapaneseOnPS4() then
-  column_offsets = { 
+  column_offsets =
+  {
     DAYS_LIVED = -35,
     DECEASED = 100,
     CAUSE = 290,
     MODE = 500,
-    }
+  }
 else
-  column_offsets = { 
+  column_offsets =
+  {
     DAYS_LIVED = 0,
     DECEASED = 120,
     CAUSE = 290,
     MODE = 460,
-    }
+  }
 end
 
 -- Function found on scripts/screens/morguescreen - Ln: 184
@@ -46,7 +48,7 @@ function MorgueScreen:RefreshControls()
     local spacing = 52
 
   for k = 1, controls_per_screen do
-    local idx = self.control_offset + k		
+    local idx = self.control_offset + k
 
     if self.mogue[idx] then
       local death = self.mogue[idx]
