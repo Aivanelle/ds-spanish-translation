@@ -21,98 +21,98 @@ end
 local translationFile = GetModConfigData("translationFile")
 
 if translationFile == "ES" then
-	LoadPOFile("translationfiles/spanish_es.po", "es")
+  LoadPOFile("translationfiles/spanish_es.po", "es")
 elseif translationFile == "MX" then
-	LoadPOFile("translationfiles/spanish_mx.po", "es")
+  LoadPOFile("translationfiles/spanish_mx.po", "es")
 else
-	LoadPOFile("translationfiles/spanish_so.po", "es")
+  LoadPOFile("translationfiles/spanish_so.po", "es")
 end
 
 -- Characters not added to any gender table.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
 _G.Set = function(list)
-	local set = {}
-	for _, v in pairs(list) do set[v] = true end
-	return set
+  local set = {}
+  for _, v in pairs(list) do set[v] = true end
+  return set
 end
 
 local Set = _G.Set
 CHARACTER_GENDERS =
 {
-	MALE = Set(_G.CHARACTER_GENDERS.MALE),
-	FEMALE = Set(_G.CHARACTER_GENDERS.FEMALE),
-	ROBOT = Set(_G.CHARACTER_GENDERS.ROBOT),
+  MALE = Set(_G.CHARACTER_GENDERS.MALE),
+  FEMALE = Set(_G.CHARACTER_GENDERS.FEMALE),
+  ROBOT = Set(_G.CHARACTER_GENDERS.ROBOT),
 }
 
 GetPlayer = _G.GetPlayer
 dialogueGender = GetModConfigData("dialogueGender")
 
 local function importStrings()
-	local playerPrefab = GetPlayer().prefab
+  local playerPrefab = GetPlayer().prefab
 
-	if dialogueGender == "auto" then
-		if not CHARACTER_GENDERS.MALE[playerPrefab] then
-			if CHARACTER_GENDERS.FEMALE[playerPrefab] then
-				modimport("scripts/femalestrings.lua")
-			else
-				modimport("scripts/robotstrings.lua")
-			end
-		end
-	elseif dialogueGender == "female" then
-		modimport("scripts/femalestrings.lua")
-	elseif dialogueGender == "robot" then
-		modimport("scripts/robotstrings.lua")
-	end
+  if dialogueGender == "auto" then
+    if not CHARACTER_GENDERS.MALE[playerPrefab] then
+      if CHARACTER_GENDERS.FEMALE[playerPrefab] then
+        modimport("scripts/femalestrings.lua")
+      else
+        modimport("scripts/robotstrings.lua")
+      end
+    end
+  elseif dialogueGender == "female" then
+    modimport("scripts/femalestrings.lua")
+  elseif dialogueGender == "robot" then
+    modimport("scripts/robotstrings.lua")
+  end
 end
 
 local function setWormwoodFont()
-	local talkingWormwood = GetModConfigData("talkingWormwood")
+  local talkingWormwood = GetModConfigData("talkingWormwood")
 
-	if talkingWormwood == "normalFont" and GetPlayer().components.talker then
-		GetPlayer().components.talker.font = TALKINGFONT
-		GetPlayer().components.talker.colour = _G.Vector3(1, 1, 1, 1)
-	end
+  if talkingWormwood == "normalFont" and GetPlayer().components.talker then
+    GetPlayer().components.talker.font = TALKINGFONT
+    GetPlayer().components.talker.colour = _G.Vector3(1, 1, 1, 1)
+  end
 end
 
 local function translateWebberStrings()
-	STRINGS.UI.GENDERSTRINGS.ROBOT.ONE = STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
-	STRINGS.UI.ENDGAME.BODY2 = STRINGS.UI.ENDGAME.BODY2_ES
+  STRINGS.UI.GENDERSTRINGS.ROBOT.ONE = STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
+  STRINGS.UI.ENDGAME.BODY2 = STRINGS.UI.ENDGAME.BODY2_ES
 end
 
 USE_PREFIX = _G.USE_PREFIX
 
 local function enableSUffixes()
-	for _, v in pairs(STRINGS.WET_PREFIX.MALE) do
-		if type(v) == "table" then
-			for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
-		elseif type(v) == "string" then USE_PREFIX[v] = false end
-	end
+  for _, v in pairs(STRINGS.WET_PREFIX.MALE) do
+    if type(v) == "table" then
+      for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
+    elseif type(v) == "string" then USE_PREFIX[v] = false end
+  end
 
-	for _, v in pairs(STRINGS.WET_PREFIX.FEMALE) do
-		if type(v) == "table" then
-			for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
-		elseif type(v) == "string" then USE_PREFIX[v] = false end
-	end
+  for _, v in pairs(STRINGS.WET_PREFIX.FEMALE) do
+    if type(v) == "table" then
+      for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
+    elseif type(v) == "string" then USE_PREFIX[v] = false end
+  end
 end
 
 local IsDLCInstalled = _G.IsDLCInstalled
 
 local function modPostInit(player)
-	enableSUffixes()
-	USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
-	USE_PREFIX[STRINGS.MYSTERIOUS] = false
-	USE_PREFIX[STRINGS.FLOODEDITEM] = false
+  enableSUffixes()
+  USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
+  USE_PREFIX[STRINGS.MYSTERIOUS] = false
+  USE_PREFIX[STRINGS.FLOODEDITEM] = false
 
-	USE_PREFIX[STRINGS.WET_PREFIX.RABBITHOLE] = false
-	USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
-	USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
+  USE_PREFIX[STRINGS.WET_PREFIX.RABBITHOLE] = false
+  USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
+  USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
 
-	importStrings()
+  importStrings()
 
-	if player.prefab == "wormwood" then
+  if player.prefab == "wormwood" then
         setWormwoodFont()
-	elseif player.prefab == "webber" then
+  elseif player.prefab == "webber" then
         translateWebberStrings()
     elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
         modimport("scripts/craftmonkeystring.lua")
@@ -121,9 +121,9 @@ end
 
 
 local function modAdventureTeleportato(prefab)
-	if prefab.components.container.widgetbuttoninfo.text then
-		prefab.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
-	end
+  if prefab.components.container.widgetbuttoninfo.text then
+    prefab.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
+  end
 end
 
 local function modEpitaphs(prefab)
@@ -134,7 +134,7 @@ local function modEpitaphs(prefab)
 end
 
 local function setNoWetPrefix(prefab)
-	if not prefab.no_wet_prefix then prefab.no_wet_prefix = true end
+  if not prefab.no_wet_prefix then prefab.no_wet_prefix = true end
 end
 
 AddSimPostInit(modPostInit)
