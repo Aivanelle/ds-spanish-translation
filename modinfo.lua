@@ -18,7 +18,7 @@ hamlet_compatible = true
 configuration_options =
 {
 	{
-	    name = "translationFile",
+	  name = "translationFile",
 		label = "Traducción",
 		options =
 		{
