@@ -335,3 +335,18 @@ STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID_ES =
     PLURAL = {"¡Mon dieu! Estas %s están húmedas.", "Fiu. Estas %s me cocinan vivo."}
   }
 }
+
+STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOO_HUMID_ES =
+{
+  MALE =
+  {
+    SINGULAR = {"Este %s me hace sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!"},
+    PLURAL = {"Estos %s me hacen sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!"}
+  },
+
+  FEMALE =
+  {
+    SINGULAR = {"Esta %s me hace sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!"},
+    PLURAL = {"Estas %s me hacen sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!"}
+  }
+}

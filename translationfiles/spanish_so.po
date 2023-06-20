@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.3.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 36914,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 31760,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -158860,17 +158860,17 @@ msgstr "Un poco maduro. ¿O todavía no lo estaba?"
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.BUILD.MOUNTED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.BUILD.MOUNTED"
 msgid "It be too high fer ol' Woodlegs."
-msgstr ""
+msgstr "Demasiado alto para el viejo Woodlegs."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.CHANGEIN.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.CHANGEIN.BURNING"
 msgid "'Tis a roarin' fire!"
-msgstr "¡Está escupiendo fuego!"
+msgstr "¡Un feroz fuego!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.CHANGEIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.CHANGEIN.GENERIC"
 msgid "Woodlegs'll not be changin' t'day!"
-msgstr "¡Patapalo no cambiará hoy!"
+msgstr "¡Woodlegs no se cambiará hoy!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.COOK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.COOK.GENERIC"
@@ -158885,12 +158885,12 @@ msgstr "¡Está a leguas de distancia!"
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.DRAW.NOIMAGE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.DRAW.NOIMAGE"
 msgid "What be ol' Woodlegs muse?"
-msgstr ""
+msgstr "¿Qué será la musa del viejo Woodlegs?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.GIVE.BUSY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.GIVE.BUSY"
 msgid "It be ignorin' ol'Woodlegs!"
-msgstr "¡Ignora al viejo Patapalo!"
+msgstr "¡Ignora al viejo Woodlegs!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.GIVE.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.GIVE.DEAD"
@@ -158905,12 +158905,12 @@ msgstr "Está durmiendo."
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.MOUNT.INUSE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.MOUNT.INUSE"
 msgid "It be some'ne elses' beastie."
-msgstr ""
+msgstr "Ya es la bestia de otro marinero."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.MOUNT.TARGETINCOMBAT"
 msgid "It be i'tha midst o'battle."
-msgstr ""
+msgstr "Está a mitad de una pelea."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.REPAIRBOAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.REPAIRBOAT.GENERIC"
@@ -158920,17 +158920,17 @@ msgstr "¡Está como nuevo!"
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.RUMMAGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.RUMMAGE.GENERIC"
 msgid "No need! Yarrr!"
-msgstr "¡No me hace falta! ¡Arrr!"
+msgstr "¡No será necesario! ¡Arrr!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SADDLE.TARGETINCOMBAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SADDLE.TARGETINCOMBAT"
 msgid "Too orn'ry at tha' moment."
-msgstr ""
+msgstr "Demasiado malhumorado ahora mismo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHAVE.AWAKEBEEFALO"
 msgid "Woodlegs ain't no fool!"
-msgstr "¡Patapalo no es idiota!"
+msgstr "¡Woodlegs no es un imbécil!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHAVE.GENERIC"
@@ -158945,12 +158945,12 @@ msgstr "No tiene nada que afeitar."
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHOP.CANTPAY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHOP.CANTPAY"
 msgid "Ol' Woodlegs d'na ha'tha doubloons fer't."
-msgstr ""
+msgstr "El viejo Woodlegs olvidó sus doblones."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.SHOP.GENERIC"
 msgid "Arrrg. 'tis na fer sale."
-msgstr ""
+msgstr "Arrrr. No está a la venta."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.STORE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.STORE.GENERIC"
@@ -158960,7 +158960,7 @@ msgstr "Está lleno."
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.STORE.NOTALLOWED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.STORE.NOTALLOWED"
 msgid "Thet don't b'longin'thar."
-msgstr "Esto no es de aquí."
+msgstr "Eso no va ahí."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.TEACH.CANTLEARN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.TEACH.CANTLEARN"
@@ -158975,17 +158975,17 @@ msgstr "Arrr."
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.USEDOOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.USEDOOR.GENERIC"
 msgid "'tis closed ta me."
-msgstr ""
+msgstr "Cerrado."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.USEDOOR.LOCKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.USEDOOR.LOCKED"
 msgid "It be needin' somethin' ta open't."
-msgstr ""
+msgstr "Necesito algo para abrirlo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.WRAPBUNDLE.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.WRAPBUNDLE.EMPTY"
 msgid "Thar b'nothin' ta wrap!"
-msgstr ""
+msgstr "¡No tengo nada para envolver!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.WRITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ACTIONFAIL.WRITE.GENERIC"
@@ -159000,27 +159000,27 @@ msgstr "No puedo hacer eso."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_ALARMOVER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_ALARMOVER"
 msgid "Ol'Woodlegs wins ag'in!"
-msgstr ""
+msgstr "¡El viejo Woodlegs gana de nuevo!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_BATS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_BATS"
 msgid "Beasties be flappin' about."
-msgstr ""
+msgstr "Bestias revoloteando en derredor."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_OTHERWORLD_DEED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_OTHERWORLD_DEED"
 msgid "'Tis not from 'round here."
-msgstr ""
+msgstr "Eso no es de por acá."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_UNDERLEAFCANOPY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUCE_UNDERLEAFCANOPY"
 msgid "'Tis dark!"
-msgstr ""
+msgstr "¡Está oscuro!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ACCOMPLISHMENT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ACCOMPLISHMENT"
 msgid "Glory fer ol'Woodlegs!"
-msgstr "¡Gloria para el viejo Patapalo!"
+msgstr "¡Gloria para el viejo Woodlegs!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ACCOMPLISHMENT_DONE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ACCOMPLISHMENT_DONE"
@@ -159030,17 +159030,17 @@ msgstr "¡Si mis camaradas de a bordo pudieran verme ahora!"
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ADVENTUREFAIL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ADVENTUREFAIL"
 msgid "Thet didn't go by plans. Might'n try again."
-msgstr "Esto no ha salido según lo planeado. Tal vez vuelva a intentarlo."
+msgstr "Eso no ha salido bien. Tal vez vuelva a intentarlo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BEES
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BEES"
 msgid "Back ye tiny winged devils!"
-msgstr "¡Atrás, pequeños diablos con alas!"
+msgstr "¡Atrás, pequeñas ratas aladas!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOAT_DAMAGED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOAT_DAMAGED"
 msgid "She's takin' on water!"
-msgstr "¡Se está empapando!"
+msgstr "¡Debemos tocar puerto!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOAT_SINKING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOAT_SINKING"
@@ -159050,17 +159050,17 @@ msgstr "¡Se está hundiendoooo!"
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOAT_SINKING_IMMINENT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOAT_SINKING_IMMINENT"
 msgid "Be this th'day th'sea claims me?"
-msgstr "¿Será este el día en que el mar me reclame?"
+msgstr "¿Será este el fin del viejo Woodlegs?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BOOMERANG"
 msgid "Infernal weapon!"
-msgstr "¡Arma infernal!"
+msgstr "¡Arma del infierno!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BURNT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_BURNT"
 msgid "Ouch!"
-msgstr "¡Ay!"
+msgstr "¡Auch, arr!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CANFIX"
@@ -159069,17 +159069,17 @@ msgid ""
 "I can fix this, methinks."
 msgstr ""
 "\n"
-"Puedo arreglarlo, creo."
+"Puedo arreglar eso, creo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CHARLIE"
 msgid "Whut'n th'blazes was thet!"
-msgstr "¡Pero qué demonios era eso!"
+msgstr "¡Por Neptuno, qué era eso!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CHARLIE_ATTACK"
 msgid "I be bitten!"
-msgstr "¡Me han atacado!"
+msgstr "¡Me han dado!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_COLD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_COLD"
@@ -159089,7 +159089,7 @@ msgstr "¡Arrrr, brrrrr!"
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CRAB_ESCAPE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CRAB_ESCAPE"
 msgid "Where'd th'lil devil go?"
-msgstr "¿Dónde se ha metido ese pequeño diablo?"
+msgstr "¿Dónde se ha metido esa pequeña alimaña?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_CRAFTING_FAIL"
@@ -159104,17 +159104,17 @@ msgstr "¡Mis pantalones están empapados!"
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DEERCLOPS"
 msgid "Some big devil be upon me!"
-msgstr "¡Algún diablo grande está sobre mí!"
+msgstr "¡Alguna gran escoria viene por mí!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DEHUMID.1
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DEHUMID.1"
 msgid "Ah! Th'air be cool again."
-msgstr ""
+msgstr "¡Ah! Aire fresco otra vez."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_DUSK"
 msgid "It be gettin' late. Dark be on th'horizon."
-msgstr "Se está haciendo tarde. El horizonte se está oscureciendo."
+msgstr "Se hace tarde. El horizonte se está oscureciendo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_EAT.GENERIC"
@@ -159134,12 +159134,12 @@ msgstr "No me siento muy bien."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_EAT.SPOILED"
 msgid "Thet don't be agreein' wit' me guts."
-msgstr "Eso no le gustará a mi estómago."
+msgstr "Mi estómago no aceptará eso."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_EAT.STALE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_EAT.STALE"
 msgid "Thet were past th'freshness date."
-msgstr "Esto ya ha caducado."
+msgstr "Ya no sirve."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ENTER_DARK"
@@ -159159,52 +159159,52 @@ msgstr "¡Soy libre!"
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_GAS_DAMAGE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_GAS_DAMAGE"
 msgid "Koff! Koff! Smelly as tha bilgewater!"
-msgstr ""
+msgstr "¡Cof, cof! ¡Huele a agua de sentina!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER"
 msgid "Me nose be itchier than a sliver in me pegleg."
-msgstr ""
+msgstr "Me pica más la nariz que una astilla en mi pierna."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER_OFF
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HAYFEVER_OFF"
 msgid "Ah! Th'air be clear again!"
-msgstr ""
+msgstr "¡Ah! ¡Vientos frescos otra vez!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HIGHRESEARCH"
 msgid "Ol'Woodlegs noggin' be workin' today!"
-msgstr "¡El viejo Patapalo le ha estado dando hoy al coco!"
+msgstr "¡El viejo Woodlegs le ha estado dando hoy al coco!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HOT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HOT"
 msgid "Needs me a... ice chip er two..."
-msgstr "Me hace falta un... cubito o dos..."
+msgstr "Necesito algo de hielo... bastante hielo..."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HOUNDS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HOUNDS"
 msgid "Whut be thet noise signallin'?"
-msgstr "¿Qué indicará ese ruido?"
+msgstr "¿Qué son esos atroces sonidos?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HOUSE_DOOR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HOUSE_DOOR"
 msgid "Woodlegs be needin'a permit fer't."
-msgstr ""
+msgstr "Woodlegs necesitará un permiso primero."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNGRY"
 msgid "I be hungry..."
-msgstr "Tengo hambre..."
+msgstr "Arrr, qué hambre..."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNT_BEAST_NEARBY"
 msgid "Th'tracks be fresh. Th'devil be near hereabouts."
-msgstr "Las huellas estás recientes. Ese diablo debe de estar cerca."
+msgstr "Huellas frescas. La bestia debe andar cerca."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNT_LOST_TRAIL"
 msgid "Th'trail be lost."
-msgstr "He perdido el rastro."
+msgstr "Le he perdido el rastro."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_HUNT_LOST_TRAIL_SPRING"
@@ -159214,12 +159214,12 @@ msgstr "El rastro se ha borrado."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_INSUFFICIENTFERTILIZER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_INSUFFICIENTFERTILIZER"
 msgid "De ye need more poop, plant?"
-msgstr "¿Necesitas más estiércol, planta?"
+msgstr "¿Necesitas más excremento, planta?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_INV_FULL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_INV_FULL"
 msgid "I can't be luggin' anymore things!"
-msgstr "¡No puedo llevar más cosas!"
+msgstr "¡Nosotros los piratas no somos cargueros!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_KNOCKEDOUT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_KNOCKEDOUT"
@@ -159229,17 +159229,17 @@ msgstr "Arrr, mi cabeza..."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED"
 msgid "Ye didn't get ol'Woodlegs, sky bolts!"
-msgstr "¡No podéis alcanzar a Patapalo, rayos del cielo!"
+msgstr "¡Yo, ho! ¡Nunca alcanzarán al viejo Woodlegs!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_LOWRESEARCH"
 msgid "This ol'dawg didn't be learnin' any new tricks thar."
-msgstr "Este viejo trasto ya no aprenderá más trucos, arrr."
+msgstr "Este viejo no aprenderá más trucos de eso, arrr."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAGIC_FAIL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAGIC_FAIL"
 msgid "Thet's not fer this land!"
-msgstr "¡Eso no es para esta tierra!"
+msgstr "¡Eso no es para estas tierras!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAPWRAP_LOSECONTROL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAPWRAP_LOSECONTROL"
@@ -159249,7 +159249,7 @@ msgstr "Hacia las sombras y las tinieblas..."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAPWRAP_RETURN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAPWRAP_RETURN"
 msgid "Ta th'edge o'th'world and back!"
-msgstr "¡Hasta el fin del mundo y regresar!"
+msgstr "¡Hasta el fin del mundo y de regreso!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAPWRAP_WARN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MAPWRAP_WARN"
@@ -159269,32 +159269,32 @@ msgstr "¡Tesoros! ¡¡¡Más y más tesoros!!!"
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MOSQUITOS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MOSQUITOS"
 msgid "Back ye blood-sucking devils!"
-msgstr "¡Atrás, diablos chupasangre!"
+msgstr "¡Atrás, demonios chupasangre!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_DOOR_FOUND
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_DOOR_FOUND"
 msgid "Ol' Woodlegs found'a door!"
-msgstr ""
+msgstr "¡El viejo Woodlegs encontró una puerta!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_DOOR_NOT_FOUND"
 msgid "Bah. Nothin'."
-msgstr ""
+msgstr "Bah. No hay nada."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_FOUND
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_FOUND"
 msgid "Treasure!"
-msgstr ""
+msgstr "¡Tesoro!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_NOREWARD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_MYSTERY_NOREWARD"
 msgid "Bah. Tha treasure be gone."
-msgstr ""
+msgstr "Bah. Ni rastro del tesoro."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODANGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODANGERSIESTA"
 msgid "This ain't be th'time fer nappin'."
-msgstr "Esta no es hora de echarse la siesta."
+msgstr "Este no es momento de dormir."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODANGERSLEEP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODANGERSLEEP"
@@ -159304,7 +159304,7 @@ msgstr "Esta no es la hora de dormir."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODAYSLEEP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODAYSLEEP"
 msgid "It be too bright ta shut me eye."
-msgstr "Hay demasiada claridad para cerrar los ojos."
+msgstr "Hay demasiada luz para cerrar los ojos."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODAYSLEEP_CAVE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NODAYSLEEP_CAVE"
@@ -159314,12 +159314,12 @@ msgstr "No estoy cansado."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NOHUNGERSIESTA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NOHUNGERSIESTA"
 msgid "I be too hungry fer a nap."
-msgstr "Tengo mucha hambre para una siesta."
+msgstr "Tengo mucha hambre para dormir."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NOHUNGERSLEEP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NOHUNGERSLEEP"
 msgid "Me tummy be grumblin' too loud ta sleep."
-msgstr "Mi barriga está haciendo mucho ruido para dormir."
+msgstr "Mi barriga hace mucho ruido como para dormir."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NONIGHTSIESTA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NONIGHTSIESTA"
@@ -159339,62 +159339,62 @@ msgstr "No me gusta la idea de una cama ardiendo."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NOTHING_FOUND
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NOTHING_FOUND"
 msgid "Thar b'nothin' ta find 'round these parts."
-msgstr ""
+msgstr "No hay nada por estos lares."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NO_TRAP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_NO_TRAP"
 msgid "No trouble!"
-msgstr "¡No hay problema!"
+msgstr "¡Sin problema!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_OTHER_WORLD_PLANT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_OTHER_WORLD_PLANT"
 msgid "I don't be thinkin' this plant belongs here."
-msgstr "No creo que esta planta sea de aquí."
+msgstr "No creo que esa planta sea de aquí."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_OTHER_WORLD_TREASURE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_OTHER_WORLD_TREASURE"
 msgid "Th'map don't be matchin' th'land."
-msgstr "El mapa no coincide con esta tierra."
+msgstr "El mapa no coincide con estas tierras."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PECKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PECKED"
 msgid "Keep yer beak ta yerself!"
-msgstr "¡Guárdate el pico para ti!"
+msgstr "¡Guárdate ese pico para ti!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.1
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.1"
 msgid "Arrgh!"
-msgstr ""
+msgstr "¡Argh!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.2
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.2"
 msgid "Avast!"
-msgstr ""
+msgstr "¡Por todos los mares!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.3
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PICKPOOP.3"
 msgid "Ye repulsive thing!"
-msgstr ""
+msgstr "¡Cosa asquerosa!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PUGALISK_INVULNERABLE.1
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PUGALISK_INVULNERABLE.1"
 msgid "Tha' hide be too tough!"
-msgstr ""
+msgstr "¡Un pellejo demasiado duro!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PUGALISK_INVULNERABLE.2
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PUGALISK_INVULNERABLE.2"
 msgid "Where's me harpoon!"
-msgstr ""
+msgstr "¿Dónde está mi arpón?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PUGALISK_INVULNERABLE.3
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_PUGALISK_INVULNERABLE.3"
 msgid "What's ye weakness, ye land Leviathan?"
-msgstr ""
+msgstr "¿Dónde está tu debilidad, leviatán de tierra firme?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_QUAKE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_QUAKE"
 msgid "Th'world be belchin'."
-msgstr "La tierra está eruptando."
+msgstr "El mundo se desmorona."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_RESEARCH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_RESEARCH"
@@ -159404,7 +159404,7 @@ msgstr "El timón está girando."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ROOM_STUCK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_ROOM_STUCK"
 msgid "Ol' Woodlegs is na lookin' ta get trapped'ere!"
-msgstr ""
+msgstr "¡El viejo Woodlegs no quiere estar atrapado aquí!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SHARX
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SHARX"
@@ -159419,52 +159419,52 @@ msgstr "Quédate a mi lado, árbol."
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SNEEZE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SNEEZE"
 msgid "Ahh-pheww!!"
-msgstr ""
+msgstr "¡¡Ahh… chúúú!!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SOAKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SOAKED"
 msgid "Me soaked ta th'bones!"
-msgstr "¡Estoy calado hasta los huesos!"
+msgstr "¡Estoy mojado hasta los huesos!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SUITUP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_SUITUP"
 msgid "Yarrrrrg!"
-msgstr ""
+msgstr "¡Arrrr!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TAXDAY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TAXDAY"
 msgid "Ye'll be needin' ta pay tha taxes!"
-msgstr ""
+msgstr "¡Todos a pagar impuestos!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_THORNS"
 msgid "Ye poky devils ye!"
-msgstr "¡Diablo con cuernos!"
+msgstr "¡Maldita sea!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOOLCORRODED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOOLCORRODED"
 msgid "Arrgh! Me tools be fallin' apart!"
-msgstr ""
+msgstr "¡Arrr! ¡Mis herramientas se caen a pedazos!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOOL_SLIP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOOL_SLIP"
 msgid "Slipped right from me hands!"
-msgstr "¡Se me ha escurrido de las manos!"
+msgstr "¡Se ha escurrido de mis manos!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOO_HUMID.1
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOO_HUMID.1"
 msgid "Arrgh! It be hot!"
-msgstr ""
+msgstr "¡Arrr! ¡Hace calor!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOO_HUMID.2
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOO_HUMID.2"
 msgid "This %s is makin' me sweat me britches."
-msgstr ""
+msgstr "Estoy sudando como un limpiacubiertas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TORCH_OUT"
 msgid "Me light went out!"
-msgstr "¡Se ha apagado la luz!"
+msgstr "¡Ya no tengo luz!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TRAP_WENT_OFF
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TRAP_WENT_OFF"
@@ -159479,62 +159479,62 @@ msgstr "¡Mi red está llena!"
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TREASURE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TREASURE"
 msgid "Th'map marks th'spot o'treasure!"
-msgstr "¡El mapa señala el lugar del tesoro!"
+msgstr "¡El mapa marca el lugar del tesoro!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TREASURE_DISCOVER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TREASURE_DISCOVER"
 msgid "Me pirate sense be tinglin'."
-msgstr "Mi sentido pirata me está haciendo cosquillas."
+msgstr "Mi sentido pirata nunca falla."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TURFTOOHARD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TURFTOOHARD"
 msgid "No use pullin' up this ground."
-msgstr ""
+msgstr "Es inútil trabajar esta tierra."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_UNIMPLEMENTED"
 msgid "It ain't be ready yet."
-msgstr "Esto no está listo."
+msgstr "Eso no está listo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_VOLCANO_ERUPT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_VOLCANO_ERUPT"
 msgid "Th'fire devils be belchin'!"
-msgstr "¡Los diablos de fuego están eruptando!"
+msgstr "¡Los demonios del fuego están eructando!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WAVE_BOOST
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WAVE_BOOST"
 msgid "We be a silver streak on th'blue now!"
-msgstr "¡Hay una veta de plata en el azul ahora!"
+msgstr "¡A toda vela!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WET
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WET"
 msgid "Me pirate blouse be takin' on water."
-msgstr "Mi blusa pirata se ha mojado."
+msgstr "Mi camisa pirata se ha mojado."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WETTER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WETTER"
 msgid "I likes me water ta stay 'neath me boat."
-msgstr "Me gusta que el agua esté debajo del barco."
+msgstr "Prefiero el agua debajo de mi bote."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WHALE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WHALE_HUNT_BEAST_NEARBY"
 msgid "A big devil be near'abouts."
-msgstr "Un gran diablo anda cerca."
+msgstr "Una gran bestia anda cerca."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WHALE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WHALE_HUNT_LOST_TRAIL"
 msgid "Me lost th'devils trail..."
-msgstr "He perdido el rastro de ese diablo de mar..."
+msgstr "He perdido el rastro de la bestia marina..."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WHALE_HUNT_LOST_TRAIL_SPRING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WHALE_HUNT_LOST_TRAIL_SPRING"
 msgid "Like findin' a wet needle inna wet haystack."
-msgstr "Como encontrar una aguja húmeda en un pajar húmedo."
+msgstr "Como encontrar una astilla húmeda en un pajar húmedo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WOODLEGSHAT_INDOORS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WOODLEGSHAT_INDOORS"
 msgid "Me lucky 'at cannae be lucky in'ere."
-msgstr ""
+msgstr "Mi sombrero de la suerte no trae suerte aquí."
 
 #. STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_WORMHOLE"
@@ -159544,7 +159544,7 @@ msgstr "Debo de estar volviéndome loco."
 #. STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.GENERIC"
 msgid "Ye messed wit' th'wrong pirate!"
-msgstr "¡Te has metido con el pirata equivocado!"
+msgstr "¡Te metiste con el capitán equivocado, arrr!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.PIG
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.PIG"
@@ -159559,17 +159559,17 @@ msgstr "¡Te presento a tu muerte!"
 #. STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.SPIDER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.SPIDER"
 msgid "I'm gunna peg leg ye ta death!"
-msgstr "¡Voy a pisotearte con mis patas de palo hasta la muerte!"
+msgstr "¡Te pisotearé con mi pata de palo hasta morir!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.BATTLECRY.SPIDER_WARRIOR"
 msgid "I'm gunna peg leg ye ta death!"
-msgstr "¡Voy a pisotearte con mis patas de palo hasta la muerte!"
+msgstr "¡Te pisotearé con mi pata de palo hasta morir!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.GENERIC"
 msgid "How'd ye like yer taste o'pirate?"
-msgstr "¿Has probado ya lo que es un pirata?"
+msgstr "¿Te ha gustado la probadita pirata?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.PIG
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.PIG"
@@ -159579,17 +159579,17 @@ msgstr "Ya me ensuciarás otro día."
 #. STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.PREY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.PREY"
 msgid "It be too fast fer me peg leg."
-msgstr "Es demasiado rápida para mi pata de palo."
+msgstr "Muy rápida para mi pata de palo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.SPIDER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.SPIDER"
 msgid "Try me again ye leggy devil."
-msgstr "Inténtalo otra vez, diablo con mil patas."
+msgstr "Inténtalo otra vez, demonio con patas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.COMBAT_QUIT.SPIDER_WARRIOR"
 msgid "Try me again ye leggy devil."
-msgstr "Inténtalo otra vez, diablo con mil patas."
+msgstr "Inténtalo otra vez, demonio con patas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.1.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.1.BURNING"
