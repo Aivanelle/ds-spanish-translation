@@ -965,6 +965,7 @@ return {
       -- TOOL = Set{}, -- RESBALADIZOS
 
       FUEL = Set{ -- MOJADOS
+        "ancient_remnant",
         "boards",
         "cutreeds",
         "gears",
@@ -981,7 +982,7 @@ return {
       },
 
       GENERIC = Set{ -- HÚMEDOS
-        "ancient_remnant",
+        -- "ancient_remnant",
         "asparagus_planted",
         "blueprint",
         "boneshard",
