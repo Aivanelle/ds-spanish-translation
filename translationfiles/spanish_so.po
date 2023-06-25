@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.3.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 32000,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 32200,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -160799,27 +160799,29 @@ msgstr "¿Qué vive ahí? Estoy confundido."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CATCOONHAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CATCOONHAT"
 msgid "Hope none o'me mates catch me in this gettup."
-msgstr "Espero que ninguno de mis compañeros me pille de esta guisa."
+msgstr "Espero que mis camaradas no me vean con eso."
 
+# Juego de palabras con la expresión "Be go bananas".
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_BANANA
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_BANANA"
 msgid "I must be goin' banana's down here."
-msgstr "Hace un frío que pela aquí abajo."
+msgstr "Qué desgracia ser del subsuelo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_BANANA_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_BANANA_COOKED"
 msgid "Not bad."
-msgstr "No está mal."
+msgstr "Nada mal."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_BANANA_TREE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_BANANA_TREE"
 msgid "Now ol'Woodlegs has seen it all."
-msgstr "Ahora el viejo Patapalo lo ha visto todo."
+msgstr "El viejo Woodlegs ya lo ha visto todo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_ENTRANCE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_ENTRANCE.GENERIC"
 msgid "I ain't one fer climbin' in holes like a swab."
-msgstr "Lo mío no es trepar hasta agujeros como un pajarraco."
+msgstr "Yo no me meto en ningún agujero como un cobarde."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_ENTRANCE.OPEN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_ENTRANCE.OPEN"
@@ -160834,7 +160836,7 @@ msgstr "De vuelta al cielo abierto."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_EXIT_ROC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_EXIT_ROC"
 msgid "Thar be a way out!"
-msgstr ""
+msgstr "¡Una salida!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_FERN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_FERN"
@@ -160844,7 +160846,7 @@ msgstr "¿Cómo has crecido aquí sin luz?"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_REGENERATOR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVE_REGENERATOR"
 msgid "Got a funny feelin' about bringin' it back to the mouth o'this cave."
-msgstr ""
+msgstr "El cuerpo me pide llevarla de vuelta a la boca de la cueva."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVIAR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CAVIAR"
@@ -160854,27 +160856,27 @@ msgstr "¡Comida presuntuosa para marineros de agua dulce!"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CEVICHE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CEVICHE"
 msgid "Whut tasty creatures dredged up frum th'sea!"
-msgstr "¡Qué criaturas más sabrosas hay en el mar!"
+msgstr "¡Qué bestias tan deliciosas hay en el mar!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHARCOAL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHARCOAL"
 msgid "Burnt ta a brickette."
-msgstr "Quemado hasta convertirse en carbón."
+msgstr "Quemado hasta ser una briqueta."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESSJUNK1
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESSJUNK1"
 msgid "Somebody's a sore loser."
-msgstr "Alguien es un perdedor resentido."
+msgstr "Alguien no sabe perder."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESSJUNK2
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESSJUNK2"
 msgid "Somebody's a sore loser."
-msgstr "Alguien es un perdedor resentido."
+msgstr "Alguien no sabe perder."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESSJUNK3
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESSJUNK3"
 msgid "Somebody's a sore loser."
-msgstr "Alguien es un perdedor resentido."
+msgstr "Alguien no sabe perder."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESTER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESTER"
@@ -160889,102 +160891,102 @@ msgstr "Tienes un ojo bonito."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESTER_EYEBONE.WAITING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHESTER_EYEBONE.WAITING"
 msgid "'Tis gettin' some shut-eye."
-msgstr "Está echando una cabezada."
+msgstr "Se está echando una siesta."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHICKEN.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHICKEN.DEAD"
 msgid "Walk'd tha'plank."
-msgstr ""
+msgstr "Caminó por el tablón."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHICKEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHICKEN.GENERIC"
 msgid "Yer a tiny bird."
-msgstr ""
+msgstr "Eres un pájaro pequeño."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHICKEN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHICKEN.SLEEPING"
 msgid "Be grabbin' shuteye."
-msgstr ""
+msgstr "Está echando un sueño."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHIMINEA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHIMINEA"
 msgid "Keeps th'wind off a good fire."
-msgstr "Mantiene el viento alejado de un buen fuego."
+msgstr "Mantiene los vientos alejados del buen fuego."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHITIN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CHITIN"
 msgid "A harden'd hull."
-msgstr ""
+msgstr "Una cáscara endurecida."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_HAMMER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_HAMMER"
 msgid "'Tis a pow'rful 'ammer!"
-msgstr ""
+msgstr "¡Un martillo poderoso!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.GENERIC"
 msgid "Sanctuary!"
-msgstr ""
+msgstr "¡Cobijo!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.ON
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CITY_LAMP.ON"
 msgid "A landlamp."
-msgstr ""
+msgstr "Una boya de tierra."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLAWPALMTREE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLAWPALMTREE"
 msgid "Strange wood b'within."
-msgstr ""
+msgstr "Es de una madera muy extraña."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLAWPALMTREE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLAWPALMTREE_SAPLING"
 msgid "Too small fer a mast."
-msgstr ""
+msgstr "Demasiado pequeño para un mástil."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLIPPINGS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLIPPINGS"
 msgid "A bit o' plant bilge."
-msgstr ""
+msgstr "Basura de plantas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLOTHSAIL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CLOTHSAIL"
 msgid "Fancy sail, thet."
-msgstr "Una vela bonita."
+msgstr "Una buena vela."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONADE.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONADE.BURNING"
 msgid "Surprise! 'Tis explodin' fruit!"
-msgstr "¡Sorpresa! ¡Una fruta que explota!"
+msgstr "¡Sorpresa! ¡Una fruta que explota, arrr!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONADE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONADE.GENERIC"
 msgid "Packs a fruit punch!"
-msgstr "¡Esta fruta pega fuerte!"
+msgstr "¡Esa fruta pega fuerte!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT.GENERIC"
 msgid "Aye, me favorite tree fruit."
-msgstr "Sí, mi fruta de árbol preferida."
+msgstr "Yo, ho, mi fruta de árbol favorita."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT.PLANTED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT.PLANTED"
 msgid "Tis a fruit no more!"
-msgstr "¡Ya no es un fruto!"
+msgstr "¡Ya no es fruta!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT_COOKED"
 msgid "'Tis even better cooked o'er a fire."
-msgstr "Esto estará aún mejor cocinado al fuego."
+msgstr "Es aún mejor cocinado al fuego."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT_HALVED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COCONUT_HALVED"
 msgid "Its flesh be prone fer th'takin'."
-msgstr "Su pulpa está ya madura."
+msgstr "Su pulpa ya está madura."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEE"
 msgid "Arrr thet be th'real treasure."
-msgstr "Arrr, ahí hay un tesoro de verdad."
+msgstr "Arrr, un tesoro de verdad."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBEANS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBEANS"
@@ -160992,6 +160994,7 @@ msgid "Just add water."
 msgstr "Solo añade agua."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBEANS_COOKED
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBEANS_COOKED"
 msgid "No hot water?"
 msgstr "¿No hay agua caliente?"
@@ -160999,17 +161002,17 @@ msgstr "¿No hay agua caliente?"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBOT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBOT"
 msgid "Brew Woodlegs' coffee!"
-msgstr "¡Hace el café de Patapalo!"
+msgstr "¡Le hace café a Woodlegs!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.BARREN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.BARREN"
 msgid "It needs a spot o'poop."
-msgstr "Necesita un montón de estiércol."
+msgstr "Necesita una repasada con excremento."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.GENERIC"
 msgid "A crop after me bitter, black heart!"
-msgstr "¡Una planta como mi amargo y negro corazón!"
+msgstr "¡Una planta amarga y oscura como mi corazón!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.PICKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.PICKED"
@@ -161019,7 +161022,7 @@ msgstr "Espero que vuelvan a crecer pronto."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.WITHERED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COFFEEBUSH.WITHERED"
 msgid "It needs a mug o'java ta perk up."
-msgstr "Necesita una taza de café para crecer."
+msgstr "Le falta una taza de café para animarse."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIRE.EMBERS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIRE.EMBERS"
@@ -161034,7 +161037,7 @@ msgstr "Las llamas devorarán la oscuridad."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIRE.HIGH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIRE.HIGH"
 msgid "I be glad this fire is in a pit and not on me ship."
-msgstr "Me alegro de que este fuego esté en una hoguera y no en mi barco."
+msgstr "Me alegro de que esté en una hoguera y no en mi barco."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIRE.LOW
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIRE.LOW"
@@ -161064,7 +161067,7 @@ msgstr "Las llamas devorarán la oscuridad."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIREPIT.HIGH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIREPIT.HIGH"
 msgid "I be glad this fire is in a pit and not on me ship."
-msgstr "Me alegro de que este fuego esté en una hoguera y no en mi barco."
+msgstr "Me alegro de que esté en una hoguera y no en mi barco."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIREPIT.LOW
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COLDFIREPIT.LOW"
@@ -161089,7 +161092,7 @@ msgstr "¡Al este!"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPASS.GENERIC"
 msgid "'Tis a compass."
-msgstr "Esto es una brújula."
+msgstr "Una brújula."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPASS.N
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPASS.N"
@@ -161129,17 +161132,17 @@ msgstr "¡Al oeste!"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPOSTWRAP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COMPOSTWRAP"
 msgid "Someone be tryin' t'make a fool of ol'Woodlegs!"
-msgstr ""
+msgstr "¡Alguien intenta burlarse del viejo Woodlegs!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CONSTRUCTION_PERMIT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CONSTRUCTION_PERMIT"
 msgid "Fer buildin' on ta me land ship."
-msgstr ""
+msgstr "Para construirme un barco de tierra firme."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDMANDRAKE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDMANDRAKE"
 msgid "Woodlegs did cook'im good."
-msgstr "Patapalo lo ha cocinado bien."
+msgstr "Woodlegs la ha cocinado bien."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDMEAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDMEAT"
@@ -161149,7 +161152,7 @@ msgstr "Una buena comida."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDMONSTERMEAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDMONSTERMEAT"
 msgid "Thet be bad eatin'."
-msgstr "Estará malo."
+msgstr "Va a saber a sentina."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDSMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKEDSMALLMEAT"
@@ -161164,7 +161167,7 @@ msgstr "La olla se ha quemado."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.COOKING_LONG
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.COOKING_LONG"
 msgid "'Tis a slow recipe."
-msgstr "Es una receta lenta."
+msgstr "Una receta de marinado lento."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.COOKING_SHORT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.COOKING_SHORT"
@@ -161174,7 +161177,7 @@ msgstr "Pronto estará listo."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.DONE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.DONE"
 msgid "'Tis ready for eatin'."
-msgstr "Está listo para comerlo."
+msgstr "Listo para comer."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.COOKPOT.EMPTY"
@@ -161189,72 +161192,72 @@ msgstr "¡Al gato se le ha caído la cola!"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORAL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORAL"
 msgid "This'll tear up a boat right quick!"
-msgstr "¡Esto desgarraría un barco en un momento!"
+msgstr "¡Eso destrozaría un barco en un momento!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORALLARVE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORALLARVE"
 msgid "Not th'most intimidatin' sea monster!"
-msgstr "¡No es el monstruo marino más intimidante!"
+msgstr "¡No es la bestia marina más intimidante!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORALREEF
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORALREEF"
 msgid "Ye better steer clear, Woodlegs."
-msgstr "Será mejor que navegues bien, Patapalo."
+msgstr "Más te vale navegar bien, Woodlegs."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORAL_BRAIN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORAL_BRAIN"
 msgid "Ye can't think yer way outta me pocket."
-msgstr "Uno no pensaría que eso es inteligente."
+msgstr "He tenido cosas peores en los bolsillos."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORAL_BRAIN_ROCK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORAL_BRAIN_ROCK"
 msgid "Th'brains o'th'ocean."
-msgstr "Los cerebros del océano."
+msgstr "Los sesos del mar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORK
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORK"
 msgid "Barely seaworthy."
-msgstr ""
+msgstr "Apenas apto para zarpar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORKBOAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORKBOAT"
 msgid "It be'a poorly ship."
-msgstr ""
+msgstr "Preferiría una balsa de tortugas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORKCHEST
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORKCHEST"
 msgid "'Tis fer keepin' the pests a'bay."
-msgstr ""
+msgstr "Para mantener las plagas a raya."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORK_BAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORK_BAT"
 msgid "Lighter than a belayin' pin."
-msgstr ""
+msgstr "Más ligero que un perno de barco."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORMORANT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORMORANT"
 msgid "A most foul seabird!"
-msgstr "¡Un ave marina muy asquerosa!"
+msgstr "¡Asqueroso pájaro marino!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORN"
 msgid "Fresh corn! 'Tis me lucky day."
-msgstr "¡Maíz fresco! Es mi día de la suerte."
+msgstr "¡Maíz fresco! Es mi día de suerte."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORN_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORN_COOKED"
 msgid "Roasted corn, me favorite."
-msgstr "Maíz asado, mi preferido."
+msgstr "Maíz cocinado, mi favorito."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORN_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CORN_SEEDS"
 msgid "Ye'll be corn soon 'nuff"
-msgstr "Pronto serás maíz."
+msgstr "Pronto serán maíz."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRAB.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRAB.GENERIC"
 msgid "Thar's a tasty meal!"
-msgstr "¡Qué comida más sabrosa!"
+msgstr "¡Serás una comida deliciosa!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRAB.HIDDEN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRAB.HIDDEN"
@@ -161264,7 +161267,7 @@ msgstr "Sé que ese congrejo anda cerca."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRABHOLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRABHOLE"
 msgid "Ye got a nice 'ome thar, crabbit."
-msgstr "Tienes una casa bonita, congrejo."
+msgstr "Tienes un buen hogar, congrejo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRATE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CRATE"
@@ -161279,7 +161282,7 @@ msgstr "¡Un reptil sarnoso!"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CROW.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CROW.GENERIC"
 msgid "Thet is one oily parrot!"
-msgstr "¡Ese es un loro aceitoso!"
+msgstr "¡Es un loro grasiento!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CROW.HELD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CROW.HELD"
@@ -161289,17 +161292,17 @@ msgstr "Eres difícil de limpiar, loro."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CURTAIN_DOOR
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CURTAIN_DOOR"
 msgid "Woodlegs' acquired another poop deck."
-msgstr ""
+msgstr "Woodlegs acaba de conseguir otra cubierta de popa."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTGRASS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTGRASS"
 msgid "Ye'll be helpin' Woodlegs later."
-msgstr "Ya ayudarás más tarde a Patapalo."
+msgstr "Ya ayudarás a Woodlegs más tarde."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTLASS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTLASS"
 msgid "Aye, 'tis a true pirate's blade."
-msgstr "Sí, un verdadero cuchillo de pirata."
+msgstr "Yo, ho, una verdadera espada pirata."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTLICHEN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTLICHEN"
@@ -161309,12 +161312,12 @@ msgstr "¡Hierba marina!"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTNETTLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTNETTLE"
 msgid "Cleans tha' nose as good as sea air."
-msgstr ""
+msgstr "Limpia la nariz tan bien como la brisa de mar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTREEDS"
 msgid "But Woodlegs can't reed."
-msgstr "Pero Patapalo no puede leer."
+msgstr "Woodlegs no confía en las cosas de tierra."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTSTONE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.CUTSTONE"
@@ -161324,7 +161327,7 @@ msgstr "Es una piedra bien tallada."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEADLYFEAST
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEADLYFEAST"
 msgid "'Tis a dreadful meal."
-msgstr "Es una comida asquerosa."
+msgstr "Una última cena."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEAD_SWORDFISH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEAD_SWORDFISH"
@@ -161349,451 +161352,452 @@ msgstr "Serás un buen navío."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECIDUOUSTREE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECIDUOUSTREE.GENERIC"
 msgid "Yer hair be pretty."
-msgstr "Tu pelo es bonito."
+msgstr "Tienes un bello follaje."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECIDUOUSTREE.POISON
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECIDUOUSTREE.POISON"
 msgid "Ye don't seem very nice."
-msgstr "No pareces nada bueno."
+msgstr "No te ves de fiar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_ANTIQUITIES_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_ANTIQUITIES_BEEFALO"
 msgid "Aye. Been run through."
-msgstr ""
+msgstr "Yo, ho. Pisotearon su vida."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_ANTIQUITIES_WALLFISH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_ANTIQUITIES_WALLFISH"
 msgid "A monument to'tha sea."
-msgstr ""
+msgstr "Un monumento a los mares."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CAVE_BAT_BURROW
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CAVE_BAT_BURROW"
 msgid "Arr. Tha flyin' devils be within ye."
-msgstr ""
+msgstr "Arrr. Esos demonios voladores están dentro."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CAVE_BEAM_ROOM
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CAVE_BEAM_ROOM"
 msgid "Fine mast fer'a room."
-msgstr ""
+msgstr "Un buen mástil para un camarote."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_BENCH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_BENCH"
 msgid "Thar's room inn'at chair fer two captains."
-msgstr ""
+msgstr "Ahí hay espacio para dos capitanes."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_CLASSIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_CLASSIC"
 msgid "Captain's chair fer'a house."
-msgstr ""
+msgstr "Una silla de capitán para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_CORNER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_CORNER"
 msgid "A poor captain's chair."
-msgstr ""
+msgstr "Una silla de capitán pobre."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_FOOTREST
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_FOOTREST"
 msgid "A poor captain's chair."
-msgstr ""
+msgstr "Una silla de capitán pobre."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_HORNED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_HORNED"
 msgid "A captain's chair fer'a house."
-msgstr ""
+msgstr "Una silla de capitán para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_LOUNGE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_LOUNGE"
 msgid "A captain's chair fer'a house."
-msgstr ""
+msgstr "Una silla de capitán para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_MASSAGER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_MASSAGER"
 msgid "A captain's chair fer Davey Jones."
-msgstr ""
+msgstr "La silla de Davy Jones."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_OTTOMAN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_OTTOMAN"
 msgid "A poor captain's chair."
-msgstr ""
+msgstr "Una silla de capitán pobre."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_ROCKING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_ROCKING"
 msgid "A poor captain's chair."
-msgstr ""
+msgstr "Una silla de capitán pobre."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_STUFFED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAIR_STUFFED"
 msgid "A poor captain's chair."
-msgstr ""
+msgstr "Una silla de capitán pobre."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAISE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_CHAISE"
 msgid "It be a captain's chair fer two."
-msgstr ""
+msgstr "Una silla de capitán para dos."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_2EMBROIDERED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_2EMBROIDERED"
 msgid "'Tis two f'ncy house lanterns."
-msgstr ""
+msgstr "Dos elegantes faroles para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_2FRINGES
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_2FRINGES"
 msgid "'Tis two f'ncy house lanterns."
-msgstr ""
+msgstr "Dos elegantes faroles para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_2UPTURNS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_2UPTURNS"
 msgid "'Tis two f'ncy house lanterns."
-msgstr ""
+msgstr "Dos elegantes faroles para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_ADJUSTABLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_ADJUSTABLE"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_BELLSHADE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_BELLSHADE"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_CANDELABRA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_CANDELABRA"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_CERAMIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_CERAMIC"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_CRYSTALS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_CRYSTALS"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_DOWNBRIDGE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_DOWNBRIDGE"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_EDISON
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_EDISON"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_ELIZABETHAN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_ELIZABETHAN"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_FRINGE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_FRINGE"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_GLASS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_GLASS"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_GOTHIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_GOTHIC"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_HOOFSPA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_HOOFSPA"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_ORB
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_ORB"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_RIGHTANGLES
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_RIGHTANGLES"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_SPOOL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_SPOOL"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_STAINGLASS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_STAINGLASS"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Un elegante farol para un hogar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_UPTURN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_LAMP_UPTURN"
 msgid "'Tis a f'ncy house lantern."
-msgstr ""
+msgstr "Como el vestido de una dama."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_MARBLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_MARBLE"
 msgid "Thar's a fine mizzenmast."
-msgstr ""
+msgstr "Una buena mesana."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_MARBLE_CORNERBEAM
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_MARBLE_CORNERBEAM"
 msgid "Thar's a fine mizzenmast."
-msgstr ""
+msgstr "Una buena mesana."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_MILLINERY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_MILLINERY"
 msgid "Thar's a fine mizzenmast."
-msgstr ""
+msgstr "Una buena mesana."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_BASIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_BASIC"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_BIRDCAGE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_BIRDCAGE"
 msgid "Hangin' land seaweed."
-msgstr ""
+msgstr "Algas de tierra colgantes."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_BONSAI
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_BONSAI"
 msgid "Thar be a tiny mast."
-msgstr ""
+msgstr "Será un mástil pequeño."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_DISHGARDEN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_DISHGARDEN"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_DRACEANA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_DRACEANA"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_FANCY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_FANCY"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_FERN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_FERN"
 msgid "Land seaweed."
-msgstr ""
+msgstr "Algas de tierra."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_FERNSTAND
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_FERNSTAND"
 msgid "Land seaweed."
-msgstr ""
+msgstr "Algas de tierra."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_MARBLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_MARBLE"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_ORCHID
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_ORCHID"
 msgid "'Tis prettier than me f'gurehead."
-msgstr ""
+msgstr "Son más bellas que mi mascarón de proa."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PALM
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PALM"
 msgid "Land seaweed."
-msgstr ""
+msgstr "Algas de tierra."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PHILODENDRON
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PHILODENDRON"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PITCHERS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PITCHERS"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PLANTPET
+#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_PLANTPET"
 msgid "'Tis so slow, moss be growin' on it."
-msgstr ""
+msgstr "Crece tan lento que hasta le sale musgo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_TERRARIUM
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_TERRARIUM"
 msgid "'Tis a pen fer nature's booty."
-msgstr ""
+msgstr "Un cofre para el tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_TRAPS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_TRAPS"
 msgid "Tiny land sharks."
-msgstr ""
+msgstr "Pequeños tiburones de tierra firme."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREE"
 msgid "'tis a festive time o' tha year."
-msgstr ""
+msgstr "Para la época festiva del año."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_WINTERFEASTTREEOFSADNESS
 msgctxt ""
 "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE."
 "DECO_PLANTHOLDER_WINTERFEASTTREEOFSADNESS"
 msgid "'tas seen better days."
-msgstr ""
+msgstr "Ha visto días mejores."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_WIP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_WIP"
 msgid "Still got some riggin'."
-msgstr ""
+msgstr "Aún le falta terminar de montarse."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_XEROGRAPHICA"
 msgid "Hangin' land seaweed."
-msgstr ""
+msgstr "Algas de tierra colgantes."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_ZZ
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_PLANTHOLDER_ZZ"
 msgid "'Tis nature's booty."
-msgstr ""
+msgstr "Un tesoro de la naturaleza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_ROUND
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_ROUND"
 msgid "Thar's a fine mizzenmast."
-msgstr ""
+msgstr "Una buena mesana."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_BEAM_ROOM
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_BEAM_ROOM"
 msgid "Fine mast fer'a room."
-msgstr ""
+msgstr "Un buen mástil para un camarote."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_BEAM_ROOM_BLUE"
 msgid "Fine mast fer'a room."
-msgstr ""
+msgstr "Un buen mástil para un camarote."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_ENDSWELL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_ENDSWELL"
 msgid "Na'a drop ta'drink."
-msgstr ""
+msgstr "No puedo beberme ni una gota."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_FOUNTAIN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_RUINS_FOUNTAIN"
 msgid "Shall I throw m'luck to th'wind?"
-msgstr ""
+msgstr "¿Los vientos estarán a mi favor?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_BANKER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_BANKER"
 msgid "'Tis a chart table."
-msgstr ""
+msgstr "Una mesa de cartografía."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_CHESS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_CHESS"
 msgid "'Tis a chart table. Fer chessmen."
-msgstr ""
+msgstr "Una mesa de cartografía. Para ajedrez."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_CRATE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_CRATE"
 msgid "'Tis not seaw'rthy."
-msgstr ""
+msgstr "No flotará."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_DIY
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_DIY"
 msgid "'Tis a chart table."
-msgstr ""
+msgstr "Una mesa de cartografía."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_RAW
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_RAW"
 msgid "'Tis not seaw'rthy."
-msgstr ""
+msgstr "No flotará."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_ROUND
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_TABLE_ROUND"
 msgid "'Tis a chart table."
-msgstr ""
+msgstr "Una mesa de cartografía."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_AXE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_AXE"
 msgid "Could use one o' those."
-msgstr ""
+msgstr "Me vendría bien una de esas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_BLACK_CAT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_BLACK_CAT"
 msgid "Cats keep tha rats at bay."
-msgstr ""
+msgstr "Los gatos mantienen a raya a las ratas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_CAPE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_CAPE"
 msgid "Fine cloth."
-msgstr ""
+msgstr "Bonita prenda."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_EMBROIDERY_HOOP
 msgctxt ""
 "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_EMBROIDERY_HOOP"
 msgid "Aye. Me home is'tha sea."
-msgstr ""
+msgstr "Yo, ho. Mi hogar está en el mar."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_FULLLENGTH_MIRROR
 msgctxt ""
 "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_FULLLENGTH_MIRROR"
 msgid "Ol' Woodlegs cuts a fine figure."
-msgstr ""
+msgstr "El viejo Woodlegs se ve bien."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_GEARS_ART
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_GEARS_ART"
 msgid "Some sort o' block an'tackle."
-msgstr ""
+msgstr "Alguna especie de polipasto."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_HUNT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_HUNT"
 msgid "'Tis 'arpoons."
-msgstr ""
+msgstr "Arpones."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_MOSAIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_MOSAIC"
 msgid "Color'd beach pebbles."
-msgstr ""
+msgstr "Piedras de playa coloreadas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_NO_SMOKING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_NO_SMOKING"
 msgid "Woodlegs don't care fer rules."
-msgstr ""
+msgstr "Woodlegs no sigue las reglas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_PERIODIC_TABLE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_PERIODIC_TABLE"
 msgid "A flag o' some sort."
-msgstr ""
+msgstr "Una especie de bandera."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_PHOTO
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_PHOTO"
 msgid "Argh! Who's this bilge rat?"
-msgstr ""
+msgstr "¡Arrr! ¿Quién es esa rata de cloaca?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_WREATH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WALLORNAMENT_WREATH"
 msgid "A life preserver."
-msgstr ""
+msgstr "Un salvavidas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WOOD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WOOD"
 msgid "Thar's a fine mizzenmast."
-msgstr ""
+msgstr "Una buena mesana."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WOOD_CORNERBEAM
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DECO_WOOD_CORNERBEAM"
 msgid "Thar's a fine mizzenmast."
-msgstr ""
+msgstr "Una buena mesana."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEED"
 msgid "Only a deed to a 'ouse, not a ship."
-msgstr ""
+msgstr "Las escrituras de una casa, no de un barco."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEERCLOPS"
 msgid "Arrrr ye serious?"
-msgstr "¿Es una broma, arrr?"
+msgstr "¡Arrr! ¡Por todos los mares!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEERCLOPS_EYEBALL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEERCLOPS_EYEBALL"
 msgid "'Tis a giant eyeball."
-msgstr "Es un globo ocular gigante."
+msgstr "Es un ojo gigante."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEFLATED_BALLOON
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.DEFLATED_BALLOON"
