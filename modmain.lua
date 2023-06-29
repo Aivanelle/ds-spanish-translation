@@ -196,6 +196,8 @@ AddPrefabPostInit("pigman_collector_shopkeep", setNoWetPrefix)
 AddPrefabPostInit("pigman_professor_shopkeep", setNoWetPrefix)
 AddPrefabPostInit("pigman_mechanic_shopkeep", setNoWetPrefix)
 
+AddPrefabPostInit("abigail", setNoWetPrefix)
+AddPrefabPostInit("glommer", setNoWetPrefix)
 AddPrefabPostInit("chester", setNoWetPrefix)
 AddPrefabPostInit("ro_bin", setNoWetPrefix)
 AddPrefabPostInit("packim", setNoWetPrefix)
