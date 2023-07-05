@@ -12,7 +12,7 @@ msgstr ""
 "POT Version: 2.0\n"
 "X-Generator: Poedit 3.3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 32800,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 32900,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
@@ -164815,167 +164815,167 @@ msgstr "¿¡Que te ha pasado!?"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BANKER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BANKER.GENERIC"
 msgid "Moneygrubbin' landlubbin' swine."
-msgstr ""
+msgstr "Cerdo marinero de agua dulce avaro."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BANKER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BANKER.SLEEPING"
 msgid "Moneygrubbin' landlubbin' groundnappin' swine."
-msgstr ""
+msgstr "Cerdo marinero de agua dulce avaro durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BEAUTICIAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BEAUTICIAN.GENERIC"
 msgid "P'rty swine."
-msgstr ""
+msgstr "Cerda llamativa."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BEAUTICIAN.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_BEAUTICIAN.SLEEPING"
 msgid "A sleepin' p'rty swine."
-msgstr ""
+msgstr "Una cerda llamativa durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_COLLECTOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_COLLECTOR.GENERIC"
 msgid "Full o'tha strange treas're, 'e is!"
-msgstr ""
+msgstr "¡Está lleno de tesoros extraños!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_COLLECTOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_COLLECTOR.SLEEPING"
 msgid "Be'a sleepin' treasure'oardin' swine."
-msgstr ""
+msgstr "Es un cerdo acumulador de tesoros durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ERUDITE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ERUDITE.GENERIC"
 msgid "Yer a wizard then?"
-msgstr ""
+msgstr "¿Eres una hechicera entonces?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ERUDITE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ERUDITE.SLEEPING"
 msgid "Thet be a sleepin' magicin' swine."
-msgstr ""
+msgstr "Una cerda hechicera durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FARMER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FARMER.GENERIC"
 msgid "Walkin' sw'ne ye be."
-msgstr ""
+msgstr "Un cerdo andante."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FARMER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FARMER.SLEEPING"
 msgid "A dung haulin' sw'ne."
-msgstr ""
+msgstr "Un cerdo que cosecha sueños."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FLORIST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FLORIST.GENERIC"
 msgid "'Tis a swine, fer sure."
-msgstr ""
+msgstr "Eso es una cerda, estoy seguro."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FLORIST.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_FLORIST.SLEEPING"
 msgid "Sleepin' sweet smellin'sw'ne."
-msgstr ""
+msgstr "Una cerda bienoliente durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HATMAKER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HATMAKER.GENERIC"
 msgid "Ye'ave 'ats fer tha piratin'?"
-msgstr ""
+msgstr "¿Tienes sombreros para piratas?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HATMAKER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HATMAKER.SLEEPING"
 msgid "Sleepin'atted swine."
-msgstr ""
+msgstr "Una cerda durmiente con sombrero."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HUNTER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HUNTER.GENERIC"
 msgid "'as tha look'o' a swashbuckl'r."
-msgstr ""
+msgstr "Se ve como alguien despiadado."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HUNTER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_HUNTER.SLEEPING"
 msgid "Sleepin' swashbucklin' swine."
-msgstr ""
+msgstr "Un cerdo despiadado durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MAYOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MAYOR.GENERIC"
 msgid "Too plump fer'is own good."
-msgstr ""
+msgstr "Está gordo de más."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MAYOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MAYOR.SLEEPING"
 msgid "Sleepin' landlubbin' swine."
-msgstr ""
+msgstr "Cerdo marinero de agua dulce durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MECHANIC.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MECHANIC.GENERIC"
 msgid "Whut'a snout ye'ave!"
-msgstr ""
+msgstr "¡Tremendo hocico que tienes!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MECHANIC.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MECHANIC.SLEEPING"
 msgid "Sleepin'swine."
-msgstr ""
+msgstr "Cerdo durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MINER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MINER.GENERIC"
 msgid " 'e picks tha treas're o' the ground."
-msgstr ""
+msgstr "Saquea los tesoros de la tierra."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MINER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_MINER.SLEEPING"
 msgid "Sleepin'sw'ne."
-msgstr ""
+msgstr "Cerdo durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_PROFESSOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_PROFESSOR.GENERIC"
 msgid "Grizzl'd 'un, ain't ye."
-msgstr ""
+msgstr "Estás algo oxidado, ¿no?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_PROFESSOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_PROFESSOR.SLEEPING"
 msgid "Sleepin' rusty swine."
-msgstr ""
+msgstr "Un cerdo oxidado durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_QUEEN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_QUEEN"
 msgid "Whar be yer treasure?"
-msgstr ""
+msgstr "¿Dónde está tu tesoro?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD.GENERIC"
 msgid "Dare ye ta cross swords wit ol'Woodlegs?"
-msgstr ""
+msgstr "¿Te atreves a enfrentarte al viejo Woodlegs?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD.SLEEPING"
 msgid "Sleepin' scallywag'n swine."
-msgstr ""
+msgstr "Una sabandija porcina durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD_2.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD_2.GENERIC"
 msgid "Ye'll not be nabbin' me."
-msgstr ""
+msgstr "Jamás atraparás al capitán Woodlegs."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD_2.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_ROYALGUARD_2.SLEEPING"
 msgid "'es a lazy one."
-msgstr ""
+msgstr "Es muy flojo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_STOREOWNER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_STOREOWNER.GENERIC"
 msgid "'e be'a boar!"
-msgstr ""
+msgstr "¡Es una cerda!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_STOREOWNER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_STOREOWNER.SLEEPING"
 msgid "Thet be a sleepin' hornswagglin' swine."
-msgstr ""
+msgstr "Esa es una cerda durmiente."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_USHER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_USHER.GENERIC"
 msgid "Older'n ol' Woodlegs, 'e be."
-msgstr ""
+msgstr "Es más viejo que el viejo Woodlegs."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_USHER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGMAN_USHER.SLEEPING"
 msgid "Thar be better places fer that!"
-msgstr ""
+msgstr "¡Hay lugares mejores para eso!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGSKIN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIGSKIN"
@@ -165025,272 +165025,272 @@ msgstr "¡Pide un poco de fuego!"
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_PALACE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_PALACE"
 msgid "A brigantine o' tha land."
-msgstr ""
+msgstr "Un bergantín de tierra firme."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ARTICHOKE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ARTICHOKE"
 msgid "Thar be treas're in't."
-msgstr ""
+msgstr "Debe haber tesoros dentro."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_CREEPING_VINES
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_CREEPING_VINES"
 msgid "Thar be sneaky tree riggin'."
-msgstr ""
+msgstr "Artimañas de algún árbol artero."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_DART_STATUE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_DART_STATUE"
 msgid "I'll be keepin' me eye on ye!"
-msgstr ""
+msgstr "¡No le voy a quitar el ojo de encima!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_DART_TRAP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_DART_TRAP"
 msgid "Aye. 'tis a trap."
-msgstr ""
+msgstr "Arrr. Es una trampa."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE.GENERIC"
 msgid "Unholy depths."
-msgstr ""
+msgstr "Profundidades malditas."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE.LOCKED"
 msgid "Arrggh! Let Ol' Woodlegs in!"
-msgstr ""
+msgstr "¡Arrr! ¡Deja entrar al viejo Woodlegs!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE2
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE2"
 msgid "Inta tha depths with me."
-msgstr ""
+msgstr "A las profundidades conmigo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE3
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE3"
 msgid "Below decks."
-msgstr ""
+msgstr "A la cubierta baja."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE4
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE4"
 msgid "Leads to powerful magicin'."
-msgstr ""
+msgstr "Lleva a poderosas magias."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE5
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE5"
 msgid "Inta tha depths with me."
-msgstr ""
+msgstr "A las profundidades conmigo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE_SMALL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_ENTRANCE_SMALL"
 msgid "Inta tha depths with me."
-msgstr ""
+msgstr "A las profundidades conmigo."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_EXIT
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_EXIT"
 msgid "Th'way be clear."
-msgstr ""
+msgstr "Sin moros en la costa."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_EXIT2
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_EXIT2"
 msgid "Above decks."
-msgstr ""
+msgstr "A la cubierta alta."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_EXIT4
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_EXIT4"
 msgid "'tbe tha way out!"
-msgstr ""
+msgstr "¡Es la salida!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_HEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_HEAD"
 msgid "Thar be th'head."
-msgstr ""
+msgstr "Esa es la cabeza."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_IDOL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_IDOL"
 msgid "Tha' treasure atop there."
-msgstr ""
+msgstr "El tesoro está justo ahí."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_PIG
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_PIG"
 msgid "What'r ye smilin' at?"
-msgstr ""
+msgstr "¿A qué viene esa sonrisa?"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_PLAQUE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_PLAQUE"
 msgid "Tha' treasure needs a diggin' out."
-msgstr ""
+msgstr "El tesoro necesitará un poco de excavación."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_PRESSURE_PLATE
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_PRESSURE_PLATE"
 msgid "Ol' Woodlegs' got me s'spicions..."
-msgstr ""
+msgstr "El viejo Woodlegs tiene sus sospechas..."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_SPEAR_TRAP
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_SPEAR_TRAP"
 msgid "Don't like tha looks o'those."
-msgstr ""
+msgstr "No me gusta como se ve eso."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_SPEAR_TRAP_BROKEN
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_SPEAR_TRAP_BROKEN"
 msgid "It's been run through!"
-msgstr ""
+msgstr "¡Las han aplastado!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_SPEAR_TRAP_TRIGGERED
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_SPEAR_TRAP_TRIGGERED"
 msgid "Tha trap's been sprung!"
-msgstr ""
+msgstr "¡La trampa ha saltado!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_TORCH
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_TORCH"
 msgid "A port fer fire."
-msgstr ""
+msgstr "El puerto del fuego."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_TORCH_WALL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_RUINS_TORCH_WALL"
 msgid "A port fer fire."
-msgstr ""
+msgstr "El puerto del fuego."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SCEPTER
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SCEPTER"
 msgid "Thet b'treasure for sure!"
-msgstr ""
+msgstr "¡De seguro es un tesoro!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ACADEMY.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ACADEMY.BURNING"
 msgid "Blazes! 'Tis ablaze!"
-msgstr ""
+msgstr "¡Llamas! ¡Está en llamas!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ACADEMY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ACADEMY.GENERIC"
 msgid "Full o'tha 'oary plunder."
-msgstr ""
+msgstr "Llena de tesoros."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ANTIQUITIES.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ANTIQUITIES.BURNING"
 msgid "'tis done fer."
-msgstr ""
+msgstr "Se acabó."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ANTIQUITIES.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ANTIQUITIES.GENERIC"
 msgid "Full o' tha strange treasures."
-msgstr ""
+msgstr "Lleno de tesoros extraños."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ARCANE.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ARCANE.BURNING"
 msgid "'Tis ablaze!"
-msgstr ""
+msgstr "¡Está en llamas!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ARCANE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_ARCANE.GENERIC"
 msgid "Thar be magic in that there store."
-msgstr ""
+msgstr "Hay magia en esa tienda."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_BANK.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_BANK.BURNING"
 msgid "'t goin' up'n flames!"
-msgstr ""
+msgstr "¡Está ardiendo!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_BANK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_BANK.GENERIC"
 msgid "'t be fulla tha dubloons!"
-msgstr ""
+msgstr "¡Está lleno de doblones!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL.BURNING"
 msgid "Good riddance."
-msgstr ""
+msgstr "Hasta nunca."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL.GENERIC"
 msgid "Full o'tha pesky bigshots."
-msgstr ""
+msgstr "Repleto de peces gordos molestos."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL_PLAYER.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL_PLAYER.BURNING"
 msgid "Avast!"
-msgstr ""
+msgstr "¡Por todos los mares!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL_PLAYER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_CITYHALL_PLAYER.GENERIC"
 msgid "Where I capt'n me city."
-msgstr ""
+msgstr "Desde ahí piloto la ciudad."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_DELI.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_DELI.BURNING"
 msgid "Afire!"
-msgstr ""
+msgstr "¡Fuego!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_DELI.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_DELI.GENERIC"
 msgid "Ah. Grub!"
-msgstr ""
+msgstr "Ah. ¡Comida!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_FLORIST.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_FLORIST.BURNING"
 msgid "'Tis ablaze!"
-msgstr ""
+msgstr "¡Está en llamas!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_FLORIST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_FLORIST.GENERIC"
 msgid "A house'o'land plants."
-msgstr ""
+msgstr "Una casa de plantas de tierra firme."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_GENERAL.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_GENERAL.BURNING"
 msgid "Headed for Davey Jones' Locker!"
-msgstr ""
+msgstr "¡Directo al cofre de Davy Jones!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_GENERAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_GENERAL.GENERIC"
 msgid "Thar b'no treasure t'be had inside."
-msgstr ""
+msgstr "Ahí dentro no hay tesoro que valga."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HATSHOP.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HATSHOP.BURNING"
 msgid "Arr, 'tis'a shame."
-msgstr ""
+msgstr "Arrr, es una pena."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HATSHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HATSHOP.GENERIC"
 msgid "Already gotme 'at!"
-msgstr ""
+msgstr "¡Ya tengo un sombrero!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HOOFSPA.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HOOFSPA.BURNING"
 msgid "'tas been scuttl'd!"
-msgstr ""
+msgstr "¡Lo han hundido!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HOOFSPA.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_HOOFSPA.GENERIC"
 msgid "Ripe fer th'plunder."
-msgstr ""
+msgstr "Listo para ser saqueado."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_PRODUCE.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_PRODUCE.BURNING"
 msgid "'Tis ablaze!"
-msgstr ""
+msgstr "¡Está en llamas!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_PRODUCE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_PRODUCE.GENERIC"
 msgid "T'ward off th'scurvy."
-msgstr ""
+msgstr "Para evitar el escorbuto."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_TINKER.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_TINKER.BURNING"
 msgid "Goin' down!"
-msgstr ""
+msgstr "¡A las profundidades!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_TINKER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_TINKER.GENERIC"
 msgid "Fer tha tinkerin' about me ship."
-msgstr ""
+msgstr "Para arreglar cosas de mi barco."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_WEAPONS.BURNING
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_WEAPONS.BURNING"
 msgid "T'were not me!"
-msgstr ""
+msgstr "¡Yo no fui!"
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_WEAPONS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIG_SHOP_WEAPONS.GENERIC"
 msgid "I be'in need o'tha piratin' gear."
-msgstr ""
+msgstr "Voy a necesitar materiales pirata."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIKE_SKULL
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIKE_SKULL"
@@ -165300,7 +165300,7 @@ msgstr "Sigue andando."
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIKO.DEAD
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIKO.DEAD"
 msgid "Tells no tales."
-msgstr ""
+msgstr "Ya no cuenta cuentos."
 
 #. STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIKO.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODLEGS.DESCRIBE.PIKO.GENERIC"
