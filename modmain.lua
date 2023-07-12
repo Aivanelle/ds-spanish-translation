@@ -114,8 +114,8 @@ local function modPostInit(player)
     setWormwoodFont()
   elseif player.prefab == "webber" then
     translateWebberStrings()
-  elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
-    modimport("scripts/craftmonkeystring.lua")
+  -- elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
+  --   modimport("scripts/craftmonkeystring.lua")
   end
 end
 
@@ -223,6 +223,7 @@ AddPrefabPostInit("pig_shop_cityhall", setNoWetPrefix)
 AddPrefabPostInit("pig_shop_cityhall_player", setNoWetPrefix)
 AddPrefabPostInit("pig_palace", setNoWetPrefix)
 
+modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/modwaxwellintro.lua")
 modimport("scripts/constructadjectivedname.lua")
 modimport("scripts/getdisplayname.lua")
