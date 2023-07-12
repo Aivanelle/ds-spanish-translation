@@ -96,8 +96,6 @@ local function enableSUffixes()
   end
 end
 
-local IsDLCInstalled = _G.IsDLCInstalled
-
 local function modPostInit(player)
   enableSUffixes()
   USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
@@ -223,7 +221,10 @@ AddPrefabPostInit("pig_shop_cityhall", setNoWetPrefix)
 AddPrefabPostInit("pig_shop_cityhall_player", setNoWetPrefix)
 AddPrefabPostInit("pig_palace", setNoWetPrefix)
 
-modimport("scripts/craftmonkeystring.lua")
+local IsDLCInstalled = _G.IsDLCInstalled
+
+if IsDLCInstalled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
+
 modimport("scripts/modwaxwellintro.lua")
 modimport("scripts/constructadjectivedname.lua")
 modimport("scripts/getdisplayname.lua")

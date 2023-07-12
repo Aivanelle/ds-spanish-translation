@@ -1,6 +1,6 @@
 name = "Traducción al Español"
 author = "Aivan"
-version = "2.15"
+version = "2.15.1"
 description = "\nTraducción de Don't Starve y sus DLC: Reign of Giants, Shipwrecked y Hamlet. Personajes en progreso.\nVersión " .. version
 
 forumthread = "/files/file/1962-hamlet-traducción-al-español-semioficial/"
