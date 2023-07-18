@@ -223,7 +223,7 @@ AddPrefabPostInit("pig_palace", setNoWetPrefix)
 
 local IsDLCInstalled = _G.IsDLCInstalled
 
-if IsDLCInstalled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
+if IsDLCInstalled(CAPY_DLC) and IsDLCEnabled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
 
 modimport("scripts/modwaxwellintro.lua")
 modimport("scripts/constructadjectivedname.lua")
