@@ -36,7 +36,7 @@ end
 local Set = _G.Set
 
 GetPlayer = _G.GetPlayer
-dialogueGender = GetModConfigData("dialogueGender")
+dialogueGenderConfig = GetModConfigData("dialogueGender")
 GetGenderStrings = _G.GetGenderStrings
 
 local dialogueScripts =
@@ -50,7 +50,7 @@ local function importStrings()
   local genderStrings = GetGenderStrings(playerPrefab):lower()
 
   dialogueScripts["auto"] = genderStrings ~= "male" and genderStrings .. "strings.lua"
-  local scriptToImport = dialogueScripts[dialogueGender]
+  local scriptToImport = dialogueScripts[dialogueGenderConfig]
 
   if scriptToImport then modimport("scripts/" .. scriptToImport) end
 end

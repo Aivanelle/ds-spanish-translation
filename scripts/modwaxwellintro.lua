@@ -9,7 +9,7 @@ local function setIntroGender()
   local genderStrings = GetGenderStrings(playerPrefab)
 
   dialogueStrings["auto"] = genderStrings ~= "MALE" and genderStrings
-  local stringsToUse = dialogueStrings[dialogueGender] 
+  local stringsToUse = dialogueStrings[dialogueGenderConfig] 
 
   if stringsToUse then
     STRINGS.MAXWELL_SANDBOXINTROS.ONE = STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES[stringsToUse]
