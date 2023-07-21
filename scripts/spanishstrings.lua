@@ -104,14 +104,24 @@ STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES =
 STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES = "Activar"
 
 STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES = "sus"
-STRINGS.UI.ENDGAME.BODY2_ES = " de escapar?\nQuizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\nLos seres misteriosos que controlan este lugar todavía están al acecho en las sombras y pronto revelarán nuevos desafíos.\n\nHasta entonces,\n- El equipo de Don't Starve -"
+STRINGS.UI.ENDGAME.BODY2_ES = " de escapar?\n" ..
+  "Quizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\n" ..
+  "Los seres misteriosos que controlan este lugar todavía están al acecho en las sombras y pronto revelarán nuevos desafíos.\n\n" ..
+  "Hasta entonces,\n" ..
+  "- El equipo de Don't Starve -"
 
 -- Intro strings
-STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES_FEMALE = "Oye, amiga, no te ves muy bien."
-STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES_FEMALE = "Oye, amiga."
+STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES =
+{
+  FEMALE = "Oye, amiga, no te ves muy bien.",
+  ROBOT = "Oye, tú, no te ves muy bien."
 
-STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES_ROBOT = "Oye, tú, no te ves muy bien."
-STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES_ROBOT = "Oye, tú."
+}
+STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES =
+{
+    FEMALE = "Oye, amiga.",
+    ROBOT = "Oye, tú."
+}
 
 STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
 
