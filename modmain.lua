@@ -3,8 +3,11 @@ STRINGS = _G.STRINGS
 
 modimport("scripts/spanishstrings.lua")
 
--- Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in the po file do nothing.
--- Translated strings in po files have been deleted just to not have to make any change twice, here in the lua files and there in the po files.
+--[[
+  Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in
+  the po file do nothing. Translated strings in po files have been deleted just to not have to make any changet
+  wice, here in the lua files and there in the po files.
+]]
 for i = 1, 3 do
   STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES[i]
   STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES[i]
@@ -48,22 +51,21 @@ CHARACTER_GENDERS =
 GetPlayer = _G.GetPlayer
 dialogueGender = GetModConfigData("dialogueGender")
 
+local GetGenderStrings = _G.GetGenderStrings
+local dialogueScripts =
+{
+  female = "femalestrings.lua",
+  robot = "robotstrings.lua"
+}
+
 local function importStrings()
   local playerPrefab = GetPlayer().prefab
+  local genderStrings = GetGenderStrings(playerPrefab):lower()
 
-  if dialogueGender == "auto" then
-    if not CHARACTER_GENDERS.MALE[playerPrefab] then
-      if CHARACTER_GENDERS.FEMALE[playerPrefab] then
-        modimport("scripts/femalestrings.lua")
-      else
-        modimport("scripts/robotstrings.lua")
-      end
-    end
-  elseif dialogueGender == "female" then
-    modimport("scripts/femalestrings.lua")
-  elseif dialogueGender == "robot" then
-    modimport("scripts/robotstrings.lua")
-  end
+  dialogueScripts["auto"] = genderStrings ~= "male" and genderStrings .. "strings.lua" or nil
+  local scriptToImport = dialogueScripts[dialogueGender]
+
+  if scriptToImport then modimport("scripts/" .. scriptToImport) end
 end
 
 local function setWormwoodFont()
@@ -237,4 +239,4 @@ local PORKLAND_DLC = _G.PORKLAND_DLC
 local anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
 if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
-if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/modcomponents/grogginess_onequip.lua") end
+if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/components/grogginessmod.lua") end
