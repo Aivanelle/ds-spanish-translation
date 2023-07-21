@@ -34,12 +34,6 @@ _G.Set = function(list)
 end
 
 local Set = _G.Set
-CHARACTER_GENDERS =
-{
-  MALE = Set(_G.CHARACTER_GENDERS.MALE),
-  FEMALE = Set(_G.CHARACTER_GENDERS.FEMALE),
-  ROBOT = Set(_G.CHARACTER_GENDERS.ROBOT),
-}
 
 GetPlayer = _G.GetPlayer
 dialogueGender = GetModConfigData("dialogueGender")
@@ -108,8 +102,6 @@ local function modPostInit(player)
     setWormwoodFont()
   elseif player.prefab == "webber" then
     translateWebberStrings()
-  -- elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
-  --   modimport("scripts/craftmonkeystring.lua")
   end
 end
 
