@@ -21,17 +21,10 @@ if IsDLCEnabled(CAPY_DLC) then
 end
 ---------------------------------------------------------------
 
-local translationFile = GetModConfigData("translationFile")
+local translationFileConfig = GetModConfigData("translationFile")
+LoadPOFile("translationfiles/spanish_" .. translationFileConfig:lower() .. ".po", "es")
 
-if translationFile == "ES" then
-  LoadPOFile("translationfiles/spanish_es.po", "es")
-elseif translationFile == "MX" then
-  LoadPOFile("translationfiles/spanish_mx.po", "es")
-else
-  LoadPOFile("translationfiles/spanish_so.po", "es")
-end
-
--- Characters not added to any gender table.
+-- They forgot Wagstaff.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
 _G.Set = function(list)
