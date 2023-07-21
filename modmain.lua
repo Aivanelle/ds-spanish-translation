@@ -61,12 +61,13 @@ local function importStrings()
   if scriptToImport then modimport("scripts/" .. scriptToImport) end
 end
 
+local Vector3 = _G.Vector3
 local function setWormwoodFont()
   local talkingWormwood = GetModConfigData("talkingWormwood")
 
   if talkingWormwood == "normalFont" and GetPlayer().components.talker then
     GetPlayer().components.talker.font = TALKINGFONT
-    GetPlayer().components.talker.colour = _G.Vector3(1, 1, 1, 1)
+    GetPlayer().components.talker.colour = Vector3(1, 1, 1, 1)
   end
 end
 
