@@ -1,7 +1,8 @@
 name = "Traducción al Español"
 author = "Aivan"
-version = "2.15.2"
-description = "\nTraducción de Don't Starve y sus DLC: Reign of Giants, Shipwrecked y Hamlet. Personajes en progreso.\nVersión " .. version
+version = "2.15.3"
+description = "\nTraducción de Don't Starve y sus DLC: Reign of Giants, Shipwrecked y Hamlet. Personajes en progreso." ..
+  "\nVersión " .. version
 
 forumthread = "/files/file/1962-hamlet-traducción-al-español-semioficial/"
 
@@ -22,9 +23,9 @@ configuration_options =
     label = "Traducción",
     options =
     {
-      {description = "Semioficial", data = "SO"},
-      {description = "Español MX", data = "MX"},
-      {description = "Español ES", data = "ES"},
+      { description = "Semioficial", data = "SO" },
+      { description = "Español MX", data = "MX" },
+      { description = "Español ES", data = "ES" },
     },
     default = "SO",
   },
@@ -33,8 +34,8 @@ configuration_options =
     label = "Mostrar adjetivos",
     options =
     {
-      {description = "Sí", data = true},
-      {description = "No", data = false},
+      { description = "Sí", data = true },
+      { description = "No", data = false },
     },
     default = true,
   },
@@ -43,10 +44,10 @@ configuration_options =
     label = "Género en diálogos",
     options =
     {
-      {description = "Automático", data = "auto"},
-      {description = "Masculino", data = "male"},
-      {description = "Femenino", data = "female"},
-      {description = "Neutro", data = "robot"},
+      { description = "Automático", data = "auto" },
+      { description = "Masculino", data = "male" },
+      { description = "Femenino", data = "female" },
+      { description = "Neutro", data = "robot" },
     },
     default = "auto",
   },
@@ -55,9 +56,9 @@ configuration_options =
     label = "Estilo de apilables",
     options =
     {
-      {description = "Clásico", data = "classic"},
-      {description = "Espaciado", data = "mathematician"},
-      {description = "Paréntesis", data = "parenthesis"},
+      { description = "Clásico", data = "classic" },
+      { description = "Espaciado", data = "mathematician" },
+      { description = "Paréntesis", data = "parenthesis" },
     },
     default = "classic",
   },
@@ -66,8 +67,8 @@ configuration_options =
     label = "Fuente de Wormwood",
     options =
     {
-      {description = "Especial", data = "wormwoodFont"},
-      {description = "Normal", data = "normalFont"},
+      { description = "Especial", data = "wormwoodFont" },
+      { description = "Normal", data = "normalFont" },
     },
     default = "wormwoodFont",
   },
