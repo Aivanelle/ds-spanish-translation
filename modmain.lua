@@ -213,7 +213,7 @@ local IsDLCInstalled = _G.IsDLCInstalled
 
 if IsDLCInstalled(CAPY_DLC) and IsDLCEnabled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
 
-modimport("scripts/modwaxwellintro.lua")
+modimport("scripts/prefabs/maxwellintromod.lua")
 modimport("scripts/constructadjectivedname.lua")
 modimport("scripts/getdisplayname.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
