@@ -3,6 +3,20 @@ STRINGS = _G.STRINGS
 
 modimport("scripts/spanishstrings.lua")
 
+local function enableSuffixes(table)
+  for k, v in pairs(table) do
+    if type(v) == "table" then
+      enableSuffixes(v)
+    else
+      assert(type(v) == "string", "Error, suffix string expected, got: " .. type(v))
+
+      USE_PREFIX[v] = false
+    end
+  end
+end
+
+enableSuffixes(STRINGS.SUFFIX)
+
 --[[
   Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in
   the po file do nothing. Translated strings in po files have been deleted just to not have to make any changet
@@ -72,20 +86,6 @@ end
 
 USE_PREFIX = _G.USE_PREFIX
 assert = _G.assert
-
-local function enableSuffixes(table)
-  for k, v in pairs(table) do
-    if type(v) == "table" then
-      enableSuffixes(v)
-    else
-      assert(type(v) == "string", "Error, suffix string expected, got: " .. type(v))
-
-      USE_PREFIX[v] = false
-    end
-  end
-end
-
-enableSuffixes(STRINGS.SUFFIX)
 
 local function modSimPostInit(player)
   importStrings()
