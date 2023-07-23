@@ -87,7 +87,7 @@ end
 
 enableSuffixes(STRINGS.SUFFIX)
 
-local function modPostInit(player)
+local function modSimPostInit(player)
   importStrings()
 
   USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
@@ -105,7 +105,7 @@ local function modPostInit(player)
   end
 end
 
-AddSimPostInit(modPostInit)
+AddSimPostInit(modSimPostInit)
 
 local function modAdventureTeleportato(inst)
   if inst.components.container.widgetbuttoninfo.text then
