@@ -58,13 +58,16 @@ local showAdjectives = GetModConfigData("showAdjectives", ConfigurationName)
 local PREFABS = require("sortedprefabs")
 local Prefix = require("prefixfunctions")
 
--- GetDisplayName function is found in scripts/entityscript - Ln: 484.
 if oldGetDisplayName and anyDLCEnabled then
   function EntityScript:GetDisplayName(...)
-    --[[
-      This if statement is just a copy/paste of Klei's code, since I'm no longer using the original GetDisplayName function
-      anymore, I don't know other way to use it without copying it directly.
-    ]]
+    local grammaticalNumber = nil
+    local gender = nil
+
+    if self.components.grammar then
+      grammaticalNumber = self.components.grammar.grammaticalnumber
+      gender = self.components.grammar.gender
+    end
+
     if GetPlayer().components.vision and not GetPlayer().components.vision.focused and not GetPlayer().components.vision:testsight(self) then
       if not self.nearsightedname then
         nearsightednames = nearsightednames or reduce(STRINGS.NAMES, testvisionfn)
@@ -78,15 +81,17 @@ if oldGetDisplayName and anyDLCEnabled then
     local flooded = self.components.floodable and self.components.floodable.flooded
 
     if flooded then return ConstructAdjectivedName(self, name, STRINGS.FLOODEDITEM) end
-    if smoldering then return ConstructAdjectivedName(self, name, STRINGS.SMOLDERINGITEM) end
+
+    if smoldering then
+      return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.SMOLDERING.NEUTRAL[grammaticalNumber] or STRINGS.SMOLDERINGITEM)
+    end
 
     local witheredPickable = self.components.pickable and self.components.pickable:IsWithered()
     local witheredCrop = self.components.crop and self.components.crop:IsWithered()
     local prefab = self.prefab
 
     if witheredCrop or witheredPickable then
-      local witheredPrefix = Prefix.getWitheredPrefix(prefab)
-      return ConstructAdjectivedName(self, name, witheredPrefix)
+      return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WITHERED[gender][grammaticalNumber] or STRINGS.WITHEREDITEM)
     end
 
     local mysterious = self.components.mystery and self:HasTag("mystery")
@@ -136,17 +141,14 @@ if oldGetDisplayName and anyDLCEnabled then
         if self.prefab == "wetgoop" then return name:gsub(" ", " " .. STRINGS.WET_PREFIX.WETGOOP .. " ") end
 
         if GetPlayer().components.eater:CanEat(self) then
-          local wetFoodPrefix = Prefix.getWetFoodPrefix(prefab)
-          return ConstructAdjectivedName(self, name, wetFoodPrefix)
+          return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.FOOD[gender][grammaticalNumber] or STRINGS.WET_PREFIX.FOOD)
         end
       end
 
       if self.components.equippable and (self.components.equippable.equipslot == "head" or self.components.equippable.equipslot == "body") then
-        local wetClothingPrefix = Prefix.getWetClothingPrefix(prefab)
-        return ConstructAdjectivedName(self, name, wetClothingPrefix)
+        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.CLOTHING[gender][grammaticalNumber] or STRINGS.WET_PREFIX.CLOTHING)
       elseif self.components.equippable and self.components.equippable.equipslot == "hands" then
-        local wetToolPrefix = Prefix.getWetToolPrefix(prefab)
-        return ConstructAdjectivedName(self, name, wetToolPrefix)
+        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.TOOL[gender][grammaticalNumber] or STRINGS.WET_PREFIX.TOOL)
       elseif self.components.fuel then
         local wetFuelPrefix = Prefix.getWetFuelPrefix(prefab)
         return ConstructAdjectivedName(self, name, wetFuelPrefix)
@@ -158,10 +160,10 @@ if oldGetDisplayName and anyDLCEnabled then
           return ConstructAdjectivedName(self, name, STRINGS.WET_PREFIX.MALE.SINGULAR.GENERIC)
         end
 
-        local wetGenericPrefix = Prefix.getWetGenericPrefix(prefab)
-        return ConstructAdjectivedName(self, name, wetGenericPrefix)
+        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.GENERIC[gender][grammaticalNumber] or STRINGS.WET_PREFIX.GENERIC)
       end
     end
+
     return name
   end
 end
