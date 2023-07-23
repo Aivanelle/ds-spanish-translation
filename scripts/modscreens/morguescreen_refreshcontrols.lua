@@ -1,6 +1,5 @@
 local function firstToUpper(str) return (str:gsub("^%l", string.upper)) end
 
-local require = _G.require
 local Text = require "widgets/text"
 local Image = require "widgets/image"
 local Widget = require "widgets/widget"
