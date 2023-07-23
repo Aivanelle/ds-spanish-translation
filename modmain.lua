@@ -127,89 +127,12 @@ end
 AddPrefabPostInit("inventorygrave", modEpitaphs)
 AddPrefabPostInit("gravestone", modEpitaphs)
 
+local NO_WET_PREFABS = require "sortedprefabs/nowetprefabs"
 local function setNoWetPrefix(inst)
   if not inst.no_wet_prefix then inst.no_wet_prefix = true end
 end
 
--- Prefabs that mostly contains proper nouns to hide their wet suffix
-AddPrefabPostInit("book_birds", setNoWetPrefix)
-AddPrefabPostInit("book_brimstone", setNoWetPrefix)
-AddPrefabPostInit("book_gardening", setNoWetPrefix)
-AddPrefabPostInit("book_meteor", setNoWetPrefix)
-AddPrefabPostInit("book_sleep", setNoWetPrefix)
-AddPrefabPostInit("book_tentacles", setNoWetPrefix)
-AddPrefabPostInit("waxwelljournal", setNoWetPrefix)
-AddPrefabPostInit("buriedtreasure", setNoWetPrefix)
-AddPrefabPostInit("wilbur_unlock", setNoWetPrefix)
-
-AddPrefabPostInit("bunnyman", setNoWetPrefix)
-AddPrefabPostInit("mandrakeman", setNoWetPrefix)
-AddPrefabPostInit("parrot_pirate", setNoWetPrefix)
-AddPrefabPostInit("pigguard", setNoWetPrefix)
-AddPrefabPostInit("pigman", setNoWetPrefix)
-AddPrefabPostInit("pigtrader", setNoWetPrefix) -- Unnecessary, I think
-AddPrefabPostInit("wildbore", setNoWetPrefix)
-AddPrefabPostInit("wildboreguard", setNoWetPrefix)
-
--- Hamlet city pigs
-AddPrefabPostInit("pigman_beautician", setNoWetPrefix)
-AddPrefabPostInit("pigman_florist", setNoWetPrefix)
-AddPrefabPostInit("pigman_erudite", setNoWetPrefix)
-AddPrefabPostInit("pigman_hatmaker", setNoWetPrefix)
-AddPrefabPostInit("pigman_storeowner", setNoWetPrefix)
-AddPrefabPostInit("pigman_banker", setNoWetPrefix)
-AddPrefabPostInit("pigman_collector", setNoWetPrefix)
-AddPrefabPostInit("pigman_hunter", setNoWetPrefix)
-AddPrefabPostInit("pigman_mayor", setNoWetPrefix)
-AddPrefabPostInit("pigman_mechanic", setNoWetPrefix)
-AddPrefabPostInit("pigman_professor", setNoWetPrefix)
-AddPrefabPostInit("pigman_usher", setNoWetPrefix)
-AddPrefabPostInit("pigman_royalguard", setNoWetPrefix)
-AddPrefabPostInit("pigman_royalguard_2", setNoWetPrefix)
-AddPrefabPostInit("pigman_farmer", setNoWetPrefix)
-AddPrefabPostInit("pigman_miner", setNoWetPrefix)
-AddPrefabPostInit("pigman_queen", setNoWetPrefix)
-AddPrefabPostInit("pigman_beautician_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_florist_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_erudite_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_hatmaker_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_storeowner_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_banker_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_hunter_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_mayor_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_farmer_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_miner_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_collector_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_professor_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_mechanic_shopkeep", setNoWetPrefix)
-
-AddPrefabPostInit("abigail", setNoWetPrefix)
-AddPrefabPostInit("glommer", setNoWetPrefix)
-AddPrefabPostInit("chester", setNoWetPrefix)
-AddPrefabPostInit("ro_bin", setNoWetPrefix)
-AddPrefabPostInit("packim", setNoWetPrefix)
-AddPrefabPostInit("roc", setNoWetPrefix)
-AddPrefabPostInit("roc_head", setNoWetPrefix)
-AddPrefabPostInit("roc_leg", setNoWetPrefix)
-AddPrefabPostInit("roc_tail", setNoWetPrefix)
-
--- Hamlet city buildings
-AddPrefabPostInit("pig_shop_deli", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_general", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_hoofspa", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_produce", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_florist", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_antiquities", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_academy", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_arcane", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_weapons", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_hatshop", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_bank", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_tinker", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_cityhall", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_cityhall_player", setNoWetPrefix)
-AddPrefabPostInit("pig_palace", setNoWetPrefix)
+for _, prefab in ipairs(NO_WET_PREFABS) do AddPrefabPostInit(prefab, setNoWetPrefix) end
 
 local IsDLCInstalled = _G.IsDLCInstalled
 
