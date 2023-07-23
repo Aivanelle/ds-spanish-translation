@@ -134,10 +134,7 @@ end
 
 for _, prefab in ipairs(NO_WET_PREFABS) do AddPrefabPostInit(prefab, setNoWetPrefix) end
 
-local IsDLCInstalled = _G.IsDLCInstalled
-
-if IsDLCInstalled(CAPY_DLC) and IsDLCEnabled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
-
+modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/prefabs/maxwellintromod.lua")
 modimport("scripts/constructadjectivedname.lua")
 modimport("scripts/components/perishablemod.lua")
