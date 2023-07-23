@@ -71,24 +71,24 @@ local function translateWebberStrings()
 end
 
 USE_PREFIX = _G.USE_PREFIX
+assert = _G.assert
 
-local function enableSUffixes()
-  for _, v in pairs(STRINGS.WET_PREFIX.MALE) do
+local function enableSuffixes(table)
+  for k, v in pairs(table) do
     if type(v) == "table" then
-      for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
-    elseif type(v) == "string" then USE_PREFIX[v] = false end
-  end
+      enableSuffixes(v)
+    else
+      assert(type(v) == "string", "Error, suffix string expected, got: " .. type(v))
 
-  for _, v in pairs(STRINGS.WET_PREFIX.FEMALE) do
-    if type(v) == "table" then
-      for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
-    elseif type(v) == "string" then USE_PREFIX[v] = false end
+      USE_PREFIX[v] = false
+    end
   end
 end
 
+enableSuffixes(STRINGS.SUFFIX)
+
 local function modPostInit(player)
   importStrings()
-  enableSUffixes()
 
   USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
   USE_PREFIX[STRINGS.MYSTERIOUS] = false
