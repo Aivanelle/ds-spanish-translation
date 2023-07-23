@@ -1,5 +1,3 @@
-local require = _G.require
-
 local function adjectivedName(item)
   if item then
     local prefab = item.prefab

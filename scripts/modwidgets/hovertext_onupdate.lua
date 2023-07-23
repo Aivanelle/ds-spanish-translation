@@ -23,7 +23,6 @@ local IsDLCEnabled = _G.IsDLCEnabled
 local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_DLC) or IsDLCEnabled(_G.PORKLAND_DLC)
 local ProfileStatsSet = _G.ProfileStatsSet
 local showAdjectives = GetModConfigData("showAdjectives", ConfigurationName)
-local require = _G.require
 local adjectivedName = require("adjectivedperishable")
 local HoverText = require "widgets/hoverer"
 
