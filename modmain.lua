@@ -134,6 +134,40 @@ end
 
 for _, prefab in ipairs(NO_WET_PREFABS) do AddPrefabPostInit(prefab, setNoWetPrefix) end
 
+GRAMMATICAL_NUMBER =
+{
+  PLURAL = "PLURAL",
+  SINGULAR = "SINGULAR"
+}
+
+GENDER =
+{
+  MASCULINE = "MASCULINE",
+  FEMININE = "FEMININE"
+}
+
+local function setGrammarComponent(prefabs, gender, grammaticalNumber)
+  for _, prefab in ipairs(prefabs) do
+    AddPrefabPostInit(prefab, function(inst)
+      inst:AddComponent("grammar")
+      inst.components.grammar:SetGrammaticalNumber(grammaticalNumber)
+      inst.components.grammar:SetGender(gender)
+    end)
+  end
+end
+
+local MASCULINE_PLURAL_PREFABS = require "sortedprefabs/masculinepluralprefabs"
+setGrammarComponent(MASCULINE_PLURAL_PREFABS, GENDER.MASCULINE, GRAMMATICAL_NUMBER.PLURAL)
+
+local MASCULINE_SINGULAR_PREFABS = require "sortedprefabs/masculinesingularprefabs"
+setGrammarComponent(MASCULINE_SINGULAR_PREFABS, GENDER.MASCULINE, GRAMMATICAL_NUMBER.SINGULAR)
+
+local FEMININE_PLURAL_PREFABS = require "sortedprefabs/femininepluralprefabs"
+setGrammarComponent(FEMININE_PLURAL_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.PLURAL)
+
+local FEMININE_SINGULAR_PREFABS = require "sortedprefabs/femininesingularprefabs"
+setGrammarComponent(FEMININE_SINGULAR_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.SINGULAR)
+
 modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/prefabs/maxwellintromod.lua")
 modimport("scripts/constructadjectivedname.lua")
