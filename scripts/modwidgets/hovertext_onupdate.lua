@@ -1,5 +1,5 @@
 local ModIndex = _G.ModIndex
-local ConfigurationName = ModIndex:GetModConfigurationName("Traducción al Español")
+local ConfigurationName = ModIndex:GetModConfigurationName("TraducciÃ³n al EspaÃ±ol")
 
 local function stackString(str, lmb)
   local stackStyle = GetModConfigData("stackStyle", ConfigurationName)
@@ -12,7 +12,7 @@ local function stackString(str, lmb)
   if stackStyle == "classic" then
     multChar = " x"
   elseif stackStyle == "mathematician" then
-    multChar = " × "
+    multChar = " Ã— "
   end
 
   return str .. multChar .. tostring(lmb.target.components.stackable.stacksize)

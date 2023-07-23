@@ -1,6 +1,6 @@
 local TheInput = _G.TheInput
 local ModIndex = _G.ModIndex
-local ConfigurationName = ModIndex:GetModConfigurationName("Traducción al Español")
+local ConfigurationName = ModIndex:GetModConfigurationName("TraducciÃ³n al EspaÃ±ol")
 local showAdjectives = GetModConfigData("showAdjectives", ConfigurationName)
 local adjectivedName = require("adjectivedperishable")
 local ItemTile = require "widgets/itemtile"
