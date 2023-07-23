@@ -55,7 +55,6 @@ local nearsightednames = nil
 local ModIndex = _G.ModIndex
 local ConfigurationName = ModIndex:GetModConfigurationName("Traducción al Español")
 local showAdjectives = GetModConfigData("showAdjectives", ConfigurationName)
-local require = _G.require
 local PREFABS = require("sortedprefabs")
 local Prefix = require("prefixfunctions")
 
