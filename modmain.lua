@@ -107,26 +107,26 @@ end
 
 AddSimPostInit(modPostInit)
 
-local function modAdventureTeleportato(prefab)
-  if prefab.components.container.widgetbuttoninfo.text then
-    prefab.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
+local function modAdventureTeleportato(inst)
+  if inst.components.container.widgetbuttoninfo.text then
+    inst.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
   end
 end
 
 AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
 
-local function modEpitaphs(prefab)
+local function modEpitaphs(inst)
   if GetPlayer().prefab == "wolfgang" then
-    local wolfgangEpitaphs = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
-    prefab.components.inspectable:SetDescription(wolfgangEpitaphs[math.random(#wolfgangEpitaphs)])
+    local WOLFGANG_EPITAPHS = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
+    inst.components.inspectable:SetDescription(WOLFGANG_EPITAPHS[math.random(#WOLFGANG_EPITAPHS)])
   end
 end
 
 AddPrefabPostInit("inventorygrave", modEpitaphs)
 AddPrefabPostInit("gravestone", modEpitaphs)
 
-local function setNoWetPrefix(prefab)
-  if not prefab.no_wet_prefix then prefab.no_wet_prefix = true end
+local function setNoWetPrefix(inst)
+  if not inst.no_wet_prefix then inst.no_wet_prefix = true end
 end
 
 -- Prefabs that mostly contains proper nouns to hide their wet suffix
