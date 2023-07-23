@@ -1,7 +1,11 @@
 _G = GLOBAL
+require = _G.require
 STRINGS = _G.STRINGS
 
 modimport("scripts/spanishstrings.lua")
+
+assert = _G.assert
+USE_PREFIX = _G.USE_PREFIX
 
 local function enableSuffixes(table)
   for k, v in pairs(table) do
@@ -83,9 +87,6 @@ local function translateWebberStrings()
   STRINGS.UI.GENDERSTRINGS.ROBOT.ONE = STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
   STRINGS.UI.ENDGAME.BODY2 = STRINGS.UI.ENDGAME.BODY2_ES
 end
-
-USE_PREFIX = _G.USE_PREFIX
-assert = _G.assert
 
 local function modSimPostInit(player)
   importStrings()
@@ -215,6 +216,7 @@ if IsDLCInstalled(CAPY_DLC) and IsDLCEnabled(CAPY_DLC) then modimport("scripts/c
 
 modimport("scripts/prefabs/maxwellintromod.lua")
 modimport("scripts/constructadjectivedname.lua")
+modimport("scripts/components/perishablemod.lua")
 modimport("scripts/getdisplayname.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
