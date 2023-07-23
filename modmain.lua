@@ -87,7 +87,9 @@ local function enableSUffixes()
 end
 
 local function modPostInit(player)
+  importStrings()
   enableSUffixes()
+
   USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
   USE_PREFIX[STRINGS.MYSTERIOUS] = false
   USE_PREFIX[STRINGS.FLOODEDITEM] = false
@@ -95,8 +97,6 @@ local function modPostInit(player)
   USE_PREFIX[STRINGS.WET_PREFIX.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
-
-  importStrings()
 
   if player.prefab == "wormwood" then
     setWormwoodFont()
