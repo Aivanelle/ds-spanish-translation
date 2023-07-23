@@ -302,7 +302,7 @@ return {
         "tuber_crop_cooked",
       },
 
-      GENERIC = Set{ -- HÚMEDO
+      GENERIC = Set{ -- HÃšMEDO
         "aloe_planted",
         "ancient_altar",
         "ancient_herald",
@@ -433,7 +433,7 @@ return {
         "eyeturret_item",
         "featherfan",
         "fertilizer",
-        "fire", -- Fuego húmedo
+        "fire", -- Fuego hÃºmedo
         "firehound",
         "firesuppressor",
         "fishinhole",
@@ -461,7 +461,7 @@ return {
         "honeycomb",
         "horn",
         "hound",
-        "houndfire", -- Fuego húmedo
+        "houndfire", -- Fuego hÃºmedo
         "houndmound",
         "houndstooth",
         "icebox",
@@ -981,7 +981,7 @@ return {
         "petals_evil",  
       },
 
-      GENERIC = Set{ -- HÚMEDOS
+      GENERIC = Set{ -- HÃšMEDOS
         -- "ancient_remnant",
         "asparagus_planted",
         "blueprint",
@@ -1297,7 +1297,7 @@ return {
         "wormlight",
       },
 
-      GENERIC = Set{ -- HÚMEDA
+      GENERIC = Set{ -- HÃšMEDA
         "abigail",
         "abigail_flower",
         "accomplishment_shrine",
@@ -1946,7 +1946,7 @@ return {
         "twigs",
       },
 
-      GENERIC = Set{ -- HÚMEDAS
+      GENERIC = Set{ -- HÃšMEDAS
         "animal_track",
         "ash",
         "bramblespike",
