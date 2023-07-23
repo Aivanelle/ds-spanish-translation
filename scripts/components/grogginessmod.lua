@@ -1,5 +1,3 @@
-local require = _G.require
-
 -- I really don't like how I wrote this function, maybe I should refactor it later.
 local function setHumidString(prefab)
   local playerPrefab = GetPlayer().prefab
