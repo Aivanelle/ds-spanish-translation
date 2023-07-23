@@ -150,8 +150,7 @@ if oldGetDisplayName and anyDLCEnabled then
       elseif self.components.equippable and self.components.equippable.equipslot == "hands" then
         return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.TOOL[gender][grammaticalNumber] or STRINGS.WET_PREFIX.TOOL)
       elseif self.components.fuel then
-        local wetFuelPrefix = Prefix.getWetFuelPrefix(prefab)
-        return ConstructAdjectivedName(self, name, wetFuelPrefix)
+        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.FUEL[gender][grammaticalNumber] or STRINGS.WET_PREFIX.FUEL)
       else
         if self.recipetouse then return name:gsub("Planos", STRINGS.WET_PREFIX.MALE.PLURAL.BLUEPRINT) end
 
