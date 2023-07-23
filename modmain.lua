@@ -107,13 +107,13 @@ end
 
 AddSimPostInit(modSimPostInit)
 
-local function modAdventureTeleportato(inst)
+local function modTeleportatoBase(inst)
   if inst.components.container.widgetbuttoninfo.text then
     inst.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
   end
 end
 
-AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
+AddPrefabPostInit("teleportato_base", modTeleportatoBase)
 
 local function modEpitaphs(inst)
   if GetPlayer().prefab == "wolfgang" then
