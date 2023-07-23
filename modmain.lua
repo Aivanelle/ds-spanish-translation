@@ -1,3 +1,4 @@
+-- Global variables that are used across all files.
 _G = GLOBAL
 require = _G.require
 STRINGS = _G.STRINGS
