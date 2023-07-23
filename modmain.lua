@@ -57,9 +57,9 @@ end
 
 local Vector3 = _G.Vector3
 local function setWormwoodFont()
-  local talkingWormwood = GetModConfigData("talkingWormwood")
+  local talkingWormwoodConfig = GetModConfigData("talkingWormwood")
 
-  if talkingWormwood == "normalFont" and GetPlayer().components.talker then
+  if talkingWormwoodConfig == "normalFont" and GetPlayer().components.talker then
     GetPlayer().components.talker.font = TALKINGFONT
     GetPlayer().components.talker.colour = Vector3(1, 1, 1, 1)
   end
