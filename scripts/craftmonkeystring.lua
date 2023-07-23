@@ -11,14 +11,14 @@ if _G.CraftMonkeyString then
     ]]
     local MARKS =
     {
-      -- {"", ";", {COMMA = false, MUST_LOWER = true, OPT_CAP = false, PERIOD = true}},
-      {"¡", "!", {COMMA = true, MUST_LOWER = false, OPT_CAP = false, PERIOD = false}},
-      {"¿", "?", {COMMA = true, MUST_LOWER = false, OPT_CAP = false, PERIOD = false}},
-      {"", "...", {COMMA = true, MUST_LOWER = false, OPT_CAP = true, PERIOD = false}},
-      {"", ",", {COMMA = false, MUST_LOWER = true, OPT_CAP = false, PERIOD = true}},
-      {"", ".", {COMMA = false, MUST_LOWER = false, OPT_CAP = false, PERIOD = false}},
+      -- { "", ";", { COMMA = false, MUST_LOWER = true, OPT_CAP = false, PERIOD = true }},
+      { "¡", "!", { COMMA = true, MUST_LOWER = false, OPT_CAP = false, PERIOD = false }},
+      { "¿", "?", { COMMA = true, MUST_LOWER = false, OPT_CAP = false, PERIOD = false }},
+      { "", "...", { COMMA = true, MUST_LOWER = false, OPT_CAP = true, PERIOD = false }},
+      { "", ",", { COMMA = false, MUST_LOWER = true, OPT_CAP = false, PERIOD = true }},
+      { "", ".", { COMMA = false, MUST_LOWER = false, OPT_CAP = false, PERIOD = false }},
       -- Default punctuation mark, this is the most common case just because that's how I programmed it.
-      {"", "", {COMMA = false, MUST_LOWER = true, OPT_CAP = false, PERIOD = true}}
+      { "", "", { COMMA = false, MUST_LOWER = true, OPT_CAP = false, PERIOD = true }}
     }
 
     --[[
@@ -30,15 +30,15 @@ if _G.CraftMonkeyString then
     {
       {
         FIRST_LETTER = "A",
-        SUBSEQUENT_LETTERS = {""}
+        SUBSEQUENT_LETTERS = { "" }
       },
       {
         FIRST_LETTER = "O",
-        SUBSEQUENT_LETTERS = {""}
+        SUBSEQUENT_LETTERS = { "" }
       },
       {
         FIRST_LETTER = "U",
-        SUBSEQUENT_LETTERS = {"a", "e", "o", "u"}
+        SUBSEQUENT_LETTERS = { "a", "e", "o", "u" }
       }
     }
 
