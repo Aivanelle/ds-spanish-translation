@@ -1,15 +1,3 @@
-GRAMMATICAL_NUMBER =
-{
-  PLURAL = "plural",
-  SINGULAR = "singular"
-}
-
-GENDER =
-{
-  MALE = "male",
-  FEMALE = "female"
-}
-
 local Grammar = Class(function(self, inst)
   self.inst = inst
   self.grammaticalnumber = nil
