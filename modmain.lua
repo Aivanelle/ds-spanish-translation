@@ -90,13 +90,18 @@ local function translateWebberStrings()
 end
 
 local function modSimPostInit(player)
+  --[[
+    Default prefixes are no longer used, but are necessary in some cases where there are
+    prefabs not being managed by the mod.
+  ]]
+  enableSuffixes(STRINGS.WET_PREFIX)
+
   importStrings()
 
   USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
   USE_PREFIX[STRINGS.MYSTERIOUS] = false
   USE_PREFIX[STRINGS.FLOODEDITEM] = false
 
-  USE_PREFIX[STRINGS.WET_PREFIX.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
 
