@@ -22,7 +22,6 @@ function EntityScript:GetGrammaticalSuffix(suffixes)
   end
 
   local grammar = self.components.grammar
-
   if grammar then
     return (suffixes[grammar.gender] and suffixes[grammar.gender][grammar.grammaticalnumber]) or
       (suffixes.NEUTRAL and suffixes.NEUTRAL[grammar.grammaticalnumber])
