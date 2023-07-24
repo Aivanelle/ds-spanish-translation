@@ -186,7 +186,7 @@ setGrammarComponent(FEMININE_SINGULAR_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMB
 
 modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/prefabs/maxwellintromod.lua")
-modimport("scripts/constructadjectivedname.lua")
+modimport("scripts/dlcsupport_stringsmod.lua")
 modimport("scripts/components/perishablemod.lua")
 modimport("scripts/entityscriptmod.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
