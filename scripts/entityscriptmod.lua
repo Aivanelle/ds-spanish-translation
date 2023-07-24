@@ -102,17 +102,13 @@ if oldGetDisplayName and anyDLCEnabled then
     end
 
     local mysterious = self.components.mystery and self:HasTag("mystery")
+
     --[[
       Mysterious objects are evaluated at last in the original GetDisplayName function, which makes that if the object is wet, it will show
       wet prefix instead mysterious prefix, maybe this is an intentional behaviour, but who knows.
     ]]
     if mysterious then return ConstructAdjectivedName(self, name, STRINGS.MYSTERIOUS) end
 
-    -- recipetouse stores which prefab is being used to create a blueprint.
-    if self.recipetouse then
-      local itemBlueprint = STRINGS.NAMES[self.recipetouse:upper()]
-      name = STRINGS.NAMES.BLUEPRINT .. "s para " .. itemBlueprint:lower()
-    end
     --[[
       This is here to avoid wet prefix overriden and to not hide collapsed adjectives if adjectives are disabled by
       mod configurations.
