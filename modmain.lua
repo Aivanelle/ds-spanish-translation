@@ -218,7 +218,7 @@ modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/prefabs/maxwellintromod.lua")
 modimport("scripts/components/perishablemod.lua")
 modimport("scripts/entityscriptmod.lua")
-modimport("scripts/modwidgets/hovertext_onupdate.lua")
+modimport("scripts/widgets/hoverermod.lua")
 modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
 modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
 
