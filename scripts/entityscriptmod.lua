@@ -60,9 +60,6 @@ local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_D
 local GetRandomItem = _G.GetRandomItem
 local reduce = _G.reduce
 local nearsightednames = nil
-local ModIndex = _G.ModIndex
-local ConfigurationName = ModIndex:GetModConfigurationName("Traducción al Español")
-local showAdjectives = GetModConfigData("showAdjectives", ConfigurationName)
 
 if oldGetDisplayName and anyDLCEnabled then
   function EntityScript:GetDisplayName()
@@ -122,7 +119,7 @@ if oldGetDisplayName and anyDLCEnabled then
     if self.construction_prefab then name = STRINGS.NAMES.RECONSTRUCTION_PROJECT end
 
     local isWet = self:GetIsWet()
-    if showAdjectives and ((isWet or self.always_wet) and not self.no_wet_prefix) then
+    if showAdjectivesConfig and ((isWet or self.always_wet) and not self.no_wet_prefix) then
       if self.wet_prefix then
         return ConstructAdjectivedName(self, name, self.wet_prefix)
       elseif self.components.edible and GetPlayer() and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
