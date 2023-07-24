@@ -65,8 +65,6 @@ local nearsightednames = nil
 local ModIndex = _G.ModIndex
 local ConfigurationName = ModIndex:GetModConfigurationName("Traducción al Español")
 local showAdjectives = GetModConfigData("showAdjectives", ConfigurationName)
-local PREFABS = require("sortedprefabs")
-local Prefix = require("prefixfunctions")
 
 if oldGetDisplayName and anyDLCEnabled then
   function EntityScript:GetDisplayName()
@@ -75,6 +73,7 @@ if oldGetDisplayName and anyDLCEnabled then
         nearsightednames = nearsightednames or reduce(STRINGS.NAMES, testvisionfn)
         self.nearsightedname = GetRandomItem(nearsightednames)
       end
+
       return self.nearsightedname
     end
 
