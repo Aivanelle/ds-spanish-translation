@@ -105,6 +105,11 @@ local function modSimPostInit(player)
   USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
 
+  USE_PREFIX[STRINGS.WET_PREFIX.WETGOOP] = function(inst, name, adjective)
+    local wetWetGoopName = name:gsub(" ", " " .. adjective .. " ")
+    return name:gsub(name, wetWetGoopName)
+  end
+
   if player.prefab == "wormwood" then
     setWormwoodFont()
   elseif player.prefab == "webber" then
