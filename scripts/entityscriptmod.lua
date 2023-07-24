@@ -1,12 +1,22 @@
 local EntityScript = _G.EntityScript
 
 function EntityScript:GetBasicDisplayName()
+  -- Special case for blueprints.
+  if self.recipetouse then
+    local itemBlueprint = STRINGS.NAMES[self.recipetouse:upper()] or STRINGS.NAMES.UNKNOWN
+
+    return STRINGS.BLUEPRINT_ITEM:format(itemBlueprint:lower())
+  end
+
   return (self.displaynamefn ~= nil and self:displaynamefn()) or
     (self.nameoverride and STRINGS.NAMES[string.upper(self.nameoverride)]) or
     self.name
 end
 
 function EntityScript:GetGrammaticalSuffix(table)
+  -- Special case for blueprints.
+  if self.recipetouse then return table.MASCULINE.PLURAL end
+
   local grammar = self.components.grammar
 
   if grammar then
@@ -52,7 +62,7 @@ local nearsighted_key_blacklist =
   DEVTOOL = true,
 }
 
-local function testvisionfn(k,v)
+local function testvisionfn(k, v)
   if v == "" or type(v) == "table" or string.find(v, "%%") or string.find(v, "%{") or nearsighted_key_blacklist[k] then
     return false
   end
