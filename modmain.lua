@@ -2,14 +2,18 @@ _G = GLOBAL
 modimport("scripts/dlcsupport_stringsmod.lua")
 
 -- Global variables that are used across all files.
+showAdjectivesConfig = GetModConfigData("showAdjectives")
+dialogueGenderConfig = GetModConfigData("dialogueGender")
 require = _G.require
+GetPlayer = _G.GetPlayer
+GetGenderStrings = _G.GetGenderStrings
 ConstructAdjectivedName = _G.ConstructAdjectivedName
 STRINGS = _G.STRINGS
 
 modimport("scripts/spanishstrings.lua")
 
-assert = _G.assert
-USE_PREFIX = _G.USE_PREFIX
+local assert = _G.assert
+local USE_PREFIX = _G.USE_PREFIX
 
 local function enableSuffixes(table)
   for k, v in pairs(table) do
@@ -56,10 +60,6 @@ _G.Set = function(list)
 end
 
 local Set = _G.Set
-
-GetPlayer = _G.GetPlayer
-dialogueGenderConfig = GetModConfigData("dialogueGender")
-GetGenderStrings = _G.GetGenderStrings
 
 local dialogueScripts =
 {
