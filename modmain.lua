@@ -137,15 +137,6 @@ end
 AddPrefabPostInit("inventorygrave", modEpitaphs)
 AddPrefabPostInit("gravestone", modEpitaphs)
 
-local function setBlueprintDisplayName(inst)
-  inst.displaynamefn = function()
-    local blueprintItem = STRINGS.NAMES[inst.recipetouse:upper()] or STRINGS.NAMES.UNKNOWN
-    return STRINGS.BLUEPRINT_ITEM:format(blueprintItem:lower())
-  end
-end
-
-AddPrefabPostInit("blueprint", setBlueprintDisplayName)
-
 local NO_WET_PREFABS = require "sortedprefabs/nowetprefabs"
 local function setNoWetPrefix(inst)
   if not inst.no_wet_prefix then inst.no_wet_prefix = true end
