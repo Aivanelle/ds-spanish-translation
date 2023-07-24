@@ -14,8 +14,12 @@ function EntityScript:GetBasicDisplayName()
 end
 
 function EntityScript:GetGrammaticalSuffix(suffixes)
-  -- Special case for blueprints.
-  if self.recipetouse then return suffixes.MASCULINE.PLURAL end
+  -- Special case for blueprints and sunken hamlet relics.
+  if self.recipetouse then
+    return suffixes.MASCULINE.PLURAL
+  elseif self.components.sinkable and self.components.sinkable.sunken then
+    return suffixes.MASCULINE.SINGULAR
+  end
 
   local grammar = self.components.grammar
 
@@ -32,11 +36,11 @@ end
 ]]
 local CUSTOM_ADJECTIVE =
 {
-  POOP =
-  {
-    ADJECTIVE = STRINGS.WET_PREFIX.MALE.SINGULAR.FUEL,
-    CHARACTER = "wilbur"
-  },
+  -- POOP =
+  -- {
+  --   ADJECTIVE = STRINGS.WET_PREFIX.MALE.SINGULAR.FUEL,
+  --   CHARACTER = "wilbur"
+  -- },
     
   WEREWILBAFUR_HANDS =
   {
@@ -162,11 +166,6 @@ if oldGetDisplayName and anyDLCEnabled then
       elseif self.components.fuel then
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FUEL) or STRINGS.WET_PREFIX.FUEL)
       else
-        -- To manage sunken Hamlet relics.
-        if self.components.sinkable and self.components.sinkable.sunken then
-          return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.GENERIC.MASCULINE.SINGULAR)
-        end
-
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC)
       end
     end
