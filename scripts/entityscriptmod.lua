@@ -79,29 +79,27 @@ if oldGetDisplayName and anyDLCEnabled then
     end
 
     local name = self:GetBasicDisplayName()
-    local smoldering = self.components.burnable and self.components.burnable:IsSmoldering()
-    local flooded = self.components.floodable and self.components.floodable.flooded
 
+    local flooded = self.components.floodable and self.components.floodable.flooded
     if flooded then return ConstructAdjectivedName(self, name, STRINGS.FLOODEDITEM) end
 
+    local smoldering = self.components.burnable and self.components.burnable:IsSmoldering()
     if smoldering then
       return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.SMOLDERING) or STRINGS.SMOLDERINGITEM)
     end
 
     local witheredPickable = self.components.pickable and self.components.pickable:IsWithered()
     local witheredCrop = self.components.crop and self.components.crop:IsWithered()
-
     if witheredCrop or witheredPickable then
       return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WITHERED) or STRINGS.WITHEREDITEM)
     end
-
-    local mysterious = self.components.mystery and self:HasTag("mystery")
 
     --[[
       Mysterious objects are evaluated at last in the original GetDisplayName function, which makes
       that if the object is wet, it will show wet prefix instead mysterious prefix, maybe this is an
       intentional behaviour, but who knows.
     ]]
+    local mysterious = self.components.mystery and self:HasTag("mystery")
     if mysterious then return ConstructAdjectivedName(self, name, STRINGS.MYSTERIOUS) end
 
     --[[
