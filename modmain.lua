@@ -184,6 +184,33 @@ setGrammarComponent(FEMININE_PLURAL_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER
 local FEMININE_SINGULAR_PREFABS = require "sortedprefabs/femininesingularprefabs"
 setGrammarComponent(FEMININE_SINGULAR_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.SINGULAR)
 
+local function setParrotGender(inst, genderTable, gender)
+  for k, v in ipairs(genderTable) do
+    if v == inst.components.named.inst.name then
+      inst.components.grammar:SetGender(gender)
+      break
+    end
+  end
+end
+
+local PARROT_NAMES = nil
+local function modParrotPirate(inst)
+  if not PARROT_NAMES then PARROT_NAMES = require "sortedprefabs/parrotnames" end
+
+  inst:AddComponent("grammar")
+  inst.components.grammar:SetGrammaticalNumber(GRAMMATICAL_NUMBER.SINGULAR)
+
+  if inst.components.named and inst.components.named.name then
+    setParrotGender(inst, PARROT_NAMES.MASCULINE, GENDER.MASCULINE)
+
+    if not inst.components.grammar.gender then
+      setParrotGender(inst, PARROT_NAMES.FEMININE, GENDER.FEMININE)
+    end
+  end
+end
+
+AddPrefabPostInit("parrot_pirate", modParrotPirate)
+
 modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/prefabs/maxwellintromod.lua")
 modimport("scripts/dlcsupport_stringsmod.lua")
