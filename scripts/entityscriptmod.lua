@@ -6,6 +6,14 @@ function EntityScript:GetBasicDisplayName()
     self.name
 end
 
+function EntityScript:GetGrammaticalSuffix(table)
+  local grammar = self.components.grammar
+
+  if grammar then
+    return table[grammar.gender] and table[grammar.gender][grammar.grammaticalnumber]
+  end
+end
+
 --[[
   Used to manage some specific cases. Character refers to the player prefab which is needed to apply the
   custom adjective, if no player prefab is provided, it will be applied with any character.
@@ -98,7 +106,7 @@ if oldGetDisplayName and anyDLCEnabled then
     local prefab = self.prefab
 
     if witheredCrop or witheredPickable then
-      return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WITHERED[gender][grammaticalNumber] or STRINGS.WITHEREDITEM)
+      return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WITHERED) or STRINGS.WITHEREDITEM)
     end
 
     local mysterious = self.components.mystery and self:HasTag("mystery")
@@ -140,29 +148,24 @@ if oldGetDisplayName and anyDLCEnabled then
         elseif statements, Wigfrid will return a name with no adjective attached to it.
       ]]
       if self.components.edible and GetPlayer() and GetPlayer().components.eater then
-        -- Special case for wet goop if it's wet.
-        if self.prefab == "wetgoop" then return name:gsub(" ", " " .. STRINGS.WET_PREFIX.WETGOOP .. " ") end
-
         if GetPlayer().components.eater:CanEat(self) then
-          return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.FOOD[gender][grammaticalNumber] or STRINGS.WET_PREFIX.FOOD)
+          return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FOOD) or STRINGS.WET_PREFIX.FOOD)
         end
       end
 
       if self.components.equippable and (self.components.equippable.equipslot == "head" or self.components.equippable.equipslot == "body") then
-        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.CLOTHING[gender][grammaticalNumber] or STRINGS.WET_PREFIX.CLOTHING)
+        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.CLOTHING) or STRINGS.WET_PREFIX.CLOTHING)
       elseif self.components.equippable and self.components.equippable.equipslot == "hands" then
-        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.TOOL[gender][grammaticalNumber] or STRINGS.WET_PREFIX.TOOL)
+        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.TOOL) or STRINGS.WET_PREFIX.TOOL)
       elseif self.components.fuel then
-        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.FUEL[gender][grammaticalNumber] or STRINGS.WET_PREFIX.FUEL)
+        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FUEL) or STRINGS.WET_PREFIX.FUEL)
       else
-        if self.recipetouse then return name:gsub("Planos", STRINGS.WET_PREFIX.MALE.PLURAL.BLUEPRINT) end
-
         -- To manage sunken Hamlet relics.
         if self.components.sinkable and self.components.sinkable.sunken then
           return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.GENERIC.MASCULINE.SINGULAR)
         end
 
-        return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.GENERIC[gender][grammaticalNumber] or STRINGS.WET_PREFIX.GENERIC)
+        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC)
       end
     end
 
