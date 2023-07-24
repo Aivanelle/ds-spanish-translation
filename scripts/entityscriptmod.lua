@@ -153,19 +153,9 @@ if oldGetDisplayName and anyDLCEnabled then
         end
 
         return ConstructAdjectivedName(self, name, self.wet_prefix)
-      end
-
-      --[[
-        If statement isolated mainly because Wigfrid, since she only eats meat or related. If this were part of the
-        elseif statements, Wigfrid will return a name with no adjective attached to it.
-      ]]
-      if self.components.edible and GetPlayer() and GetPlayer().components.eater then
-        if GetPlayer().components.eater:CanEat(self) then
-          return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FOOD) or STRINGS.WET_PREFIX.FOOD)
-        end
-      end
-
-      if self.components.equippable and (self.components.equippable.equipslot == "head" or self.components.equippable.equipslot == "body") then
+      elseif self.components.edible and GetPlayer() and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
+        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FOOD) or STRINGS.WET_PREFIX.FOOD)
+      elseif self.components.equippable and (self.components.equippable.equipslot == "head" or self.components.equippable.equipslot == "body") then
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.CLOTHING) or STRINGS.WET_PREFIX.CLOTHING)
       elseif self.components.equippable and self.components.equippable.equipslot == "hands" then
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.TOOL) or STRINGS.WET_PREFIX.TOOL)
