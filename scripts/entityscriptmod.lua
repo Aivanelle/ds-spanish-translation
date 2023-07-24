@@ -124,7 +124,7 @@ if oldGetDisplayName and anyDLCEnabled then
         Spring = False: Rabbit and Crabbit holes opened.
     ]]
     if (prefab == "rabbithole" or prefab == "crabhole") and self.spring then
-      return ConstructAdjectivedName(self, name, STRINGS.WET_PREFIX.RABBITHOLE)
+      return ConstructAdjectivedName(self, name, self.wet_prefix)
     end
     --[[
       Legacy: If a Hamlet building is destroyed and the world is reloaded, it will show "MISSING NAME".
@@ -143,6 +143,11 @@ if oldGetDisplayName and anyDLCEnabled then
           return ConstructAdjectivedName(self, name, CUSTOM_ADJECTIVE[prefab:upper()].ADJECTIVE)
         end
       end
+
+      if self.wet_prefix then
+        return ConstructAdjectivedName(self, name, self.wet_prefix)
+      end
+
       --[[
         If statement isolated mainly because Wigfrid, since she only eats meat or related. If this were part of the
         elseif statements, Wigfrid will return a name with no adjective attached to it.
