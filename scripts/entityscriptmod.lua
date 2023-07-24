@@ -14,7 +14,7 @@ function EntityScript:GetBasicDisplayName()
 end
 
 function EntityScript:GetGrammaticalSuffix(suffixes)
-  -- Special case for blueprints and sunken hamlet relics.
+  -- Special case for blueprints and sunken Hamlet relics.
   if self.recipetouse then
     return suffixes.MASCULINE.PLURAL
   elseif self.components.sinkable and self.components.sinkable.sunken then
@@ -119,8 +119,9 @@ if oldGetDisplayName and anyDLCEnabled then
     local mysterious = self.components.mystery and self:HasTag("mystery")
 
     --[[
-      Mysterious objects are evaluated at last in the original GetDisplayName function, which makes that if the object is wet, it will show
-      wet prefix instead mysterious prefix, maybe this is an intentional behaviour, but who knows.
+      Mysterious objects are evaluated at last in the original GetDisplayName function, which makes
+      that if the object is wet, it will show wet prefix instead mysterious prefix, maybe this is an
+      intentional behaviour, but who knows.
     ]]
     if mysterious then return ConstructAdjectivedName(self, name, STRINGS.MYSTERIOUS) end
 
@@ -130,9 +131,14 @@ if oldGetDisplayName and anyDLCEnabled then
         Spring = True: Rabbit and Crabbit holes closed.
         Spring = False: Rabbit and Crabbit holes opened.
     ]]
-    if (prefab == "rabbithole" or prefab == "crabhole") and self.spring then
-      return ConstructAdjectivedName(self, name, self.wet_prefix)
+    if (prefab == "rabbithole" or prefab == "crabhole") then
+      if self.spring then
+        return ConstructAdjectivedName(self, name, self.wet_prefix)
+      elseif showAdjectives then
+        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC)
+      end
     end
+
     --[[
       Legacy: If a Hamlet building is destroyed and the world is reloaded, it will show "MISSING NAME".
       Since the Major Quality of Life and Bug Fix Update released on April 27, this fix is no longer needed,
@@ -152,10 +158,6 @@ if oldGetDisplayName and anyDLCEnabled then
       end
 
       if self.wet_prefix then
-        if (prefab == "rabbithole" or prefab == "crabhole") and not self.spring then
-          self.wet_prefix = self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC
-        end
-
         return ConstructAdjectivedName(self, name, self.wet_prefix)
       elseif self.components.edible and GetPlayer() and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FOOD) or STRINGS.WET_PREFIX.FOOD)
