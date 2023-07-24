@@ -13,14 +13,15 @@ function EntityScript:GetBasicDisplayName()
     self.name
 end
 
-function EntityScript:GetGrammaticalSuffix(table)
+function EntityScript:GetGrammaticalSuffix(suffixes)
   -- Special case for blueprints.
-  if self.recipetouse then return table.MASCULINE.PLURAL end
+  if self.recipetouse then return suffixes.MASCULINE.PLURAL end
 
   local grammar = self.components.grammar
 
   if grammar then
-    return table[grammar.gender] and table[grammar.gender][grammar.grammaticalnumber]
+    return (suffixes[grammar.gender] and suffixes[grammar.gender][grammar.grammaticalnumber]) or
+      (suffixes.NEUTRAL and suffixes.NEUTRAL[grammar.grammaticalnumber])
   end
 end
 
@@ -85,14 +86,6 @@ local Prefix = require("prefixfunctions")
 
 if oldGetDisplayName and anyDLCEnabled then
   function EntityScript:GetDisplayName(...)
-    local grammaticalNumber = nil
-    local gender = nil
-
-    if self.components.grammar then
-      grammaticalNumber = self.components.grammar.grammaticalnumber
-      gender = self.components.grammar.gender
-    end
-
     if GetPlayer().components.vision and not GetPlayer().components.vision.focused and not GetPlayer().components.vision:testsight(self) then
       if not self.nearsightedname then
         nearsightednames = nearsightednames or reduce(STRINGS.NAMES, testvisionfn)
@@ -108,7 +101,7 @@ if oldGetDisplayName and anyDLCEnabled then
     if flooded then return ConstructAdjectivedName(self, name, STRINGS.FLOODEDITEM) end
 
     if smoldering then
-      return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.SMOLDERING.NEUTRAL[grammaticalNumber] or STRINGS.SMOLDERINGITEM)
+      return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.SMOLDERING) or STRINGS.SMOLDERINGITEM)
     end
 
     local witheredPickable = self.components.pickable and self.components.pickable:IsWithered()
