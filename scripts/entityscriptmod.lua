@@ -1,3 +1,11 @@
+local EntityScript = _G.EntityScript
+
+function EntityScript:GetBasicDisplayName()
+  return (self.displaynamefn ~= nil and self:displaynamefn()) or
+    (self.nameoverride and STRINGS.NAMES[string.upper(self.nameoverride)]) or
+    self.name
+end
+
 --[[
   Used to manage some specific cases. Character refers to the player prefab which is needed to apply the
   custom adjective, if no player prefab is provided, it will be applied with any character.
@@ -44,7 +52,6 @@ local function testvisionfn(k,v)
 end
 
 -- Thanks Simplex.
-local EntityScript = _G.EntityScript
 local oldGetDisplayName = EntityScript.GetDisplayName
 local IsDLCEnabled = _G.IsDLCEnabled
 local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_DLC) or IsDLCEnabled(_G.PORKLAND_DLC)
@@ -76,7 +83,7 @@ if oldGetDisplayName and anyDLCEnabled then
       return self.nearsightedname
     end
 
-    local name = (self.displaynamefn ~= nil and self:displaynamefn()) or (self.nameoverride and STRINGS.NAMES[string.upper(self.nameoverride)]) or self.name
+    local name = self:GetBasicDisplayName()
     local smoldering = self.components.burnable and self.components.burnable:IsSmoldering()
     local flooded = self.components.floodable and self.components.floodable.flooded
 
