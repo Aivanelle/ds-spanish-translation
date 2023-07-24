@@ -29,26 +29,6 @@ function EntityScript:GetGrammaticalSuffix(suffixes)
   end
 end
 
---[[
-  Used to manage some specific cases. Character refers to the player prefab which is needed to apply the
-  custom adjective, if no player prefab is provided, it will be applied with any character.
-  This should probably be something temporary.
-]]
-local CUSTOM_ADJECTIVE =
-{
-  -- POOP =
-  -- {
-  --   ADJECTIVE = STRINGS.WET_PREFIX.MALE.SINGULAR.FUEL,
-  --   CHARACTER = "wilbur"
-  -- },
-    
-  WEREWILBAFUR_HANDS =
-  {
-    ADJECTIVE = STRINGS.WET_PREFIX.MALE.SINGULAR.CLOTHING,
-    CHARACTER = "wilba"
-  }
-}
-
 local nearsighted_key_blacklist =
 {
   NIL = true,
@@ -89,7 +69,7 @@ local PREFABS = require("sortedprefabs")
 local Prefix = require("prefixfunctions")
 
 if oldGetDisplayName and anyDLCEnabled then
-  function EntityScript:GetDisplayName(...)
+  function EntityScript:GetDisplayName()
     if GetPlayer().components.vision and not GetPlayer().components.vision.focused and not GetPlayer().components.vision:testsight(self) then
       if not self.nearsightedname then
         nearsightednames = nearsightednames or reduce(STRINGS.NAMES, testvisionfn)
@@ -149,13 +129,13 @@ if oldGetDisplayName and anyDLCEnabled then
 
     local isWet = self:GetIsWet()
     if showAdjectives and ((isWet or self.always_wet) and not self.no_wet_prefix) then
-      if CUSTOM_ADJECTIVE[prefab:upper()] then
-        local playerPrefab = CUSTOM_ADJECTIVE[prefab:upper()].CHARACTER
+      -- if CUSTOM_ADJECTIVE[prefab:upper()] then
+      --   local playerPrefab = CUSTOM_ADJECTIVE[prefab:upper()].CHARACTER
 
-        if GetPlayer().prefab == playerPrefab or playerPrefab == "" then
-          return ConstructAdjectivedName(self, name, CUSTOM_ADJECTIVE[prefab:upper()].ADJECTIVE)
-        end
-      end
+      --   if GetPlayer().prefab == playerPrefab or playerPrefab == "" then
+      --     return ConstructAdjectivedName(self, name, CUSTOM_ADJECTIVE[prefab:upper()].ADJECTIVE)
+      --   end
+      -- end
 
       if self.wet_prefix then
         return ConstructAdjectivedName(self, name, self.wet_prefix)
