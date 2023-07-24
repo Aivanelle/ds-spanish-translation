@@ -145,6 +145,10 @@ if oldGetDisplayName and anyDLCEnabled then
       end
 
       if self.wet_prefix then
+        if (prefab == "rabbithole" or prefab == "crabhole") and not self.spring then
+          self.wet_prefix = self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC
+        end
+
         return ConstructAdjectivedName(self, name, self.wet_prefix)
       end
 
