@@ -156,7 +156,7 @@ if oldGetDisplayName and anyDLCEnabled then
 
         -- To manage sunken Hamlet relics.
         if self.components.sinkable and self.components.sinkable.sunken then
-          return ConstructAdjectivedName(self, name, STRINGS.WET_PREFIX.MALE.SINGULAR.GENERIC)
+          return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.GENERIC.MASCULINE.SINGULAR)
         end
 
         return ConstructAdjectivedName(self, name, STRINGS.SUFFIX.WET.GENERIC[gender][grammaticalNumber] or STRINGS.WET_PREFIX.GENERIC)
