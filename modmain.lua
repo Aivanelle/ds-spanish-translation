@@ -137,6 +137,12 @@ end
 AddPrefabPostInit("inventorygrave", modEpitaphs)
 AddPrefabPostInit("gravestone", modEpitaphs)
 
+local function modWerewilbaFurHands(inst)
+  inst.wet_prefix = STRINGS.SUFFIX.WET.CLOTHING.MASCULINE.SINGULAR
+end
+
+AddPrefabPostInit("werewilbafur_hands", modWerewilbaFurHands)
+
 local NO_WET_PREFABS = require "sortedprefabs/nowetprefabs"
 local function setNoWetPrefix(inst)
   if not inst.no_wet_prefix then inst.no_wet_prefix = true end
