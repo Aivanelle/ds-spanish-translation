@@ -1,6 +1,9 @@
--- Global variables that are used across all files.
 _G = GLOBAL
+modimport("scripts/dlcsupport_stringsmod.lua")
+
+-- Global variables that are used across all files.
 require = _G.require
+ConstructAdjectivedName = _G.ConstructAdjectivedName
 STRINGS = _G.STRINGS
 
 modimport("scripts/spanishstrings.lua")
@@ -213,7 +216,6 @@ AddPrefabPostInit("parrot_pirate", modParrotPirate)
 
 modimport("scripts/craftmonkeystring.lua")
 modimport("scripts/prefabs/maxwellintromod.lua")
-modimport("scripts/dlcsupport_stringsmod.lua")
 modimport("scripts/components/perishablemod.lua")
 modimport("scripts/entityscriptmod.lua")
 modimport("scripts/modwidgets/hovertext_onupdate.lua")
