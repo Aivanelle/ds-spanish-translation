@@ -90,7 +90,6 @@ if oldGetDisplayName and anyDLCEnabled then
 
     local witheredPickable = self.components.pickable and self.components.pickable:IsWithered()
     local witheredCrop = self.components.crop and self.components.crop:IsWithered()
-    local prefab = self.prefab
 
     if witheredCrop or witheredPickable then
       return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WITHERED) or STRINGS.WITHEREDITEM)
@@ -111,7 +110,7 @@ if oldGetDisplayName and anyDLCEnabled then
         Spring = True: Rabbit and Crabbit holes closed.
         Spring = False: Rabbit and Crabbit holes opened.
     ]]
-    if (prefab == "rabbithole" or prefab == "crabhole") then
+    if (self.prefab == "rabbithole" or self.prefab == "crabhole") then
       if self.spring then
         return ConstructAdjectivedName(self, name, self.wet_prefix)
       elseif showAdjectives then
@@ -129,14 +128,6 @@ if oldGetDisplayName and anyDLCEnabled then
 
     local isWet = self:GetIsWet()
     if showAdjectives and ((isWet or self.always_wet) and not self.no_wet_prefix) then
-      -- if CUSTOM_ADJECTIVE[prefab:upper()] then
-      --   local playerPrefab = CUSTOM_ADJECTIVE[prefab:upper()].CHARACTER
-
-      --   if GetPlayer().prefab == playerPrefab or playerPrefab == "" then
-      --     return ConstructAdjectivedName(self, name, CUSTOM_ADJECTIVE[prefab:upper()].ADJECTIVE)
-      --   end
-      -- end
-
       if self.wet_prefix then
         return ConstructAdjectivedName(self, name, self.wet_prefix)
       elseif self.components.edible and GetPlayer() and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
