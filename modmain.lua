@@ -1,4 +1,11 @@
 _G = GLOBAL
+_G.stackStyles =
+{
+  ["default"] = "x{stack}",
+  ["parenthesis"] = "({stack})",
+  ["mathematician"] = "× {stack}"
+}
+
 modimport("scripts/dlcsupport_stringsmod.lua")
 
 -- Global variables that are used across all files.
