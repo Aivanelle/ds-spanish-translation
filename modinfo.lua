@@ -25,9 +25,9 @@ configuration_options =
     {
       { description = "Semioficial", data = "SO" },
       { description = "Español MX", data = "MX" },
-      { description = "Español ES", data = "ES" },
+      { description = "Español ES", data = "ES" }
     },
-    default = "SO",
+    default = "SO"
   },
   {
     name = "showAdjectives",
@@ -35,9 +35,9 @@ configuration_options =
     options =
     {
       { description = "Sí", data = true },
-      { description = "No", data = false },
+      { description = "No", data = false }
     },
-    default = true,
+    default = true
   },
   {
     name = "dialogueGender",
@@ -47,20 +47,20 @@ configuration_options =
       { description = "Automático", data = "auto" },
       { description = "Masculino", data = "male" },
       { description = "Femenino", data = "female" },
-      { description = "Neutro", data = "robot" },
+      { description = "Neutro", data = "robot" }
     },
-    default = "auto",
+    default = "auto"
   },
   {
     name = "stackStyle",
     label = "Estilo de apilables",
     options =
     {
-      { description = "Clásico", data = "classic" },
+      { description = "Clásico", data = "default" },
       { description = "Espaciado", data = "mathematician" },
-      { description = "Paréntesis", data = "parenthesis" },
+      { description = "Paréntesis", data = "parenthesis" }
     },
-    default = "classic",
+    default = "default"
   },
   {
     name = "talkingWormwood",
@@ -68,8 +68,8 @@ configuration_options =
     options =
     {
       { description = "Especial", data = "wormwoodFont" },
-      { description = "Normal", data = "normalFont" },
+      { description = "Normal", data = "normalFont" }
     },
-    default = "wormwoodFont",
+    default = "wormwoodFont"
   },
 }
