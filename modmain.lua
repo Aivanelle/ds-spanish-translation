@@ -219,4 +219,4 @@ local PORKLAND_DLC = _G.PORKLAND_DLC
 local anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
 if anyDLCEnabled then modimport("scripts/widgets/inventorybarmod.lua") end
-if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/components/grogginessmod.lua") end
+if IsDLCEnabled(PORKLAND_DLC) then modimport("scripts/components/grogginessmod.lua") end
