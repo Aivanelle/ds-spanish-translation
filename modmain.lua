@@ -219,12 +219,12 @@ modimport("scripts/prefabs/maxwellintromod.lua")
 modimport("scripts/components/perishablemod.lua")
 modimport("scripts/entityscriptmod.lua")
 modimport("scripts/widgets/hoverermod.lua")
-modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
+modimport("scripts/widgets/itemtilemod.lua")
 modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
 
 local ROG_DLC = _G.REIGN_OF_GIANTS
 local PORKLAND_DLC = _G.PORKLAND_DLC
 local anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
-if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
+if anyDLCEnabled then modimport("scripts/widgets/inventorybarmod.lua") end
 if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/components/grogginessmod.lua") end
