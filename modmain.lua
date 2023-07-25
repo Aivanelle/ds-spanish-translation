@@ -53,14 +53,6 @@ LoadPOFile("translationfiles/spanish_" .. translationFileConfig:lower() .. ".po"
 -- They forgot Wagstaff.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
-_G.Set = function(list)
-  local set = {}
-  for _, v in pairs(list) do set[v] = true end
-  return set
-end
-
-local Set = _G.Set
-
 local dialogueScripts =
 {
   female = "femalestrings.lua",
