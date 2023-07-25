@@ -88,6 +88,7 @@ return {
   "unagi",
   "venus_stalk",
   "watermelonicle",
+  "wetgoop",
 
   -- Clothings.
   "aerodynamichat",
