@@ -10,7 +10,7 @@ GetGenderStrings = _G.GetGenderStrings
 ConstructAdjectivedName = _G.ConstructAdjectivedName
 STRINGS = _G.STRINGS
 
-modimport("scripts/spanishstrings.lua")
+modimport("scripts/stringsmod.lua")
 
 local assert = _G.assert
 local USE_PREFIX = _G.USE_PREFIX
