@@ -1,4 +1,7 @@
 _G = GLOBAL
+modimport("scripts/dlcsupport_stringsmod.lua")
+
+-- _G.escapeStr = function(str) return str:gsub("%W", "%%%0") end
 _G.stackStyles =
 {
   ["default"] = "x{stack}",
@@ -6,12 +9,11 @@ _G.stackStyles =
   ["mathematician"] = "× {stack}"
 }
 
-modimport("scripts/dlcsupport_stringsmod.lua")
-
 -- Global variables that are used across all files.
 showAdjectivesConfig = GetModConfigData("showAdjectives")
 dialogueGenderConfig = GetModConfigData("dialogueGender")
 require = _G.require
+escape_lua_pattern = _G.escape_lua_pattern
 GetPlayer = _G.GetPlayer
 GetGenderStrings = _G.GetGenderStrings
 ConstructAdjectivedName = _G.ConstructAdjectivedName
@@ -92,17 +94,23 @@ local function translateWebberStrings()
 end
 
 local function modSimPostInit(player)
+  importStrings()
+
   --[[
     Default prefixes are no longer used, but are necessary in some cases where there are
     prefabs not being managed by the mod.
   ]]
   enableSuffixes(STRINGS.WET_PREFIX)
-
-  importStrings()
+  USE_PREFIX[STRINGS.UI.HUD.HUNGRY] = false
+  USE_PREFIX[STRINGS.UI.HUD.STARVING] = false
+  USE_PREFIX[STRINGS.UI.HUD.STALE] = false
+  USE_PREFIX[STRINGS.UI.HUD.SPOILED] = false
 
   USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
   USE_PREFIX[STRINGS.MYSTERIOUS] = false
   USE_PREFIX[STRINGS.FLOODEDITEM] = false
+  USE_PREFIX[STRINGS.UI.HUD.STALE_FROZEN] = false
+  USE_PREFIX[STRINGS.UI.HUD.SPOILED_FROZEN] = false
 
   USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
