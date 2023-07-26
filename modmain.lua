@@ -1,7 +1,6 @@
 _G = GLOBAL
 modimport("scripts/dlcsupport_stringsmod.lua")
 
--- _G.escapeStr = function(str) return str:gsub("%W", "%%%0") end
 _G.stackStyles =
 {
   ["default"] = "x{stack}",
