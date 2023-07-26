@@ -213320,7 +213320,7 @@ msgstr "aquí"
 #. STRINGS.UI.HUD.HUNGRY
 msgctxt "STRINGS.UI.HUD.HUNGRY"
 msgid "Hungry"
-msgstr "(Hambriento)"
+msgstr "hambriento(a)"
 
 #. STRINGS.UI.HUD.INSPECT
 msgctxt "STRINGS.UI.HUD.INSPECT"
@@ -213396,7 +213396,7 @@ msgstr "Elegir"
 #. STRINGS.UI.HUD.SPOILED
 msgctxt "STRINGS.UI.HUD.SPOILED"
 msgid "Spoiled"
-msgstr "(Podrido)"
+msgstr "podrido(a)"
 
 #. STRINGS.UI.HUD.SPOILED_FROZEN
 msgctxt "STRINGS.UI.HUD.SPOILED_FROZEN"
@@ -213406,7 +213406,7 @@ msgstr "derretido"
 #. STRINGS.UI.HUD.STALE
 msgctxt "STRINGS.UI.HUD.STALE"
 msgid "Stale"
-msgstr "(Rancio)"
+msgstr "rancio(a)"
 
 #. STRINGS.UI.HUD.STALE_FROZEN
 msgctxt "STRINGS.UI.HUD.STALE_FROZEN"
@@ -213421,7 +213421,7 @@ msgstr "Comenzar"
 #. STRINGS.UI.HUD.STARVING
 msgctxt "STRINGS.UI.HUD.STARVING"
 msgid "Starving"
-msgstr "(Famélico)"
+msgstr "famélico(a)"
 
 #. STRINGS.UI.HUD.SWAP
 msgctxt "STRINGS.UI.HUD.SWAP"
