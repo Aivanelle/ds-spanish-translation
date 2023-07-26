@@ -9,9 +9,9 @@ function ItemTile:GetDescriptionString()
     if showAdjectivesConfig then
       local name = self.item:GetDisplayName()
 
-      return str:gsub(adjective .. " " .. name, ConstructAdjectivedName(self.item, name, adjective))
+      return str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(self.item, name, adjective))
     else
-      return str:gsub(adjective .. " ", "")
+      return str:gsub(escape_lua_pattern(adjective .. " "), "")
     end
   end
 

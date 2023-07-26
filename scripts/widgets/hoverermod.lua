@@ -24,9 +24,9 @@ function HoverText:OnUpdate()
       if showAdjectivesConfig then
         local name = lmb.target:GetDisplayName() or (lmb.target.components.named and lmb.target.components.named.name)
 
-        str = str:gsub(adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, adjective))
+        str = str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(lmb.target, name, adjective))
       else
-        str = str:gsub(adjective .. " ", "")
+        str = str:gsub(escape_lua_pattern(adjective .. " "), "")
       end
     end
 

@@ -9,9 +9,9 @@ function Inv:GetDescriptionString(item)
     if showAdjectivesConfig then
       local name = item:GetDisplayName()
 
-      return str:gsub(adjective .. " " .. name, ConstructAdjectivedName(item, name, adjective))
+      return str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(item, name, adjective))
     else
-      return str:gsub(adjective .. " ", "")
+      return str:gsub(escape_lua_pattern(adjective .. " "), "")
     end
   end
 
