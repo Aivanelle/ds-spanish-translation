@@ -24,6 +24,7 @@ function HoverText:OnUpdate()
       if showAdjectivesConfig then
         local name = lmb.target:GetDisplayName() or (lmb.target.components.named and lmb.target.components.named.name)
 
+        -- For some reason that I can't comprehend, if I escape adjective and name by apart, it won't replace the string.
         str = str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(lmb.target, name, adjective))
       else
         str = str:gsub(escape_lua_pattern(adjective .. " "), "")
