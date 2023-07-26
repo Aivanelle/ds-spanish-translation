@@ -1,5 +1,5 @@
 _G = GLOBAL
-modimport("scripts/dlcsupport_stringsmod.lua")
+modimport "scripts/dlcsupport_stringsmod.lua"
 
 _G.stackStyles =
 {
@@ -18,7 +18,7 @@ GetGenderStrings = _G.GetGenderStrings
 ConstructAdjectivedName = _G.ConstructAdjectivedName
 STRINGS = _G.STRINGS
 
-modimport("scripts/stringsmod.lua")
+modimport "scripts/stringsmod.lua"
 
 local assert = _G.assert
 local USE_PREFIX = _G.USE_PREFIX
@@ -220,17 +220,17 @@ end
 
 AddPrefabPostInit("parrot_pirate", modParrotPirate)
 
-modimport("scripts/craftmonkeystring.lua")
-modimport("scripts/prefabs/maxwellintromod.lua")
-modimport("scripts/components/perishablemod.lua")
-modimport("scripts/entityscriptmod.lua")
-modimport("scripts/widgets/hoverermod.lua")
-modimport("scripts/widgets/itemtilemod.lua")
-modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
+modimport "scripts/craftmonkeystring.lua"
+modimport "scripts/prefabs/maxwellintromod.lua"
+modimport "scripts/components/perishablemod.lua"
+modimport "scripts/entityscriptmod.lua"
+modimport "scripts/widgets/hoverermod.lua"
+modimport "scripts/widgets/itemtilemod.lua"
+modimport "scripts/modscreens/morguescreen_refreshcontrols.lua"
 
 local ROG_DLC = _G.REIGN_OF_GIANTS
 local PORKLAND_DLC = _G.PORKLAND_DLC
 local anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
-if anyDLCEnabled then modimport("scripts/widgets/inventorybarmod.lua") end
-if IsDLCEnabled(PORKLAND_DLC) then modimport("scripts/components/grogginessmod.lua") end
+if anyDLCEnabled then modimport "scripts/widgets/inventorybarmod.lua" end
+if IsDLCEnabled(PORKLAND_DLC) then modimport "scripts/components/grogginessmod.lua" end
