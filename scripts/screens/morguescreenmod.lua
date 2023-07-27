@@ -1,7 +1,10 @@
+local function firstToUpper(str)
+  return str:gsub("^%l", string.upper)
+end
+
 local causesOfDeath = nil
 local MorgueScreen = require "screens/morguescreen"
 local OriginalRefreshControls = MorgueScreen.RefreshControls
-local FirstToUpper = _G.FirstToUpper
 
 function MorgueScreen:RefreshControls()
   OriginalRefreshControls(self)
