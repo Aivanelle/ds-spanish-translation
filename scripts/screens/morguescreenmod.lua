@@ -13,6 +13,12 @@ function MorgueScreen:RefreshControls()
     causesOfDeath[killedBy] = true
   end
 
+  --[[
+    First, we search in every obituary row a widget called "control" (v), which contains
+    days lived, deceased, cause of death and gamemode, every one of them are also widgets,
+    3 of them being text widgets and deceased being a widget called "DECEASED" and after that we
+    get their corresponding string to find those that are text widgets.
+  ]]
   for _, v in pairs(self.obits_rows:GetChildren()) do
     if tostring(v) == "control" then
       for _, widget in pairs(v:GetChildren()) do
