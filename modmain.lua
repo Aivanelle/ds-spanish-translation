@@ -1,4 +1,7 @@
 _G = GLOBAL
+-- They forgot Wagstaff.
+table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
+
 modimport "scripts/dlcsupport_stringsmod.lua"
 
 _G.stackStyles =
@@ -54,13 +57,46 @@ local CAPY_DLC = _G.CAPY_DLC
 if IsDLCEnabled(CAPY_DLC) then
   STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
 end
----------------------------------------------------------------
 
 local translationFileConfig = GetModConfigData("translationFile")
 LoadPOFile("translationfiles/spanish_" .. translationFileConfig:lower() .. ".po", "es")
 
--- They forgot Wagstaff.
-table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
+local function modTeleportatoBase(inst)
+  if inst.components.container.widgetbuttoninfo.text then
+    inst.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
+  end
+end
+
+AddPrefabPostInit("teleportato_base", modTeleportatoBase)
+
+local function modEpitaphs(inst)
+  if GetPlayer().prefab == "wolfgang" then
+    local WOLFGANG_EPITAPHS = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
+    inst.components.inspectable:SetDescription(WOLFGANG_EPITAPHS[math.random(#WOLFGANG_EPITAPHS)])
+  end
+end
+
+AddPrefabPostInit("inventorygrave", modEpitaphs)
+AddPrefabPostInit("gravestone", modEpitaphs)
+
+local function modWerewilbaFurHands(inst)
+  inst.wet_prefix = STRINGS.SUFFIX.WET.CLOTHING.MASCULINE.SINGULAR
+end
+
+AddPrefabPostInit("werewilbafur_hands", modWerewilbaFurHands)
+
+local KnownModIndex = _G.KnownModIndex
+local function modConfigurationScreenInit(self, modname)
+  local fancyModName = KnownModIndex:GetModFancyName(modname)
+
+  for _, child in pairs(self.root:GetChildren()) do
+    if tostring(child):find("Text") then
+      child:SetString(subfmt(STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX, { modname = fancyModName }))
+    end
+  end
+end
+
+AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
 
 local dialogueScripts =
 {
@@ -128,43 +164,6 @@ local function modSimPostInit(player)
 end
 
 AddSimPostInit(modSimPostInit)
-
-local function modTeleportatoBase(inst)
-  if inst.components.container.widgetbuttoninfo.text then
-    inst.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
-  end
-end
-
-AddPrefabPostInit("teleportato_base", modTeleportatoBase)
-
-local function modEpitaphs(inst)
-  if GetPlayer().prefab == "wolfgang" then
-    local WOLFGANG_EPITAPHS = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
-    inst.components.inspectable:SetDescription(WOLFGANG_EPITAPHS[math.random(#WOLFGANG_EPITAPHS)])
-  end
-end
-
-AddPrefabPostInit("inventorygrave", modEpitaphs)
-AddPrefabPostInit("gravestone", modEpitaphs)
-
-local function modWerewilbaFurHands(inst)
-  inst.wet_prefix = STRINGS.SUFFIX.WET.CLOTHING.MASCULINE.SINGULAR
-end
-
-AddPrefabPostInit("werewilbafur_hands", modWerewilbaFurHands)
-
-local KnownModIndex = _G.KnownModIndex
-local function modConfigurationScreenInit(self, modname)
-  local fancyModName = KnownModIndex:GetModFancyName(modname)
-
-  for _, child in pairs(self.root:GetChildren()) do
-    if tostring(child):find("Text") then
-      child:SetString(subfmt(STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX, { modname = fancyModName }))
-    end
-  end
-end
-
-AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
 
 local NO_WET_PREFABS = require "sortedprefabs/nowetprefabs"
 local function setNoWetPrefix(inst)
@@ -235,12 +234,12 @@ end
 AddPrefabPostInit("parrot_pirate", modParrotPirate)
 
 modimport "scripts/craftmonkeystring.lua"
-modimport "scripts/prefabs/maxwellintromod.lua"
-modimport "scripts/components/perishablemod.lua"
 modimport "scripts/entityscriptmod.lua"
+modimport "scripts/components/perishablemod.lua"
+modimport "scripts/prefabs/maxwellintromod.lua"
+modimport "scripts/screens/morguescreenmod.lua"
 modimport "scripts/widgets/hoverermod.lua"
 modimport "scripts/widgets/itemtilemod.lua"
-modimport "scripts/screens/morguescreenmod.lua"
 
 local ROG_DLC = _G.REIGN_OF_GIANTS
 local PORKLAND_DLC = _G.PORKLAND_DLC
