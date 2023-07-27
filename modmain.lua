@@ -21,6 +21,12 @@ GetPlayer = _G.GetPlayer
 GetGenderStrings = _G.GetGenderStrings
 ConstructAdjectivedName = _G.ConstructAdjectivedName
 STRINGS = _G.STRINGS
+ROG_DLC = _G.REIGN_OF_GIANTS
+PORKLAND_DLC = _G.PORKLAND_DLC
+CAPY_DLC = _G.CAPY_DLC
+
+local IsDLCEnabled = _G.IsDLCEnabled
+anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
 modimport "scripts/stringsmod.lua"
 
@@ -50,9 +56,6 @@ for i = 1, 3 do
   STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES[i]
   STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES[i]
 end
-
-local IsDLCEnabled = _G.IsDLCEnabled
-local CAPY_DLC = _G.CAPY_DLC
 
 if IsDLCEnabled(CAPY_DLC) then
   STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
@@ -240,10 +243,6 @@ modimport "scripts/prefabs/maxwellintromod.lua"
 modimport "scripts/screens/morguescreenmod.lua"
 modimport "scripts/widgets/hoverermod.lua"
 modimport "scripts/widgets/itemtilemod.lua"
-
-local ROG_DLC = _G.REIGN_OF_GIANTS
-local PORKLAND_DLC = _G.PORKLAND_DLC
-local anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
 if anyDLCEnabled then modimport "scripts/widgets/inventorybarmod.lua" end
 if IsDLCEnabled(PORKLAND_DLC) then modimport "scripts/components/grogginessmod.lua" end
