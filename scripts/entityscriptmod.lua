@@ -6,6 +6,14 @@ function EntityScript:GetBasicDisplayName()
     local itemBlueprint = STRINGS.NAMES[self.recipetouse:upper()] or STRINGS.NAMES.UNKNOWN
 
     return STRINGS.BLUEPRINT_ITEM:format(itemBlueprint:lower())
+  elseif self.construction_prefab then
+    --[[
+      Legacy: If a Hamlet building is destroyed and the world is reloaded, it will show "MISSING NAME".
+      Since the Major Quality of Life and Bug Fix Update released on April 27, this fix is no longer needed,
+      although I'll keep it because it still works and makes me not have to think in a proper fix for a 
+      prefab that can have multiple display names.
+    ]]
+    return STRINGS.NAMES.RECONSTRUCTION_PROJECT
   end
 
   return (self.displaynamefn ~= nil and self:displaynamefn()) or
@@ -90,7 +98,7 @@ if oldGetDisplayName and anyDLCEnabled then
 
     --[[
       Mysterious objects are evaluated at last in the original GetDisplayName function, which makes
-      that if the object is wet, it will show wet prefix instead mysterious prefix, maybe this is an
+      that if the object is wet, it will show wet prefix instead of mysterious prefix, maybe this is an
       intentional behaviour, but who knows.
     ]]
     local mysterious = self.components.mystery and self:HasTag("mystery")
@@ -102,21 +110,13 @@ if oldGetDisplayName and anyDLCEnabled then
         Spring = True: Rabbit and Crabbit holes closed.
         Spring = False: Rabbit and Crabbit holes opened.
     ]]
-    if (self.prefab == "rabbithole" or self.prefab == "crabhole") and self.wet_prefix then
-      if self.spring then
+    if (self.prefab == "rabbithole" or self.prefab == "crabhole") then
+      if self.spring and self.wet_prefix then
         return ConstructAdjectivedName(self, name, self.wet_prefix)
       elseif showAdjectivesConfig then
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC)
       end
     end
-
-    --[[
-      Legacy: If a Hamlet building is destroyed and the world is reloaded, it will show "MISSING NAME".
-      Since the Major Quality of Life and Bug Fix Update released on April 27, this fix is no longer needed,
-      although I'll keep it because it still works and makes me not have to think in a proper fix for a 
-      prefab that can have multiple display names.
-    ]]
-    if self.construction_prefab then name = STRINGS.NAMES.RECONSTRUCTION_PROJECT end
 
     local isWet = self:GetIsWet()
     if showAdjectivesConfig and ((isWet or self.always_wet) and not self.no_wet_prefix) then
