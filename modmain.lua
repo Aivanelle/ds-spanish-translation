@@ -226,7 +226,7 @@ modimport "scripts/components/perishablemod.lua"
 modimport "scripts/entityscriptmod.lua"
 modimport "scripts/widgets/hoverermod.lua"
 modimport "scripts/widgets/itemtilemod.lua"
-modimport "scripts/modscreens/morguescreen_refreshcontrols.lua"
+modimport "scripts/screens/morguescreenmod.lua"
 
 local ROG_DLC = _G.REIGN_OF_GIANTS
 local PORKLAND_DLC = _G.PORKLAND_DLC
