@@ -11,6 +11,7 @@ _G.stackStyles =
 -- Global variables that are used across all files.
 showAdjectivesConfig = GetModConfigData("showAdjectives")
 dialogueGenderConfig = GetModConfigData("dialogueGender")
+subfmt = _G.subfmt
 require = _G.require
 escape_lua_pattern = _G.escape_lua_pattern
 GetPlayer = _G.GetPlayer
@@ -151,6 +152,19 @@ local function modWerewilbaFurHands(inst)
 end
 
 AddPrefabPostInit("werewilbafur_hands", modWerewilbaFurHands)
+
+local KnownModIndex = _G.KnownModIndex
+local function modConfigurationScreenInit(self, modname)
+  local fancyModName = KnownModIndex:GetModFancyName(modname)
+
+  for _, child in pairs(self.root:GetChildren()) do
+    if tostring(child):find("Text") then
+      child:SetString(subfmt(STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX, { modname = fancyModName }))
+    end
+  end
+end
+
+AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
 
 local NO_WET_PREFABS = require "sortedprefabs/nowetprefabs"
 local function setNoWetPrefix(inst)
