@@ -214358,7 +214358,7 @@ msgstr "Compatibilidad desconocida."
 #. STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX
 msgctxt "STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX"
 msgid "Configuration Options"
-msgstr "Opciones de configuración"
+msgstr "Configuraciones de {modname}"
 
 #. STRINGS.UI.MODSSCREEN.CONFIGUREMOD
 msgctxt "STRINGS.UI.MODSSCREEN.CONFIGUREMOD"
