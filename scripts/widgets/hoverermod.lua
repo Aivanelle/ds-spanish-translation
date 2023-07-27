@@ -1,4 +1,3 @@
-local subfmt = _G.subfmt
 local stackStyles = _G.stackStyles
 local modConfigurationName = _G.ModIndex:GetModConfigurationName("Traducción al Español")
 local stackStyleConfig = GetModConfigData("stackStyle", modConfigurationName)
