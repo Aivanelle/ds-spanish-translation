@@ -105,22 +105,18 @@ if oldGetDisplayName and anyDLCEnabled then
     if mysterious then return ConstructAdjectivedName(self, name, STRINGS.MYSTERIOUS) end
 
     --[[
-      This is here to avoid wet prefix overriden and to not hide collapsed adjectives if adjectives are disabled by
-      mod configurations.
+      This is here to not hide collapsed adjectives if adjectives are disabled by mod configurations.
         Spring = True: Rabbit and Crabbit holes closed.
         Spring = False: Rabbit and Crabbit holes opened.
     ]]
-    if (self.prefab == "rabbithole" or self.prefab == "crabhole") then
-      if self.spring and self.wet_prefix then
-        return ConstructAdjectivedName(self, name, self.wet_prefix)
-      elseif showAdjectivesConfig then
-        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC)
-      end
+    local isHole = self.prefab == "rabbithole" or self.prefab == "crabhole"
+    if isHole and self.spring and self.wet_prefix then
+      return ConstructAdjectivedName(self, name, self.wet_prefix)
     end
 
     local isWet = self:GetIsWet()
     if showAdjectivesConfig and ((isWet or self.always_wet) and not self.no_wet_prefix) then
-      if self.wet_prefix then
+      if self.wet_prefix and not isHole then
         return ConstructAdjectivedName(self, name, self.wet_prefix)
       elseif self.components.edible and GetPlayer() and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FOOD) or STRINGS.WET_PREFIX.FOOD)
