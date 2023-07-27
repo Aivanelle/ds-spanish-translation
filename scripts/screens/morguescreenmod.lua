@@ -13,16 +13,15 @@ function MorgueScreen:RefreshControls()
     causesOfDeath[killedBy] = true
   end
 
-  local obitsRowsChildren = self.obits_rows:GetChildren()
-
-  for _, v in pairs(obitsRowsChildren) do
+  for _, v in pairs(self.obits_rows:GetChildren()) do
     if tostring(v) == "control" then
-      for _, widget in pairs(obitsRowsChildren[v]:GetChildren()) do
+      for _, widget in pairs(v:GetChildren()) do
         if tostring(widget):find("Text") then
           local str = FirstToUpper(widget:GetString():lower())
 
           if causesOfDeath[str] then
             if #str >= 20 then str = str:sub(1, 19) .. "..." end
+
             widget:SetString(str)
           end
         end
