@@ -9,7 +9,7 @@ function HoverText:OnUpdate()
   OnUpdateOriginal(self)
 
   local str = self.text:GetString()
-  local lmb = self.owner.components.playercontroller:GetLeftMouseAction()
+  local lmb = self.owner.components and self.owner.components.playercontroller:GetLeftMouseAction()
 
   if str ~= "" and lmb and lmb.target then
     if lmb.target.components.stackable and lmb.target.components.stackable.stacksize > 1 and stackStyleConfig ~= "default" then
