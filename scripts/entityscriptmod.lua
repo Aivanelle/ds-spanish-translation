@@ -102,10 +102,10 @@ if oldGetDisplayName and anyDLCEnabled then
         Spring = True: Rabbit and Crabbit holes closed.
         Spring = False: Rabbit and Crabbit holes opened.
     ]]
-    if (self.prefab == "rabbithole" or self.prefab == "crabhole") then
+    if (self.prefab == "rabbithole" or self.prefab == "crabhole") and self.wet_prefix then
       if self.spring then
         return ConstructAdjectivedName(self, name, self.wet_prefix)
-      elseif showAdjectives then
+      elseif showAdjectivesConfig then
         return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC)
       end
     end
