@@ -63,8 +63,6 @@ end
 
 -- Thanks Simplex.
 local oldGetDisplayName = EntityScript.GetDisplayName
-local IsDLCEnabled = _G.IsDLCEnabled
-local anyDLCEnabled = IsDLCEnabled(_G.REIGN_OF_GIANTS) or IsDLCEnabled(_G.CAPY_DLC) or IsDLCEnabled(_G.PORKLAND_DLC)
 local GetRandomItem = _G.GetRandomItem
 local reduce = _G.reduce
 local nearsightednames = nil
