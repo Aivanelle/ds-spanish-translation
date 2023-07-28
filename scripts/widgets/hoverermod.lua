@@ -1,6 +1,5 @@
 local modConfigurationName = _G.ModIndex:GetModConfigurationName("Traducción al Español")
 local stackStyleConfig = GetModConfigData("stackStyle", modConfigurationName)
-local colorPerishablesConfig = GetModConfigData("colorPerishables", modConfigurationName)
 local stackStyle = stackStyles[stackStyleConfig] or stackStyles.default
 local HoverText = require "widgets/hoverer"
 local OnUpdateOriginal = HoverText.OnUpdate or function() return "" end
@@ -12,8 +11,8 @@ function HoverText:OnUpdate()
   local lmb = self.owner.components and self.owner.components.playercontroller:GetLeftMouseAction()
 
   if str ~= "" and lmb and lmb.target then
-    if lmb.target.components.stackable and lmb.target.components.stackable.stacksize > 1 and stackStyleConfig ~= "default" then
-      local stack = lmb.target.components.stackable.stacksize
+    if lmb.target.components.stackable and lmb.target.components.stackable:IsStack() and stackStyleConfig ~= "default" then
+      local stack = lmb.target.components.stackable:StackSize()
 
       str = str:gsub("x" .. stack, subfmt(stackStyle, { stack = stack }))
     end
