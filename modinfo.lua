@@ -40,6 +40,16 @@ configuration_options =
     default = true
   },
   {
+    name = "colorPerishables",
+    label = "Colores de estado",
+    options =
+    {
+      { description = "No", data = false },
+      { description = "Sí", data = true }
+    },
+    default = false
+  },
+  {
     name = "dialogueGender",
     label = "Género en diálogos",
     options =
