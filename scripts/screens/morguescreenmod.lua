@@ -26,7 +26,7 @@ function MorgueScreen:RefreshControls()
     if tostring(v) == "control" then
       for _, widget in pairs(v:GetChildren()) do
         if tostring(widget):find("Text") then
-          local str = FirstToUpper(widget:GetString():lower())
+          local str = firstToUpper(widget:GetString():lower())
 
           if causesOfDeath[str] then
             if #str >= 20 then str = str:sub(1, 19) .. "..." end
