@@ -1,4 +1,15 @@
 local ItemTile = require "widgets/itemtile"
+local OriginalUpdateTooltip = ItemTile.UpdateTooltip or function() return "" end
+
+function ItemTile:UpdateTooltip()
+  OriginalUpdateTooltip(self)
+
+  if colorPerishablesConfig and self:HasSpoilage() and not self.item.components.perishable:IsFresh() then
+    local color = self.item.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
+    self:SetTooltipColour(color)
+  end
+end
+
 local GetOriginalDescriptionString = ItemTile.GetDescriptionString or function() return "" end
 
 function ItemTile:GetDescriptionString()

@@ -1,6 +1,6 @@
-local stackStyles = _G.stackStyles
 local modConfigurationName = _G.ModIndex:GetModConfigurationName("Traducción al Español")
 local stackStyleConfig = GetModConfigData("stackStyle", modConfigurationName)
+local colorPerishablesConfig = GetModConfigData("colorPerishables", modConfigurationName)
 local stackStyle = stackStyles[stackStyleConfig] or stackStyles.default
 local HoverText = require "widgets/hoverer"
 local OnUpdateOriginal = HoverText.OnUpdate or function() return "" end
@@ -27,6 +27,11 @@ function HoverText:OnUpdate()
         str = str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(lmb.target, name, adjective))
       else
         str = str:gsub(escape_lua_pattern(adjective .. " "), "")
+      end
+
+      if colorPerishablesConfig and not lmb.target.components.perishable:IsFresh() then
+        local color = lmb.target.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
+        self.text:SetColour(color)
       end
     end
 
