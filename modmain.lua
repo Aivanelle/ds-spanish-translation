@@ -4,7 +4,7 @@ table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
 modimport "scripts/dlcsupport_stringsmod.lua"
 
-_G.stackStyles =
+stackStyles =
 {
   ["default"] = "x{stack}",
   ["parenthesis"] = "({stack})",
@@ -14,15 +14,22 @@ _G.stackStyles =
 -- Global variables that are used across all files.
 showAdjectivesConfig = GetModConfigData("showAdjectives")
 dialogueGenderConfig = GetModConfigData("dialogueGender")
+
 subfmt = _G.subfmt
 require = _G.require
 escape_lua_pattern = _G.escape_lua_pattern
+
 GetPlayer = _G.GetPlayer
 GetGenderStrings = _G.GetGenderStrings
 ConstructAdjectivedName = _G.ConstructAdjectivedName
+
 STRINGS = _G.STRINGS
+
 PORKLAND_DLC = _G.PORKLAND_DLC
 IsDLCEnabled = _G.IsDLCEnabled
+
+STALE_TEXT_COLOR = { 250/255, 160/255, 31/255, 1 }
+SPOILED_TEXT_COLOR = { 255/255, 106/255, 106/255, 1 }
 
 local ROG_DLC = _G.REIGN_OF_GIANTS
 local CAPY_DLC = _G.CAPY_DLC
