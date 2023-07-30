@@ -3,9 +3,12 @@ local stackStyleConfig = GetModConfigData("stackStyle", modConfigurationName)
 local stackStyle = stackStyles[stackStyleConfig] or stackStyles.default
 local HoverText = require "widgets/hoverer"
 local OnUpdateOriginal = HoverText.OnUpdate or function() return "" end
+local insightEnabled = _G.KnownModIndex:IsModEnabled("workshop-2081254154")
 
 function HoverText:OnUpdate()
   OnUpdateOriginal(self)
+
+  if not anyDLCEnabled then self.text:SetColour(NORMAL_TEXT_COLOUR) end
 
   local str = self.text:GetString()
   local lmb = self.owner.components and self.owner.components.playercontroller:GetLeftMouseAction()
@@ -34,6 +37,12 @@ function HoverText:OnUpdate()
       end
     end
 
-    self.text:SetString(str)
+    -- Just a minor tweak for compatibility with Insight.
+    if insightEnabled then
+      self.text.string = str
+      self.text.inst.TextWidget:SetString(str)
+    else
+      self.text:SetString(str)
+    end
   end
 end
