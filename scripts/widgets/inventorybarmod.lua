@@ -1,7 +1,7 @@
 local Inv = require "widgets/inventorybar"
-local GetOriginalDescriptionString = Inv.GetDescriptionString
+local GetOriginalDescriptionString = Inv.GetDescriptionString or function() return "" end
 
-if GetOriginalDescriptionString and anyDLCEnabled then
+if anyDLCEnabled then
   function Inv:GetDescriptionString(item)
     local str = GetOriginalDescriptionString(self, item)
     local adjective = item:GetAdjective()
@@ -17,5 +17,20 @@ if GetOriginalDescriptionString and anyDLCEnabled then
     end
   
     return str
+  end
+end
+
+local OriginalUpdateCursorText = Inv.UpdateCursorText
+
+function Inv:UpdateCursorText()
+  OriginalUpdateCursorText(self)
+
+  if not anyDLCEnabled then self.actionstringtitle:SetColour(NORMAL_TEXT_COLOUR) end
+
+  local item = self:GetCursorItem() or (self.cursortile and self.cursortile.item)
+
+  if colorPerishablesConfig and item and item.components and item.components.perishable and not item.components.perishable:IsFresh() then
+    local color = item.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
+    self.actionstringtitle:SetColour(color)
   end
 end
