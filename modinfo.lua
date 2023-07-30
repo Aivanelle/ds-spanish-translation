@@ -44,8 +44,8 @@ configuration_options =
     label = "Colores de estado",
     options =
     {
-      { description = "No", data = false },
-      { description = "Sí", data = true }
+      { description = "Sí", data = true },
+      { description = "No", data = false }
     },
     default = false
   },
