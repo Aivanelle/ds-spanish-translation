@@ -8,7 +8,7 @@ local insightEnabled = _G.KnownModIndex:IsModEnabled("workshop-2081254154")
 function HoverText:OnUpdate()
   OnUpdateOriginal(self)
 
-  if not anyDLCEnabled then self.text:SetColour(NORMAL_TEXT_COLOUR) end
+  if not anyDLCEnabled then self.text:SetColour(NORMAL_TEXT_COLOR) end
 
   local str = self.text:GetString()
   local lmb = self.owner.components and self.owner.components.playercontroller:GetLeftMouseAction()

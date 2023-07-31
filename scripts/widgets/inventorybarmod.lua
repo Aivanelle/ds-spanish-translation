@@ -25,7 +25,7 @@ local OriginalUpdateCursorText = Inv.UpdateCursorText
 function Inv:UpdateCursorText()
   OriginalUpdateCursorText(self)
 
-  if not anyDLCEnabled then self.actionstringtitle:SetColour(NORMAL_TEXT_COLOUR) end
+  if not anyDLCEnabled then self.actionstringtitle:SetColour(NORMAL_TEXT_COLOR) end
 
   local item = self:GetCursorItem() or (self.cursortile and self.cursortile.item)
 
