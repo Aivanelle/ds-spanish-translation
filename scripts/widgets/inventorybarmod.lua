@@ -29,8 +29,8 @@ function Inv:UpdateCursorText()
 
   local item = self:GetCursorItem() or (self.cursortile and self.cursortile.item)
 
-  if colorPerishablesConfig and item and item.components and item.components.perishable and not item.components.perishable:IsFresh() then
-    local color = item.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
-    self.actionstringtitle:SetColour(color)
+  if colorPerishablesConfig and item --[[and item.components ]]and item.components.perishable and not item.components.perishable:IsFresh() then
+    local TEXT_COLOR = item.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
+    self.actionstringtitle:SetColour(TEXT_COLOR)
   end
 end

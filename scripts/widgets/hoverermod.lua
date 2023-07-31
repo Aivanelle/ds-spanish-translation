@@ -32,8 +32,8 @@ function HoverText:OnUpdate()
       end
 
       if colorPerishablesConfig and not lmb.target.components.perishable:IsFresh() then
-        local color = lmb.target.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
-        self.text:SetColour(color)
+        local TEXT_COLOR = lmb.target.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
+        self.text:SetColour(TEXT_COLOR)
       end
     end
 

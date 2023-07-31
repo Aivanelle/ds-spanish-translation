@@ -5,8 +5,8 @@ function ItemTile:UpdateTooltip()
   OriginalUpdateTooltip(self)
 
   if colorPerishablesConfig and self:HasSpoilage() and not self.item.components.perishable:IsFresh() then
-    local color = self.item.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
-    self:SetTooltipColour(color)
+    local TEXT_COLOR = self.item.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
+    self:SetTooltipColour(TEXT_COLOR)
   end
 end
 
