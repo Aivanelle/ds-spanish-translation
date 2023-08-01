@@ -235,6 +235,7 @@ local function modParrotPirate(inst)
 
   inst:AddComponent("grammar")
   inst.components.grammar:SetGrammaticalNumber(GRAMMATICAL_NUMBER.SINGULAR)
+  inst.components.grammar:SetOnSave(true)
 
   if inst.components.named and inst.components.named.name then
     setParrotGender(inst, PARROT_NAMES.MASCULINE, GENDER.MASCULINE)
