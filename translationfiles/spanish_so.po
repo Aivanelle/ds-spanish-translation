@@ -58208,7 +58208,7 @@ msgstr "¡Talado por la guerrera de los bosques!"
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EVERGREEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EVERGREEN.GENERIC"
 msgid "I feel at home in the woods."
-msgstr "Me siento en casa en el bosque."
+msgstr "Me siento como en casa en el bosque."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.EVERGREEN_SPARSE.BURNING"
