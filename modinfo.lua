@@ -40,6 +40,16 @@ configuration_options =
     default = true
   },
   {
+    name = "unknownAdjectives",
+    label = "Adjetivos desconocidos",
+    options =
+    {
+      { description = "Por defecto", data = "default" },
+      { description = "Ocultar", data = "hide" }
+    },
+    default = "default"
+  },
+  {
     name = "colorPerishables",
     label = "Colores de estado",
     options =
