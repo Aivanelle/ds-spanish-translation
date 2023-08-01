@@ -15,6 +15,7 @@ stackStyles =
 showAdjectivesConfig = GetModConfigData("showAdjectives")
 dialogueGenderConfig = GetModConfigData("dialogueGender")
 colorPerishablesConfig = GetModConfigData("colorPerishables")
+unknownAdjectivesConfig = GetModConfigData("unknownAdjectives")
 
 subfmt = _G.subfmt
 require = _G.require
@@ -153,12 +154,13 @@ local function modSimPostInit(player)
   USE_PREFIX[STRINGS.UI.HUD.STARVING] = false
   USE_PREFIX[STRINGS.UI.HUD.STALE] = false
   USE_PREFIX[STRINGS.UI.HUD.SPOILED] = false
-
-  USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
-  USE_PREFIX[STRINGS.MYSTERIOUS] = false
-  USE_PREFIX[STRINGS.FLOODEDITEM] = false
   USE_PREFIX[STRINGS.UI.HUD.STALE_FROZEN] = false
   USE_PREFIX[STRINGS.UI.HUD.SPOILED_FROZEN] = false
+
+  USE_PREFIX[STRINGS.MYSTERIOUS] = false
+  USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
+  USE_PREFIX[STRINGS.WITHEREDITEM] = false
+  USE_PREFIX[STRINGS.FLOODEDITEM] = false
 
   USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
