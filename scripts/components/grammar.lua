@@ -1,5 +1,6 @@
 local Grammar = Class(function(self, inst)
   self.inst = inst
+  self.savegrammar = false
   self.grammaticalnumber = nil
   self.gender = nil
 end)
@@ -12,7 +13,13 @@ function Grammar:SetGender(gender)
   self.gender = gender or "UNKNOWN"
 end
 
+function Grammar:SetOnSave(bool)
+  self.savegrammar = bool ~= nil and bool or false
+end
+
 function Grammar:OnSave()
+  if not self.savegrammar then return end
+
   local data = {}
 
   if self.grammaticalnumber then
