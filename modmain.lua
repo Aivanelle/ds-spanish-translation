@@ -23,6 +23,7 @@ require = _G.require
 GetPlayer = _G.GetPlayer
 GetGenderStrings = _G.GetGenderStrings
 ConstructAdjectivedName = _G.ConstructAdjectivedName
+KnownModIndex = _G.KnownModIndex
 
 STRINGS = _G.STRINGS
 
@@ -100,7 +101,6 @@ end
 
 AddPrefabPostInit("werewilbafur_hands", modWerewilbaFurHands)
 
-local KnownModIndex = _G.KnownModIndex
 local function modConfigurationScreenInit(self, modname)
   local fancyModName = KnownModIndex:GetModFancyName(modname)
 
