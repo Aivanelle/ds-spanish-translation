@@ -53,6 +53,7 @@ local function getNewDisplayName(displayName, suffix, replacement)
   end
 end
 
+-- Thanks simplex.
 local GetOriginalDisplayName = EntityScript.GetDisplayName
 local EQUIPSLOTS = _G.EQUIPSLOTS
 
