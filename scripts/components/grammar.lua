@@ -6,11 +6,11 @@ local Grammar = Class(function(self, inst)
 end)
 
 function Grammar:SetGrammaticalNumber(grammaticalNumber)
-  self.grammaticalnumber = grammaticalNumber or "UNKNOWN"
+  self.grammaticalnumber = grammaticalNumber
 end
 
 function Grammar:SetGender(gender)
-  self.gender = gender or "UNKNOWN"
+  self.gender = gender
 end
 
 function Grammar:SetOnSave(bool)
@@ -23,25 +23,25 @@ function Grammar:OnSave()
   local data = {}
 
   if self.grammaticalnumber then
-    data["grammaticalnumber"] = self.grammaticalnumber
+    data.grammaticalnumber = self.grammaticalnumber
   end
 
   if self.gender then
-    data["gender"] = self.gender
+    data.gender = self.gender
   end
 
   return data
 end
 
 function Grammar:OnLoad(data)
-  if data then
-    if data.grammaticalnumber then
-      self:SetGrammaticalNumber(data.grammaticalnumber)
-    end
+  if not data then return end
 
-    if data.gender then
-      self:SetGender(data.gender)
-    end
+  if data.grammaticalnumber then
+    self:SetGrammaticalNumber(data.grammaticalnumber)
+  end
+
+  if data.gender then
+    self:SetGender(data.gender)
   end
 end
 
