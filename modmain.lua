@@ -19,7 +19,6 @@ unknownAdjectivesConfig = GetModConfigData("unknownAdjectives")
 
 subfmt = _G.subfmt
 require = _G.require
-escape_lua_pattern = _G.escape_lua_pattern
 
 GetPlayer = _G.GetPlayer
 GetGenderStrings = _G.GetGenderStrings
@@ -37,6 +36,9 @@ anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(
 NORMAL_TEXT_COLOR = anyDLCEnabled and _G.NORMAL_TEXT_COLOUR or { 1, 1, 1, 1 }
 STALE_TEXT_COLOR = { 250/255, 160/255, 31/255, 1 }
 SPOILED_TEXT_COLOR = { 1, 106/255, 106/255, 1 }
+
+local escape_lua_pattern = _G.escape_lua_pattern
+function egsub(str, pattern, replacement) return str:gsub(escape_lua_pattern(pattern), replacement) end
 
 modimport "scripts/stringsmod.lua"
 
