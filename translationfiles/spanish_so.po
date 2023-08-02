@@ -213421,7 +213421,7 @@ msgstr "Comenzar"
 #. STRINGS.UI.HUD.STARVING
 msgctxt "STRINGS.UI.HUD.STARVING"
 msgid "Starving"
-msgstr "famélico(a)"
+msgstr "desnutrido(a)"
 
 #. STRINGS.UI.HUD.SWAP
 msgctxt "STRINGS.UI.HUD.SWAP"
