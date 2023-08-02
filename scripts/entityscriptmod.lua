@@ -43,13 +43,12 @@ end
 local function getNewDisplayName(displayName, suffix, replacement)
   if showAdjectivesConfig then
     if not replacement then
-      return unknownAdjectivesConfig == "default" and displayName or
-        displayName:gsub(escape_lua_pattern(" " .. suffix), "")
+      return unknownAdjectivesConfig == "default" and displayName or egsub(displayName, " " .. suffix, "")
     else
-      return displayName:gsub(escape_lua_pattern(suffix), replacement)
+      return egsub(displayName, suffix, replacement)
     end
   else
-    return displayName:gsub(escape_lua_pattern(" " .. suffix), "")
+    return egsub(displayName, " " .. suffix, "")
   end
 end
 
@@ -66,7 +65,7 @@ function EntityScript:GetDisplayName()
   local basicDisplayName = self:GetBasicDisplayName()
 
   if self.recipetouse or self.construction_prefab then
-    displayName = displayName:gsub(escape_lua_pattern(getOldName(self)), basicDisplayName)
+    displayName = egsub(displayName, getOldName(self), basicDisplayName)
   end
 
   -- If there's no DLC enabled, the function ends here.
@@ -88,7 +87,7 @@ function EntityScript:GetDisplayName()
   ]]
   if self.components.mystery and self:HasTag("mystery") then
     -- If there's a mysterious prefab that does not uses a generic suffix, this won't work.
-    return displayName:gsub(escape_lua_pattern(STRINGS.WET_PREFIX.GENERIC), STRINGS.MYSTERIOUS)
+    return egsub(displayName, STRINGS.WET_PREFIX.GENERIC, STRINGS.MYSTERIOUS)
   elseif isSmoldering or isWitheredCrop or isWitheredPickable then
     grammaticalSuffix = self:GetGrammaticalSuffix(STRINGS.SUFFIX[isSmoldering and "SMOLDERING" or "WITHERED"])
     return getNewDisplayName(displayName, STRINGS[isSmoldering and "SMOLDERINGITEM" or "WITHEREDITEM"], grammaticalSuffix)
