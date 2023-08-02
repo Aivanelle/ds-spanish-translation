@@ -12,6 +12,18 @@ stackStyles =
 }
 
 -- Global variables that are used across all files.
+GRAMMATICAL_NUMBER =
+{
+  PLURAL = "PLURAL",
+  SINGULAR = "SINGULAR"
+}
+
+GENDER =
+{
+  MASCULINE = "MASCULINE",
+  FEMININE = "FEMININE"
+}
+
 showAdjectivesConfig = GetModConfigData("showAdjectives")
 dialogueGenderConfig = GetModConfigData("dialogueGender")
 colorPerishablesConfig = GetModConfigData("colorPerishables")
@@ -188,18 +200,6 @@ end
 
 for _, prefab in ipairs(NO_WET_PREFABS) do AddPrefabPostInit(prefab, setNoWetPrefix) end
 
-GRAMMATICAL_NUMBER =
-{
-  PLURAL = "PLURAL",
-  SINGULAR = "SINGULAR"
-}
-
-GENDER =
-{
-  MASCULINE = "MASCULINE",
-  FEMININE = "FEMININE"
-}
-
 local function setGrammarComponent(prefabs, gender, grammaticalNumber)
   for _, prefab in ipairs(prefabs) do
     AddPrefabPostInit(prefab, function(inst)
@@ -222,34 +222,6 @@ setGrammarComponent(FEMININE_PLURAL_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER
 local FEMININE_SINGULAR_PREFABS = require "sortedprefabs/femininesingularprefabs"
 setGrammarComponent(FEMININE_SINGULAR_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.SINGULAR)
 
-local function setParrotGender(inst, genderTable, gender)
-  for k, v in ipairs(genderTable) do
-    if v == inst.components.named.inst.name then
-      inst.components.grammar:SetGender(gender)
-      break
-    end
-  end
-end
-
-local PARROT_NAMES = nil
-local function modParrotPirate(inst)
-  if not PARROT_NAMES then PARROT_NAMES = require "sortedprefabs/parrotnames" end
-
-  inst:AddComponent("grammar")
-  inst.components.grammar:SetGrammaticalNumber(GRAMMATICAL_NUMBER.SINGULAR)
-  inst.components.grammar:SetOnSave(true)
-
-  if inst.components.named and inst.components.named.name then
-    setParrotGender(inst, PARROT_NAMES.MASCULINE, GENDER.MASCULINE)
-
-    if not inst.components.grammar.gender then
-      setParrotGender(inst, PARROT_NAMES.FEMININE, GENDER.FEMININE)
-    end
-  end
-end
-
-AddPrefabPostInit("parrot_pirate", modParrotPirate)
-
 modimport "scripts/craftmonkeystring.lua"
 modimport "scripts/entityscriptmod.lua"
 
@@ -257,6 +229,7 @@ modimport "scripts/components/grogginessmod.lua"
 modimport "scripts/components/perishablemod.lua"
 
 modimport "scripts/prefabs/maxwellintromod.lua"
+modimport "scripts/prefabs/parrotpirate.lua"
 
 modimport "scripts/screens/morguescreenmod.lua"
 
