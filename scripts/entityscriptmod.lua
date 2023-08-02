@@ -1,3 +1,9 @@
+local function getOldName(inst)
+  return (inst.displaynamefn ~= nil and inst:displaynamefn()) or
+    (inst.nameoverride and STRINGS.NAMES[inst.nameoverride:upper()]) or
+    inst.name
+end
+
 local EntityScript = _G.EntityScript
 
 function EntityScript:GetBasicDisplayName()
@@ -16,9 +22,7 @@ function EntityScript:GetBasicDisplayName()
     return STRINGS.NAMES.RECONSTRUCTION_PROJECT
   end
 
-  return (self.displaynamefn ~= nil and self:displaynamefn()) or
-    (self.nameoverride and STRINGS.NAMES[string.upper(self.nameoverride)]) or
-    self.name
+  return getOldName(self)
 end
 
 function EntityScript:GetGrammaticalSuffix(suffixes)
@@ -36,99 +40,76 @@ function EntityScript:GetGrammaticalSuffix(suffixes)
   end
 end
 
-local nearsighted_key_blacklist =
-{
-  NIL = true,
-  DARKNESS = true,
-  CHARLIE = true,
-  HUNGER = true,
-  COLD = true,
-  HOT = true,
-  SHENANIGANS = true,
-  RESURRECTION_PENALTY = true,
-  DROWNING = true,
-  BURNT = true,
-  UNKNOWN = true,
-
-  WARBUCKS = true,
-  DEVTOOL = true,
-}
-
-local function testvisionfn(k, v)
-  if v == "" or type(v) == "table" or string.find(v, "%%") or string.find(v, "%{") or nearsighted_key_blacklist[k] then
-    return false
+local function getNewDisplayName(displayName, suffix, replacement)
+  if showAdjectivesConfig then
+    if not replacement then
+      return unknownAdjectivesConfig == "default" and displayName or
+        displayName:gsub(escape_lua_pattern(" " .. suffix), "")
+    else
+      return displayName:gsub(escape_lua_pattern(suffix), replacement)
+    end
+  else
+    return displayName:gsub(escape_lua_pattern(" " .. suffix), "")
   end
-  return true
 end
 
--- Thanks Simplex.
-local oldGetDisplayName = EntityScript.GetDisplayName
-local GetRandomItem = _G.GetRandomItem
-local reduce = _G.reduce
-local nearsightednames = nil
+local GetOriginalDisplayName = EntityScript.GetDisplayName
+local EQUIPSLOTS = _G.EQUIPSLOTS
 
-if oldGetDisplayName and anyDLCEnabled then
-  function EntityScript:GetDisplayName()
-    if GetPlayer().components.vision and not GetPlayer().components.vision.focused and not GetPlayer().components.vision:testsight(self) then
-      if not self.nearsightedname then
-        nearsightednames = nearsightednames or reduce(STRINGS.NAMES, testvisionfn)
-        self.nearsightedname = GetRandomItem(nearsightednames)
-      end
+function EntityScript:GetDisplayName()
+  local displayName = GetOriginalDisplayName(self)
 
-      return self.nearsightedname
+  local playerVision = GetPlayer().components.vision
+  if playerVision and not playerVision.focused and not playerVision:testsight(self) then return displayName end
+
+  local basicDisplayName = self:GetBasicDisplayName()
+
+  if self.recipetouse or self.construction_prefab then
+    displayName = displayName:gsub(escape_lua_pattern(getOldName(self)), basicDisplayName)
+  end
+
+  -- If there's no DLC enabled, the function ends here.
+  if not anyDLCEnabled then return displayName end
+
+  local grammaticalSuffix = nil
+  local isWet = self:GetIsWet()
+  local isSmoldering = self.components.burnable and self.components.burnable:IsSmoldering()
+  local isWitheredCrop = self.components.crop and self.components.crop:IsWithered()
+  local isWitheredPickable = self.components.pickable and self.components.pickable:IsWithered()
+  local isHole = self.prefab == "rabbithole" or self.prefab == "crabhole"
+
+  if isHole and self.spring and self.wet_prefix then return displayName end
+
+  --[[
+    Mysterious objects are evaluated at last in the original GetDisplayName function, which makes
+    that if the object is wet, it will show wet prefix instead of mysterious prefix, maybe this is an
+    intentional behaviour, but who knows.
+  ]]
+  if self.components.mystery and self:HasTag("mystery") then
+    -- If there's a mysterious prefab that does not uses a generic suffix, this won't work.
+    return displayName:gsub(escape_lua_pattern(STRINGS.WET_PREFIX.GENERIC), STRINGS.MYSTERIOUS)
+  elseif isSmoldering or isWitheredCrop or isWitheredPickable then
+    grammaticalSuffix = self:GetGrammaticalSuffix(STRINGS.SUFFIX[isSmoldering and "SMOLDERING" or "WITHERED"])
+    return getNewDisplayName(displayName, STRINGS[isSmoldering and "SMOLDERINGITEM" or "WITHEREDITEM"], grammaticalSuffix)
+  elseif (isWet or self.always_wet) and not self.no_wet_prefix then
+    local prefabType = nil
+
+    if not isHole and self.wet_prefix then
+      return displayName
+    elseif self.components.edible and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
+      prefabType = "FOOD"
+    elseif self.components.equippable then
+      -- To be slightly compatible with mods that add extra item slots like amulets and backpacks
+      prefabType = self.components.equippable.equipslot == EQUIPSLOTS.HANDS and "TOOL" or "CLOTHING"
+    elseif self.components.fuel then
+      prefabType = "FUEL"
+    else
+      prefabType = "GENERIC"
     end
 
-    local name = self:GetBasicDisplayName()
-
-    local flooded = self.components.floodable and self.components.floodable.flooded
-    if flooded then return ConstructAdjectivedName(self, name, STRINGS.FLOODEDITEM) end
-
-    local smoldering = self.components.burnable and self.components.burnable:IsSmoldering()
-    if smoldering then
-      return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.SMOLDERING) or STRINGS.SMOLDERINGITEM)
-    end
-
-    local witheredPickable = self.components.pickable and self.components.pickable:IsWithered()
-    local witheredCrop = self.components.crop and self.components.crop:IsWithered()
-    if witheredCrop or witheredPickable then
-      return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WITHERED) or STRINGS.WITHEREDITEM)
-    end
-
-    --[[
-      Mysterious objects are evaluated at last in the original GetDisplayName function, which makes
-      that if the object is wet, it will show wet prefix instead of mysterious prefix, maybe this is an
-      intentional behaviour, but who knows.
-    ]]
-    local mysterious = self.components.mystery and self:HasTag("mystery")
-    if mysterious then return ConstructAdjectivedName(self, name, STRINGS.MYSTERIOUS) end
-
-    --[[
-      This is here to not hide collapsed adjectives if adjectives are disabled by mod configurations.
-        Spring = True: Rabbit and Crabbit holes closed.
-        Spring = False: Rabbit and Crabbit holes opened.
-    ]]
-    local isHole = self.prefab == "rabbithole" or self.prefab == "crabhole"
-    if isHole and self.spring and self.wet_prefix then
-      return ConstructAdjectivedName(self, name, self.wet_prefix)
-    end
-
-    local isWet = self:GetIsWet()
-    if showAdjectivesConfig and ((isWet or self.always_wet) and not self.no_wet_prefix) then
-      if self.wet_prefix and not isHole then
-        return ConstructAdjectivedName(self, name, self.wet_prefix)
-      elseif self.components.edible and GetPlayer() and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
-        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FOOD) or STRINGS.WET_PREFIX.FOOD)
-      elseif self.components.equippable and (self.components.equippable.equipslot == "head" or self.components.equippable.equipslot == "body") then
-        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.CLOTHING) or STRINGS.WET_PREFIX.CLOTHING)
-      elseif self.components.equippable and self.components.equippable.equipslot == "hands" then
-        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.TOOL) or STRINGS.WET_PREFIX.TOOL)
-      elseif self.components.fuel then
-        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.FUEL) or STRINGS.WET_PREFIX.FUEL)
-      else
-        return ConstructAdjectivedName(self, name, self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET.GENERIC) or STRINGS.WET_PREFIX.GENERIC)
-      end
-    end
-
-    return name
+    grammaticalSuffix = self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET[prefabType])
+    return getNewDisplayName(displayName, STRINGS.WET_PREFIX[prefabType], grammaticalSuffix)
+  else
+    return displayName
   end
 end
