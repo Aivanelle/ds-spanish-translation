@@ -9,10 +9,16 @@ if anyDLCEnabled then
     if str ~= "" and adjective then
       if showAdjectivesConfig then
         local name = item:GetDisplayName()
+        local grammaticalAdjective = item.components.perishable and item.components.perishable:GetGrammaticalAdjective()
   
-        return str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(item, name, adjective))
+        if not grammaticalAdjective then
+          return unknownAdjectivesConfig == "default" and egsub(str, adjective .. " " .. name, ConstructAdjectivedName(item, name, adjective)) or
+            egsub(str, adjective .. " ", "")
+        else
+          return egsub(str, adjective .. " " .. name, ConstructAdjectivedName(item, name, grammaticalAdjective))
+        end
       else
-        return str:gsub(escape_lua_pattern(adjective .. " "), "")
+        return egsub(str, adjective .. " ", "")
       end
     end
   
@@ -29,7 +35,7 @@ function Inv:UpdateCursorText()
 
   local item = self:GetCursorItem() or (self.cursortile and self.cursortile.item)
 
-  if colorPerishablesConfig and item --[[and item.components ]]and item.components.perishable and not item.components.perishable:IsFresh() then
+  if colorPerishablesConfig and item and item.components.perishable and not item.components.perishable:IsFresh() then
     local TEXT_COLOR = item.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
     self.actionstringtitle:SetColour(TEXT_COLOR)
   end

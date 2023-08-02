@@ -23,10 +23,16 @@ function ItemTile:GetDescriptionString()
   if str ~= "" and adjective then
     if showAdjectivesConfig then
       local name = self.item:GetDisplayName()
+      local grammaticalAdjective = self.item.components.perishable and self.item.components.perishable:GetGrammaticalAdjective()
 
-      return str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(self.item, name, adjective))
+      if not grammaticalAdjective then
+        return unknownAdjectivesConfig == "default" and egsub(str, adjective .. " " .. name, ConstructAdjectivedName(self.item, name, adjective)) or
+          egsub(str, adjective .. " ", "")
+      else
+        return egsub(str, adjective .. " " .. name, ConstructAdjectivedName(self.item, name, grammaticalAdjective))
+      end
     else
-      return str:gsub(escape_lua_pattern(adjective .. " "), "")
+      return egsub(str, adjective .. " ", "")
     end
   end
 

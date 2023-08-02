@@ -14,8 +14,10 @@ function HoverText:OnUpdate()
   local lmb = self.owner.components and self.owner.components.playercontroller:GetLeftMouseAction()
 
   if str ~= "" and lmb and lmb.target then
-    if lmb.target.components.stackable and lmb.target.components.stackable:IsStack() and stackStyleConfig ~= "default" then
-      local stack = lmb.target.components.stackable:StackSize()
+    local components = lmb.target.components
+
+    if components.stackable and components.stackable:IsStack() and stackStyleConfig ~= "default" then
+      local stack = components.stackable:StackSize()
 
       str = str:gsub("x" .. stack, subfmt(stackStyle, { stack = stack }))
     end
@@ -23,17 +25,21 @@ function HoverText:OnUpdate()
     local adjective = lmb.target:GetAdjective()
     if adjective then
       if showAdjectivesConfig then
-        local name = lmb.target:GetDisplayName() or (lmb.target.components.named and lmb.target.components.named.name)
+        local name = lmb.target:GetDisplayName() or (components.named and components.named.name)
+        local grammaticalAdjective = components.perishable and components.perishable:GetGrammaticalAdjective()
 
-        -- For some reason that I can't comprehend, if I escape adjective and name by apart, it won't replace the string.
-        str = str:gsub(escape_lua_pattern(adjective .. " " .. name), ConstructAdjectivedName(lmb.target, name, adjective))
+        if not grammaticalAdjective then
+          str = unknownAdjectivesConfig == "default" and egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, adjective)) or
+            egsub(str, adjective .. " ", "")
+        else
+          str = egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, grammaticalAdjective))
+        end
       else
-        str = str:gsub(escape_lua_pattern(adjective .. " "), "")
+        str = egsub(str, adjective .. " ", "")
       end
 
-      if colorPerishablesConfig and not lmb.target.components.perishable:IsFresh() then
-        local TEXT_COLOR = lmb.target.components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR
-        self.text:SetColour(TEXT_COLOR)
+      if colorPerishablesConfig and not components.perishable:IsFresh() then
+        self.text:SetColour(components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR)
       end
     end
 
