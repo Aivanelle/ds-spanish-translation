@@ -3,7 +3,7 @@ local stackStyleConfig = GetModConfigData("stackStyle", modConfigurationName)
 local stackStyle = stackStyles[stackStyleConfig] or stackStyles.default
 local HoverText = require "widgets/hoverer"
 local OnUpdateOriginal = HoverText.OnUpdate or function() return "" end
-local insightEnabled = _G.KnownModIndex:IsModEnabled("workshop-2081254154")
+local insightEnabled = KnownModIndex:IsModEnabled("workshop-2081254154")
 
 function HoverText:OnUpdate()
   OnUpdateOriginal(self)
