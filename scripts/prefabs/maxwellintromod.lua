@@ -8,7 +8,7 @@ local function setIntroGender()
   local playerPrefab = GetPlayer().prefab
   local genderStrings = GetGenderStrings(playerPrefab)
 
-  dialogueStrings["auto"] = genderStrings ~= "MALE" and genderStrings
+  dialogueStrings.auto = genderStrings ~= "MALE" and genderStrings
   local stringsToUse = dialogueStrings[dialogueGenderConfig] 
 
   if stringsToUse then
