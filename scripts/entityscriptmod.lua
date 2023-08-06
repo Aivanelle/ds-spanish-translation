@@ -1,4 +1,4 @@
-local function getOldName(inst)
+local function getName(inst)
   return (inst.displaynamefn ~= nil and inst:displaynamefn()) or
     (inst.nameoverride and STRINGS.NAMES[inst.nameoverride:upper()]) or
     inst.name
@@ -22,7 +22,7 @@ function EntityScript:GetBasicDisplayName()
     return STRINGS.NAMES.RECONSTRUCTION_PROJECT
   end
 
-  return getOldName(self)
+  return getName(self)
 end
 
 function EntityScript:GetGrammaticalSuffix(suffixes)
@@ -65,7 +65,7 @@ function EntityScript:GetDisplayName()
   local basicDisplayName = self:GetBasicDisplayName()
 
   if self.recipetouse or self.construction_prefab then
-    displayName = egsub(displayName, getOldName(self), basicDisplayName)
+    displayName = egsub(displayName, getName(self), basicDisplayName)
   end
 
   -- If there's no DLC enabled, the function ends here.
@@ -98,8 +98,8 @@ function EntityScript:GetDisplayName()
       return displayName
     elseif self.components.edible and GetPlayer().components.eater and GetPlayer().components.eater:CanEat(self) then
       prefabType = "FOOD"
-    elseif self.components.equippable then
-      -- To be slightly compatible with mods that add extra item slots like amulets and backpacks
+    elseif self.components.equippable and self.components.equippable.equipslot then
+      -- To be slightly compatible with mods that add extra item slots like amulets and backpacks.
       prefabType = self.components.equippable.equipslot == EQUIPSLOTS.HANDS and "TOOL" or "CLOTHING"
     elseif self.components.fuel then
       prefabType = "FUEL"
