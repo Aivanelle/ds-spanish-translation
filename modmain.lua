@@ -1,3 +1,5 @@
+LoadPOFile("spanish.po", "es")
+
 _G = GLOBAL
 -- They forgot Wagstaff.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
@@ -50,8 +52,7 @@ NORMAL_TEXT_COLOR = anyDLCEnabled and _G.NORMAL_TEXT_COLOUR or { 1, 1, 1, 1 }
 STALE_TEXT_COLOR = { 250/255, 160/255, 31/255, 1 }
 SPOILED_TEXT_COLOR = { 1, 106/255, 106/255, 1 }
 
-local escape_lua_pattern = _G.escape_lua_pattern
-function egsub(str, pattern, replacement) return str:gsub(escape_lua_pattern(pattern), replacement) end
+function egsub(str, pattern, replacement) return str:gsub(_G.escape_lua_pattern(pattern), replacement) end
 
 modimport "scripts/stringsmod.lua"
 
@@ -85,9 +86,6 @@ end
 if IsDLCEnabled(CAPY_DLC) then
   STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
 end
-
-local translationFileConfig = GetModConfigData("translationFile")
-LoadPOFile("translationfiles/spanish_" .. translationFileConfig:lower() .. ".po", "es")
 
 local function modTeleportatoBase(inst)
   if inst.components.container.widgetbuttoninfo.text then
