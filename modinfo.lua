@@ -19,17 +19,6 @@ hamlet_compatible = true
 configuration_options =
 {
   {
-    name = "translationFile",
-    label = "Traducción",
-    options =
-    {
-      { description = "Semioficial", data = "SO" },
-      { description = "Español MX", data = "MX" },
-      { description = "Español ES", data = "ES" }
-    },
-    default = "SO"
-  },
-  {
     name = "showAdjectives",
     label = "Mostrar adjetivos",
     options =
