@@ -47,6 +47,7 @@ return {
   "mussel_farm",
   "oinc10",
   "oinc100",
+  "pig_ruins_spear_trap",
   "pugalisk_corpse",
   "reconstruction_project",
   "shop_trinket",
