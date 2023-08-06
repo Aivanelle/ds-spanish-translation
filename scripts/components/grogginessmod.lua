@@ -31,8 +31,11 @@ if IsDLCEnabled(PORKLAND_DLC) then
           local grammar = item.components.grammar
   
           if CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID_ES and grammar then
-            CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID[1] = CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID_ES[grammar.gender][grammar.grammaticalnumber][1]
-            CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID[2] = CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID_ES[grammar.gender][grammar.grammaticalnumber][2]
+            local gender = grammar.gender
+            local grammaticalNumber = grammar.grammaticalnumber
+
+            CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID[1] = CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID_ES[gender][grammaticalNumber][1]
+            CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID[2] = CHARACTER_STRINGS.ANNOUNCE_TOO_HUMID_ES[gender][grammaticalNumber][2]
           end
   
           self.inst.components.talker:Say(GetString(player, "ANNOUNCE_TOO_HUMID"):format(name))
