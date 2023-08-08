@@ -41,13 +41,12 @@ function CustomizationScreen:RefreshOptions()
   end
 end
 
-local TheFrontEnd = _G.TheFrontEnd
 local OriginalSavePreset = CustomizationScreen.SavePreset
 
 function CustomizationScreen:SavePreset()
   OriginalSavePreset(self)
 
-  for _, frontChild in pairs(TheFrontEnd.screenroot:GetChildren()) do
+  for _, frontChild in pairs(_G.TheFrontEnd.screenroot:GetChildren()) do
     if tostring(frontChild) == "BigPopupDialogScreen" then
       for _, menuElement in pairs(frontChild.menu:GetChildren()) do
         if tostring(menuElement) == "SPINNER" then
