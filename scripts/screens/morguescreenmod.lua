@@ -1,7 +1,3 @@
-local function firstToUpper(str)
-  return str:gsub("^%l", string.upper)
-end
-
 local causesOfDeath = nil
 local MorgueScreen = require "screens/morguescreen"
 local OriginalRefreshControls = MorgueScreen.RefreshControls
@@ -26,7 +22,7 @@ function MorgueScreen:RefreshControls()
     if tostring(v) == "control" then
       for _, widget in pairs(v:GetChildren()) do
         if tostring(widget):find("Text") then
-          local str = firstToUpper(widget:GetString():lower())
+          local str = capitalizeFirstLetter(widget:GetString())
 
           if causesOfDeath[str] then
             if #str >= 20 then str = str:sub(1, 19) .. "..." end
