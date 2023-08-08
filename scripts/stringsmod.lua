@@ -199,6 +199,8 @@ STRINGS.UI.SANDBOXMENU.FEMININEDEFAULT = "Predeterminada"
 STRINGS.UI.SANDBOXMENU.FEMININELONG = "Larga"
 STRINGS.UI.SANDBOXMENU.FEMININEVERYLONG = "Muy larga"
 
+STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET = "Ajuste personalizado"
+
 STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES = "sus"
 STRINGS.UI.ENDGAME.BODY2_ES = " de escapar?\n" ..
   "Quizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\n" ..
