@@ -53,7 +53,7 @@ STALE_TEXT_COLOR = { 250/255, 160/255, 31/255, 1 }
 SPOILED_TEXT_COLOR = { 1, 106/255, 106/255, 1 }
 
 function egsub(str, pattern, replacement) return str:gsub(_G.escape_lua_pattern(pattern), replacement) end
-function capitalizeFirstLetter(str) return str:lower():gsub("^%l", string.upper) end
+function _G.capitalizeFirstLetter(str) return str:lower():gsub("^%l", string.upper) end
 
 modimport "scripts/stringsmod.lua"
 
