@@ -1,3 +1,4 @@
+local capitalizeFirstLetter = _G.capitalizeFirstLetter
 local causesOfDeath = nil
 local MorgueScreen = require "screens/morguescreen"
 local OriginalRefreshControls = MorgueScreen.RefreshControls
