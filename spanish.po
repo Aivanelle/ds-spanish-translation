@@ -212244,7 +212244,7 @@ msgstr "Cancelar"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM"
 msgid "(Custom)"
-msgstr "(Personalizado)"
+msgstr "(Editado)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOMDESC
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOMDESC"
@@ -212254,12 +212254,12 @@ msgstr "¡Tu mundo, tus reglas!"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET"
 msgid "Custom Preset"
-msgstr "Configuración personalizada"
+msgstr "Ajustes personalizados"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC"
 msgid "Custom preset"
-msgstr "Configuración personalizada"
+msgstr "Ajustes personalizados"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC"
@@ -212285,7 +212285,7 @@ msgstr "Todas las estaciones deshabilitadas"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY"
 msgid "Apply a new preset and lose custom changes?"
-msgstr "¿Aplicar una nueva configuración y perder los cambios personalizados?"
+msgstr "¿Aplicar nuevos ajustes y perder los cambios editados?"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE"
@@ -212296,8 +212296,7 @@ msgstr "¿Perder los cambios?"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY"
 msgid "Only 5 custom presets allowed. Choose one to overwrite:"
 msgstr ""
-"Solo se permiten 5 configuraciones personalizadas. Elige una para "
-"sobrescribirla:"
+"Solo se permiten 5 ajustes personalizados. Elige uno para sobrescribirlo:"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODYSPACING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODYSPACING"
@@ -212317,9 +212316,8 @@ msgstr ""
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE"
 msgid "Preset Limit Reached"
-msgstr "Límite de configuraciones alcanzado"
+msgstr "Límite de ajustes alcanzado"
 
-# .
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ANGRYBEES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ANGRYBEES"
 msgid "Killer Bees"
@@ -212428,7 +212426,7 @@ msgstr "Niebla"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGRAIN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGRAIN"
 msgid "Frog Rain"
-msgstr "Lluvia de ranas"
+msgstr "Lluvias de ranas"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FROGS"
@@ -212443,7 +212441,7 @@ msgstr "Ciclo de resplandomosca"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GOOSEMOOSE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GOOSEMOOSE"
 msgid "Meese/Geese"
-msgstr "Gansoalce"
+msgstr "Gansoalces"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GRASS_BUNCHES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GRASS_BUNCHES"
@@ -212628,7 +212626,7 @@ msgstr "Mareas"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TOUCHSTONE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TOUCHSTONE"
 msgid "Touch Stone"
-msgstr "Piedra de resurrección"
+msgstr "Piedras de resurrección"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TREES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TREES"
@@ -212648,7 +212646,7 @@ msgstr "Temporada de huracanes"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WHALEHUNT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WHALEHUNT"
 msgid "Whaling"
-msgstr "Caza de ballenas"
+msgstr "Cacerías de ballenas"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WILDBORES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WILDBORES"
@@ -212668,7 +212666,7 @@ msgstr "Invierno"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WORLD_SIZE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WORLD_SIZE"
 msgid "World Size"
-msgstr "Tamaño de mundo"
+msgstr "Tamaño del mundo"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NO
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NO"
@@ -212783,7 +212781,7 @@ msgstr "Travesuras nocturnas"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETTITLE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETTITLE"
 msgid "Preset"
-msgstr "Configuración"
+msgstr "Ajustes"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET"
@@ -215421,7 +215419,7 @@ msgstr "Ninguna disponible"
 #. STRINGS.UI.SANDBOXMENU.RANDOM
 msgctxt "STRINGS.UI.SANDBOXMENU.RANDOM"
 msgid "Random"
-msgstr "Aleatorio"
+msgstr "Al azar"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDEALL
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEALL"
