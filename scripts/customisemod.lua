@@ -1,0 +1,158 @@
+local feminine_seasons =
+{
+  veryshortseason = STRINGS.UI.SANDBOXMENU.FEMININEVERYSHORT,
+  shortseason = STRINGS.UI.SANDBOXMENU.FEMININESHORT,
+  default = STRINGS.UI.SANDBOXMENU.FEMININEDEFAULT,
+  longseason = STRINGS.UI.SANDBOXMENU.FEMININELONG,
+  verylongseason = STRINGS.UI.SANDBOXMENU.FEMININEVERYLONG
+}
+
+customise_mod =
+{
+  day =
+  {
+    options =
+    {
+      onlyday = capitalizeFirstLetter,
+      onlydusk = capitalizeFirstLetter,
+      onlynight = capitalizeFirstLetter,
+      longday = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.DAY .. " " .. STRINGS.UI.SANDBOXMENU.SLIDELONG),
+      longdusk = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.DUSK .. " " .. STRINGS.UI.SANDBOXMENU.SLIDELONG),
+      longnight = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.NIGHT .. " " .. STRINGS.UI.SANDBOXMENU.FEMININELONG),
+      noday = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.WITHOUT .. " " .. STRINGS.UI.SANDBOXMENU.DAY),
+      nodusk = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.WITHOUT .. " " .. STRINGS.UI.SANDBOXMENU.DUSK),
+      nonight = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.WITHOUT .. " " .. STRINGS.UI.SANDBOXMENU.NIGHT)
+    }
+  },
+
+  season =
+  {
+    options =
+    {
+      onlysummer = capitalizeFirstLetter,
+      onlywinter = capitalizeFirstLetter,
+      longsummer = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.SUMMER .. " " .. STRINGS.UI.SANDBOXMENU.SLIDELONG),
+      longwinter = capitalizeFirstLetter(STRINGS.UI.SANDBOXMENU.WINTER .. " " .. STRINGS.UI.SANDBOXMENU.SLIDELONG),
+      longboth = STRINGS.UI.SANDBOXMENU.BOTH .. " " .. STRINGS.UI.SANDBOXMENU.LONGPLURAL,
+      shortboth = STRINGS.UI.SANDBOXMENU.BOTH .. " " .. STRINGS.UI.SANDBOXMENU.SHORTPLURAL
+    }
+  },
+
+  dry = { options = feminine_seasons },
+  humid = { options = feminine_seasons },
+  hurricane = { options = feminine_seasons },
+  lush = { options = feminine_seasons },
+  mild = { options = feminine_seasons },
+  monsoon = { options = feminine_seasons },
+  spring = { options = feminine_seasons },
+  temperate = { options = feminine_seasons },
+
+  beefaloheat =
+  {
+    options =
+    {
+      rare = "Baja",
+      default = "Media",
+      often = "Alta",
+      always = "Muy alta"
+    }
+  },
+
+  adult_flytraps = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ADULTFLYTRAPS },
+  ballphins = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BALLPHINS },
+  bamboo = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BAMBOO },
+  bats = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BATS },
+  bearger = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BEARGERS },
+  beefalo = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BEEFALOS },
+  berrybush = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BERRYBUSHES },
+  bioluminescence = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BIOLUMINESCENCE },
+  braincoral = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BRAINCORAL },
+  butterfly = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BUTTERFLIES },
+  buzzard = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BUZZARDS },
+  carrot = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CARROTS },
+  catcoon = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CATCOONS },
+  claw_trees = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CLAWPALMTREES },
+  coral = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CORAL },
+  crabbits = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CRABHOLES },
+  crates = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CRATES },
+  crocodog = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CROCODOGS },
+  crumbling_brazier = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BRAZIERS },
+  deerclops = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DEERCLOPS },
+  dogfish = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DOGFISH },
+  dragonfly = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DRAGONFLIES },
+  dragooneggs = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DRAGOONEGGS },
+  dung_beetles = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DUNGBEETLES },
+  dung_piles = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.DUNGPILES },
+  flint = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FLINTS },
+  flipping_rocks = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FLIPPINGROCKS },
+  flups = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.FLUPS },
+  giant_grubs = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GIANTGRUBS },
+  glowflies = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GLOWFLIES },
+  gnat = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GNATSWARMS },
+  gnat_mounds = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GNATMOUNDS },
+  grabbing_vines = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GRABBINGVINES },
+  grass = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GRASS },
+  guard_towers = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GUARDTOWERS },
+  hanging_vines = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.HANGINGVINES },
+  hippopotamoose = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.HIPPOPOTAMOOSE },
+  houndmound = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.HOUNDMOUNDS },
+  iceboulder = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ICEBOULDERS },
+  jellyfish = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.JELLYFISH },
+  kraken = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.KRAKEN },
+  lamp_posts = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LAMPPOSTS },
+  lightning_goat = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LIGHTNINGGOATS },
+  lily_pads = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LILYPADS },
+  limpets = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LIMPETROCKS },
+  lobsters = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOBSTERS },
+  lotus = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LOTUS },
+  mandrake = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MANDRAKES },
+  mandrake_men = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MANDRAKEMEN },
+  mant_comb_homes = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ANTCOMBHOME },
+  mant_lamps = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MANTLAMPS },
+  mean_flytraps = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MEANFLYTRAPS },
+  merms = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MERMS },
+  monkeys = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MONKEYS },
+  mosquitos = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.MOSQUITOS },
+  nettle = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.NETTLES },
+  orange_pikos = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PIKOS },
+  ox = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.OXEN },
+  palmguard = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PALMGUARDS },
+  pangolden = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PANGOLDENS },
+  peagawk = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PEAGAWKS },
+  perd = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PERDS },
+  pig_bandit = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PIGBANDITS },
+  pig_ghosts = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PIGGHOSTS },
+  pig_houses = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.PIGHOUSES },
+  platypine = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.BILLS },
+  pogs = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.POGS },
+  poison_dart_frogs = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.POISONFROGS },
+  poisonhole = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.POISONHOLES },
+  radish = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.RADISHES },
+  rainforest_trees = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.RAINFORESTTREES },
+  sand = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SANDHILLS },
+  sapling = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SAPLINGS },
+  scorpions = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SCORPIONS },
+  seagulls = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SEAGULLS },
+  seashell = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SEASHELLS },
+  shoals = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SHOALS },
+  small_ruins = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.RUINSENTRANCE },
+  snakes = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SNAKES },
+  stinkrays = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.STINKRAYS },
+  sweetpotatos = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SWEETPOTATOS },
+  swordfish = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SWORDFISH },
+  tall_grass = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TALLGRASS },
+  tea_trees = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TEATREES },
+  thunderbirds = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.THUNDERBIRDS },
+  tidalpools = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TIDALPOOLS },
+  tigershark = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TIGERSHARKS },
+  tuber_trees = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TUBERTREES },
+  tumbleweeds = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TUMBLEWEEDS },
+  twister = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.SEALNADOS },
+  vampire_bat_caves = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.CAVECLEFTS },
+  vampire_bats = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.VAMPIREBATS },
+  vines = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.VINES },
+  warg = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WARGS },
+  weevole = { tooltip = STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.WEEVOLES }
+}
+
+return customise_mod

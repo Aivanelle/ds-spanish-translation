@@ -1,0 +1,68 @@
+return {
+  -- Foods.
+  "aloe_seeds",
+  "asparagus_seeds",
+  "berries",
+  "berries_cooked",
+  "butterflywings",
+  "carrot_seeds",
+  "corn_cooked",
+  "corn_seeds",
+  "dragonfruit_seeds",
+  "durian_seeds",
+  "eggplant_seeds",
+  "froglegs",
+  "froglegs_poison",
+  "jellybug",
+  "jellybug_cooked",
+  "limpets",
+  "limpets_cooked",
+  "meatballs",
+  "phlegm",
+  "pomegranate_seeds",
+  "pumpkin_seeds",
+  "pumpkincookie",
+  "radish_seeds",
+  "roe",
+  "roe_cooked",
+  "seaweed",
+  "seaweed_cooked",
+  "seaweed_dried",
+  "seeds",
+  "seeds_cooked",
+  "sweet_potato_seeds",
+  "watermelon_seeds",
+
+  -- Clothings.
+  "earmuffshat",
+  "gogglesheathat",
+  "gogglesnormalhat",
+  "gogglesshoothat",
+  "molehat",
+
+  -- Tools.
+  "shears",
+
+  -- Fuels.
+  "fireflies",
+  "glommerwings",
+  "twigs",
+
+  -- Generics.
+  "animal_track",
+  "ash",
+  "bramblespike",
+  "chessjunk1",
+  "chessjunk2",
+  "chessjunk3",
+  "deed",
+  "dragon_scales",
+  "pig_ruins_creeping_vines",
+  "porkland_intro_flags",
+  "rocks",
+  "seaweed_planted",
+  "shark_gills",
+  "trinket_1",
+  "turbine_blades",
+  "whale_bubbles"
+}

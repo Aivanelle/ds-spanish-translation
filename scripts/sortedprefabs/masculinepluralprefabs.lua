@@ -1,0 +1,62 @@
+return {
+  -- Foods.
+  "asparagus",
+  "asparagus_cooked",
+  "baconeggs",
+  "californiaroll",
+  "cave_banana",
+  "cave_banana_cooked",
+  "clippings",
+  "coffeebeans",
+  "coffeebeans_cooked",
+  "fishsticks",
+  "fishtacos",
+  "hardshell_tacos",
+  "honeynuggets",
+  "kabobs",
+  "nettlelosange",
+  "petals",
+  "petals_evil",
+  "taffy",
+  "waffles",
+
+  -- Clothings.
+  "gogglesarmorhat",
+
+  --Fuels.
+  "ancient_remnant",
+  "boards",
+  "cutreeds",
+  "gears",
+  "reeds",
+  "reeds_water",
+  "spidereggsack",
+  "tentaclespots",
+  "turf_road",
+
+  --Generics.
+  "asparagus_planted",
+  "blueprint",
+  "boneshard",
+  "bundle",
+  "dubloon",
+  "firecrackers",
+  "flotsam",
+  "houndbone",
+  "lightning", -- Absolustely unnecessary, but whatever.
+  "mussel_farm",
+  "oinc10",
+  "oinc100",
+  "pig_ruins_spear_trap",
+  "pugalisk_corpse",
+  "reconstruction_project",
+  "shop_trinket",
+  "thulecite_pieces",
+  "trinket_6",
+  "trinket_9",
+  "tunacan",
+  "wallyintro_debris_1",
+  "wallyintro_debris_2",
+  "wallyintro_debris_3",
+  "wallyintro_shipmast"
+}

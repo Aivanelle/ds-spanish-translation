@@ -1,7 +1,8 @@
 name = "Traducción al Español"
 author = "Aivan"
-version = "2.15.2"
-description = "\nTraducción de Don't Starve y sus DLC: Reign of Giants, Shipwrecked y Hamlet. Personajes en progreso.\nVersión " .. version
+version = "2.16"
+description = "\nTraducción de Don't Starve y sus DLC: Reign of Giants, Shipwrecked y Hamlet. Personajes en progreso." ..
+  "\nVersión " .. version
 
 forumthread = "/files/file/1962-hamlet-traducción-al-español-semioficial/"
 
@@ -18,57 +19,66 @@ hamlet_compatible = true
 configuration_options =
 {
   {
-    name = "translationFile",
-    label = "Traducción",
-    options =
-    {
-      {description = "Semioficial", data = "SO"},
-      {description = "Español MX", data = "MX"},
-      {description = "Español ES", data = "ES"},
-    },
-    default = "SO",
-  },
-  {
     name = "showAdjectives",
     label = "Mostrar adjetivos",
     options =
     {
-      {description = "Sí", data = true},
-      {description = "No", data = false},
+      { description = "Sí", data = true },
+      { description = "No", data = false }
     },
-    default = true,
+    default = true
+  },
+  {
+    name = "unknownAdjectives",
+    label = "Adjetivos desconocidos",
+    options =
+    {
+      { description = "Por defecto", data = "default" },
+      { description = "Ocultar", data = "hide" }
+    },
+    default = "default"
+  },
+  {
+    name = "colorPerishables",
+    label = "Colores de estado",
+    options =
+    {
+      { description = "Sí", data = true },
+      { description = "No", data = false }
+    },
+    default = false
   },
   {
     name = "dialogueGender",
     label = "Género en diálogos",
     options =
     {
-      {description = "Automático", data = "auto"},
-      {description = "Masculino", data = "male"},
-      {description = "Femenino", data = "female"},
-      {description = "Neutro", data = "robot"},
+      { description = "Automático", data = "auto" },
+      { description = "Masculino", data = "male" },
+      { description = "Femenino", data = "female" },
+      { description = "Neutro", data = "robot" }
     },
-    default = "auto",
+    default = "auto"
   },
   {
     name = "stackStyle",
     label = "Estilo de apilables",
     options =
     {
-      {description = "Clásico", data = "classic"},
-      {description = "Espaciado", data = "mathematician"},
-      {description = "Paréntesis", data = "parenthesis"},
+      { description = "Clásico", data = "default" },
+      { description = "Espaciado", data = "mathematician" },
+      { description = "Paréntesis", data = "parenthesis" }
     },
-    default = "classic",
+    default = "default"
   },
   {
     name = "talkingWormwood",
     label = "Fuente de Wormwood",
     options =
     {
-      {description = "Especial", data = "wormwoodFont"},
-      {description = "Normal", data = "normalFont"},
+      { description = "Especial", data = "wormwoodFont" },
+      { description = "Normal", data = "normalFont" }
     },
-    default = "wormwoodFont",
+    default = "wormwoodFont"
   },
 }

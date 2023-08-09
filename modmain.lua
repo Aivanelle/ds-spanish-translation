@@ -1,77 +1,152 @@
+LoadPOFile("spanish.po", "es")
+
 _G = GLOBAL
+-- They forgot Wagstaff.
+table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
+
+modimport "scripts/dlcsupport_stringsmod.lua"
+
+stackStyles =
+{
+  ["default"] = "x{stack}",
+  ["parenthesis"] = "({stack})",
+  ["mathematician"] = "× {stack}"
+}
+
+-- Global variables that are used across all files.
+GRAMMATICAL_NUMBER =
+{
+  PLURAL = "PLURAL",
+  SINGULAR = "SINGULAR"
+}
+
+GENDER =
+{
+  MASCULINE = "MASCULINE",
+  FEMININE = "FEMININE"
+}
+
+showAdjectivesConfig = GetModConfigData("showAdjectives")
+dialogueGenderConfig = GetModConfigData("dialogueGender")
+colorPerishablesConfig = GetModConfigData("colorPerishables")
+unknownAdjectivesConfig = GetModConfigData("unknownAdjectives")
+
+subfmt = _G.subfmt
+require = _G.require
+
+GetPlayer = _G.GetPlayer
+GetGenderStrings = _G.GetGenderStrings
+ConstructAdjectivedName = _G.ConstructAdjectivedName
+KnownModIndex = _G.KnownModIndex
+
 STRINGS = _G.STRINGS
 
-modimport("scripts/spanishstrings.lua")
+PORKLAND_DLC = _G.PORKLAND_DLC
+IsDLCEnabled = _G.IsDLCEnabled
 
--- Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in the po file do nothing.
--- Translated strings in po files have been deleted just to not have to make any change twice, here in the lua files and there in the po files.
+local ROG_DLC = _G.REIGN_OF_GIANTS
+local CAPY_DLC = _G.CAPY_DLC
+anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
+
+NORMAL_TEXT_COLOR = anyDLCEnabled and _G.NORMAL_TEXT_COLOUR or { 1, 1, 1, 1 }
+STALE_TEXT_COLOR = { 250/255, 160/255, 31/255, 1 }
+SPOILED_TEXT_COLOR = { 1, 106/255, 106/255, 1 }
+
+function egsub(str, pattern, replacement) return str:gsub(_G.escape_lua_pattern(pattern), replacement) end
+function _G.capitalizeFirstLetter(str) return str:lower():gsub("^%l", string.upper) end
+
+modimport "scripts/stringsmod.lua"
+
+local assert = _G.assert
+local USE_PREFIX = _G.USE_PREFIX
+
+local function enableSuffixes(table)
+  for k, v in pairs(table) do
+    if type(v) == "table" then
+      enableSuffixes(v)
+    else
+      assert(type(v) == "string", "Error, suffix string expected, got: " .. type(v))
+
+      USE_PREFIX[v] = false
+    end
+  end
+end
+
+enableSuffixes(STRINGS.SUFFIX)
+
+--[[
+  Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in
+  the po file do nothing. Translated strings in po files have been deleted just to not have to make any changet
+  wice, here in the lua files and there in the po files.
+]]
 for i = 1, 3 do
   STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES[i]
   STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC[i] = STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES[i]
 end
 
-local IsDLCEnabled = _G.IsDLCEnabled
-local CAPY_DLC = _G.CAPY_DLC
-
 if IsDLCEnabled(CAPY_DLC) then
   STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC[1] = STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES[1]
 end
----------------------------------------------------------------
 
-local translationFile = GetModConfigData("translationFile")
-
-if translationFile == "ES" then
-  LoadPOFile("translationfiles/spanish_es.po", "es")
-elseif translationFile == "MX" then
-  LoadPOFile("translationfiles/spanish_mx.po", "es")
-else
-  LoadPOFile("translationfiles/spanish_so.po", "es")
-end
-
--- Characters not added to any gender table.
-table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
-
-_G.Set = function(list)
-  local set = {}
-  for _, v in pairs(list) do set[v] = true end
-  return set
-end
-
-local Set = _G.Set
-CHARACTER_GENDERS =
-{
-  MALE = Set(_G.CHARACTER_GENDERS.MALE),
-  FEMALE = Set(_G.CHARACTER_GENDERS.FEMALE),
-  ROBOT = Set(_G.CHARACTER_GENDERS.ROBOT),
-}
-
-GetPlayer = _G.GetPlayer
-dialogueGender = GetModConfigData("dialogueGender")
-
-local function importStrings()
-  local playerPrefab = GetPlayer().prefab
-
-  if dialogueGender == "auto" then
-    if not CHARACTER_GENDERS.MALE[playerPrefab] then
-      if CHARACTER_GENDERS.FEMALE[playerPrefab] then
-        modimport("scripts/femalestrings.lua")
-      else
-        modimport("scripts/robotstrings.lua")
-      end
-    end
-  elseif dialogueGender == "female" then
-    modimport("scripts/femalestrings.lua")
-  elseif dialogueGender == "robot" then
-    modimport("scripts/robotstrings.lua")
+local function modTeleportatoBase(inst)
+  if inst.components.container.widgetbuttoninfo.text then
+    inst.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
   end
 end
 
-local function setWormwoodFont()
-  local talkingWormwood = GetModConfigData("talkingWormwood")
+AddPrefabPostInit("teleportato_base", modTeleportatoBase)
 
-  if talkingWormwood == "normalFont" and GetPlayer().components.talker then
+local function modEpitaphs(inst)
+  if GetPlayer().prefab == "wolfgang" then
+    local WOLFGANG_EPITAPHS = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
+    inst.components.inspectable:SetDescription(WOLFGANG_EPITAPHS[math.random(#WOLFGANG_EPITAPHS)])
+  end
+end
+
+AddPrefabPostInit("inventorygrave", modEpitaphs)
+AddPrefabPostInit("gravestone", modEpitaphs)
+
+local function modWerewilbaFurHands(inst)
+  inst.wet_prefix = STRINGS.SUFFIX.WET.CLOTHING.MASCULINE.SINGULAR
+end
+
+AddPrefabPostInit("werewilbafur_hands", modWerewilbaFurHands)
+
+local function modConfigurationScreenInit(self, modname)
+  local fancyModName = KnownModIndex:GetModFancyName(modname)
+
+  for _, child in pairs(self.root:GetChildren()) do
+    if tostring(child):find("Text") then
+      child:SetString(subfmt(STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX, { modname = fancyModName }))
+    end
+  end
+end
+
+AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
+
+local dialogueScripts =
+{
+  female = "femalestrings.lua",
+  robot = "robotstrings.lua"
+}
+
+local function importStrings()
+  local playerPrefab = GetPlayer().prefab
+  local genderStrings = GetGenderStrings(playerPrefab):lower()
+
+  dialogueScripts.auto = genderStrings ~= "male" and genderStrings .. "strings.lua"
+  local scriptToImport = dialogueScripts[dialogueGenderConfig]
+
+  if scriptToImport then modimport("scripts/" .. scriptToImport) end
+end
+
+local Vector3 = _G.Vector3
+local function setWormwoodFont()
+  local talkingWormwoodConfig = GetModConfigData("talkingWormwood")
+
+  if talkingWormwoodConfig == "normalFont" and GetPlayer().components.talker then
     GetPlayer().components.talker.font = TALKINGFONT
-    GetPlayer().components.talker.colour = _G.Vector3(1, 1, 1, 1)
+    GetPlayer().components.talker.colour = Vector3(1, 1, 1, 1)
   end
 end
 
@@ -80,161 +155,84 @@ local function translateWebberStrings()
   STRINGS.UI.ENDGAME.BODY2 = STRINGS.UI.ENDGAME.BODY2_ES
 end
 
-USE_PREFIX = _G.USE_PREFIX
+local function modSimPostInit(player)
+  importStrings()
 
-local function enableSUffixes()
-  for _, v in pairs(STRINGS.WET_PREFIX.MALE) do
-    if type(v) == "table" then
-      for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
-    elseif type(v) == "string" then USE_PREFIX[v] = false end
-  end
+  --[[
+    Default prefixes are no longer used, but are necessary in some cases where there are
+    prefabs not being managed by the mod.
+  ]]
+  enableSuffixes(STRINGS.WET_PREFIX)
+  USE_PREFIX[STRINGS.UI.HUD.HUNGRY] = false
+  USE_PREFIX[STRINGS.UI.HUD.STARVING] = false
+  USE_PREFIX[STRINGS.UI.HUD.STALE] = false
+  USE_PREFIX[STRINGS.UI.HUD.SPOILED] = false
+  USE_PREFIX[STRINGS.UI.HUD.STALE_FROZEN] = false
+  USE_PREFIX[STRINGS.UI.HUD.SPOILED_FROZEN] = false
 
-  for _, v in pairs(STRINGS.WET_PREFIX.FEMALE) do
-    if type(v) == "table" then
-      for _, WET_PREFIX in pairs(v) do USE_PREFIX[WET_PREFIX] = false end
-    elseif type(v) == "string" then USE_PREFIX[v] = false end
-  end
-end
-
-local function modPostInit(player)
-  enableSUffixes()
-  USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
   USE_PREFIX[STRINGS.MYSTERIOUS] = false
+  USE_PREFIX[STRINGS.SMOLDERINGITEM] = false
+  USE_PREFIX[STRINGS.WITHEREDITEM] = false
   USE_PREFIX[STRINGS.FLOODEDITEM] = false
 
-  USE_PREFIX[STRINGS.WET_PREFIX.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.RABBITHOLE] = false
   USE_PREFIX[STRINGS.NAMES.CRABHOLE] = false
 
-  importStrings()
+  USE_PREFIX[STRINGS.WET_PREFIX.WETGOOP] = function(inst, name, adjective)
+    local wetWetGoopName = name:gsub(" ", " " .. adjective .. " ")
+    return name:gsub(name, wetWetGoopName)
+  end
 
   if player.prefab == "wormwood" then
     setWormwoodFont()
   elseif player.prefab == "webber" then
     translateWebberStrings()
-  -- elseif player.prefab == "wilbur" and IsDLCInstalled(CAPY_DLC)then
-  --   modimport("scripts/craftmonkeystring.lua")
   end
 end
 
+AddSimPostInit(modSimPostInit)
 
-local function modAdventureTeleportato(prefab)
-  if prefab.components.container.widgetbuttoninfo.text then
-    prefab.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
+local NO_WET_PREFABS = require "sortedprefabs/nowetprefabs"
+local function setNoWetPrefix(inst)
+  if not inst.no_wet_prefix then inst.no_wet_prefix = true end
+end
+
+for _, prefab in ipairs(NO_WET_PREFABS) do AddPrefabPostInit(prefab, setNoWetPrefix) end
+
+local function setGrammarComponent(prefabs, gender, grammaticalNumber)
+  for _, prefab in ipairs(prefabs) do
+    AddPrefabPostInit(prefab, function(inst)
+      inst:AddComponent("grammar")
+      inst.components.grammar:SetGrammaticalNumber(grammaticalNumber)
+      inst.components.grammar:SetGender(gender)
+    end)
   end
 end
 
-local function modEpitaphs(prefab)
-  if GetPlayer().prefab == "wolfgang" then
-    local wolfgangEpitaphs = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
-    prefab.components.inspectable:SetDescription(wolfgangEpitaphs[math.random(#wolfgangEpitaphs)])
-  end
-end
+local MASCULINE_PLURAL_PREFABS = require "sortedprefabs/masculinepluralprefabs"
+setGrammarComponent(MASCULINE_PLURAL_PREFABS, GENDER.MASCULINE, GRAMMATICAL_NUMBER.PLURAL)
 
-local function setNoWetPrefix(prefab)
-  if not prefab.no_wet_prefix then prefab.no_wet_prefix = true end
-end
+local MASCULINE_SINGULAR_PREFABS = require "sortedprefabs/masculinesingularprefabs"
+setGrammarComponent(MASCULINE_SINGULAR_PREFABS, GENDER.MASCULINE, GRAMMATICAL_NUMBER.SINGULAR)
 
-AddSimPostInit(modPostInit)
+local FEMININE_PLURAL_PREFABS = require "sortedprefabs/femininepluralprefabs"
+setGrammarComponent(FEMININE_PLURAL_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.PLURAL)
 
-AddPrefabPostInit("teleportato_base", modAdventureTeleportato)
-AddPrefabPostInit("inventorygrave", modEpitaphs)
-AddPrefabPostInit("gravestone", modEpitaphs)
+local FEMININE_SINGULAR_PREFABS = require "sortedprefabs/femininesingularprefabs"
+setGrammarComponent(FEMININE_SINGULAR_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.SINGULAR)
 
--- Prefabs that mostly contains proper nouns to hide their wet suffix
-AddPrefabPostInit("book_birds", setNoWetPrefix)
-AddPrefabPostInit("book_brimstone", setNoWetPrefix)
-AddPrefabPostInit("book_gardening", setNoWetPrefix)
-AddPrefabPostInit("book_meteor", setNoWetPrefix)
-AddPrefabPostInit("book_sleep", setNoWetPrefix)
-AddPrefabPostInit("book_tentacles", setNoWetPrefix)
-AddPrefabPostInit("waxwelljournal", setNoWetPrefix)
-AddPrefabPostInit("buriedtreasure", setNoWetPrefix)
-AddPrefabPostInit("wilbur_unlock", setNoWetPrefix)
+modimport "scripts/craftmonkeystring.lua"
+modimport "scripts/entityscriptmod.lua"
 
-AddPrefabPostInit("bunnyman", setNoWetPrefix)
-AddPrefabPostInit("mandrakeman", setNoWetPrefix)
-AddPrefabPostInit("parrot_pirate", setNoWetPrefix)
-AddPrefabPostInit("pigguard", setNoWetPrefix)
-AddPrefabPostInit("pigman", setNoWetPrefix)
-AddPrefabPostInit("pigtrader", setNoWetPrefix) -- Unnecessary, I think
-AddPrefabPostInit("wildbore", setNoWetPrefix)
-AddPrefabPostInit("wildboreguard", setNoWetPrefix)
+modimport "scripts/components/grogginessmod.lua"
+modimport "scripts/components/perishablemod.lua"
 
--- Hamlet city pigs
-AddPrefabPostInit("pigman_beautician", setNoWetPrefix)
-AddPrefabPostInit("pigman_florist", setNoWetPrefix)
-AddPrefabPostInit("pigman_erudite", setNoWetPrefix)
-AddPrefabPostInit("pigman_hatmaker", setNoWetPrefix)
-AddPrefabPostInit("pigman_storeowner", setNoWetPrefix)
-AddPrefabPostInit("pigman_banker", setNoWetPrefix)
-AddPrefabPostInit("pigman_collector", setNoWetPrefix)
-AddPrefabPostInit("pigman_hunter", setNoWetPrefix)
-AddPrefabPostInit("pigman_mayor", setNoWetPrefix)
-AddPrefabPostInit("pigman_mechanic", setNoWetPrefix)
-AddPrefabPostInit("pigman_professor", setNoWetPrefix)
-AddPrefabPostInit("pigman_usher", setNoWetPrefix)
-AddPrefabPostInit("pigman_royalguard", setNoWetPrefix)
-AddPrefabPostInit("pigman_royalguard_2", setNoWetPrefix)
-AddPrefabPostInit("pigman_farmer", setNoWetPrefix)
-AddPrefabPostInit("pigman_miner", setNoWetPrefix)
-AddPrefabPostInit("pigman_queen", setNoWetPrefix)
-AddPrefabPostInit("pigman_beautician_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_florist_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_erudite_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_hatmaker_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_storeowner_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_banker_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_hunter_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_mayor_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_farmer_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_miner_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_collector_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_professor_shopkeep", setNoWetPrefix)
-AddPrefabPostInit("pigman_mechanic_shopkeep", setNoWetPrefix)
+modimport "scripts/prefabs/maxwellintromod.lua"
+modimport "scripts/prefabs/parrotpirate.lua"
 
-AddPrefabPostInit("abigail", setNoWetPrefix)
-AddPrefabPostInit("glommer", setNoWetPrefix)
-AddPrefabPostInit("chester", setNoWetPrefix)
-AddPrefabPostInit("ro_bin", setNoWetPrefix)
-AddPrefabPostInit("packim", setNoWetPrefix)
-AddPrefabPostInit("roc", setNoWetPrefix)
-AddPrefabPostInit("roc_head", setNoWetPrefix)
-AddPrefabPostInit("roc_leg", setNoWetPrefix)
-AddPrefabPostInit("roc_tail", setNoWetPrefix)
+modimport "scripts/screens/morguescreenmod.lua"
+modimport "scripts/screens/customizationscreenmod.lua"
 
--- Hamlet city buildings
-AddPrefabPostInit("pig_shop_deli", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_general", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_hoofspa", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_produce", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_florist", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_antiquities", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_academy", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_arcane", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_weapons", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_hatshop", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_bank", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_tinker", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_cityhall", setNoWetPrefix)
-AddPrefabPostInit("pig_shop_cityhall_player", setNoWetPrefix)
-AddPrefabPostInit("pig_palace", setNoWetPrefix)
-
-local IsDLCInstalled = _G.IsDLCInstalled
-
-if IsDLCInstalled(CAPY_DLC) and IsDLCEnabled(CAPY_DLC) then modimport("scripts/craftmonkeystring.lua") end
-
-modimport("scripts/modwaxwellintro.lua")
-modimport("scripts/constructadjectivedname.lua")
-modimport("scripts/getdisplayname.lua")
-modimport("scripts/modwidgets/hovertext_onupdate.lua")
-modimport("scripts/modwidgets/itemtile_getdescriptionstring.lua")
-modimport("scripts/modscreens/morguescreen_refreshcontrols.lua")
-
-local ROG_DLC = _G.REIGN_OF_GIANTS
-local PORKLAND_DLC = _G.PORKLAND_DLC
-local anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
-
-if anyDLCEnabled then modimport("scripts/modwidgets/inv_getdescriptionstring.lua") end
-if IsDLCEnabled(_G.PORKLAND_DLC) then modimport("scripts/modcomponents/grogginess_onequip.lua") end
+modimport "scripts/widgets/hoverermod.lua"
+modimport "scripts/widgets/inventorybarmod.lua"
+modimport "scripts/widgets/itemtilemod.lua"
