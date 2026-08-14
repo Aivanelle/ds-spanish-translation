@@ -1,6 +1,6 @@
 name = "Traducción al Español"
 author = "Aivan"
-version = "2.16"
+version = "2.16.1"
 description = "\nTraducción de Don't Starve y sus DLC: Reign of Giants, Shipwrecked y Hamlet. Personajes en progreso." ..
   "\nVersión " .. version
 
