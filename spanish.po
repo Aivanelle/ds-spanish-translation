@@ -199544,12 +199544,12 @@ msgstr "Escalado suave"
 #. STRINGS.UI.BROADCASTING.STARTSTREAM
 msgctxt "STRINGS.UI.BROADCASTING.STARTSTREAM"
 msgid "Start Stream"
-msgstr "Iniciar la retransmisión"
+msgstr "Iniciar retransmisión"
 
 #. STRINGS.UI.BROADCASTING.STOPSTREAM
 msgctxt "STRINGS.UI.BROADCASTING.STOPSTREAM"
 msgid "Stop Stream"
-msgstr "Detener la retransmisión"
+msgstr "Detener retransmisión"
 
 #. STRINGS.UI.BROADCASTING.SYSTEMSOUND
 msgctxt "STRINGS.UI.BROADCASTING.SYSTEMSOUND"
@@ -199587,8 +199587,8 @@ msgid ""
 "You have not submitted your report.\n"
 "Are you sure you want to cancel?"
 msgstr ""
-"No has enviado tu informe.\n"
-"¿Estás seguro de que quieres cancelar?"
+"No has enviado tu reporte.\n"
+"¿Quieres cancelarlo?"
 
 #. STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
 msgctxt "STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER"
@@ -199648,7 +199648,7 @@ msgid ""
 "\n"
 "This may take several minutes."
 msgstr ""
-"Enviar un reporte de errores cargará la información de su juego y partidas guardadas para "
+"Enviar un reporte de errores subirá la información de tu juego y partidas guardadas para "
 "así ayudarnos a analizar el problema.\n"
 "\n"
 "Esto puede tomar varios minutos."
@@ -199695,8 +199695,8 @@ msgid ""
 "This will save your current game!\n"
 "Continue?"
 msgstr ""
-"Registrarás el rendimiento del juego durante %d y enviarás un informe y la partida "
-"guardada a Klei.\n"
+"Registrarás el rendimiento del juego durante %d segundos y enviarás un informe y la "
+"partida guardada a Klei.\n"
 "¡Guardarás la partida actual!\n"
 "¿Quieres continuar?"
 
@@ -199706,8 +199706,8 @@ msgid ""
 "Please enter a description of the bug you are experiencing and any details that you feel "
 "may aid us in fixing it."
 msgstr ""
-"Ingrese una descripción del error que está experimentando y cualquier detalle que "
-"considere que pueda ayudarnos a solucionarlo."
+"Ingresa una descripción del error que estás experimentando y cualquier detalle que "
+"consideres que pueda ayudarnos a solucionarlo."
 
 #. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_TITLE
 msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_TITLE"
@@ -200898,7 +200898,7 @@ msgstr "¿Quieres cancelar los cambios?"
 #. STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_TITLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_TITLE"
 msgid "Lose Changes?"
-msgstr "¿Perder los cambios?"
+msgstr "¿Perder cambios?"
 
 #. STRINGS.UI.CONTROLSSCREEN.NO
 msgctxt "STRINGS.UI.CONTROLSSCREEN.NO"
@@ -202353,7 +202353,7 @@ msgstr "Suscribirme"
 #. STRINGS.UI.EMAILSCREEN.TITLE
 msgctxt "STRINGS.UI.EMAILSCREEN.TITLE"
 msgid "Keep me updated with Don't Starve news"
-msgstr "Mantenme informado con noticias de Don't Starve"
+msgstr "Mantenme al tanto con noticias de Don't Starve"
 
 #. STRINGS.UI.EMAILSCREEN.YEAR
 msgctxt "STRINGS.UI.EMAILSCREEN.YEAR"
@@ -202841,7 +202841,7 @@ msgstr ""
 #. STRINGS.UI.MAINSCREEN.ASKQUIT
 msgctxt "STRINGS.UI.MAINSCREEN.ASKQUIT"
 msgid "Do you really want to quit?"
-msgstr "¿Seguro que quieres salir?"
+msgstr "¿Quieres salir del juego?"
 
 #. STRINGS.UI.MAINSCREEN.ASKQUITDESC
 msgctxt "STRINGS.UI.MAINSCREEN.ASKQUITDESC"
@@ -202951,8 +202951,8 @@ msgstr ""
 "Encontramos un error en el código que causó que la configuración de la recopilación de "
 "datos fallara al guardar.\n"
 "\n"
-"Hemos solucionado el problema, pero si desea desactivar la recopilación de datos, "
-"restablezca la opción haciendo clic en el botón \"Desactivar datos\" a continuación.\n"
+"Hemos solucionado el problema, pero si deseas desactivar la recopilación de datos, "
+"reestablece la opción haciendo clic en el botón \"Desactivar datos\" a continuación.\n"
 "\n"
 "Para obtener más detalles sobre nuestra política de privacidad y cómo utilizamos los "
 "datos que recopilamos, consulte nuestra política de privacidad oficial."
@@ -203102,9 +203102,7 @@ msgctxt "STRINGS.UI.MAINSCREEN.MIGRATION_DIALOG_INFO"
 msgid ""
 "Are you sure you want to migrate the save files from the %s version to the current "
 "version?"
-msgstr ""
-"¿Está seguro de que desea migrar los archivos guardados de la versión %s a la versión "
-"actual?"
+msgstr "¿Deseas migrar los archivos guardados de la versión %s a la versión actual?"
 
 #. STRINGS.UI.MAINSCREEN.MIGRATION_FAIL
 msgctxt "STRINGS.UI.MAINSCREEN.MIGRATION_FAIL"
@@ -203114,8 +203112,8 @@ msgid ""
 "migrate the saves"
 msgstr ""
 "No pudimos completar la migración porque no hay suficientes espacios de guardado. Tiene "
-"que haber por lo menos %s espacio(s) de guardado. Por favor, borre los archivos guardados "
-"y ejecute la herramienta de nuevo para migrar los archivos guardados."
+"que haber por lo menos %s espacio(s) de guardado. Por favor, borra los archivos guardados "
+"y ejecuta la herramienta de nuevo para migrar los archivos guardados."
 
 #. STRINGS.UI.MAINSCREEN.MIGRATION_SUCCESSFUL
 msgctxt "STRINGS.UI.MAINSCREEN.MIGRATION_SUCCESSFUL"
@@ -203288,12 +203286,12 @@ msgstr ""
 #. STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT
 msgctxt "STRINGS.UI.MAINSCREEN.NEXTBUILDIMMINENT"
 msgid "Next build imminent!"
-msgstr "¡Nueva versión muy cercana!"
+msgstr "¡Nueva versión muy pronto!"
 
 #. STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS
 msgctxt "STRINGS.UI.MAINSCREEN.NEXTUPDATEDAYS"
 msgid "Next Update: %d days"
-msgstr "Siguiente actualización: %d días"
+msgstr "Siguiente actualización: %d día(s)"
 
 #. STRINGS.UI.MAINSCREEN.NO
 msgctxt "STRINGS.UI.MAINSCREEN.NO"
@@ -203462,7 +203460,7 @@ msgstr "4"
 #. STRINGS.UI.MAINSCREEN.SURE
 msgctxt "STRINGS.UI.MAINSCREEN.SURE"
 msgid "Are you sure?"
-msgstr "¿Seguro?"
+msgstr "¿Deseas continuar?"
 
 #. STRINGS.UI.MAINSCREEN.SW_FORUMS_TEXT
 msgctxt "STRINGS.UI.MAINSCREEN.SW_FORUMS_TEXT"
@@ -203471,7 +203469,7 @@ msgid ""
 " Join our forums!"
 msgstr ""
 "¿Quieres compartir tus ideas?\n"
-" Únete a nuestros foros!"
+"¡Únete a nuestros foros!"
 
 #. STRINGS.UI.MAINSCREEN.SW_FORUMS_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.SW_FORUMS_TITLE"
@@ -204229,7 +204227,7 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.RESTART_TITLE
 msgctxt "STRINGS.UI.OPTIONS.RESTART_TITLE"
 msgid "Restart Required"
-msgstr "Reinicio requerido"
+msgstr "Es necesario reiniciar"
 
 #. STRINGS.UI.OPTIONS.REVERT
 msgctxt "STRINGS.UI.OPTIONS.REVERT"
@@ -204359,6 +204357,7 @@ msgid "I said quit!"
 msgstr "¡He dicho salir!"
 
 #. STRINGS.UI.PAUSEMENU.SURVIVED_DAYS
+#, fuzzy
 msgctxt "STRINGS.UI.PAUSEMENU.SURVIVED_DAYS"
 msgid ""
 "You have survived a total of\n"
@@ -205006,7 +205005,7 @@ msgstr ""
 "¿Quieres hacer que este mundo sea compatible con Shipwrecked? Esto añadirá nuevas "
 "mecánicas a tu mundo como humedad y sobrecalentamiento.\n"
 "\n"
-"  Solo los mods compatibles con Shipwrecked funcionarán en este espacio de guardado."
+" Solo los mods compatibles con Shipwrecked funcionarán en este espacio de guardado."
 
 #. STRINGS.UI.SAVEINTEGRATION.SW_COMP_ROG_DESCRIPTION
 msgctxt "STRINGS.UI.SAVEINTEGRATION.SW_COMP_ROG_DESCRIPTION"
@@ -205070,7 +205069,7 @@ msgid ""
 "Are you sure you want to\n"
 "disable the auto-save feature?"
 msgstr ""
-"¿Seguro que quieres\n"
+"¿Realmente quieres\n"
 "desactivar la función de autoguardado?"
 
 #. STRINGS.UI.SAVELOAD.LOAD_FAILED
@@ -205275,7 +205274,7 @@ msgstr "No"
 #. STRINGS.UI.UNLOCKMAXWELL.THEIR
 msgctxt "STRINGS.UI.UNLOCKMAXWELL.THEIR"
 msgid "Their"
-msgstr "Su"
+msgstr "sus"
 
 #. STRINGS.UI.UNLOCKMAXWELL.THEM
 msgctxt "STRINGS.UI.UNLOCKMAXWELL.THEM"
