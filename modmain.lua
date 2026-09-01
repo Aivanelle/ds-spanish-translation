@@ -40,6 +40,7 @@ ConstructAdjectivedName = _G.ConstructAdjectivedName
 KnownModIndex = _G.KnownModIndex
 
 STRINGS = _G.STRINGS
+TUNING = _G.TUNING
 
 PORKLAND_DLC = _G.PORKLAND_DLC
 IsDLCEnabled = _G.IsDLCEnabled
@@ -124,11 +125,16 @@ end
 
 AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
 
-local dialogueScripts =
-{
-  female = "femalestrings.lua",
-  robot = "robotstrings.lua"
-}
+local function pauseScreenInit(self)
+  local days = math.floor(GetPlayer().components.age:GetAge() / TUNING.TOTAL_DAY_TIME)
+  local survivedDaysText = days == 1 and STRINGS.UI.PAUSEMENU.SURVIVED_DAY or STRINGS.UI.PAUSEMENU.SURVIVED_DAYS
+
+  self.survived_daytext:SetString(string.format(survivedDaysText, days))
+end
+
+AddClassPostConstruct("screens/pausescreen", pauseScreenInit)
+
+local dialogueScripts = { female = "femalestrings.lua", robot = "robotstrings.lua" }
 
 local function importStrings()
   local playerPrefab = GetPlayer().prefab

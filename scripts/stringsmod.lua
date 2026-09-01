@@ -75,20 +75,20 @@ STRINGS.SUFFIX =
   }
 }
 
+STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET = "Ajuste personalizado"
+
 STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES =
 {
   "Predeterminado",
   "Predeterminado +",
   "Luces fuera"
 }
-
 STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES =
 {
   "La experiencia estándar de Don't Starve.",
   "Un inicio más rápido en un mundo más duro.",
   "Un toque oscuro a la experiencia estándar de Don't Starve."
 }
-
 STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES =
 {
   "¿Un paraíso tropical?"
@@ -199,14 +199,15 @@ STRINGS.UI.SANDBOXMENU.FEMININEDEFAULT = "Predeterminada"
 STRINGS.UI.SANDBOXMENU.FEMININELONG = "Larga"
 STRINGS.UI.SANDBOXMENU.FEMININEVERYLONG = "Muy larga"
 
-STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET = "Ajuste personalizado"
-
 STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES = "sus"
 STRINGS.UI.ENDGAME.BODY2_ES = " de escapar?\n" ..
   "Quizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\n" ..
   "Los seres misteriosos que controlan este lugar todavía están al acecho en las sombras y pronto revelarán nuevos desafíos.\n\n" ..
   "Hasta entonces,\n" ..
   "- El equipo de Don't Starve -"
+
+STRINGS.UI.PAUSEMENU.SURVIVED_DAY = "Has sobrevivido a solamente\n" ..
+  "%s día"
 
 -- Intro strings
 STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES =
