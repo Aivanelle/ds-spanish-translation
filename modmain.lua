@@ -117,8 +117,9 @@ local function modConfigurationScreenInit(self, modname)
   local fancyModName = KnownModIndex:GetModFancyName(modname)
 
   for _, child in pairs(self.root:GetChildren()) do
-    if tostring(child):find("Text") then
+    if child.GetString and child:GetString() == fancyModName .. " " .. STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX then
       child:SetString(subfmt(STRINGS.UI.MODSSCREEN.CONFIGSCREENTITLESUFFIX, { modname = fancyModName }))
+      break
     end
   end
 end
