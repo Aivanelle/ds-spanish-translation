@@ -230,6 +230,7 @@ setGrammarComponent(FEMININE_SINGULAR_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMB
 
 modimport "scripts/craftmonkeystring.lua"
 modimport "scripts/entityscriptmod.lua"
+modimport "scripts/piglatin.lua"
 
 modimport "scripts/components/grogginessmod.lua"
 modimport "scripts/components/perishablemod.lua"
