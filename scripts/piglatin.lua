@@ -1,5 +1,3 @@
-local utf8 = require("lib/utf8/init"):init()
-
 local pigLatinSpeakers = {
   wilba = true,
   pigman_banker = true,

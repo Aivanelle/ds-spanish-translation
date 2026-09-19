@@ -1,6 +1,9 @@
 LoadPOFile("spanish.po", "es")
 
 _G = GLOBAL
+require = _G.require
+
+utf8 = require "utf8"
 -- They forgot Wagstaff.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
@@ -32,7 +35,6 @@ colorPerishablesConfig = GetModConfigData("colorPerishables")
 unknownAdjectivesConfig = GetModConfigData("unknownAdjectives")
 
 subfmt = _G.subfmt
-require = _G.require
 
 GetPlayer = _G.GetPlayer
 GetGenderStrings = _G.GetGenderStrings
