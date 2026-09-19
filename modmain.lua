@@ -132,6 +132,8 @@ end
 AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
 
 local function pauseScreenInit(self)
+  if not anyDLCEnabled then return end
+
   local days = math.floor(GetPlayer().components.age:GetAge() / TUNING.TOTAL_DAY_TIME)
   local survivedDaysText = days == 1 and STRINGS.UI.PAUSEMENU.SURVIVED_DAY or STRINGS.UI.PAUSEMENU.SURVIVED_DAYS
 
