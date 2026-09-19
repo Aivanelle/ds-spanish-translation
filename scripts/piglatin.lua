@@ -184,12 +184,12 @@ local function splitStringByTokens(sentence)
     end
 
     if word then
-
       local startIndex, endIndex = utf8.find(word, "-")
-      local startWord = utf8.sub(word, 1, startIndex - 1)
-      local endWord = utf8.sub(word, endIndex + 1, -1)
 
       if startIndex then
+        local startWord = utf8.sub(word, 1, startIndex - 1)
+        local endWord = utf8.sub(word, endIndex + 1, -1)
+
         table.insert(sentenceTokens, pigLatinizeWord(startWord))
         table.insert(sentenceTokens, "-")
         table.insert(sentenceTokens, pigLatinizeWord(endWord))
