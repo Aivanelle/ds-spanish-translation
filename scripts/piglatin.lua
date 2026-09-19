@@ -42,7 +42,9 @@ local EXCEPTION = {
   HAMLET = true,
   BUA = true,
   ["ÑAM"] = true,
-  ["ÑAMS"] = true
+  ["ÑAMS"] = true,
+  W = true,
+  OH = true
 }
 
 local LETTER_BASE = {
