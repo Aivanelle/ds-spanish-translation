@@ -49,6 +49,8 @@ local ROG_DLC = _G.REIGN_OF_GIANTS
 local CAPY_DLC = _G.CAPY_DLC
 anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
 
+isPigLatinAvailable = IsDLCEnabled(PORKLAND_DLC) and GetModConfigData("usePigLatin")
+
 NORMAL_TEXT_COLOR = anyDLCEnabled and _G.NORMAL_TEXT_COLOUR or { 1, 1, 1, 1 }
 STALE_TEXT_COLOR = { 250/255, 160/255, 31/255, 1 }
 SPOILED_TEXT_COLOR = { 1, 106/255, 106/255, 1 }

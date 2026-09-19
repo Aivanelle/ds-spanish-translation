@@ -81,4 +81,14 @@ configuration_options =
     },
     default = "wormwoodFont"
   },
+  {
+    name = "usePigLatin",
+    label = "Latín de los cerdos",
+    options =
+    {
+      { description = "Habilitado", data = true },
+      { description = "Deshabilitado", data = false }
+    },
+    default = "disabled"
+  }
 }
