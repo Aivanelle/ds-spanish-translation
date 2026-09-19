@@ -179399,10 +179399,11 @@ msgctxt "STRINGS.CHARACTER_QUOTES.wickerbottom"
 msgid "\"Shhhh! No talking!\""
 msgstr "\"¡Shhhh! ¡Silencio!\""
 
+# Traducido dinámicamente desde modmain.lua.
 #. STRINGS.CHARACTER_QUOTES.wilba
 msgctxt "STRINGS.CHARACTER_QUOTES.wilba"
 msgid "\"MAKE KINGDOM PROUD!\""
-msgstr "\"¡PARA EL REINO ORGULLO Y GLORIA!\""
+msgstr ""
 
 #. STRINGS.CHARACTER_QUOTES.wilbur
 msgctxt "STRINGS.CHARACTER_QUOTES.wilbur"
@@ -203750,10 +203751,11 @@ msgctxt "STRINGS.UI.NEWGAMESCREEN.YES"
 msgid "Yes"
 msgstr "Sí"
 
+# Traducido dinámicamente desde modmain.lua.
 #. STRINGS.UI.NOTIFICATION.LOADING
 msgctxt "STRINGS.UI.NOTIFICATION.LOADING"
 msgid "Loading"
-msgstr "Cargando"
+msgstr ""
 
 #. STRINGS.UI.OPTIONS.ACCEPT
 msgctxt "STRINGS.UI.OPTIONS.ACCEPT"

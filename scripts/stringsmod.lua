@@ -75,6 +75,30 @@ STRINGS.SUFFIX =
   }
 }
 
+-- Should all strings be organized inside this table?
+STRINGS.ES_TRANSLATION =
+{
+  CHARACTER_QUOTES =
+  {
+    WILBA =
+    {
+      PIG_LATIN = "\"¡ARAPEI LEI EINOREI GULLOREI YEI LORIAGEI!\"",
+      SPANISH = "\"¡PARA EL REINO ORGULLO Y GLORIA!\""
+    }
+  },
+  UI =
+  {
+    NOTIFICATION =
+    {
+      LOADING =
+      {
+        PIG_LATIN = "Argandocei",
+        SPANISH = "Cargando"
+      }
+    }
+  }
+}
+
 STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET = "Ajuste personalizado"
 
 STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES =

@@ -77,6 +77,9 @@ end
 
 enableSuffixes(STRINGS.SUFFIX)
 
+STRINGS.UI.NOTIFICATION.LOADING = STRINGS.ES_TRANSLATION.UI.NOTIFICATION.LOADING[isPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
+STRINGS.CHARACTER_QUOTES.wilba = STRINGS.ES_TRANSLATION.CHARACTER_QUOTES.WILBA[isPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
+
 --[[
   Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in
   the po file do nothing. Translated strings in po files have been deleted just to not have to make any changet
