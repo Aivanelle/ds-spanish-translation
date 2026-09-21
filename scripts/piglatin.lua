@@ -185,7 +185,7 @@ local function splitStringByTokens(sentence)
     end
 
     if word then
-      local startIndex, endIndex = utf8.find(word, "-")
+      local startIndex, endIndex = utf8.find(word, "%-")
 
       if startIndex then
         local startWord = utf8.sub(word, 1, startIndex - 1)
