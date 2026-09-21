@@ -3,7 +3,7 @@ LoadPOFile("spanish.po", "es")
 _G = GLOBAL
 require = _G.require
 
-utf8 = require "utf8"
+utf8 = require "lib/utf8"
 -- They forgot Wagstaff.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
