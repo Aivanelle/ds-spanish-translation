@@ -106,8 +106,15 @@ AddPrefabPostInit("teleportato_base", modTeleportatoBase)
 
 local function modEpitaphs(inst)
   if GetPlayer().prefab == "wolfgang" then
-    local WOLFGANG_EPITAPHS = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
-    inst.components.inspectable:SetDescription(WOLFGANG_EPITAPHS[math.random(#WOLFGANG_EPITAPHS)])
+
+    local EPITAPHS = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
+    inst.components.inspectable:SetDescription(EPITAPHS[math.random(#EPITAPHS)])
+
+  elseif GetPlayer().prefab == "wilba" then
+
+    local EPITAPHS = STRINGS.ES_TRANSLATION.CHARACTERS.WILBA.EPITAPHS
+    inst.components.inspectable:SetDescription(EPITAPHS[math.random(#EPITAPHS)])
+
   end
 end
 

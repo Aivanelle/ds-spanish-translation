@@ -78,6 +78,35 @@ STRINGS.SUFFIX =
 -- Should all strings be organized inside this table?
 STRINGS.ES_TRANSLATION =
 {
+  CHARACTERS =
+  {
+    WILBA =
+    {
+      EPITAPHS =
+      {
+        "\"OH, OH\" DICE",
+        "¡AQUESE EL NOMBRE DE WILBA ES!",
+        "ABONO PARA LOS ÁRBOLES AGORA ES",
+        "¿DECORACIÓN ESPANTOSA ES?",
+        "ALGUIEN ENTERRADO AHÍ ESTÁ",
+        "¿QUIÉN TAN MAL ESCRIBE?",
+        "SER O NO SER... ¡DEJADO DE SER HAS!",
+        "DE UN NON-CERDO ES",
+        "UNA PIEDRA GRIS ES",
+        "¿UNA \"W\" DE WILBA ES?",
+        "LA PIEDRA EN BLANCO ESTÁ",
+        "LA DE WILBA DE LA REALEZA SERÁ",
+        "¿PAPÁ?",
+        "¡LA DE MAMÁ DE ORO SERÁ!",
+        "¿TESOROS ENTERRADOS HABRÁ?",
+        "A WILBA LOS FANTASMAS NO LE ASUSTAN",
+        "CUBIERTO DE BONITO MUSGO ESTÁ",
+        "LA PIEDRA AGRIETADA ESTÁ",
+        "\"UPS\" DICE",
+        "WILBA CUIDADO DEBE TENER"
+      },
+    },
+  },
   CHARACTER_QUOTES =
   {
     WILBA =
