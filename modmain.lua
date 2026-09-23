@@ -1,9 +1,9 @@
 LoadPOFile("spanish.po", "es")
 
-_G = GLOBAL
-require = _G.require
+modimport "scripts/constants.lua"
 
 utf8 = require "lib/utf8"
+
 -- They forgot Wagstaff.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
@@ -16,53 +16,11 @@ stackStyles =
   ["mathematician"] = "× {stack}"
 }
 
--- Global variables that are used across all files.
-GRAMMATICAL_NUMBER =
-{
-  PLURAL = "PLURAL",
-  SINGULAR = "SINGULAR"
-}
-
-GENDER =
-{
-  MASCULINE = "MASCULINE",
-  FEMININE = "FEMININE"
-}
-
-showAdjectivesConfig = GetModConfigData("showAdjectives")
-dialogueGenderConfig = GetModConfigData("dialogueGender")
-colorPerishablesConfig = GetModConfigData("colorPerishables")
-unknownAdjectivesConfig = GetModConfigData("unknownAdjectives")
-
-subfmt = _G.subfmt
-
-GetPlayer = _G.GetPlayer
-GetGenderStrings = _G.GetGenderStrings
-ConstructAdjectivedName = _G.ConstructAdjectivedName
-KnownModIndex = _G.KnownModIndex
-
-STRINGS = _G.STRINGS
-TUNING = _G.TUNING
-
-PORKLAND_DLC = _G.PORKLAND_DLC
-IsDLCEnabled = _G.IsDLCEnabled
-
-local ROG_DLC = _G.REIGN_OF_GIANTS
-local CAPY_DLC = _G.CAPY_DLC
-anyDLCEnabled = IsDLCEnabled(ROG_DLC) or IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)
-
-isPigLatinAvailable = IsDLCEnabled(PORKLAND_DLC) and GetModConfigData("usePigLatin")
-
-NORMAL_TEXT_COLOR = anyDLCEnabled and _G.NORMAL_TEXT_COLOUR or { 1, 1, 1, 1 }
-STALE_TEXT_COLOR = { 250/255, 160/255, 31/255, 1 }
-SPOILED_TEXT_COLOR = { 1, 106/255, 106/255, 1 }
-
 function egsub(str, pattern, replacement) return (str:gsub(_G.escape_lua_pattern(pattern), replacement)) end
 function _G.capitalizeFirstLetter(str) return (str:lower():gsub("^%l", string.upper)) end
 
 modimport "scripts/stringsmod.lua"
 
-local assert = _G.assert
 local USE_PREFIX = _G.USE_PREFIX
 
 local function enableSuffixes(table)
@@ -79,8 +37,8 @@ end
 
 enableSuffixes(STRINGS.SUFFIX)
 
-STRINGS.UI.NOTIFICATION.LOADING = STRINGS.ES_TRANSLATION.UI.NOTIFICATION.LOADING[isPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
-STRINGS.CHARACTER_QUOTES.wilba = STRINGS.ES_TRANSLATION.CHARACTER_QUOTES.WILBA[isPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
+STRINGS.UI.NOTIFICATION.LOADING = STRINGS.ES_TRANSLATION.UI.NOTIFICATION.LOADING[IsPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
+STRINGS.CHARACTER_QUOTES.wilba = STRINGS.ES_TRANSLATION.CHARACTER_QUOTES.WILBA[IsPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
 
 --[[
   Don't Starve vanilla can't translate these strings via the translator, meaning that translated string in
@@ -141,7 +99,7 @@ end
 AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
 
 local function pauseScreenInit(self)
-  if not anyDLCEnabled then return end
+  if not AnyDLCEnabled then return end
 
   local days = math.floor(GetPlayer().components.age:GetAge() / TUNING.TOTAL_DAY_TIME)
   local survivedDaysText = days == 1 and STRINGS.UI.PAUSEMENU.SURVIVED_DAY or STRINGS.UI.PAUSEMENU.SURVIVED_DAYS
@@ -158,18 +116,17 @@ local function importStrings()
   local genderStrings = GetGenderStrings(playerPrefab):lower()
 
   dialogueScripts.auto = genderStrings ~= "male" and genderStrings .. "strings.lua"
-  local scriptToImport = dialogueScripts[dialogueGenderConfig]
+  local scriptToImport = dialogueScripts[DialogueGenderConfig]
 
   if scriptToImport then modimport("scripts/" .. scriptToImport) end
 end
 
-local Vector3 = _G.Vector3
 local function setWormwoodFont()
-  local talkingWormwoodConfig = GetModConfigData("talkingWormwood")
+  local TalkingWormwoodConfig = GetModConfigData("talkingWormwood")
 
-  if talkingWormwoodConfig == "normalFont" and GetPlayer().components.talker then
+  if TalkingWormwoodConfig == "normalFont" and GetPlayer().components.talker then
     GetPlayer().components.talker.font = TALKINGFONT
-    GetPlayer().components.talker.colour = Vector3(1, 1, 1, 1)
+    GetPlayer().components.talker.colour = _G.Vector3(1, 1, 1, 1)
   end
 end
 
@@ -220,7 +177,9 @@ local function setNoWetPrefix(inst)
   if not inst.no_wet_prefix then inst.no_wet_prefix = true end
 end
 
-for _, prefab in ipairs(NO_WET_PREFABS) do AddPrefabPostInit(prefab, setNoWetPrefix) end
+for _, prefab in ipairs(NO_WET_PREFABS) do
+  AddPrefabPostInit(prefab, setNoWetPrefix)
+end
 
 local function setGrammarComponent(prefabs, gender, grammaticalNumber)
   for _, prefab in ipairs(prefabs) do

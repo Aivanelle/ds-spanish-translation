@@ -41,9 +41,9 @@ function EntityScript:GetGrammaticalSuffix(suffixes)
 end
 
 local function getNewDisplayName(displayName, suffix, replacement)
-  if showAdjectivesConfig then
+  if ShowAdjectivesConfig then
     if not replacement then
-      return unknownAdjectivesConfig == "default" and displayName or egsub(displayName, " " .. suffix, "")
+      return UnknownAdjectivesConfig == "default" and displayName or egsub(displayName, " " .. suffix, "")
     else
       return egsub(displayName, suffix, replacement)
     end
@@ -69,7 +69,7 @@ function EntityScript:GetDisplayName()
   end
 
   -- If there's no DLC enabled, the function ends here.
-  if not anyDLCEnabled then return displayName end
+  if not AnyDLCEnabled then return displayName end
 
   local grammaticalSuffix = nil
   local isWet = self:GetIsWet()

@@ -8,7 +8,7 @@ local insightEnabled = KnownModIndex:IsModEnabled("workshop-2081254154")
 function HoverText:OnUpdate()
   OnUpdateOriginal(self)
 
-  if not anyDLCEnabled then self.text:SetColour(NORMAL_TEXT_COLOR) end
+  if not AnyDLCEnabled then self.text:SetColour(NORMAL_TEXT_COLOR) end
 
   local str = self.text:GetString()
   local lmb = self.owner.components and self.owner.components.playercontroller:GetLeftMouseAction()
@@ -24,12 +24,12 @@ function HoverText:OnUpdate()
 
     local adjective = lmb.target:GetAdjective()
     if adjective then
-      if showAdjectivesConfig then
+      if ShowAdjectivesConfig then
         local name = lmb.target:GetDisplayName() or (components.named and components.named.name)
         local grammaticalAdjective = components.perishable and components.perishable:GetGrammaticalAdjective()
 
         if not grammaticalAdjective then
-          str = unknownAdjectivesConfig == "default" and egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, adjective)) or
+          str = UnknownAdjectivesConfig == "default" and egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, adjective)) or
             egsub(str, adjective .. " ", "")
         else
           str = egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, grammaticalAdjective))
@@ -38,7 +38,7 @@ function HoverText:OnUpdate()
         str = egsub(str, adjective .. " ", "")
       end
 
-      if colorPerishablesConfig and not components.perishable:IsFresh() then
+      if ColorPerishablesConfig and not components.perishable:IsFresh() then
         self.text:SetColour(components.perishable:IsStale() and STALE_TEXT_COLOR or SPOILED_TEXT_COLOR)
       end
     end

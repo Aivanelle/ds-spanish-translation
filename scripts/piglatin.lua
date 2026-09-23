@@ -213,7 +213,7 @@ local function splitStringByTokens(sentence)
 end
 
 AddClassPostConstruct("components/talker", function (self)
-  if not isPigLatinAvailable then return end
+  if not IsPigLatinAvailable then return end
 
   local originalSay = self.Say
 
