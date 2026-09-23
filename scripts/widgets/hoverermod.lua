@@ -1,9 +1,16 @@
-local modConfigurationName = _G.ModIndex:GetModConfigurationName("Traducción al Español")
-local stackStyleConfig = GetModConfigData("stackStyle", modConfigurationName)
-local stackStyle = stackStyles[stackStyleConfig] or stackStyles.default
+local STACK_STYLES =
+{
+  default = "x{stack}",
+  parenthesis = "({stack})",
+  mathematician = "× {stack}"
+}
+
+local StackStyleConfig = GetModConfigData("stackStyle")
+local stackStyle = STACK_STYLES[StackStyleConfig] or STACK_STYLES.default
+
 local HoverText = require "widgets/hoverer"
 local OnUpdateOriginal = HoverText.OnUpdate or function() return "" end
-local insightEnabled = KnownModIndex:IsModEnabled("workshop-2081254154")
+local IsInsightEnabled = KnownModIndex:IsModEnabled("workshop-2081254154")
 
 function HoverText:OnUpdate()
   OnUpdateOriginal(self)
@@ -16,21 +23,26 @@ function HoverText:OnUpdate()
   if str ~= "" and lmb and lmb.target then
     local components = lmb.target.components
 
-    if components.stackable and components.stackable:IsStack() and stackStyleConfig ~= "default" then
+    if components.stackable and components.stackable:IsStack() and StackStyleConfig ~= "default" then
       local stack = components.stackable:StackSize()
 
       str = str:gsub("x" .. stack, subfmt(stackStyle, { stack = stack }))
     end
 
     local adjective = lmb.target:GetAdjective()
+
     if adjective then
       if ShowAdjectivesConfig then
+
         local name = lmb.target:GetDisplayName() or (components.named and components.named.name)
         local grammaticalAdjective = components.perishable and components.perishable:GetGrammaticalAdjective()
 
         if not grammaticalAdjective then
-          str = UnknownAdjectivesConfig == "default" and egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, adjective)) or
-            egsub(str, adjective .. " ", "")
+
+          str = UnknownAdjectivesConfig == "default" and
+                egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, adjective)) or
+                egsub(str, adjective .. " ", "")
+
         else
           str = egsub(str, adjective .. " " .. name, ConstructAdjectivedName(lmb.target, name, grammaticalAdjective))
         end
@@ -44,7 +56,7 @@ function HoverText:OnUpdate()
     end
 
     -- Just a minor tweak for compatibility with Insight.
-    if insightEnabled then
+    if IsInsightEnabled then
       self.text.string = str
       self.text.inst.TextWidget:SetString(str)
     else

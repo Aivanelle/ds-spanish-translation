@@ -9,13 +9,6 @@ table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
 modimport "scripts/dlcsupport_stringsmod.lua"
 
-stackStyles =
-{
-  ["default"] = "x{stack}",
-  ["parenthesis"] = "({stack})",
-  ["mathematician"] = "× {stack}"
-}
-
 function egsub(str, pattern, replacement) return (str:gsub(_G.escape_lua_pattern(pattern), replacement)) end
 function _G.capitalizeFirstLetter(str) return (str:lower():gsub("^%l", string.upper)) end
 
