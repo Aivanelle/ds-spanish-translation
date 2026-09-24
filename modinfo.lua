@@ -89,6 +89,6 @@ configuration_options =
       { description = "Habilitado", data = true },
       { description = "Deshabilitado", data = false }
     },
-    default = "disabled"
+    default = false
   }
 }
