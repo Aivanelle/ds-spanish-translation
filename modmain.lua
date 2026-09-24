@@ -184,17 +184,14 @@ local function setGrammarComponent(prefabs, gender, grammaticalNumber)
   end
 end
 
-local MASCULINE_PLURAL_PREFABS = require "sortedprefabs/masculinepluralprefabs"
-setGrammarComponent(MASCULINE_PLURAL_PREFABS, GENDER.MASCULINE, GRAMMATICAL_NUMBER.PLURAL)
+for _, gender in pairs(GENDER) do
+  for _, grammaticalNumber in pairs(GRAMMATICAL_NUMBER) do
 
-local MASCULINE_SINGULAR_PREFABS = require "sortedprefabs/masculinesingularprefabs"
-setGrammarComponent(MASCULINE_SINGULAR_PREFABS, GENDER.MASCULINE, GRAMMATICAL_NUMBER.SINGULAR)
+    local PREFABS = require("sortedprefabs/" .. gender:lower() .. grammaticalNumber:lower() .. "prefabs")
+    setGrammarComponent(PREFABS, gender, grammaticalNumber)
 
-local FEMININE_PLURAL_PREFABS = require "sortedprefabs/femininepluralprefabs"
-setGrammarComponent(FEMININE_PLURAL_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.PLURAL)
-
-local FEMININE_SINGULAR_PREFABS = require "sortedprefabs/femininesingularprefabs"
-setGrammarComponent(FEMININE_SINGULAR_PREFABS, GENDER.FEMININE, GRAMMATICAL_NUMBER.SINGULAR)
+  end
+end
 
 modimport "scripts/craftmonkeystring.lua"
 modimport "scripts/entityscriptmod.lua"
