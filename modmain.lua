@@ -62,16 +62,11 @@ end
 AddPrefabPostInit("teleportato_base", modTeleportatoBase)
 
 local function modEpitaphs(inst)
-  if GetPlayer().prefab == "wolfgang" then
+  local prefab = GetPlayer().prefab:upper()
 
-    local EPITAPHS = STRINGS.CHARACTERS.WOLFGANG.EPITAPHS
+  if STRINGS.ES_TRANSLATION.CHARACTERS[prefab] and STRINGS.ES_TRANSLATION.CHARACTERS[prefab].EPITAPHS then
+    local EPITAPHS = STRINGS.ES_TRANSLATION.CHARACTERS[prefab].EPITAPHS
     inst.components.inspectable:SetDescription(EPITAPHS[math.random(#EPITAPHS)])
-
-  elseif GetPlayer().prefab == "wilba" then
-
-    local EPITAPHS = STRINGS.ES_TRANSLATION.CHARACTERS.WILBA.EPITAPHS
-    inst.components.inspectable:SetDescription(EPITAPHS[math.random(#EPITAPHS)])
-
   end
 end
 
@@ -108,9 +103,8 @@ end
 
 AddClassPostConstruct("screens/pausescreen", pauseScreenInit)
 
-local DIALOGUE_SCRIPTS = { female = "femalestrings.lua", robot = "robotstrings.lua" }
-
 local function importStrings()
+  local DIALOGUE_SCRIPTS = { female = "femalestrings.lua", robot = "robotstrings.lua" }
   local playerPrefab = GetPlayer().prefab
   local genderStrings = GetGenderStrings(playerPrefab):lower()
 
@@ -172,6 +166,7 @@ end
 AddSimPostInit(modSimPostInit)
 
 local NO_WET_PREFABS = require "sortedprefabs/nowetprefabs"
+
 local function setNoWetPrefix(inst)
   if not inst.no_wet_prefix then inst.no_wet_prefix = true end
 end
