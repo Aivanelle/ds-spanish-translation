@@ -106,6 +106,33 @@ STRINGS.ES_TRANSLATION =
         "WILBA CUIDADO DEBE TENER"
       },
     },
+    WOLFGANG =
+    {
+      EPITAPHS =
+      {
+        "Lápida estar en blanco.",
+        "¿Eh? ¡Ese ser nombre de Wolfgang!",
+        "Solo haber \"W\" grabada.",
+        "Wolfgang no saber leer muy bien.",
+        "Palabras ser difíciles para Wolfgang.",
+        "Leer ser para hombrecitos enclenques.",
+        "¿Quién escribir esas palabras?",
+        "Wolfgang querer escribir algo también.",
+        "Wolfgang no querer leer ahora mismo.",
+        "¡Palabras de Wolfgang ser más fuertes!",
+        "Palabras grabadas decir \"Oh, oh\".",
+        "¿Wolfgang también escribir palabras en lápida?",
+        "Epitafio estar agrietado.",
+        "¡Wolfgang ser recordado como El Poderoso Wolfgang!",
+        "¿Wolfgang también morir algún día?",
+        "¡Wolfgang querer aplastar palabras!",
+        "Wolgang no saber leer.",
+        "¡Músculos de Wolfgang nunca morir!",
+        "Por eso Wolfgang siempre ser cuidadoso.",
+        "Estar cubierta de bonito musgo.",
+        "Músculos de Wolfgang nunca ser enterrados."
+      }
+    }
   },
   CHARACTER_QUOTES =
   {
@@ -277,31 +304,6 @@ STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES =
 
 STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES = "Activar"
 STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
-
-STRINGS.CHARACTERS.WOLFGANG.EPITAPHS =
-{
-  "Lápida estar en blanco.",
-  "¿Eh? ¡Ese ser nombre de Wolfgang!",
-  "Solo haber \"W\" grabada.",
-  "Wolfgang no saber leer muy bien.",
-  "Palabras ser difíciles para Wolfgang.",
-  "Leer ser para hombrecitos enclenques.",
-  "¿Quién escribir esas palabras?",
-  "Wolfgang querer escribir algo también.",
-  "Wolfgang no querer leer ahora mismo.",
-  "¡Palabras de Wolfgang ser más fuertes!",
-  "Palabras grabadas decir \"Oh, oh\".",
-  "¿Wolfgang también escribir palabras en lápida?",
-  "Epitafio estar agrietado.",
-  "¡Wolfgang ser recordado como El Poderoso Wolfgang!",
-  "¿Wolfgang también morir algún día?",
-  "¡Wolfgang querer aplastar palabras!",
-  "Wolgang no saber leer.",
-  "¡Músculos de Wolfgang nunca morir!",
-  "Por eso Wolfgang siempre ser cuidadoso.",
-  "Estar cubierta de bonito musgo.",
-  "Músculos de Wolfgang nunca ser enterrados."
-}
 
 -- Hamlet fog strings
 STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOO_HUMID_ES =
