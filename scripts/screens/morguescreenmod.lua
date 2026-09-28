@@ -1,4 +1,3 @@
-local capitalizeFirstLetter = _G.capitalizeFirstLetter
 local causesOfDeath = nil
 local MorgueScreen = require "screens/morguescreen"
 local OriginalRefreshControls = MorgueScreen.RefreshControls
@@ -23,12 +22,13 @@ function MorgueScreen:RefreshControls()
     if tostring(v) == "control" then
       for _, widget in pairs(v:GetChildren()) do
         if tostring(widget):find("Text") then
-          local str = capitalizeFirstLetter(widget:GetString())
+          local str = _G.capitalizeFirstLetter(widget:GetString())
 
           if causesOfDeath[str] then
-            if #str >= 20 then str = str:sub(1, 19) .. "..." end
 
+            if utf8.len(str) >= 20 then str = utf8.sub(str, 1, 19) .. "..." end
             widget:SetString(str)
+
           end
         end
       end
