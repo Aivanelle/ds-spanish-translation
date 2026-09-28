@@ -10,7 +10,13 @@ table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 modimport "scripts/dlcsupport_stringsmod.lua"
 
 function egsub(str, pattern, replacement) return (str:gsub(_G.escape_lua_pattern(pattern), replacement)) end
-function _G.capitalizeFirstLetter(str) return (str:lower():gsub("^%l", string.upper)) end
+
+function _G.capitalizeFirstLetter(str)
+  local firstLetter = utf8.sub(str, 1, 1)
+  local rest = utf8.sub(str, 2)
+
+  return utf8.upper(firstLetter) .. utf8.lower(rest)
+end
 
 modimport "scripts/stringsmod.lua"
 
@@ -102,14 +108,14 @@ end
 
 AddClassPostConstruct("screens/pausescreen", pauseScreenInit)
 
-local dialogueScripts = { female = "femalestrings.lua", robot = "robotstrings.lua" }
+local DIALOGUE_SCRIPTS = { female = "femalestrings.lua", robot = "robotstrings.lua" }
 
 local function importStrings()
   local playerPrefab = GetPlayer().prefab
   local genderStrings = GetGenderStrings(playerPrefab):lower()
 
-  dialogueScripts.auto = genderStrings ~= "male" and genderStrings .. "strings.lua"
-  local scriptToImport = dialogueScripts[DialogueGenderConfig]
+  DIALOGUE_SCRIPTS.auto = genderStrings ~= "male" and genderStrings .. "strings.lua"
+  local scriptToImport = DIALOGUE_SCRIPTS[DialogueGenderConfig]
 
   if scriptToImport then modimport("scripts/" .. scriptToImport) end
 end
