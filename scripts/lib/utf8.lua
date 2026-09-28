@@ -1144,10 +1144,10 @@ function M.format(s)
 	return format(s)
 end
 function M.lower(s)
-	return lower(s)
+	return utf8lower(s)
 end
 function M.upper(s)
-	return upper(s)
+	return utf8upper(s)
 end
 function M.rep()
 	return rep(s)
