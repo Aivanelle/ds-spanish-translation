@@ -56,12 +56,12 @@ if IsDLCEnabled(CAPY_DLC) then
 end
 
 local function modTeleportatoBase(inst)
-  if inst.components.container.widgetbuttoninfo.text then
-    inst.components.container.widgetbuttoninfo.text = STRINGS.UI.TELEPORTATO_BASE_ACTIVATE_ES
-  end
+  inst.components.container.widgetbuttoninfo.text = STRINGS.ACTIONS.ACTIVATE.GENERIC
 end
 
 AddPrefabPostInit("teleportato_base", modTeleportatoBase)
+AddPrefabPostInit("teleportato_sw_base", modTeleportatoBase)
+AddPrefabPostInit("teleportato_hamlet_base", modTeleportatoBase)
 
 local function modEpitaphs(inst)
   local prefab = GetPlayer().prefab:upper()
