@@ -199,7 +199,7 @@ modimport "scripts/craftmonkeystring.lua"
 modimport "scripts/entityscriptmod.lua"
 modimport "scripts/piglatin.lua"
 
-modimport "scripts/components/grogginessmod.lua"
+if IsDLCEnabled(PORKLAND_DLC) then modimport "scripts/components/grogginessmod.lua" end
 modimport "scripts/components/perishablemod.lua"
 
 modimport "scripts/prefabs/maxwellintromod.lua"
