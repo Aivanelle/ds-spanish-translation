@@ -144,6 +144,25 @@ STRINGS.ES_TRANSLATION =
   },
   UI =
   {
+    CUSTOMIZATIONSCREEN =
+    {
+      PRESETLEVELS =
+      {
+        "Predeterminado",
+        "Predeterminado +",
+        "Luces fuera"
+      },
+      PRESETLEVELDESC =
+      {
+        "La experiencia estándar de Don't Starve.",
+        "Un inicio más rápido en un mundo más duro.",
+        "Un toque oscuro a la experiencia estándar de Don't Starve."
+      },
+      SHIPWRECKEDLEVELDESC =
+      {
+        "¿Un paraíso tropical?"
+      }
+    },
     ENDGAME =
     {
       BODY2 = " de escapar?\n" ..
@@ -171,23 +190,6 @@ STRINGS.ES_TRANSLATION =
 }
 
 STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET = "Ajuste personalizado"
-
-STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS_ES =
-{
-  "Predeterminado",
-  "Predeterminado +",
-  "Luces fuera"
-}
-STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC_ES =
-{
-  "La experiencia estándar de Don't Starve.",
-  "Un inicio más rápido en un mundo más duro.",
-  "Un toque oscuro a la experiencia estándar de Don't Starve."
-}
-STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC_ES =
-{
-  "¿Un paraíso tropical?"
-}
 
 STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ADULTFLYTRAPS = "Atrapamoscas dentadas"
 STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ANTCOMBHOME = "Hombrigueros"
