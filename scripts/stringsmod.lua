@@ -144,6 +144,21 @@ STRINGS.ES_TRANSLATION =
   },
   UI =
   {
+    ENDGAME =
+    {
+      BODY2 = " de escapar?\n" ..
+              "Quizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\n" ..
+              "Los seres misteriosos que controlan este lugar todavía están al acecho en las sombras y pronto revelarán nuevos desafíos.\n\n" ..
+              "Hasta entonces,\n" ..
+              "- El equipo de Don't Starve -"
+    },
+    GENDERSTRINGS =
+    {
+      ROBOT =
+      {
+        ONE = "sus"
+      }
+    },
     NOTIFICATION =
     {
       LOADING =
@@ -278,13 +293,6 @@ STRINGS.UI.SANDBOXMENU.FEMININESHORT = "Corta"
 STRINGS.UI.SANDBOXMENU.FEMININEDEFAULT = "Predeterminada"
 STRINGS.UI.SANDBOXMENU.FEMININELONG = "Larga"
 STRINGS.UI.SANDBOXMENU.FEMININEVERYLONG = "Muy larga"
-
-STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES = "sus"
-STRINGS.UI.ENDGAME.BODY2_ES = " de escapar?\n" ..
-  "Quizás también se cansen de este maldito lugar y usen %s nuevos poderes para tentar a los incautos.\n" ..
-  "Los seres misteriosos que controlan este lugar todavía están al acecho en las sombras y pronto revelarán nuevos desafíos.\n\n" ..
-  "Hasta entonces,\n" ..
-  "- El equipo de Don't Starve -"
 
 STRINGS.UI.PAUSEMENU.SURVIVED_DAY = "Has sobrevivido a solamente\n" ..
   "%s día"

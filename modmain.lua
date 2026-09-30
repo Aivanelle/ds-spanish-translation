@@ -104,10 +104,10 @@ end
 AddClassPostConstruct("screens/pausescreen", pauseScreenInit)
 
 local function importStrings()
-  local DIALOGUE_SCRIPTS = { female = "femalestrings.lua", robot = "robotstrings.lua" }
   local playerPrefab = GetPlayer().prefab
   local genderStrings = GetGenderStrings(playerPrefab):lower()
 
+  local DIALOGUE_SCRIPTS = { female = "femalestrings.lua", robot = "robotstrings.lua" }
   DIALOGUE_SCRIPTS.auto = genderStrings ~= "male" and genderStrings .. "strings.lua"
   local scriptToImport = DIALOGUE_SCRIPTS[DialogueGenderConfig]
 
@@ -124,8 +124,8 @@ local function setWormwoodFont()
 end
 
 local function translateWebberStrings()
-  STRINGS.UI.GENDERSTRINGS.ROBOT.ONE = STRINGS.UI.GENDERSTRINGS.ROBOT.ONE_ES
-  STRINGS.UI.ENDGAME.BODY2 = STRINGS.UI.ENDGAME.BODY2_ES
+  STRINGS.UI.GENDERSTRINGS.ROBOT.ONE = STRINGS.ES_TRANSLATION.UI.GENDERSTRINGS.ROBOT.ONE
+  STRINGS.UI.ENDGAME.BODY2 = STRINGS.ES_TRANSLATION.UI.ENDGAME.BODY2
 end
 
 local function modSimPostInit(player)
