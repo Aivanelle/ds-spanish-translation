@@ -1,15 +1,19 @@
 LoadPOFile("spanish.po", "es")
 
 modimport "scripts/constants.lua"
+modimport "scripts/stringsmod.lua"
+modimport "scripts/dlcsupport_stringsmod.lua"
 
 utf8 = require "lib/utf8"
 
 -- They forgot Wagstaff.
 table.insert(_G.CHARACTER_GENDERS.MALE, "wagstaff")
 
-modimport "scripts/dlcsupport_stringsmod.lua"
+function egsub(str, pattern, replacement)
+  local escapedPattern = _G.escape_lua_pattern(pattern)
 
-function egsub(str, pattern, replacement) return (str:gsub(_G.escape_lua_pattern(pattern), replacement)) end
+  return (str:gsub(escapedPattern, replacement))
+end
 
 function _G.capitalizeFirstLetter(str)
   local firstLetter = utf8.sub(str, 1, 1)
@@ -17,8 +21,6 @@ function _G.capitalizeFirstLetter(str)
 
   return utf8.upper(firstLetter) .. utf8.lower(rest)
 end
-
-modimport "scripts/stringsmod.lua"
 
 local USE_PREFIX = _G.USE_PREFIX
 
