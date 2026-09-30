@@ -204989,8 +204989,8 @@ msgid ""
 "This will REMOVE ALL YOUR ITEMS and destroy your current world. Only items placed in the "
 "machine will appear in the next world."
 msgstr ""
-"Esto ELIMINARÁ TODOS TUS OBJETOS y destruirá el mundo actual. Solo los objetos colocados "
-"en la máquina aparecerán en el siguiente mundo."
+"Esto DESTRUIRÁ TODOS TUS OBJETOS y el mundo actual. Solo los objetos colocados en la "
+"máquina aparecerán en el siguiente mundo."
 
 #. STRINGS.UI.TELEPORTBODY_SURVIVAL
 msgctxt "STRINGS.UI.TELEPORTBODY_SURVIVAL"
