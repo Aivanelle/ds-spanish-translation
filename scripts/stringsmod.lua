@@ -80,6 +80,166 @@ STRINGS.ES_TRANSLATION =
 {
   CHARACTERS =
   {
+    GENERIC = 
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s se siente pesado...", "Este %s es muy caluroso." },
+          PLURAL = { "Estos %s se sienten pesados...", "Estos %s son muy calurosos." }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "Esta %s se siente pesada...", "Esta %s es muy calurosa." },
+          PLURAL = { "Estas %s se sienten pesadas...", "Estas %s son muy calurosas." }
+        }
+      }
+    },
+    WAGSTAFF =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s realmente me alenta.", "La humedad del aire hace que este %s pese mucho." },
+          PLURAL = { "Estos %s realmente me alentan.", "La humedad del aire hace que estos %s pesen mucho." }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "Esta %s realmente me alenta.", "La humedad del aire hace que esta %s pese mucho." },
+          PLURAL = { "Estas %s realmente me alentan.", "La humedad del aire hace que estas %s pesen mucho." }
+        }
+      }
+    },
+    WALANI =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Ugh. Este %s es taaaan asfixiante.", "Este %s es tan caluroso." },
+          PLURAL = { "Ugh. Estos %s son taaaan asfixiantes.", "Estos %s son tan calurosos." }
+        },
+        FEMININE = 
+        {
+          SINGULAR = { "Ugh. Esta %s es taaaan asfixiante.", "Esta %s es tan calurosa." },
+          PLURAL = { "Ugh. Estas %s son taaaan asfixiantes.", "Estas %s son tan calurosas." }
+        }
+      }
+    },
+    WARLY =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "¡Mon dieu! Este %s está húmedo.", "Fiu. Este %s me cocina vivo." },
+          PLURAL = { "¡Mon dieu! Estos %s están húmedos.", "Fiu. Estos %s me cocinan vivo." }
+        }, 
+        FEMININE =
+        {
+          SINGULAR = { "¡Mon dieu! Esta %s está húmeda.", "Fiu. Esta %s me cocina vivo." },
+          PLURAL = { "¡Mon dieu! Estas %s están húmedas.", "Fiu. Estas %s me cocinan vivo." }
+        }
+      }
+    },
+    WATHGRITHR =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s está destruyendo mi moral.", "Este %s arde como el sol." },
+          PLURAL = { "Estos %s están destruyendo mi moral.", "Estos %s arden como el sol." }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "Esta %s está destruyendo mi moral.", "Esta %s arde como el sol." },
+          PLURAL = { "Estas %s están destruyendo mi moral.", "Estas %s arden como el sol." }
+        }
+      }
+    },
+    WAXWELL =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s es demasiado.", "Este %s es demasiado cálido para mi gusto." },
+          PLURAL = { "Estos %s son demasiado.", "Estos %s son demasiado cálidos para mi gusto." }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "Esta %s es demasiado.", "Esta %s es demasiado cálida para mi gusto." },
+          PLURAL = { "Estas %s son demasiado.", "Estas %s son demasiado cálidas para mi gusto." }
+        }
+      }
+    },
+    WEBBER =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Ugh. No estamos asando en este %s.", "¡Guau! Este %s nos está dando calor." },
+          PLURAL = { "Ugh. No estamos asando en estos %s.", "¡Guau! Estos %s nos están dando calor." }
+        },
+        FEMININE = 
+        {
+          SINGULAR = { "Ugh. No estamos asando en esta %s.", "¡Guau! Esta %s nos está dando calor." },
+          PLURAL = { "Ugh. No estamos asando en estas %s.", "¡Guau! Estas %s nos están dando calor." }
+        }
+      }
+    },
+    WENDY =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s pesa más con el calor.", "Este %s es muy caluroso. Me lastra el alma." },
+          PLURAL = { "Estos %s pesan más con el calor.", "Estos %s son muy calurosos. Me lastran el alma." }
+        },
+        FEMININE = 
+        {
+          SINGULAR = { "Esta %s pesa más con el calor.", "Esta %s es muy calurosa. Me lastra el alma." },
+          PLURAL = { "Estas %s pesan más con el calor.", "Estas %s son muy calurosas. Me lastran el alma." }
+        }
+      }
+    },
+    WHEELER = 
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s es sofocante.", "¡Este %s está que arde!" },
+          PLURAL = { "Estos %s son sofocantes.", "¡Estos %s están que arden!" }
+        },
+        FEMININE = 
+        {
+          SINGULAR = { "Esta %s es sofocante.", "¡Esta %s está que arde!" },
+          PLURAL = { "Estas %s son sofocantes.", "¡Estas %s están que arden!" }
+        }
+      }
+    },
+    WICKERBOTTOM =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s es insoportable.", "Este %s da demasiado calor." },
+          PLURAL = { "Estos %s son insoportables.", "Estos %s dan demasiado calor." }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "Esta %s es insoportable.", "Esta %s da demasiado calor." },
+          PLURAL = { "Estas %s son insoportables.", "Estas %s dan demasiado calor." }
+        }
+      }
+    },
     WILBA =
     {
       EPITAPHS =
@@ -108,6 +268,19 @@ STRINGS.ES_TRANSLATION =
     },
     WOLFGANG =
     {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Wolfgang odiar llevar este %s con tanto calor.", "Este %s ser muy sofocante." },
+          PLURAL = { "Wolfgang odiar llevar estos %s con tanto calor.", "Estos %s ser muy sofocantes." }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "Wolfgang odiar llevar esta %s con tanto calor.", "Esta %s ser muy sofocante." },
+          PLURAL = { "Wolfgang odiar llevar estas %s con tanto calor.", "Estas %s ser muy sofocantes." }
+        }
+      },
       EPITAPHS =
       {
         "Lápida estar en blanco.",
@@ -131,6 +304,54 @@ STRINGS.ES_TRANSLATION =
         "Por eso Wolfgang siempre ser cuidadoso.",
         "Estar cubierta de bonito musgo.",
         "Músculos de Wolfgang nunca ser enterrados."
+      }
+    },
+    WOODIE =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "La cosa está que arde con este %s.", "¡Fiu! Este %s es muy caluroso, ¿eh?" },
+          PLURAL = { "La cosa está que arde con estos %s.", "¡Fiu! Estos %s son muy calurosos, ¿eh?" }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "La cosa está que arde con esta %s.", "¡Fiu! Esta %s es muy calurosa, ¿eh?" },
+          PLURAL = { "La cosa está que arde con estas %s.", "¡Fiu! Estas %s son muy calurosas, ¿eh?" }
+        }
+      }
+    },
+    WOODLEGS =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "Este %s me hace sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" },
+          PLURAL = { "Estos %s me hacen sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" }
+        },
+        FEMININE =
+        {
+          SINGULAR = { "Esta %s me hace sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" },
+          PLURAL = { "Estas %s me hacen sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" }
+        }
+      }
+    },
+    WORMWOOD =
+    {
+      ANNOUNCE_TOO_HUMID =
+      {
+        MASCULINE =
+        {
+          SINGULAR = { "%s es agotador.", "%s es muy caliente." },
+          PLURAL = { "%s son agotadores.", "%s son muy calientes." }
+        },
+        FEMININE = 
+        {
+          SINGULAR = { "%s es agotadora.", "%s es muy caliente." },
+          PLURAL = { "%s son agotadoras.", "%s son muy calientes." }
+        }
       }
     }
   },
@@ -313,214 +534,3 @@ STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES =
 }
 
 STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
-
--- Hamlet fog strings
-STRINGS.CHARACTERS.GENERIC.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s se siente pesado...", "Este %s es muy caluroso." },
-    PLURAL = { "Estos %s se sienten pesados...", "Estos %s son muy calurosos." }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "Esta %s se siente pesada...", "Esta %s es muy calurosa." },
-    PLURAL = { "Estas %s se sienten pesadas...", "Estas %s son muy calurosas." }
-  }
-}
-
-STRINGS.CHARACTERS.WHEELER.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s es sofocante.", "¡Este %s está que arde!" },
-    PLURAL = { "Estos %s son sofocantes.", "¡Estos %s están que arden!" }
-  },
-
-  FEMININE = 
-  {
-    SINGULAR = { "Esta %s es sofocante.", "¡Esta %s está que arde!" },
-    PLURAL = { "Estas %s son sofocantes.", "¡Estas %s están que arden!" }
-  }
-}
-
-STRINGS.CHARACTERS.WENDY.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s pesa más con el calor.", "Este %s es muy caluroso. Me lastra el alma." },
-    PLURAL = { "Estos %s pesan más con el calor.", "Estos %s son muy calurosos. Me lastran el alma." }
-  },
-
-  FEMININE = 
-  {
-    SINGULAR = { "Esta %s pesa más con el calor.", "Esta %s es muy calurosa. Me lastra el alma." },
-    PLURAL = { "Estas %s pesan más con el calor.", "Estas %s son muy calurosas. Me lastran el alma." }
-  }
-}
-
-STRINGS.CHARACTERS.WEBBER.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Ugh. No estamos asando en este %s.", "¡Guau! Este %s nos está dando calor." },
-    PLURAL = { "Ugh. No estamos asando en estos %s.", "¡Guau! Estos %s nos están dando calor." }
-  },
-
-  FEMININE = 
-  {
-    SINGULAR = { "Ugh. No estamos asando en esta %s.", "¡Guau! Esta %s nos está dando calor." },
-    PLURAL = { "Ugh. No estamos asando en estas %s.", "¡Guau! Estas %s nos están dando calor." }
-  }
-}
-
-STRINGS.CHARACTERS.WALANI.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Ugh. Este %s es taaaan asfixiante.", "Este %s es tan caluroso." },
-    PLURAL = { "Ugh. Estos %s son taaaan asfixiantes.", "Estos %s son tan calurosos." }
-  },
-
-  FEMININE = 
-  {
-    SINGULAR = { "Ugh. Esta %s es taaaan asfixiante.", "Esta %s es tan calurosa." },
-    PLURAL = { "Ugh. Estas %s son taaaan asfixiantes.", "Estas %s son tan calurosas." }
-  }
-}
-
-STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "%s es agotador.", "%s es muy caliente." },
-    PLURAL = { "%s son agotadores.", "%s son muy calientes." }
-  },
-
-  FEMININE = 
-  {
-    SINGULAR = { "%s es agotadora.", "%s es muy caliente." },
-    PLURAL = { "%s son agotadoras.", "%s son muy calientes." }
-  }
-}
-
-STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s es insoportable.", "Este %s da demasiado calor." },
-    PLURAL = { "Estos %s son insoportables.", "Estos %s dan demasiado calor." }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "Esta %s es insoportable.", "Esta %s da demasiado calor." },
-    PLURAL = { "Estas %s son insoportables.", "Estas %s dan demasiado calor." }
-  }
-}
-
-STRINGS.CHARACTERS.WAGSTAFF.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s realmente me alenta.", "La humedad del aire hace que este %s pese mucho." },
-    PLURAL = { "Estos %s realmente me alentan.", "La humedad del aire hace que estos %s pesen mucho." }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "Esta %s realmente me alenta.", "La humedad del aire hace que esta %s pese mucho." },
-    PLURAL = { "Estas %s realmente me alentan.", "La humedad del aire hace que estas %s pesen mucho." }
-  }
-}
-
-STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s es demasiado.", "Este %s es demasiado cálido para mi gusto." },
-    PLURAL = { "Estos %s son demasiado.", "Estos %s son demasiado cálidos para mi gusto." }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "Esta %s es demasiado.", "Esta %s es demasiado cálida para mi gusto." },
-    PLURAL = { "Estas %s son demasiado.", "Estas %s son demasiado cálidas para mi gusto." }
-  }
-}
-
-STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s está destruyendo mi moral.", "Este %s arde como el sol." },
-    PLURAL = { "Estos %s están destruyendo mi moral.", "Estos %s arden como el sol." }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "Esta %s está destruyendo mi moral.", "Esta %s arde como el sol." },
-    PLURAL = { "Estas %s están destruyendo mi moral.", "Estas %s arden como el sol." }
-  }
-}
-
-STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Wolfgang odiar llevar este %s con tanto calor.", "Este %s ser muy sofocante." },
-    PLURAL = { "Wolfgang odiar llevar estos %s con tanto calor.", "Estos %s ser muy sofocantes." }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "Wolfgang odiar llevar esta %s con tanto calor.", "Esta %s ser muy sofocante." },
-    PLURAL = { "Wolfgang odiar llevar estas %s con tanto calor.", "Estas %s ser muy sofocantes." }
-  }
-}
-
-STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "La cosa está que arde con este %s.", "¡Fiu! Este %s es muy caluroso, ¿eh?" },
-    PLURAL = { "La cosa está que arde con estos %s.", "¡Fiu! Estos %s son muy calurosos, ¿eh?" }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "La cosa está que arde con esta %s.", "¡Fiu! Esta %s es muy calurosa, ¿eh?" },
-    PLURAL = { "La cosa está que arde con estas %s.", "¡Fiu! Estas %s son muy calurosas, ¿eh?" }
-  }
-}
-
-STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "¡Mon dieu! Este %s está húmedo.", "Fiu. Este %s me cocina vivo." },
-    PLURAL = { "¡Mon dieu! Estos %s están húmedos.", "Fiu. Estos %s me cocinan vivo." }
-  },
-    
-  FEMININE =
-  {
-    SINGULAR = { "¡Mon dieu! Esta %s está húmeda.", "Fiu. Esta %s me cocina vivo." },
-    PLURAL = { "¡Mon dieu! Estas %s están húmedas.", "Fiu. Estas %s me cocinan vivo." }
-  }
-}
-
-STRINGS.CHARACTERS.WOODLEGS.ANNOUNCE_TOO_HUMID_ES =
-{
-  MASCULINE =
-  {
-    SINGULAR = { "Este %s me hace sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" },
-    PLURAL = { "Estos %s me hacen sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" }
-  },
-
-  FEMININE =
-  {
-    SINGULAR = { "Esta %s me hace sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" },
-    PLURAL = { "Estas %s me hacen sudar como un limpiacubiertas.", "¡Arrr! ¡Hace calor!" }
-  }
-}
