@@ -363,6 +363,22 @@ STRINGS.ES_TRANSLATION =
       SPANISH = "\"¡PARA EL REINO ORGULLO Y GLORIA!\""
     }
   },
+  MAXWELL_ADVENTUREINTROS =
+  {
+    SAYPAL =
+    {
+      FEMALE = "Oye, amiga.",
+      ROBOT = "Oye, tú."
+    }
+  },
+  MAXWELL_SANDBOXINTROS =
+  {
+    ONE =
+    {
+      FEMALE = "Oye, amiga, no te ves muy bien.",
+      ROBOT = "Oye, tú, no te ves muy bien."
+    }
+  },
   UI =
   {
     CUSTOMIZATIONSCREEN =
@@ -519,18 +535,5 @@ STRINGS.UI.SANDBOXMENU.FEMININEVERYLONG = "Muy larga"
 
 STRINGS.UI.PAUSEMENU.SURVIVED_DAY = "Has sobrevivido a solamente\n" ..
   "%s día"
-
--- Intro strings
-STRINGS.MAXWELL_SANDBOXINTROS.ONE_ES =
-{
-  FEMALE = "Oye, amiga, no te ves muy bien.",
-  ROBOT = "Oye, tú, no te ves muy bien."
-
-}
-STRINGS.MAXWELL_ADVENTUREINTROS.SAYPAL_ES =
-{
-    FEMALE = "Oye, amiga.",
-    ROBOT = "Oye, tú."
-}
 
 STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"
