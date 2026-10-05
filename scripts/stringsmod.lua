@@ -379,6 +379,10 @@ STRINGS.ES_TRANSLATION =
       ROBOT = "Oye, tú, no te ves muy bien."
     }
   },
+  NAMES =
+  {
+    RECONSTRUCTION_PROJECT = "Escombros"
+  },
   UI =
   {
     CUSTOMIZATIONSCREEN =
@@ -422,6 +426,11 @@ STRINGS.ES_TRANSLATION =
         PIG_LATIN = "Argandocei",
         SPANISH = "Cargando"
       }
+    },
+    PAUSEMENU =
+    {
+      SURVIVED_DAY = "Has sobrevivido a solamente\n" ..
+                     "%s día"
     }
   }
 }
@@ -532,8 +541,3 @@ STRINGS.UI.SANDBOXMENU.FEMININESHORT = "Corta"
 STRINGS.UI.SANDBOXMENU.FEMININEDEFAULT = "Predeterminada"
 STRINGS.UI.SANDBOXMENU.FEMININELONG = "Larga"
 STRINGS.UI.SANDBOXMENU.FEMININEVERYLONG = "Muy larga"
-
-STRINGS.UI.PAUSEMENU.SURVIVED_DAY = "Has sobrevivido a solamente\n" ..
-  "%s día"
-
-STRINGS.NAMES.RECONSTRUCTION_PROJECT = "Escombros"

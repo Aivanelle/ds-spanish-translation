@@ -19,7 +19,7 @@ function EntityScript:GetBasicDisplayName()
       although I'll keep it because it still works and makes me not have to think in a proper fix for a 
       prefab that can have multiple display names.
     ]]
-    return STRINGS.NAMES.RECONSTRUCTION_PROJECT
+    return STRINGS.ES_TRANSLATION.NAMES.RECONSTRUCTION_PROJECT
   end
 
   return getName(self)
