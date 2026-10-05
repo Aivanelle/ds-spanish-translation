@@ -16,9 +16,9 @@ function Perishable:GetGrammaticalAdjective()
     if self.inst.components.edible and not self:IsFresh() then
       if self.inst:HasTag("frozen") then return self:GetAdjective() end
 
-      return self.inst:GetGrammaticalSuffix(STRINGS.SUFFIX.PERISHABLE[self:IsStale() and "STALE" or "SPOILED"])
+      return self.inst:GetGrammaticalSuffix(STRINGS.ES_TRANSLATION.SUFFIX.PERISHABLE[self:IsStale() and "STALE" or "SPOILED"])
     elseif self.inst.components.eater and not self:IsFresh() then
-      return self.inst:GetGrammaticalSuffix(STRINGS.SUFFIX.CREATURE[self:IsStale() and "HUNGRY" or "STARVING"])
+      return self.inst:GetGrammaticalSuffix(STRINGS.ES_TRANSLATION.SUFFIX.CREATURE[self:IsStale() and "HUNGRY" or "STARVING"])
     end
   end
 end

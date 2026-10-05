@@ -36,7 +36,7 @@ local function enableSuffixes(table)
   end
 end
 
-enableSuffixes(STRINGS.SUFFIX)
+enableSuffixes(STRINGS.ES_TRANSLATION.SUFFIX)
 
 STRINGS.UI.NOTIFICATION.LOADING = STRINGS.ES_TRANSLATION.UI.NOTIFICATION.LOADING[IsPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
 STRINGS.CHARACTER_QUOTES.wilba = STRINGS.ES_TRANSLATION.CHARACTER_QUOTES.WILBA[IsPigLatinAvailable and "PIG_LATIN" or "SPANISH"]
@@ -76,7 +76,7 @@ AddPrefabPostInit("inventorygrave", modEpitaphs)
 AddPrefabPostInit("gravestone", modEpitaphs)
 
 local function modWerewilbaFurHands(inst)
-  inst.wet_prefix = STRINGS.SUFFIX.WET.CLOTHING.MASCULINE.SINGULAR
+  inst.wet_prefix = STRINGS.ES_TRANSLATION.SUFFIX.WET.CLOTHING.MASCULINE.SINGULAR
 end
 
 AddPrefabPostInit("werewilbafur_hands", modWerewilbaFurHands)

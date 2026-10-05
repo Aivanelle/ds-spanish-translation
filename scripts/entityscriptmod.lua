@@ -89,7 +89,7 @@ function EntityScript:GetDisplayName()
     -- If there's a mysterious prefab that does not uses a generic suffix, this won't work.
     return egsub(displayName, STRINGS.WET_PREFIX.GENERIC, STRINGS.MYSTERIOUS)
   elseif isSmoldering or isWitheredCrop or isWitheredPickable then
-    grammaticalSuffix = self:GetGrammaticalSuffix(STRINGS.SUFFIX[isSmoldering and "SMOLDERING" or "WITHERED"])
+    grammaticalSuffix = self:GetGrammaticalSuffix(STRINGS.ES_TRANSLATION.SUFFIX[isSmoldering and "SMOLDERING" or "WITHERED"])
     return getNewDisplayName(displayName, STRINGS[isSmoldering and "SMOLDERINGITEM" or "WITHEREDITEM"], grammaticalSuffix)
   elseif (isWet or self.always_wet) and not self.no_wet_prefix then
     local prefabType = nil
@@ -107,7 +107,7 @@ function EntityScript:GetDisplayName()
       prefabType = "GENERIC"
     end
 
-    grammaticalSuffix = self:GetGrammaticalSuffix(STRINGS.SUFFIX.WET[prefabType])
+    grammaticalSuffix = self:GetGrammaticalSuffix(STRINGS.ES_TRANSLATION.SUFFIX.WET[prefabType])
     return getNewDisplayName(displayName, STRINGS.WET_PREFIX[prefabType], grammaticalSuffix)
   else
     return displayName

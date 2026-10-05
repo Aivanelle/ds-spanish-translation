@@ -1,81 +1,3 @@
-STRINGS.SUFFIX =
-{
-  WET =
-  {
-    FOOD =
-    {
-      MASCULINE = { SINGULAR = "remojado", PLURAL = "remojados" },
-      FEMININE = { SINGULAR = "remojada", PLURAL = "remojadas" }
-    },
-
-    CLOTHING =
-    {
-      MASCULINE = { SINGULAR = "empapado", PLURAL = "empapados" },
-      FEMININE = { SINGULAR = "empapada", PLURAL = "empapadas" }
-    },
-
-    TOOL =
-    {
-      MASCULINE = { SINGULAR = "resbaladizo", PLURAL = "resbaladizos" },
-      FEMININE = { SINGULAR = "resbaladiza", PLURAL = "resbaladizas" }
-    },
-
-    FUEL =
-    {
-      MASCULINE = { SINGULAR = "mojado", PLURAL = "mojados" },
-      FEMININE = { SINGULAR = "mojada", PLURAL = "mojadas" }
-    },
-
-    GENERIC =
-    {
-      MASCULINE = { SINGULAR = "húmedo", PLURAL = "húmedos" },
-      FEMININE = { SINGULAR = "húmeda", PLURAL = "húmedas" }
-    }
-  },
-
-  PERISHABLE =
-  {
-    STALE =
-    {
-      MASCULINE = { SINGULAR = "rancio", PLURAL = "rancios" },
-      FEMININE = { SINGULAR = "rancia", PLURAL = "rancias" }
-    },
-
-    SPOILED =
-    {
-      MASCULINE = { SINGULAR = "podrido", PLURAL = "podridos" },
-      FEMININE = { SINGULAR = "podrida", PLURAL = "podridas" }
-    }
-  },
-
-  CREATURE =
-  {
-    HUNGRY =
-    {
-      MASCULINE = { SINGULAR = "hambriento" },
-      FEMININE = { SINGULAR = "hambrienta" }
-    },
-
-    STARVING =
-    {
-      MASCULINE = { SINGULAR = "desnutrido" },
-      FEMININE = { SINGULAR = "desnutrida" }
-    }
-  },
-
-  WITHERED =
-  {
-    MASCULINE = { SINGULAR = "marchito" },
-    FEMININE = { SINGULAR = "marchita" }
-  },
-
-  SMOLDERING =
-  {
-    NEUTRAL = { SINGULAR = "humeante", PLURAL = "humeantes" }
-  }
-}
-
--- Should all strings be organized inside this table?
 STRINGS.ES_TRANSLATION =
 {
   CHARACTERS =
@@ -541,6 +463,72 @@ STRINGS.ES_TRANSLATION =
       FEMININEDEFAULT = "Predeterminada",
       FEMININELONG = "Larga",
       FEMININEVERYLONG = "Muy larga"
+    }
+  },
+  SUFFIX =
+  {
+    WET =
+    {
+      FOOD =
+      {
+        MASCULINE = { SINGULAR = "remojado", PLURAL = "remojados" },
+        FEMININE = { SINGULAR = "remojada", PLURAL = "remojadas" }
+      },
+      CLOTHING =
+      {
+        MASCULINE = { SINGULAR = "empapado", PLURAL = "empapados" },
+        FEMININE = { SINGULAR = "empapada", PLURAL = "empapadas" }
+      },
+      TOOL =
+      {
+        MASCULINE = { SINGULAR = "resbaladizo", PLURAL = "resbaladizos" },
+        FEMININE = { SINGULAR = "resbaladiza", PLURAL = "resbaladizas" }
+      },
+      FUEL =
+      {
+        MASCULINE = { SINGULAR = "mojado", PLURAL = "mojados" },
+        FEMININE = { SINGULAR = "mojada", PLURAL = "mojadas" }
+      },
+      GENERIC =
+      {
+        MASCULINE = { SINGULAR = "húmedo", PLURAL = "húmedos" },
+        FEMININE = { SINGULAR = "húmeda", PLURAL = "húmedas" }
+      }
+    },
+    PERISHABLE =
+    {
+      STALE =
+      {
+        MASCULINE = { SINGULAR = "rancio", PLURAL = "rancios" },
+        FEMININE = { SINGULAR = "rancia", PLURAL = "rancias" }
+      },
+      SPOILED =
+      {
+        MASCULINE = { SINGULAR = "podrido", PLURAL = "podridos" },
+        FEMININE = { SINGULAR = "podrida", PLURAL = "podridas" }
+      }
+    },
+    CREATURE =
+    {
+      HUNGRY =
+      {
+        MASCULINE = { SINGULAR = "hambriento" },
+        FEMININE = { SINGULAR = "hambrienta" }
+      },
+      STARVING =
+      {
+        MASCULINE = { SINGULAR = "desnutrido" },
+        FEMININE = { SINGULAR = "desnutrida" }
+      }
+    },
+    WITHERED =
+    {
+      MASCULINE = { SINGULAR = "marchito" },
+      FEMININE = { SINGULAR = "marchita" }
+    },
+    SMOLDERING =
+    {
+      NEUTRAL = { SINGULAR = "humeante", PLURAL = "humeantes" }
     }
   }
 }
