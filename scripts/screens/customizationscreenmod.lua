@@ -52,7 +52,7 @@ function CustomizationScreen:SavePreset()
         if tostring(menuElement) == "SPINNER" then
           for _, spinnerChild in pairs(menuElement:GetChildren()) do
             if tostring(spinnerChild) == "Text - " .. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET then
-              spinnerChild:SetString(STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET)
+              spinnerChild:SetString(STRINGS.ES_TRANSLATION.UI.CUSTOMIZATIONSCREEN.PRESET)
               spinnerChild:SetPosition(-180 / 2 - 65, 0, 0)
 
               break
