@@ -95,7 +95,7 @@ end
 AddClassPostConstruct("screens/modconfigurationscreen", modConfigurationScreenInit)
 
 local function pauseScreenInit(self)
-  if not AnyDLCEnabled then return end
+  if not (IsDLCEnabled(CAPY_DLC) or IsDLCEnabled(PORKLAND_DLC)) then return end
 
   local days = math.floor(GetPlayer().components.age:GetAge() / TUNING.TOTAL_DAY_TIME)
   local survivedDaysText = days == 1 and STRINGS.ES_TRANSLATION.UI.PAUSEMENU.SURVIVED_DAY or STRINGS.UI.PAUSEMENU.SURVIVED_DAYS
